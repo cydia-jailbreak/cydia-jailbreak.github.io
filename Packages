@@ -1,4 +1,4 @@
-﻿Author: Trương Tam Phong <truongtamphong686@gmail.com>
+Author: Trương Tam Phong <truongtamphong686@gmail.com>
 Maintainer: Thủ Thuật Cydia & Jailbreak <cydiahacker2019@gmail.com>
 Name: Ybht
 Package: com.Ybht.TruongTamPhong
@@ -9,7 +9,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Widget for Xen HTML
 Icon: file:////var/mobile/Library/SBHTML/Ybht/Ybht@2x.png
-MD5:DE7A849409623AC9C1A77FF1E737E541
+MD5sum: DE7A849409623AC9C1A77FF1E737E541
 Filename: ./debs/com.Ybht.TruongTamPhong_1.0.0_iphoneos-arm.deb
 
 Author: Trương Tam Phong <truongtamphong686@gmail.com>
@@ -23,7 +23,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Widget for Xen HTML
 Icon: file:////var/mobile/Library/Icon/ClockTransparent@2x.png
-MD5:E9DC3DDDAF750DC6CF3F69975BB1712C
+MD5sum: E9DC3DDDAF750DC6CF3F69975BB1712C
 Filename: ./debs/com.ClockTransparent.TruongTamPhong_1.0.1_iphoneos-arm.deb
 
 Author: Trương Tam Phong <truongtamphong686@gmail.com>
@@ -37,5 +37,5 @@ Version: 1.0
 Architecture: iphoneos-arm
 Description: Widget for Xen HTML
 Icon: file:////var/mobile/Library/Icon/Duonglich@2x.png
-MD5:B6A119B892211C002396A6CA13FF45F3
+MD5sum: B6A119B892211C002396A6CA13FF45F3
 Filename: ./debs/com.DuongLich.TruongTamPhong_1.0_iphoneos-arm.deb
