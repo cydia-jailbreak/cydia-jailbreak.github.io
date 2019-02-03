@@ -1,14 +1,14 @@
-Package: com.julioverne.cleanfunwhitered
+Package: com.TruongTamPhong.CleanFunWhiteRed
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.truongtamphong.cleanfunwhitered_1.0_iphoneos-arm.deb
+Filename: ./debfiles/com.TruongTamPhong.CleanFunWhiteRed_1.0_iphoneos-arm.deb
 Size: 272612
 MD5sum: 2fcf42a72703775efd212763030c959f
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: CleanFun White Red
 Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.truongtamphong.cleanfunwhitered
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CleanFunWhiteRed
