@@ -1,11 +1,11 @@
-Origin: julioverne's Repo
-Label: julioverne
+Origin: Thủ thuật Cydia & Jailbreak
+Label: Trương Tam Phong
 Suite: stable
 Version: 1.0
-Codename: julioverne
+Codename: Trương Tam Phong
 Architecture: iphoneos-arm
 Components: main
-Description: julioverne's Tweaks
+Description: Nguồn thuộc về Trương Tam Phong
 MD5Sum:
  725fe1a2f3379f55017e5e63f304322b 494 Packages
  1113151fd8950cd1436e29b88db772b7 366 Packages.bz2
