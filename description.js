@@ -67,7 +67,7 @@ function loadPackageInfo() {
 			
         },
 		error: function (err) {
-			$("#errorInfo").html("Description unavailable for "+urlSelfParts[1]);
+			$("#errorInfo").html("Mô tả không có sẵn cho "+urlSelfParts[1]);
 		}
 	});
 }
