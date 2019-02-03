@@ -1,0 +1,16 @@
+﻿Author: Trương Tam Phong <truongtamphong686@gmail.com>
+Maintainer: Thủ Thuật Cydia <truongtamphong686@gmail.com>
+Name: Ybht
+Package: com.Ybht.TruongTamPhong
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Section: Tweaks
+Installed-Size: 245
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Widget for Xen HTML
+Sponsor: truongtamphong88.github.io <http://truongtamphong88.github.io>
+dev: integeritis
+Tag: cydia::commercial, purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
+Icon: file:////var/mobile/Library/SBHTML/Ybht/Ybht@2x.png
+MD5:cf063ec94377f9520aac256de0e69113
+Filename: ./debs/com.Ybht.TruongTamPhong_1.0.1_iphoneos-arm.deb
