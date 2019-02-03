@@ -1,4 +1,4 @@
-﻿Origin: Thủ thuật Cydia
+Origin: Thủ thuật Cydia
 Label: Trương Tam Phong
 Suite: stable
 Version: 1.0
@@ -7,6 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: Nguồn thuộc về Trương Tam Phong. SAY HELLO TO THE FUTURE
 MD5Sum:
- 1D4DC591E0099A47DB084F83A37D9D27 514 Packages
- C98C572F957E36136AD63A2430108DBC 412 Packages.bz2
- 
+ 1D4DC591E0099A47DB084F83A37D9D27 Packages
+ C98C572F957E36136AD63A2430108DBC Packages.bz2 
