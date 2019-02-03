@@ -25,3 +25,17 @@ Description: Widget for Xen HTML
 Icon: file:////var/mobile/Library/Icon/ClockTransparent@2x.png
 MD5:E9DC3DDDAF750DC6CF3F69975BB1712C
 Filename: ./debs/com.ClockTransparent.TruongTamPhong_1.0.1_iphoneos-arm.deb
+
+Author: Trương Tam Phong <truongtamphong686@gmail.com>
+Maintainer: Thủ Thuật Cydia & Jailbreak <cydiahacker2019@gmail.com>
+Name: Dương lịch
+Package: com.DuongLich.TruongTamPhong
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Section: Tweaks
+Installed-Size: 952
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Widget for Xen HTML
+Icon: file:////var/mobile/Library/Icon/Duonglich@2x.png
+MD5:B6A119B892211C002396A6CA13FF45F3
+Filename: ./debs/com.DuongLich.TruongTamPhong_1.0_iphoneos-arm.deb
