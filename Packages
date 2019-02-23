@@ -1,0 +1,104 @@
+Package: com.TruongTamPhong.CleanFunWhiteRed
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.CleanFunWhiteRed_1.0_iphoneos-arm.deb
+Size: 272612
+MD5sum: 2fcf42a72703775efd212763030c959f
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: CleanFun White Red
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CleanFunWhiteRed
+
+Package: com.TruongTamPhong.ClockTransparent
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ClockTransparent_1.0_iphoneos-arm.deb
+Size: 187832
+MD5sum: ddc868524883a2f5a061f7b106aced12
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Clock Transparent
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ClockTransparent
+
+Package: com.TruongTamPhong.AutoChangeWallpaper
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.AutoChangeWallpaper_1.1_iphoneos-arm.deb
+Size: 8836304
+MD5sum: 68dfd8a51dab903436c533e4b0c4d936
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Auto Change Wallpaper
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AutoChangeWallpaper
+
+Package: com.TruongTamPhong.DuongLich
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.DuongLich_1.0_iphoneos-arm.deb
+Size: 196436
+MD5sum: 20bcb39d5027caf1a88c42998d369daf
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Dương lịch
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DuongLich
+
+Package: com.TruongTamPhong.Ybht
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Ybht_1.0_iphoneos-arm.deb
+Size: 35720
+MD5sum: af6c893e5c05c695371a6678012b7ebb
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Ybht
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ybht
+
+Package: com.TruongTamPhong.Slyd
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Slyd_0.1.1_iphoneos-arm.deb
+Size: 14504
+MD5sum: 522f7e18ab11d91d6a6a9add1a313fb5
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Trượt để mở khóa cho >= iPhone X Việt hóa by Trương Tam Phong
+Name: Slyd
+Author: Nepeta
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Slyd
+
+Package: com.4nni3.coolcc
+Architecture: iphoneos-arm
+Version: 3.0-beta
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.4nni3.coolcc_3.0-beta_iphoneos-arm.deb
+Size: 195628
+MD5sum: ba1ee90383325ff76f95b86716598d7c
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: This tweak makes ControlCenter cool!
+Name: CoolCC
+Author: 4nni3
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.4nni3.coolcc

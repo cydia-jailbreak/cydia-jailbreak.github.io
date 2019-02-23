@@ -1,0 +1,11 @@
+Origin: Thủ thuật Cydia & Jailbreak
+Label: Trương Tam Phong
+Suite: stable
+Version: 1.0
+Codename: Trương Tam Phong
+Architecture: iphoneos-arm
+Components: main
+Description: Nguồn thuộc về Trương Tam Phong
+MD5Sum:
+ 17538c00335034282ed895ed82dc0f6b 3706 Packages
+ 78463b284aa094ed2d95830e4b23c01c 1049 Packages.bz2
