@@ -147,3 +147,18 @@ Description: This tweak makes ControlCenter cool!
 Name: CoolCC
 Author: 4nni3
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.4nni3.coolcc
+
+Package: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Version: 0.4rc7-1
+Section: Tweaks
+Maintainer: Việt hoá by Trương Tam Phong
+Depends: mobilesubstrate
+Filename: ./debfiles/com.matchstic.xenhtml_0.4rc7-1_iphoneos-arm.deb
+Size: 1120400
+MD5sum: bb3ee93236f65b33c8ec194069363497
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Unified HTML rendering; lockscreen and homescreen
+Name: Xen HTML [Việt hoá]
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
