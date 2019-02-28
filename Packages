@@ -147,3 +147,59 @@ Description: Integrate GitHub Issues as a bugtracker
 Name: libGitHubIssues
 Author: Matt Clarke <matt@incendo.ws>
 dev: Matt Clarke <matt@incendo.ws>
+
+Package: com.TruongTamPhong.XenInfo
+Architecture: iphoneos-arm
+Version: 2.0.6
+Section: Addons (Tweaks)
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debfiles/com.TruongTamPhong.XenInfo_2.0.6_iphoneos-arm.deb
+Size: 185132 
+MD5sum: 9a6945442d0739194ddbff4c74f149b8
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML
+Name: XenInfo
+Author: JunesIphone & Matchstic 
+
+Package: com.TruongTamPhong.CallGrey
+Architecture: iphoneos-arm
+Version: 1.1
+Section: System
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debfiles/com.TruongTamPhong.CallGrey_1.1_iphoneos-arm.deb
+Size: 118888 
+MD5sum: e228cd4f8f5f1039aae16c4b69271eae
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Đổi màu bàn phím gọi iPhone X ios 12 thành màu Xám 
+Name: Call Grey iPhone X ios 12
+Author: Trương Tam Phong
+
+Package: com.TruongTamPhong.CallRed
+Architecture: iphoneos-arm
+Version: 1.1
+Section: System
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debfiles/com.TruongTamPhong.CallRed_1.1_iphoneos-arm.deb
+Size: 177506 
+MD5sum: 95a13bc959f320231172eed0872a3e97
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Đổi màu bàn phím gọi iPhone X ios 12 thành màu Đỏ 
+Name: Call Red iPhone X ios 12
+Author: Trương Tam Phong
+
+Package: com.TruongTamPhong.CallDefault
+Architecture: iphoneos-arm
+Version: 1.1
+Section: System
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debfiles/com.TruongTamPhong.CallDefault_1.1_iphoneos-arm.deb
+Size: 28190 
+MD5sum: ce7fc4e1b4abc819dc7fba77bcbafbf3
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Đổi màu bàn phím gọi iPhone X ios 12 về Mặc định
+Name: Call Default iPhone X ios 12
+Author: Trương Tam Phong
