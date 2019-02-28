@@ -20,8 +20,8 @@ Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.ClockTransparent_1.0_iphoneos-arm.deb
-Size: 224012
-MD5sum: 151deabbee9291848eb147551040c1fa
+Size: 224018
+MD5sum: 29671f72b274318946eed7ba62c35ac5
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Clock Transparent
@@ -214,8 +214,8 @@ Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.0_iphoneos-arm.deb
-Size: 15940
-MD5sum: 28a0c68c75bf01c1db43eff8c9eaa80a
+Size: 15942
+MD5sum: 5dd23f6a6ccc6106903f5797152d1112
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Âm Lịch & Danh Ngôn
@@ -229,11 +229,11 @@ Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.HtcClock_1.0_iphoneos-arm.deb
-Size: 44254
-MD5sum: 2a86019dcb846a7be480d3192e2cb63a
+Size: 44262
+MD5sum: ec0426a8f4aa70761142bab5a63bbc9d
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
-Name: Âm Lịch & Danh Ngôn
+Name: HTC Clock
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.HtcClock
 
@@ -244,8 +244,8 @@ Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.RectangleClock_1.0_iphoneos-arm.deb
-Size: 66124
-MD5sum: b3748d12f2582197cd1505899719225b
+Size: 66126
+MD5sum: fc1b9d3321b42b4e7226887689eaae08
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Rectangle Clock
@@ -259,8 +259,8 @@ Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.TemperatureClock_1.0_iphoneos-arm.deb
-Size: 141102
-MD5sum: 908857876b21d4bb8eb13a5a6e809b9f
+Size: 141108
+MD5sum: 92a31f9d7e74b104744c397c75072308
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Temperature Clock
@@ -274,8 +274,8 @@ Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.TextDate_1.0_iphoneos-arm.deb
-Size: 74184
-MD5sum: ce415c30fb7a059a5759afab5ec1f224
+Size: 74190
+MD5sum: a6167a371aabd42bab746c8ac4026f22
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Text Date
