@@ -164,27 +164,27 @@ Author: JunesIphone & Matchstic
 
 Package: com.TruongTamPhong.CallGrey
 Architecture: iphoneos-arm
-Version: 1.1
+Version: 1.1.3
 Section: System
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debfiles/com.TruongTamPhong.CallGrey_1.1_iphoneos-arm.deb
-Size: 118888 
-MD5sum: e228cd4f8f5f1039aae16c4b69271eae
+Filename: ./debfiles/com.TruongTamPhong.CallGrey_1.1.3_iphoneos-arm.deb
+Size: 118892
+MD5sum: cc6019a943294aff19cf7960d3414230
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Đổi màu bàn phím gọi iPhone X ios 12 thành màu Xám 
+Description: Đổi màu bàn phím gọi iPhone X ios 12 thành màu Xám
 Name: Call Grey iPhone X ios 12
 Author: Trương Tam Phong
 
 Package: com.TruongTamPhong.CallRed
 Architecture: iphoneos-arm
-Version: 1.1
+Version: 1.1.2
 Section: System
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debfiles/com.TruongTamPhong.CallRed_1.1_iphoneos-arm.deb
-Size: 177506 
-MD5sum: 95a13bc959f320231172eed0872a3e97
+Filename: ./debfiles/com.TruongTamPhong.CallRed_1.1.2_iphoneos-arm.deb
+Size: 177510
+MD5sum: 0eceaa8651de98bc3e7e60c863ad6096
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Đổi màu bàn phím gọi iPhone X ios 12 thành màu Đỏ 
 Name: Call Red iPhone X ios 12
@@ -192,13 +192,13 @@ Author: Trương Tam Phong
 
 Package: com.TruongTamPhong.CallDefault
 Architecture: iphoneos-arm
-Version: 1.1
+Version: 1.1.1
 Section: System
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debfiles/com.TruongTamPhong.CallDefault_1.1_iphoneos-arm.deb
-Size: 28190 
-MD5sum: ce7fc4e1b4abc819dc7fba77bcbafbf3
+Filename: ./debfiles/com.TruongTamPhong.CallDefault_1.1.1_iphoneos-arm.deb
+Size: 28194
+MD5sum: e28b9d9f8b5c5a7e36bfc374123bfd3e
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Đổi màu bàn phím gọi iPhone X ios 12 về Mặc định
 Name: Call Default iPhone X ios 12
