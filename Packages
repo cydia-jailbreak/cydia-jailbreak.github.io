@@ -162,44 +162,44 @@ Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML
 Name: XenInfo
 Author: JunesIphone & Matchstic 
 
-Package: com.TruongTamPhong.CallGrey
+Package: com.TruongTamPhong.CallKeyboardGrey
 Architecture: iphoneos-arm
-Version: 1.1.3
+Version: 1.0
 Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debfiles/com.TruongTamPhong.CallGrey_1.1.3_iphoneos-arm.deb
-Size: 118892
-MD5sum: cc6019a943294aff19cf7960d3414230
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.CallKeyboardGrey_1.0_iphoneos-arm.deb
+Size: 118898
+MD5sum: 5e85719914236e1085f392d5916a6e1a
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Đổi màu bàn phím gọi iPhone X ios 12 thành màu Xám
-Name: Call Grey iPhone X ios 12
+Name: Call Keyboard Grey
 Author: Trương Tam Phong
 
-Package: com.TruongTamPhong.CallRed
+Package: com.TruongTamPhong.CallKeyboardRed
 Architecture: iphoneos-arm
-Version: 1.1.2
-Section: System
+Version: 1.0
+Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debfiles/com.TruongTamPhong.CallRed_1.1.2_iphoneos-arm.deb
-Size: 177510
-MD5sum: 0eceaa8651de98bc3e7e60c863ad6096
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.CallKeyboardRed_1.0_iphoneos-arm.deb
+Size: 177514
+MD5sum: de0e63d1c9d9e9834471120fdbe838f4
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Đổi màu bàn phím gọi iPhone X ios 12 thành màu Đỏ 
-Name: Call Red iPhone X ios 12
+Name: Call Keyboard Red
 Author: Trương Tam Phong
 
-Package: com.TruongTamPhong.CallDefault
+Package: com.TruongTamPhong.CallKeyboardDefault
 Architecture: iphoneos-arm
-Version: 1.1.1
-Section: System
+Version: 1.0
+Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debfiles/com.TruongTamPhong.CallDefault_1.1.1_iphoneos-arm.deb
-Size: 28194
-MD5sum: e28b9d9f8b5c5a7e36bfc374123bfd3e
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.CallKeyboardDefault_1.0_iphoneos-arm.deb
+Size: 28202
+MD5sum: 16faa16c09b1acc804ec87db8878b8b4
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Đổi màu bàn phím gọi iPhone X ios 12 về Mặc định
-Name: Call Default iPhone X ios 12
+Description: Khôi phục màu bàn phím gọi iPhone X ios 12 về Mặc định
+Name: Call Keyboard Default
 Author: Trương Tam Phong
