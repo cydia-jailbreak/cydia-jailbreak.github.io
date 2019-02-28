@@ -20,8 +20,8 @@ Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.ClockTransparent_1.0_iphoneos-arm.deb
-Size: 187832
-MD5sum: ddc868524883a2f5a061f7b106aced12
+Size: 224012
+MD5sum: 151deabbee9291848eb147551040c1fa
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Clock Transparent
@@ -206,3 +206,78 @@ Description: Restore keyboard color call iPhone X ios 12 back to Default
 Name: Call Keyboard Default
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CallKeyboardDefault
+
+Package: com.TruongTamPhong.AmLichVaDanhNgon
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.0_iphoneos-arm.deb
+Size: 15940
+MD5sum: 28a0c68c75bf01c1db43eff8c9eaa80a
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Âm Lịch & Danh Ngôn
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AmLichVaDanhNgon
+
+Package: com.TruongTamPhong.HtcClock
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.HtcClock_1.0_iphoneos-arm.deb
+Size: 44254
+MD5sum: 2a86019dcb846a7be480d3192e2cb63a
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Âm Lịch & Danh Ngôn
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.HtcClock
+
+Package: com.TruongTamPhong.RectangleClock
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.RectangleClock_1.0_iphoneos-arm.deb
+Size: 66124
+MD5sum: b3748d12f2582197cd1505899719225b
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Rectangle Clock
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.RectangleClock
+
+Package: com.TruongTamPhong.TemperatureClock
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.TemperatureClock_1.0_iphoneos-arm.deb
+Size: 141102
+MD5sum: 908857876b21d4bb8eb13a5a6e809b9f
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Temperature Clock
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.TemperatureClock
+
+Package: com.TruongTamPhong.TextDate
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.TextDate_1.0_iphoneos-arm.deb
+Size: 74184
+MD5sum: ce415c30fb7a059a5759afab5ec1f224
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Text Date
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.TextDate
