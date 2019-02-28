@@ -172,9 +172,10 @@ Filename: ./debfiles/com.TruongTamPhong.CallKeyboardGrey_1.0_iphoneos-arm.deb
 Size: 118898
 MD5sum: 5e85719914236e1085f392d5916a6e1a
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Đổi màu bàn phím gọi iPhone X ios 12 thành màu Xám
+Description: Changing the color of the keyboard calls iPhone X ios 12 becomes grey
 Name: Call Keyboard Grey
 Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CallKeyboardGrey
 
 Package: com.TruongTamPhong.CallKeyboardRed
 Architecture: iphoneos-arm
@@ -186,9 +187,10 @@ Filename: ./debfiles/com.TruongTamPhong.CallKeyboardRed_1.0_iphoneos-arm.deb
 Size: 177514
 MD5sum: de0e63d1c9d9e9834471120fdbe838f4
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Đổi màu bàn phím gọi iPhone X ios 12 thành màu Đỏ 
+Description: Changing the keyboard color calls iPhone X ios 12 to become Red
 Name: Call Keyboard Red
 Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CallKeyboardRed
 
 Package: com.TruongTamPhong.CallKeyboardDefault
 Architecture: iphoneos-arm
@@ -200,6 +202,7 @@ Filename: ./debfiles/com.TruongTamPhong.CallKeyboardDefault_1.0_iphoneos-arm.deb
 Size: 28202
 MD5sum: 16faa16c09b1acc804ec87db8878b8b4
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Khôi phục màu bàn phím gọi iPhone X ios 12 về Mặc định
+Description: Restore keyboard color call iPhone X ios 12 back to Default
 Name: Call Keyboard Default
 Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CallKeyboardDefault
