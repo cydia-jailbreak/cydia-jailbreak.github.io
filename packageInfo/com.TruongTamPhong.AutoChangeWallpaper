@@ -1,4 +1,4 @@
 {
-	"desc_long": "*Tự động thay đổi hình nền.<br>*Đã tích hợp sẵn 20 ảnh nền cho iPhone X.<br>*Để thay đổi ảnh khác, vui lòng vào đường dẫn:<br>/var/mobile/Lybrary/SBHTML/Auto Change Wallpaper/Walls<br>*Thay không được quá 20, và dưới 20 ảnh.<br>*Yêu cầu cài Xen HTML để sử dụng.<br>*Xem Video bên dưới để biết thêm chi tiết. (đợi một chút để loading Video nhé).",
+	"desc_long": "*Widget tự động thay đổi hình nền.<br>*Đã tích hợp sẵn 20 ảnh nền cho iPhone X.<br>*Để thay đổi ảnh khác, vui lòng vào đường dẫn:<br>/var/mobile/Lybrary/SBHTML/Auto Change Wallpaper/Walls<br>*Thay không được quá 20, và dưới 20 ảnh.<br>*Yêu cầu cài Xen HTML để sử dụng.<br><br><br>*Xem Video bên dưới để biết thêm chi tiết. (đợi một chút để loading Video nhé).",
 	"screenshot": "<div style='text-align:center;'><a href='videos/AutoChangeWallpaper.mp4' target='_blank'><img width=90% src='videos/AutoChangeWallpaper.mp4'/></a><br></div>",
 }
