@@ -30,13 +30,13 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 
 Package: com.TruongTamPhong.AutoChangeWallpaper
 Architecture: iphoneos-arm
-Version: 1.2
+Version: 1.0
 Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.AutoChangeWallpaper_1.1_iphoneos-arm.deb
-Size: 8836304
-MD5sum: 68dfd8a51dab903436c533e4b0c4d936
+Filename: ./debfiles/com.TruongTamPhong.AutoChangeWallpaper_1.0_iphoneos-arm.deb
+Size: 4483914
+MD5sum: 40df34ca0ec6b1b4b3a24a2611566ef1
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Auto Change Wallpaper
@@ -160,52 +160,7 @@ MD5sum: 9a6945442d0739194ddbff4c74f149b8
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML
 Name: XenInfo
-Author: JunesIphone & Matchstic 
-
-Package: com.TruongTamPhong.CallKeyboardGrey
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.CallKeyboardGrey_1.0_iphoneos-arm.deb
-Size: 118898
-MD5sum: 5e85719914236e1085f392d5916a6e1a
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Changing the color of the keyboard calls iPhone X ios 12 becomes grey
-Name: Call Keyboard Grey
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CallKeyboardGrey
-
-Package: com.TruongTamPhong.CallKeyboardRed
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.CallKeyboardRed_1.0_iphoneos-arm.deb
-Size: 177514
-MD5sum: de0e63d1c9d9e9834471120fdbe838f4
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Changing the keyboard color calls iPhone X ios 12 to become Red
-Name: Call Keyboard Red
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CallKeyboardRed
-
-Package: com.TruongTamPhong.CallKeyboardDefault
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.CallKeyboardDefault_1.0_iphoneos-arm.deb
-Size: 28202
-MD5sum: 16faa16c09b1acc804ec87db8878b8b4
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Restore keyboard color call iPhone X ios 12 back to Default
-Name: Call Keyboard Default
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CallKeyboardDefault
+Author: JunesIphone & Matchstic
 
 Package: com.TruongTamPhong.AmLichVaDanhNgon
 Architecture: iphoneos-arm
@@ -281,3 +236,63 @@ Description: Widget for Xen HTML
 Name: Text Date
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.TextDate
+
+Package: com.TruongTamPhong.BoCongAnh
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.BoCongAnh_1.0_iphoneos-arm.deb
+Size: 413838
+MD5sum: 0ac9de26b0a562c16d58cd73cc51a00c
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Bồ Công Anh
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BoCongAnh
+
+Package: com.TruongTamPhong.LaRoi
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.LaRoi_1.0_iphoneos-arm.deb
+Size: 9757882
+MD5sum: c845e15c4098f40bb1061684ba911d07
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Lá Rơi
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.LaRoi
+
+Package: com.TruongTamPhong.SaoBay
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.SaoBay_1.0_iphoneos-arm.deb
+Size: 32792
+MD5sum: 61c51cbdec7c2afb6a8822eaa8aa749c
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Sao Bay
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SaoBay
+
+Package: com.TruongTamPhong.TuyetRoi
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.TuyetRoi_1.0_iphoneos-arm.deb
+Size: 28616
+MD5sum: e4bb1667ba1d9b2f494f4d2bf4c01d44
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Tuyết Rơi
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.TuyetRoi
