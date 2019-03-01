@@ -1,0 +1,4 @@
+{
+	"desc_long": "Tự động thay đổi hình nền.<br>Đã tích hợp sẵn 20 ảnh nền cho iPhone X.<br>Để thay đổi ảnh khác, vui lòng vào đường dẫn:<br>/var/mobile/Lybrary/SBHTML/Auto Change Wallpaper/Walls<br>Thay không được quá 20, và dưới 20 ảnh.<br><br>*Yêu cầu cài Xen HTML để sử dụng.",
+	"screenshot": "<div style='text-align:center;'><a href='Link ảnh' target='_blank'><img width=90% src='screenshot/AutoChangerWallpaper.mp4'/></a><br></div>",
+}
