@@ -296,3 +296,62 @@ Description: Widget for Xen HTML
 Name: Tuyết Rơi
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.TuyetRoi
+
+Package: com.TruongTamPhong.IconStateBackUp
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.IconStateBackUp_1.0_iphoneos-arm.deb
+Size: 216094
+MD5sum: 8f9d80b077aad1a8d2d37a4f7ff736e8
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Sao lưu và khôi phục vị trí biểu tượng trên màn hình chính!
+Name: IconStateBackUp
+Author: 4nni3
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.IconStateBackUp
+
+Package: com.TruongTamPhong.WeatherAndTime
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.0_iphoneos-arm.deb
+Size: 233268
+MD5sum: 4de20360915b04457110abf8ff681b2c
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Weather & Time
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherAndTime
+
+Package: com.TruongTamPhong.Ybht
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Ybht_1.0.1_iphoneos-arm.deb
+Size: 44658
+MD5sum: dc4a517fe7666de4df9924351bf7e897
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Ybht
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ybht1
+
+Package: com.TruongTamPhong.XenInfo
+Architecture: iphoneos-arm
+Version: 2.0.7
+Section: Addons (Tweaks)
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debfiles/com.TruongTamPhong.XenInfo_2.0.7_iphoneos-arm.deb
+Size: 185786
+MD5sum: 87dd7673306c8dc093ed5f85096e7ea9
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML
+Name: XenInfo
+Author: JunesIphone & Matchstic
