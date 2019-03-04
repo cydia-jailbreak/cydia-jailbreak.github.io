@@ -340,3 +340,18 @@ Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML
 Name: XenInfo
 Author: JunesIphone & Matchstic
+
+Package: com.TruongTamPhong.Activator
+Architecture: iphoneos-arm
+Version: 1.9.13~beta3
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Activator_1.9.13~beta3_iphoneos-arm.deb
+Size: 920048
+MD5sum: 89654444cb4ae65e62e97bc907cfef21
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Centralized gestures, button and shortcut management for iOS
+Name: Activator [Việt hóa]
+Author: Ryan Petrich
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Activator
