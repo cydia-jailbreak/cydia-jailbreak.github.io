@@ -1,4 +1,4 @@
 {
-	"desc_long": "- Lịch Thứ dạng văn bản, chưa hỗ trợ tiếng Việt.<br>- Widget chạy trên màn hình chính.<br>* Yêu cầu cài Xen HTML để sử dụng.",
+	"desc_long": "- Lịch Thứ dạng văn bản, chưa hỗ trợ tiếng Việt.<br>- Widget chạy trên màn hình chính.<br><br>* Yêu cầu cài Xen HTML để sử dụng.",
 	"screenshot": "<div style='text-align:center;'><a href='Link ảnh' target='_blank'><img width=90% src='screenshot/TextDate.png'/></a><br></div>",
 }
