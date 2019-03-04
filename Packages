@@ -65,11 +65,11 @@ Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Slyd_0.1.1_iphoneos-arm.deb
-Size: 14504
-MD5sum: 522f7e18ab11d91d6a6a9add1a313fb5
+Size: 18880
+MD5sum: 6C7DE2EA9C9D5D559195017F914DB61F
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Trượt để mở khóa cho >= iPhone X Việt hóa by Trương Tam Phong
-Name: Slyd
+Description: Trượt để mở khoá cho >= iPhone X
+Name: Slyd (SlideToUnlock) [Việt hoá]
 Author: Nepeta
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Slyd
 
