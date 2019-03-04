@@ -343,15 +343,15 @@ Author: JunesIphone & Matchstic
 
 Package: com.TruongTamPhong.Activator
 Architecture: iphoneos-arm
-Version: 1.9.13~beta3
+Version: 1.1
 Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Activator_1.9.13~beta3_iphoneos-arm.deb
-Size: 920048
-MD5sum: 89654444cb4ae65e62e97bc907cfef21
+Filename: ./debfiles/com.TruongTamPhong.Activator_1.1_iphoneos-arm.deb
+Size: 14092
+MD5sum: 4e73747068a551c218cdcd1689920573
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Centralized gestures, button and shortcut management for iOS
 Name: Activator [Việt hóa]
-Author: Ryan Petrich
+Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Activator
