@@ -370,3 +370,33 @@ Description: Widget for Xen HTML
 Name: Weather & Time
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherAndTime
+
+Package: com.TruongTamPhong.Palert
+Architecture: iphoneos-arm
+Version: 1.1.0-3
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debfiles/com.TruongTamPhong.Palert_1.1.0-3_iphoneos-arm.deb
+Size: 136978
+MD5sum: 7906f9bf336be4de7d6cb1ed868ea70e
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Làm mờ nền cho các cảnh báo.
+Name: Palert [Việt hoá]
+Author: Integeritis
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Palert
+
+Package: com.TruongTamPhong.DoubleTapToWake
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debfiles/com.TruongTamPhong.DoubleTapToWake_1.0_iphoneos-arm.deb
+Size: 4860
+MD5sum: 25f979005c20234da64dc28d770a1a96
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Waking your phone too often? Double Tap to Wake, rather than Tap to Wake, on iPhone X.
+Name: DoubleTapToWake
+Author: AppleBetas
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DoubleTapToWake
