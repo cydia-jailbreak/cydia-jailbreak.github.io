@@ -422,7 +422,7 @@ Version: 1.3
 Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.0_iphoneos-arm.deb
+Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.3_iphoneos-arm.deb
 Size: 137998
 MD5sum: dd7069c35d2a5bfe7253172202c9937f
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
