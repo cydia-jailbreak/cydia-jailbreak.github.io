@@ -146,6 +146,7 @@ Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML
 Name: XenInfo
 Author: JunesIphone & Matchstic
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenInfo
 
 Package: com.TruongTamPhong.AmLichVaDanhNgon
 Architecture: iphoneos-arm
@@ -340,6 +341,7 @@ Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML
 Name: XenInfo
 Author: JunesIphone & Matchstic
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenInfo
 
 Package: com.TruongTamPhong.Activator
 Architecture: iphoneos-arm
