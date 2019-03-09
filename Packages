@@ -445,3 +445,33 @@ Description: Widget for Xen HTML
 Name: Calenda Text
 Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CalendaText
+
+Package: com.TruongTamPhong.KamCCNarrow
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.KamCCNarrow_1.0_iphoneos-arm.deb
+Size: 95820
+MD5sum: 2d4241cf463545d1320e33e317b85bdc
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: KamCC Narrow
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.KamCCNarrow
+
+Package: com.TruongTamPhong.XenInfo
+Architecture: iphoneos-arm
+Version: 2.0.8
+Section: Addons (Tweaks)
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debfiles/com.TruongTamPhong.XenInfo_2.0.7_iphoneos-arm.deb
+Size: 185768
+MD5sum: 8991f8b78df383f67ee60c446b631398
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML
+Name: XenInfo
+Author: JunesIphone & Matchstic
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenInfo
