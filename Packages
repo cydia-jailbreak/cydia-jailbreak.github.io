@@ -467,7 +467,7 @@ Version: 2.0.8
 Section: Addons (Tweaks)
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debfiles/com.TruongTamPhong.XenInfo_2.0.7_iphoneos-arm.deb
+Filename: ./debfiles/com.TruongTamPhong.XenInfo_2.0.8_iphoneos-arm.deb
 Size: 185768
 MD5sum: 8991f8b78df383f67ee60c446b631398
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
