@@ -477,3 +477,17 @@ Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML
 Name: XenInfo
 Author: JunesIphone & Matchstic
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenInfo
+
+Package: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Version: 0.4rc7-3
+Section: System
+Maintainer: Việt hoá by Trương Tam Phong
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
+Filename: ./debfiles/com.matchstic.xenhtml_0.4rc7-3_iphoneos-arm.deb
+Size: 1081278
+MD5sum: 7e63c6c56d41425448ff2483a7322666
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Hiển thị Widget lên màn hình chính và màn hình khoá. Việt hoá by Trương Tam Phong
+Name: Xen HTML [Việt hoá]
+Author: Matt Clarke <matt@incendo.ws>
