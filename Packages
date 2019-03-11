@@ -500,7 +500,7 @@ Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.NotchXS_1.0_iphoneos-arm.deb
 Size: 92342
-MD5sum: AC27E573C6F19D525227581E6420D785
+MD5sum: ac27e573c6f19d525227581e6420d785
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Notch XS
@@ -515,7 +515,7 @@ Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.1_iphoneos-arm.deb
 Size: 21886
-MD5sum: 8A0FEBAE9E835F2C1014270F2A86791F
+MD5sum: 8a0febae9e835f2c1014270f2a86791f
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Dock City XS
