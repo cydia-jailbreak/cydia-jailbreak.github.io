@@ -491,3 +491,33 @@ Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Hiển thị Widget lên màn hình chính và màn hình khoá. Việt hoá by Trương Tam Phong
 Name: Xen HTML [Việt hoá]
 Author: Matt Clarke <matt@incendo.ws>
+
+Package: com.TruongTamPhong.NotchXS
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.NotchXS_1.0_iphoneos-arm.deb
+Size: 92342
+MD5sum: AC27E573C6F19D525227581E6420D785
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Notch XS
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NotchXS
+
+Package: com.TruongTamPhong.DockCityXS
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.1_iphoneos-arm.deb
+Size: 21886
+MD5sum: 8A0FEBAE9E835F2C1014270F2A86791F
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Dock City XS
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS
