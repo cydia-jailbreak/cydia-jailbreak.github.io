@@ -602,10 +602,10 @@ Architecture: iphoneos-arm
 Version: 5.53
 Section: Themes (SpringBoard)
 Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: com.anemonetheming.anemone
+Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Glasklart_5.53_iphoneos-arm.deb
-Size: 67579052
-MD5sum: c8b85988fdd4e25eb7f6d66a971a04f9
+Size: 67579070
+MD5sum: 8282f0f8374b46378f44ddd939358c1f
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Glasklart is swedish, it means clear as glass
 Name: Glasklart
