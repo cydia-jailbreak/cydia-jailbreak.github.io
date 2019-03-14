@@ -545,7 +545,7 @@ Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.2.1_iphoneos-arm.deb
 Size: 248026
-MD5sum: d7d68ee667948fc808a8dc4131c4787c
+MD5sum: 4f4f56fe45efb259ab5fd499adefdafb
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Weather & Time
