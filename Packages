@@ -521,3 +521,63 @@ Description: Widget for Xen HTML
 Name: Dock City XS
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS
+
+Package: com.TruongTamPhong.LgClock
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.LgClock_1.1_iphoneos-arm.deb
+Size: 256436
+MD5sum: c42a3978e46fa16ac28fb267123690d5
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Lg Clock
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.LgClock
+
+Package: com.TruongTamPhong.WeatherAndTime
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.2.1_iphoneos-arm.deb
+Size: 248026
+MD5sum: d7d68ee667948fc808a8dc4131c4787c
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Weather & Time
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherAndTime
+
+Package: com.TruongTamPhong.NotchXS
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.NotchXS_1.1_iphoneos-arm.deb
+Size: 76392
+MD5sum: 750929aed0edda78416f08c660aade14
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Notch XS
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NotchXS
+
+Package: com.TruongTamPhong.DockCityXS
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.2_iphoneos-arm.deb
+Size: 22000
+MD5sum: 17b3ff751f87408681d42350be704fbb
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Dock City XS
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS
