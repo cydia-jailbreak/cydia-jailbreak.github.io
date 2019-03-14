@@ -581,3 +581,33 @@ Description: Widget for Xen HTML
 Name: Dock City XS
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS
+
+Package: com.TruongTamPhong.DockCityXS
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.2.1_iphoneos-arm.deb
+Size: 21994
+MD5sum: 130f57eccb33781ca476458b416b97d6
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Dock City XS
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS
+
+Package: com.TruongTamPhong.Glasklart
+Architecture: iphoneos-arm
+Version: 5.53
+Section: Themes (SpringBoard)
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: com.anemonetheming.anemone
+Filename: ./debfiles/com.TruongTamPhong.Glasklart_5.53_iphoneos-arm.deb
+Size: 67579052
+MD5sum: c8b85988fdd4e25eb7f6d66a971a04f9
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Glasklart is swedish, it means clear as glass
+Name: Glasklart
+Author: Max Rudberg
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Glasklart
