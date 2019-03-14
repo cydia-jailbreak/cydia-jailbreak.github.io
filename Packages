@@ -602,12 +602,42 @@ Architecture: iphoneos-arm
 Version: 5.53
 Section: Themes (SpringBoard)
 Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: mobilesubstrate
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, com.TruongTamPhong.IconBundlesOne, com.TruongTamPhong.IconBundlesTwo
 Filename: ./debfiles/com.TruongTamPhong.Glasklart_5.53_iphoneos-arm.deb
-Size: 67579070
-MD5sum: 8282f0f8374b46378f44ddd939358c1f
+Size: 24339056
+MD5sum: 82338f50d6e7425431f28aa472d681c9
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Glasklart is swedish, it means clear as glass
 Name: Glasklart
 Author: Max Rudberg
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Glasklart
+
+Package: com.TruongTamPhong.IconBundlesOne
+Architecture: iphoneos-arm
+Version: 1.0
+Section: System
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: firmware (>8.0)
+Priority: optional
+Filename: ./debfiles/com.TruongTamPhong.IconBundlesOne_1.0_iphoneos-arm.deb
+Size: 21184042
+MD5sum: a6c586d73f9948690243c162980b8c18
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Gói hỗ trợ theme Glasklart
+Name: IconBundlesOne
+Author: Max Rudberg
+
+Package: com.TruongTamPhong.IconBundlesTwo
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: System
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: firmware (>8.0)
+Priority: optional
+Filename: ./debfiles/com.TruongTamPhong.IconBundlesTwo_1.0.1_iphoneos-arm.deb
+Size: 21849302
+MD5sum: a0deb7e54924a8cfc7053780aa8cde13
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Gói hỗ trợ theme Glasklart
+Name: IconBundlesTwo
+Author: Max Rudberg
