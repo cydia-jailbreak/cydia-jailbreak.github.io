@@ -574,8 +574,8 @@ Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.2_iphoneos-arm.deb
-Size: 22000
-MD5sum: 17b3ff751f87408681d42350be704fbb
+Size: 21998
+MD5sum: 0b772826cfd81691ad85a76a46c1228d
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Dock City XS
