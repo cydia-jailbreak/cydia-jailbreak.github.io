@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: Nguồn thuộc về Trương Tam Phong
 MD5Sum:
- 40b713ca05081e137eacff82bc5bb743 24609 Packages
- 1959904FABAF8D40F1DC208041BA6820 3677 Packages.bz2
+ 40b713ca05081e137eacff82bc5bb743 Packages
+ 1959904fabaf8d40f1dc208041ba6820 Packages.bz2
