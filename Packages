@@ -602,10 +602,10 @@ Architecture: iphoneos-arm
 Version: 5.60
 Section: Themes (SpringBoard)
 Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: firmware (>=8.0), mobilesubstrate, preferenceloader, com.TruongTamPhong.GlasklartIconPart1, com.TruongTamPhong.GlasklartIconPart2
+Depends: firmware (>=9.0), mobilesubstrate, preferenceloader, com.TruongTamPhong.GlasklartIconPart1, com.TruongTamPhong.GlasklartIconPart2
 Filename: ./debfiles/com.TruongTamPhong.Glasklart_5.60_iphoneos-arm.deb
-Size: 24339050
-MD5sum: 2cbab545f915c1d176436c90eebc999a
+Size: 24339048
+MD5sum: 0f2ff36f7136b097de29b81f9fa8627d
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Glasklart is swedish, it means clear as glass
 Name: Glasklart
