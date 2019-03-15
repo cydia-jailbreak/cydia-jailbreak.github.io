@@ -615,13 +615,13 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.GlasklartIconPart1
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Themes (SpringBoard)
+Section: System
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: firmware (>=8.0)
 Priority: optional
 Filename: ./debfiles/com.TruongTamPhong.GlasklartIconPart1_1.0_iphoneos-arm.deb
-Size: 21184066
-MD5sum: 668f78b8a11b6770c87f33278f58c69b
+Size: 21184024
+MD5sum: 5bb61e2e76f2da77e75c568eb75bf8d2
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Gói biểu tượng hỗ trợ Glasklart
 Name: GlasklartIconPart1
@@ -630,13 +630,13 @@ Author: Max Rudberg
 Package: com.TruongTamPhong.GlasklartIconPart2
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Themes (SpringBoard)
+Section: System
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: firmware (>=8.0)
 Priority: optional
 Filename: ./debfiles/com.TruongTamPhong.GlasklartIconPart2_1.0_iphoneos-arm.deb
-Size: 21849320
-MD5sum: 21443e0c42517657c7d55caef04f043a
+Size: 21849308
+MD5sum: fa591ff3bc9944971d8be0d7dd16ebc9
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Gói biểu tượng hỗ trợ Glasklart
 Name: GlasklartIconPart2
