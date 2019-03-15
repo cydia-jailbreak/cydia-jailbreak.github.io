@@ -599,13 +599,13 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 
 Package: com.TruongTamPhong.Glasklart
 Architecture: iphoneos-arm
-Version: 5.53
+Version: 5.60
 Section: Themes (SpringBoard)
 Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, com.TruongTamPhong.GlasklartIconPart1, com.TruongTamPhong.GlasklartIconPart2
-Filename: ./debfiles/com.TruongTamPhong.Glasklart_5.53_iphoneos-arm.deb
-Size: 24339060
-MD5sum: 0cae9651e54ab725af287fef82415c38
+Depends: firmware (>=8.0), mobilesubstrate, preferenceloader, com.TruongTamPhong.GlasklartIconPart1, com.TruongTamPhong.GlasklartIconPart2
+Filename: ./debfiles/com.TruongTamPhong.Glasklart_5.60_iphoneos-arm.deb
+Size: 24339050
+MD5sum: 2cbab545f915c1d176436c90eebc999a
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Glasklart is swedish, it means clear as glass
 Name: Glasklart
