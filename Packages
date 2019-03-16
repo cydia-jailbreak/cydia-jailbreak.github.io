@@ -670,3 +670,18 @@ Description: Widget for Xen HTML
 Name: Âm Lịch & Danh Ngôn
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AmLichVaDanhNgon
+
+Package: com.TruongTamPhong.IconBundlesOne
+Architecture: iphoneos-arm
+Version: 1.1
+Section: System
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: firmware (>=9.0)
+Filename: ./debfiles/com.TruongTamPhong.IconBundlesOne_1.1_iphoneos-arm.deb
+Size: 21257134
+MD5sum: 7cfc10485ea44c70b02aeb08ec0bc062
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Gói biểu tượng hỗ trợ Glasklart 
+Name: IconBundlesOne
+Author: Max Rudberg
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.IconBundlesOne
