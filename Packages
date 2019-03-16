@@ -602,44 +602,43 @@ Architecture: iphoneos-arm
 Version: 5.60
 Section: Themes (SpringBoard)
 Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: firmware (>=9.0), mobilesubstrate, preferenceloader, com.TruongTamPhong.GlasklartIconOne, com.TruongTamPhong.GlasklartIconTwo
+Depends: firmware (>=9.0), mobilesubstrate, preferenceloader, com.TruongTamPhong.GlasklartPart1, com.TruongTamPhong.GlasklartPart2
 Filename: ./debfiles/com.TruongTamPhong.Glasklart_5.60_iphoneos-arm.deb
-Size: 24339058
-MD5sum: 891c726b8b70f4240bbc91146361c542
+Size: 24339044
+MD5sum: 8c44501e3dcfffaedf05d93285bdcc22
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Glasklart is swedish, it means clear as glass
 Name: Glasklart
 Author: Max Rudberg
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Glasklart
 
-Package: com.TruongTamPhong.GlasklartIconOne
+Package: com.TruongTamPhong.GlasklartPart1
 Architecture: iphoneos-arm
 Version: 1.0
-Section: System
+Section: Themes (SpringBoard)
 Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: firmware (>=9.0), mobilesubstrate, preferenceloader, com.TruongTamPhong.GlasklartIconTwo
-Priority: optional
-Filename: ./debfiles/com.TruongTamPhong.GlasklartIconOne_1.0_iphoneos-arm.deb
-Size: 21184084
-MD5sum: 632e6ce5d05ba94acb7a89de13af31c3
+Depends: firmware (>=9.0)
+Filename: ./debfiles/com.TruongTamPhong.GlasklartPart1_1.0_iphoneos-arm.deb
+Size: 21184058
+MD5sum: 37fc71947f673cbbb560a50c08eefba0
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Gói biểu tượng hỗ trợ Glasklart
-Name: GlasklartIconOne
+Name: GlasklartPart1
 Author: Max Rudberg
 
-Package: com.TruongTamPhong.GlasklartIconTwo
+Package: com.TruongTamPhong.GlasklartPart2
 Architecture: iphoneos-arm
 Version: 1.0.1
-Section: System
+Section: Themes (SpringBoard)
 Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: firmware (>=9.0), mobilesubstrate, preferenceloader, com.TruongTamPhong.GlasklartIconOne
+Depends: firmware (>=9.0)
 Priority: optional
-Filename: ./debfiles/com.TruongTamPhong.GlasklartIconTwo_1.0.1_iphoneos-arm.deb
-Size: 21849342
-MD5sum: 9df11bbe921203652ee44c48a733f30b
+Filename: ./debfiles/com.TruongTamPhong.GlasklartPart2_1.0.1_iphoneos-arm.deb
+Size: 21849318
+MD5sum: d8f4baa376bd952725892f31c253a01f
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Gói biểu tượng hỗ trợ Glasklart
-Name: GlasklartIconTwo
+Name: GlasklartPart2
 Author: Max Rudberg
 
 Package: com.TruongTamPhong.DockXS
