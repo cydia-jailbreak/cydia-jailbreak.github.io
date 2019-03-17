@@ -685,3 +685,33 @@ Description: Gói biểu tượng hỗ trợ Glasklart
 Name: IconBundlesOne
 Author: Max Rudberg
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.IconBundlesOne
+
+Package: com.TruongTamPhong.TextDate
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.TextDate_1.2_iphoneos-arm.deb
+Size: 66374
+MD5sum: 6df1f1269a4ddcab035db6d81ee30798
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Text Date
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.TextDate
+
+Package: com.TruongTamPhong.ThuPhap
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ThuPhap_1.0_iphoneos-arm.deb
+Size: 205666
+MD5sum: 751f6254be15cd086d7e2938def17cf5
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Thư Pháp
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ThuPhap
