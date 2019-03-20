@@ -850,3 +850,93 @@ Description: Widget for Xen HTML
 Name: StatusBarNotch++
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StatusBarNotch++
+
+Package: com.TruongTamPhong.DockCityXS
+Architecture: iphoneos-arm
+Version: 1.3-1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.3-1_iphoneos-arm.deb
+Size: 22218
+MD5sum: f289c91decb3551e417d355e17c8d8ae
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Dock City XS
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS
+
+Package: com.TruongTamPhong.DockCityXS++
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.DockCityXS++_1.1_iphoneos-arm.deb
+Size: 22192
+MD5sum: 3d9fc6877e985e70266a0f94f0ceef7f
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Dock City XS++
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS++
+
+Package: com.TruongTamPhong.DockXS
+Architecture: iphoneos-arm
+Version: 1.2-1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.DockXS_1.2-1_iphoneos-arm.deb
+Size: 7426
+MD5sum: 925ce92f7b2b9a1d502180a63c9f43ac
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Dock XS
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockXS
+
+Package: com.TruongTamPhong.DockXS++
+Architecture: iphoneos-arm
+Version: 1.2-1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.DockXS++_1.2-1_iphoneos-arm.deb
+Size: 7438
+MD5sum: 209b1d9db455b35a2fef64877949fafd
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Dock XS++
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockXS++
+
+Package: com.TruongTamPhong.Stt3NotchXS
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS_1.2_iphoneos-arm.deb
+Size: 7498
+MD5sum: 4a173605641d090cbe1d5f267b6730dd
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Stt3NotchXS
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS
+
+Package: com.TruongTamPhong.Stt3NotchXS++
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS++_1.2_iphoneos-arm.deb
+Size: 7510
+MD5sum: 080987e983439cbb2a77c8a2445ed3fc
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Stt3NotchXS++
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS++
