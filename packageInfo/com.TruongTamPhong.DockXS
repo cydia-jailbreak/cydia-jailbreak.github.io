@@ -1,4 +1,4 @@
 {
-	"desc_long": "- Dock viền sáng và nền mờ.<br>- Widget chạy trên màn hình chính.<br><br>* Bản nâng cấp sửa đổi gồm:<br>+ Bổ sung 1 số thanh ngang và dọc.<br><br>* Yêu cầu cài Xen HTML để sử dụng.",
+	"desc_long": "- Dock viền sáng và nền mờ.<br>- Widget chạy trên màn hình chính.<br><br>* Bản nâng cấp sửa đổi gồm:<br>+ Bổ sung 1 số thanh ngang và loại bỏ thanh dọc.<br><br>* Yêu cầu cài Xen HTML để sử dụng.",
 	"screenshot": "<div style='text-align:center;'><a href='screenshot/DockXS.png' target='_blank'><img width=90% src='screenshot/DockXS.png'/></a><br></div>",
 }
