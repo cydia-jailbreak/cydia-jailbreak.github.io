@@ -1,4 +1,4 @@
 {
-	"desc_long": "- Dock nhiều màu cùng thời tiết.<br><br>* Bản nâng cấp sử đổi gồm:<br>+ Chỉnh lại tông màu khi ở nền sáng dễ nhìn hơn.<br>+ Loại bỏ thanh dọc.<br>- Widget chạy trên màn hình chính.<br><br>* Yêu cầu cài Xen HTML và XenInfo để sử dụng.",
+	"desc_long": "- Dock nhiều màu cùng thời tiết.<br>- Widget chạy trên màn hình chính.<br><br>* Bản nâng cấp sử đổi gồm:<br>+ Chỉnh lại tông màu khi ở nền sáng dễ nhìn hơn.<br>+ Loại bỏ thanh dọc.<br><br>* Yêu cầu cài Xen HTML và XenInfo để sử dụng.",
 	"screenshot": "<div style='text-align:center;'><a href='screenshot/DockCityXS++.png' target='_blank'><img width=90% src='screenshot/DockCityXS++.png'/></a><br></div>",
 }
