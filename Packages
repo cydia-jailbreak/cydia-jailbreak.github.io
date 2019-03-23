@@ -940,3 +940,18 @@ Description: Widget for Xen HTML
 Name: Stt3NotchXS++
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS++
+
+Package: com.TruongTamPhong.CanhChimTrang
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.CanhChimTrang_1.0_iphoneos-arm.deb
+Size: 10634
+MD5sum: a63bbecedb3a0d2693a1c75524426934
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Badge for all themes
+Name: Cánh chim trắng
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CanhChimTrang
