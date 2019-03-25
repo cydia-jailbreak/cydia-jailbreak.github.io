@@ -944,14 +944,178 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.CanhChimTrang
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Themes
+Section: Themes (SpringBoard)
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.CanhChimTrang_1.0_iphoneos-arm.deb
-Size: 10634
-MD5sum: a63bbecedb3a0d2693a1c75524426934
+Size: 10650
+MD5sum: e405080f05713212d7f4d7c8d61aa711
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Badge for all themes
 Name: Cánh chim trắng
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CanhChimTrang
+
+Package: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Version: 0.4rc8-1
+Section: System
+Maintainer: Việt hoá by Trương Tam Phong
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
+Filename: ./debfiles/com.matchstic.xenhtml_0.4rc8-1_iphoneos-arm.deb
+Size: 1226068
+MD5sum: 00534a76e70e817ac86b1ae63838b00d
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Unified HTML rendering; lockscreen and homescreen
+Name: Xen HTML [Việt hoá]
+Author: Matt Clarke <matt@incendo.ws>
+
+Package: com.TruongTamPhong.Stt3NotchXS
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS_1.2.1_iphoneos-arm.deb
+Size: 7482
+MD5sum: 7d6fea651f0c4f1939cf4784e829f522
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Stt3NotchXS
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS
+
+Package: com.TruongTamPhong.Stt3NotchXS++
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS++_1.2.1_iphoneos-arm.deb
+Size: 7620
+MD5sum: c16ac1efcfc3b5b0425f9b8bbba19ddd
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Stt3NotchXS++
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS++
+
+Package: com.TruongTamPhong.StatusBarNotch
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.StatusBarNotch_1.1_iphoneos-arm.deb
+Size: 7472
+MD5sum: 44b5abf68f9e917c1d4fe857790866d3
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: StatusBarNotch
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StatusBarNotch
+
+Package: com.TruongTamPhong.StatusBarNotch++
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.StatusBarNotch++_1.3_iphoneos-arm.deb
+Size: 7500
+MD5sum: 1a57c6dabf1a9a8fa79f951b49e1d593
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: StatusBarNotch++
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StatusBarNotch++
+
+Package: com.TruongTamPhong.CanhChimVang
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes (SpringBoard)
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.CanhChimVang_1.0_iphoneos-arm.deb
+Size: 9232
+MD5sum: 7ad8e50a591633eebfc18b5765000b74
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Badge for all themes
+Name: Cánh chim vàng
+Author: Cường Mèo
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CanhChimVang
+
+Package: com.TruongTamPhong.AmLich
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.AmLich_1.0_iphoneos-arm.deb
+Size: 127252
+MD5sum: 73c0775a7dff533bfb8db0cee233271c
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Âm Lịch
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AmLich
+
+Package: com.TruongTamPhong.DanhNgon
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.DanhNgon_1.0_iphoneos-arm.deb
+Size: 137640
+MD5sum: e1228d38df8b93b27702893ec250d217
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Danh Ngôn
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DanhNgon
+
+Package: com.TruongTamPhong.DiamondGold
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.DiamondGold_1.0_iphoneos-arm.deb
+Size: 77806
+MD5sum: 8583b4b08ac7a8a4439d300910669eef
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Diamond Gold
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DiamondGold
+
+Package: com.TruongTamPhong.DiamondWhite
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.DiamondWhite_1.0_iphoneos-arm.deb
+Size: 77800
+MD5sum: fdf8bf3c06d129127a864ae0b5e464aa
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Diamond White
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DiamondWhite
+
+Package: com.TruongTamPhong.VanTay
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.VanTay_1.0_iphoneos-arm.deb
+Size: 27282
+MD5sum: a4ef34dfe7f7838e8e83da3895e48c90
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Vân Tay
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.VanTay
