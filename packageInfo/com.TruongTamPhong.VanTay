@@ -1,0 +1,4 @@
+{
+	"desc_long": "- Với việc nhúng vân tay vào màn hình để sử dụng trên iPhone, với Tim Cook gần như khó có thể làm điều đó. Nhưng giờ đây tôi đã chế tạo ra 1 widget có chứa vân tay đặt lên màn hình khóa, nhưng nó không thể hoạt động, vì nó được tạo ra nhằm giảm bớt sự thèm muốn của các bạn mà thôi :))<br><br>* Yêu cầu cài Xen HTML để sử dụng.",
+	"screenshot": "<div style='text-align:center;'><a href='screenshot/VanTay.png' target='_blank'><img width=90% src='screenshot/VanTay.png'/></a><br></div>",
+}
