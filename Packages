@@ -1119,3 +1119,18 @@ Description: Widget for Xen HTML
 Name: Vân Tay
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.VanTay
+
+Package: com.TruongTamPhong.BadgeCustomizer
+Architecture: iphoneos-arm
+Version: 1.4.3-3
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.BadgeCustomizer_1.4.3-3_iphoneos-arm.deb
+Size: 69668
+MD5sum: b5ce79f39cf3fb40cd3b0e48c56279c1
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Change badge color, size & position
+Name: Badge Customizer [Việt hoá]
+Author: merdok
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BadgeCustomizer
