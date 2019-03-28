@@ -1134,3 +1134,18 @@ Description: Change badge color, size & position
 Name: Badge Customizer [Việt hoá]
 Author: merdok
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BadgeCustomizer
+
+Package: com.TruongTamPhong.Gold
+Architecture: iphoneos-arm
+Version: 2.0.3
+Section: Themes (SpringBoard)
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Gold_2.0.3_iphoneos-arm.deb
+Size: 800144
+MD5sum: a614232c9948dcf815ccdd0fa62d0b55
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Chủ đề màu Gold
+Name: Gold
+Author: Hà Tía Tô & Kim Chậm
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Gold
