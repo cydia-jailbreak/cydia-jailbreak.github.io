@@ -1149,3 +1149,33 @@ Description: Chủ đề màu Gold
 Name: Gold
 Author: Hà Tía Tô & Kim Chậm
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Gold
+
+Package: com.TruongTamPhong.FullHouse
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.FullHouse_1.0_iphoneos-arm.deb
+Size: 6026
+MD5sum: c169dbb4cdcccb2f5b4f1d0b4eaf6234
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Full House
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FullHouse
+
+Package: com.TruongTamPhong.FullHouseGold
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.FullHouseGold_1.0_iphoneos-arm.deb
+Size: 5924
+MD5sum: 284cc288dfcbf3a694ea2d18aa06a298
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Full House Gold
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FullHouseGold
