@@ -1209,3 +1209,18 @@ Description: Widget for Xen HTML
 Name: Weather Now Dark
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNowDark
+
+Package: com.TruongTamPhong.PinkColor
+Architecture: iphoneos-arm
+Version: 2.0.5
+Section: Themes (SpringBoard)
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.PinkColor_2.0.5_iphoneos-arm.deb
+Size: 1290712
+MD5sum: f8eebf77b2d3792214d600bf3321a380
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Chủ đề màu Hường
+Name: Pink Color
+Author: Kim Chậm + Hà Tía Tô + TTP
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.PinkColor
