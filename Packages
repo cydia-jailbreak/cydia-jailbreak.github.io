@@ -1179,3 +1179,33 @@ Description: Widget for Xen HTML
 Name: Full House Gold
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FullHouseGold
+
+Package: com.TruongTamPhong.WeatherNow
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherNow_1.0_iphoneos-arm.deb
+Size: 9902180
+MD5sum: d24b94688e0efc636f36c822e6f37c26
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Weather Now
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNow
+
+Package: com.TruongTamPhong.WeatherNowDark
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherNowDark_1.0_iphoneos-arm.deb
+Size: 8998294
+MD5sum: 9ecdbfeb314531b314901cfc4446a94f
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Weather Now Dark
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNowDark
