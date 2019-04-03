@@ -1224,3 +1224,63 @@ Description: Chủ đề màu Hường
 Name: Pink Color
 Author: Kim Chậm + Hà Tía Tô + TTP
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.PinkColor
+
+Package: com.TruongTamPhong.Luxury
+Architecture: iphoneos-arm
+Version: 2.1
+Section: Themes (SpringBoard)
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Luxury_2.1_iphoneos-arm.deb
+Size: 1522494
+MD5sum: 65e8099d252f126294bd6f2178637110
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Theme for all devices iPhone
+Name: Luxury
+Author: Kim Chậm + Hà Tía Tô + TTP
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Luxury
+
+Package: com.TruongTamPhong.WeatherNow
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherNow_1.1_iphoneos-arm.deb
+Size: 9902168
+MD5sum: ab781ad57dfee2c71e5286fecf531ffb
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Weather Now
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNow
+
+Package: com.TruongTamPhong.WeatherNowDark
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherNowDark_1.1_iphoneos-arm.deb
+Size: 8998986
+MD5sum: ed2c511b080c690c7b683e1aea5f2f15
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Weather Now Dark
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNowDark
+
+Package: com.TruongTamPhong.ThuPhap
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ThuPhap_1.1_iphoneos-arm.deb
+Size: 185270
+MD5sum: e4c9c19a5f3ebc22a2b11a2d300d1ca7
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Thư Pháp
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ThuPhap
