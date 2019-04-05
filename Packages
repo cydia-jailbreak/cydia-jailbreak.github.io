@@ -1284,3 +1284,18 @@ Description: Widget for Xen HTML
 Name: Thư Pháp
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ThuPhap
+
+Package: com.TruongTamPhong.VanTay
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.VanTay_1.1_iphoneos-arm.deb
+Size: 612058
+MD5sum: 1f84afce724860b2458b16fd0425053f
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Vân Tay
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.VanTay
