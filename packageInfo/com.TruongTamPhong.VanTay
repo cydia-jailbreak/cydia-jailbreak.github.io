@@ -1,4 +1,4 @@
 {
 	"desc_long": "-----Version 1.1-----<br>* Cập nhật:<br>+ Thêm văn bản và ký tự mũi tên.<br><br>* Yêu cầu cài Xen HTML để sử dụng.<br>=> Xem Video bên dưới để biết thêm chi tiết. (đợi một chút để loading Video, hoặc ấn vào giữa khung Video để xem qua).<br><br><br>-----Version 1.0-----<br>- Với việc nhúng vân tay vào màn hình để sử dụng trên iPhone, với Tim Cook gần như khó có thể làm điều đó. Nhưng giờ đây tôi đã chế tạo ra 1 widget có chứa vân tay đặt lên màn hình khóa, nhưng nó không thể hoạt động, vì nó được tạo ra nhằm giảm bớt sự thèm muốn của các bạn mà thôi :))<br><br>* Yêu cầu cài Xen HTML để sử dụng.",
-	"screenshot": "<div style='text-align:center;'><a href='screenshot/VanTay.mp4' target='_blank'><img width=90% src='screenshot/VanTay.mp4'/></a><br></div>",
+	"screenshot": "<div style='text-align:center;'><a href='videos/VanTay.mp4' target='_blank'><img width=90% src='videos/VanTay.mp4'/></a><br></div>",
 }
