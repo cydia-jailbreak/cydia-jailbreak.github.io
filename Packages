@@ -1314,3 +1314,168 @@ Description: Widget for Xen HTML
 Name: Circle
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Circle
+
+Package: com.TruongTamPhong.HTCClock
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.HTCClock_1.1_iphoneos-arm.deb
+Size: 126168
+MD5sum: 73c8a257d103fa44003dc68dac099513
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: HTC Clock
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.HTCClock
+
+Package: com.TruongTamPhong.AnalogClockWeather
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.AnalogClockWeather_1.0_iphoneos-arm.deb
+Size: 300694
+MD5sum: 1d369dbb49b0cf07cd9d47aeff8c4436
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Analog Clock Weather
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AnalogClockWeather
+
+Package: com.TruongTamPhong.Circle
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Circle_1.1_iphoneos-arm.deb
+Size: 4330
+MD5sum: af50a4eb198faf393f648162abdcd5ec
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Circle
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Circle
+
+Package: com.TruongTamPhong.ClockDeaultSmall
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ClockDeaultSmall_1.0_iphoneos-arm.deb
+Size: 88312
+MD5sum: 0816781fde48cbc0bbb0834a6c47bc84
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Clock Deault Small
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ClockDeaultSmall
+
+Package: com.TruongTamPhong.MainLed
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.MainLed_1.0_iphoneos-arm.deb
+Size: 10498016
+MD5sum: 774ca870134ae1711c4f171f87224043
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: MainLed
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.MainLed
+
+Package: com.TruongTamPhong.StartNotch
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.StartNotch_1.0_iphoneos-arm.deb
+Size: 6152
+MD5sum: da2eaf024c53fb3dfb1fdfae79071b1e
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Start Notch
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StartNotch
+
+Package: com.TruongTamPhong.VanTay
+Architecture: iphoneos-arm
+Version: 1.1-1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.VanTay_1.1-1_iphoneos-arm.deb
+Size: 612066
+MD5sum: 1226caf315512c1890ab321510fd95e2
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Vân Tay
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.VanTay
+
+Package: com.TruongTamPhong.WeatherNow
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherNow_1.2_iphoneos-arm.deb
+Size: 9902174
+MD5sum: b4c43a6b71d428d37d009eba26c12af3
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Weather Now
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNow
+
+Package: com.TruongTamPhong.WeatherNow+
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherNow+_1.2_iphoneos-arm.deb
+Size: 9902192
+MD5sum: 177d549f6bd415bf0ec951a86ae415ed
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Weather Now+
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNow+
+
+Package: com.TruongTamPhong.WeatherNowDark
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherNowDark_1.2_iphoneos-arm.deb
+Size: 8998944
+MD5sum: 4dc4141450066cd9ce6b82a10e92d293
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Weather Now Dark
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNowDark
+
+Package: com.TruongTamPhong.WeatherNowDark+
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherNowDark+_1.2_iphoneos-arm.deb
+Size: 8999002
+MD5sum: dd00b905dfc60a3fe888e68e7498f9d0
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Weather Now Dark+
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNowDark+
