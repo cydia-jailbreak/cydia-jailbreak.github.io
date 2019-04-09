@@ -1,4 +1,4 @@
 {
 	"desc_long": "-----Version 1.1-----<br>- Làm lại giao diện đẹp hơn.<br><br><br>-----Version 1.0----- Phong cách giống đồng hồ điện thoại HTC.<br>- Widget chạy trên màn hình chính và màn hình khóa.<br><br>* Yêu cầu cài Xen HTML và XenInfo để sử dụng.",
-	"screenshot": "<div style='text-align:center;'><a href='Link ảnh' target='_blank'><img width=90% src='screenshot/HtcClock.png'/></a><br></div>",
+	"screenshot": "<div style='text-align:center;'><a href='screenshot/HTCClock.png' target='_blank'><img width=90% src='screenshot/HTCClock.png'/></a><br></div>",
 }
