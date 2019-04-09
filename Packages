@@ -1494,3 +1494,18 @@ Description: Widget for Xen HTML
 Name: Analog Clock Weather+
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AnalogClockWeather+
+
+Package: com.TruongTamPhong.StartNotch
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.StartNotch_1.1_iphoneos-arm.deb
+Size: 6220
+MD5sum: b4490878363241e4087309e3d498c802
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Start Notch
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StartNotch
