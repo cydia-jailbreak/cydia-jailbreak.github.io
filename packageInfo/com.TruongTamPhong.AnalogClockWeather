@@ -1,4 +1,4 @@
 {
-	"desc_long": "-----Version 1.0-----<br>- Đồng hồ tròn cùng thời tiết phong cách Belle.<br>- Widget chạy trên màn hình chính và màn hình khóa.<br><br>* Yêu cầu cài Xen HTML và XenInfo để sử dụng.",
+	"desc_long": "-----Version 1.0-----<br>- Đồng hồ tròn cùng thời tiết phong cách Belle.<br>- Dành cho các dòng máy sau:<br>+ iPhone X<br>+ iPhone 6<br>+ iPhone 6s<br>+ iPhone 7<br>+ iPhone 8<br><br>- Widget chạy trên màn hình chính và màn hình khóa.<br><br>* Yêu cầu cài Xen HTML và XenInfo để sử dụng.",
 	"screenshot": "<div style='text-align:center;'><a href='screenshot/AnalogClockWeather.png' target='_blank'><img width=90% src='screenshot/AnalogClockWeather.png'/></a><br></div>",
 }
