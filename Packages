@@ -1533,8 +1533,8 @@ Section: Tweaks
 Maintainer: Spark <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.27~Beta1_iphoneos-arm.deb
-Size: 2651650
-MD5sum: cfef8b3c6888ebc46ef6d67c9406a936
+Size: 2651662
+MD5sum: 352eba96655405dab437451a070363c7
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Động cơ trượt tuyết theo chủ để. Đủ các gói kết hợp dành cho bạn.
 Name: SnowBoard Việt Nam
