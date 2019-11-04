@@ -1526,3 +1526,33 @@ Author: Matt Clarke <matt@incendo.ws>
 Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
 Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
 
+Package: com.TruongTamPhong.SnowBoardVietNam
+Architecture: iphoneos-arm
+Version: 1.2.27~Beta1
+Section: Tweaks
+Maintainer: Spark <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.27~Beta1_iphoneos-arm.deb
+Size: 2651650
+MD5sum: cfef8b3c6888ebc46ef6d67c9406a936
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Động cơ trượt tuyết theo chủ để. Đủ các gói kết hợp dành cho bạn.
+Name: SnowBoard Việt Nam
+Author: Spark & Dennis D. Bednarz <truongtamphong686@gmail.com>
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+
+Package: com.TruongTamPhong.XenInfoVietNam
+Architecture: iphoneos-arm
+Version: 2.2.6
+Section: Addons (Tweaks)
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debfiles/com.TruongTamPhong.XenInfoVietNam_2.2.6_iphoneos-arm.deb
+Size: 140644 
+MD5sum: 743ce0ff5a3d2cc243398adb5a281cc4
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML
+Name: XenInfo Việt Nam
+Author: JunesIphone & Matchstic
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenInfoVietNam
