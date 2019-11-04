@@ -1509,3 +1509,20 @@ Description: Widget for Xen HTML
 Name: Start Notch
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StartNotch
+
+Package: com.TruongTamPhong.XenHTMLVietNam
+Architecture: iphoneos-arm
+Version: 1.0.1~release
+Section: Tweaks
+Maintainer: Việt hoá by Trương Tam Phong <truongtamphong686@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
+Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.0.1~release_iphoneos-arm.deb
+Size: 2260080
+MD5sum: c9229ceb7d39b7134b4a6757efaadbd7
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Hiển thị Widget lên màn hình chính và màn hình khoá. Việt hoá by Trương Tam Phong
+Name: Xen HTML Việt Nam
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+
