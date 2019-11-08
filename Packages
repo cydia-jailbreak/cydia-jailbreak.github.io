@@ -1556,3 +1556,34 @@ Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML
 Name: XenInfo Việt Nam
 Author: JunesIphone & Matchstic
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenInfoVietNam
+
+Package: com.TruongTamPhong.SnowBoardVietNam
+Architecture: iphoneos-arm
+Version: 1.2.37~Beta1
+Section: Tweaks
+Maintainer: Spark <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.spark.snowboardapplication
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.37~Beta1_iphoneos-arm.deb
+Size: 2541896
+MD5sum: 0d2219787b21b001c5706fa6c54b6904
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Động cơ trượt tuyết theo chủ để. Đủ các gói kết hợp dành cho bạn.
+Name: SnowBoard Việt Nam
+Author: Spark & Dennis D. Bednarz <truongtamphong686@gmail.com>
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+
+Package: com.spark.snowboardapplication
+Architecture: iphoneos-arm
+Version: 1.0.1~Beta1
+Section: Utilities
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.spark.snowboardapplication.deb
+Size: 611702
+MD5sum: 4fd834cebbf022ce38a9dcf9adf8c7fd
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: SnowBoard application
+Name: SnowBoard Application
+Author: Spark
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.spark.snowboardapplication
