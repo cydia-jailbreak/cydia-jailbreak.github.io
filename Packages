@@ -1571,3 +1571,48 @@ Description: SnowBoard application
 Name: SnowBoard Application
 Author: Spark
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardApplication
+
+Package: com.TruongTamPhong.BlurTransV1
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.BlurTransV1_1.0.0_iphoneos-arm.deb
+Size: 1336090
+MD5sum: efd7584cdebec718a93dc5e8c60e1e6b
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: BlurTrans V1
+Author: Ata Ra Shi
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BlurTransV1
+
+Package: com.TruongTamPhong.ClockBelle
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ClockBelle_1.0_iphoneos-arm.deb
+Size: 112520
+MD5sum: cd7d823a43152ae504481c4b64415e76
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: ClockBelle
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ClockBelle
+
+Package: com.TruongTamPhong.InformationColumn
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.InformationColumn_1.0_iphoneos-arm.deb
+Size: 158828
+MD5sum: 5c0e811ac937b56f234a83197fc14c0e
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: InformationColumn
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.InformationColumn
