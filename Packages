@@ -133,21 +133,6 @@ Name: libGitHubIssues
 Author: Matt Clarke <matt@incendo.ws>
 dev: Matt Clarke <matt@incendo.ws>
 
-Package: com.TruongTamPhong.XenInfo
-Architecture: iphoneos-arm
-Version: 2.0.6
-Section: Addons (Tweaks)
-Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debfiles/com.TruongTamPhong.XenInfo_2.0.6_iphoneos-arm.deb
-Size: 185132 
-MD5sum: 9a6945442d0739194ddbff4c74f149b8
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML
-Name: XenInfo
-Author: JunesIphone & Matchstic
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenInfo
-
 Package: com.TruongTamPhong.AmLichVaDanhNgon
 Architecture: iphoneos-arm
 Version: 1.0
@@ -328,21 +313,6 @@ Name: Ybht
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ybht
 
-Package: com.TruongTamPhong.XenInfo
-Architecture: iphoneos-arm
-Version: 2.0.7
-Section: Addons (Tweaks)
-Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debfiles/com.TruongTamPhong.XenInfo_2.0.7_iphoneos-arm.deb
-Size: 185786
-MD5sum: 87dd7673306c8dc093ed5f85096e7ea9
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML
-Name: XenInfo
-Author: JunesIphone & Matchstic
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenInfo
-
 Package: com.TruongTamPhong.Activator
 Architecture: iphoneos-arm
 Version: 1.1
@@ -462,21 +432,6 @@ Description: Widget for Xen HTML
 Name: KamCC Narrow
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.KamCCNarrow
-
-Package: com.TruongTamPhong.XenInfo
-Architecture: iphoneos-arm
-Version: 2.0.8
-Section: Addons (Tweaks)
-Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debfiles/com.TruongTamPhong.XenInfo_2.0.8_iphoneos-arm.deb
-Size: 185768
-MD5sum: 8991f8b78df383f67ee60c446b631398
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML
-Name: XenInfo
-Author: JunesIphone & Matchstic
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenInfo
 
 Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm
@@ -1616,3 +1571,18 @@ Description: Widget for Xen HTML
 Name: InformationColumn
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.InformationColumn
+
+Package: com.TruongTamPhong.Nema
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Nema_1.0.0_iphoneos-arm.deb
+Size: 117828
+MD5sum: 65ea1c32f3797f29dfa0d3f7c5c4482d
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Nema
+Author: JunesiPhone
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Nema
