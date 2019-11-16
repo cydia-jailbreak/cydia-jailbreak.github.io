@@ -1586,3 +1586,48 @@ Description: Widget for Xen HTML
 Name: Nema
 Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Nema
+
+Package: com.TruongTamPhong.Ando
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Ando_1.0.0_iphoneos-arm.deb
+Size: 11852284
+MD5sum: 03dd71daa33ef0492c8fcda69aba8246
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Ando
+Author: JunesiPhone
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ando
+
+Package: com.TruongTamPhong.MyName
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.MyName_2.0.1_iphoneos-arm.deb
+Size: 5374266
+MD5sum: 2188eb3ade8b9a7ba8cc5d17586fc894
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: My Name
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.MyName
+
+Package: com.TruongTamPhong.ThreeDock
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ThreeDock_1.0.1_iphoneos-arm.deb
+Size: 4702
+MD5sum: d5d1f204f4393729b7a8e6de1f17add2
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: ThreeDock
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ThreeDock
