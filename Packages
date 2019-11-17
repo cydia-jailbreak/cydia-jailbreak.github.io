@@ -1619,15 +1619,61 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 
 Package: com.TruongTamPhong.ThreeDock
 Architecture: iphoneos-arm
-Version: 1.0.1
+Version: 1.0.2
 Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.ThreeDock_1.0.1_iphoneos-arm.deb
-Size: 4702
-MD5sum: d5d1f204f4393729b7a8e6de1f17add2
+Filename: ./debfiles/com.TruongTamPhong.ThreeDock_1.0.2_iphoneos-arm.deb
+Size: 7468
+MD5sum: 8b9f1240ebe36d58e5fc5aee9f33060a
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: ThreeDock
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ThreeDock
+
+Package: com.TruongTamPhong.SnowBoardVietNam
+Architecture: iphoneos-arm
+Version: 1.2.67~Beta1
+Section: Tweaks
+Maintainer: Spark <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.67~Beta1_iphoneos-arm.deb
+Size: 2727316
+MD5sum: 74d1c76ee7a0d9bf79bc74bed5b091be
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Động cơ trượt tuyết theo chủ để. Đủ các gói kết hợp dành cho bạn.
+Name: SnowBoard Việt Nam
+Author: Spark & Dennis D. Bednarz <truongtamphong686@gmail.com>
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+
+Package: com.TruongTamPhong.BlurTransV1
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.BlurTransV1_1.0.1_iphoneos-arm.deb
+Size: 1336044
+MD5sum: c7f0063c29c62dd4728ae019d46bada4
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: BlurTrans V1
+Author: Ata Ra Shi
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BlurTransV1
+
+Package: com.TruongTamPhong.Ando
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Ando_1.0.1_iphoneos-arm.deb
+Size: 11853836
+MD5sum: 8e18bf200a1da9ee786a6e8c9ebb243f
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Ando
+Author: JunesiPhone
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ando
