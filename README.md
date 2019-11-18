@@ -1,2 +1,2 @@
-# Thủ thuật Cydia Và Jailbreak
+# Cydia Và Jailbreak
 # SAY HELLO TO THE FUTURE
