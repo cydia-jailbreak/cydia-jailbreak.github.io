@@ -1685,8 +1685,8 @@ Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.FlyJBVietNam_0.2~beta17_iphoneos-arm.deb
-Size: 236060
-MD5sum: 752458AA4A1F37FAB16397C96873BB10
+Size: 321260
+MD5sum: 2f93965c572a2f9142cbc1fa35761fee
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Chống ứng dụng phát hiện máy jailbreak
 Name: FlyJB Việt Nam
