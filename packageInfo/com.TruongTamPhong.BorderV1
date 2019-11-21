@@ -1,0 +1,4 @@
+{
+	"desc_long": "- Khung viền tạo kiểu dáng theo ý của bạn.<br>- Các cài đặt của tiện ích này bao gồm:<br>+ Kiểu viền:<br>=> dashed = đứt đoạn<br>=> solid = liền mạch<br>=> rgba = mã màu + số cuối, nhỏ nhất = 0 là không màu, hoặc lớn nhất = 1 là đục tối đa. (Ví dụ: rgba(255,255,255,0.5) thì 255,255,255 là mã màu trắng còn 0.5 là độ mờ đục 1 nửa)<br>=> 1px = độ dày.<br>+ Màu nền (giống như Màu viền trên).<br>+ Độ bo góc (Bo tròn các góc, nhỏ nhất = 0, lớn nhất = 145).<br>+ Chiều rộng.<br>Chiều cao.<br>* Tất cả đều được tùy chỉnh trong cài đặt.<br><br>*** Yêu cầu cài Xen HTML để sử dụng.",
+	"screenshot": "<div style='text-align:center;'><a href='screenshot/Border1.png' target='_blank'><img width=90% src='screenshot/Border1.png'/></a><div style='text-align:center;'><a href='screenshot/Border2.png' target='_blank'><img width=90% src='screenshot/Border2.png'/></a><br></div>",
+}
