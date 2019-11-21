@@ -1,2 +1,2 @@
-# Cydia Và Jailbreak
+# Apple Cydia Và Jailbreak
 # SAY HELLO TO THE FUTURE
