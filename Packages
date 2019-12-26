@@ -88,36 +88,6 @@ Name: Lg Clock
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.LgClock
 
-Package: com.TruongTamPhong.BatteryPercentX
-Architecture: iphoneos-arm
-Version: 1.3.2-2
-Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debfiles/com.TruongTamPhong.BatteryPercentX_1.3.2-2_iphoneos-arm.deb
-Size: 249952
-MD5sum: 17ad9dc7bb86cc994e39d0976644a449
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Replaces the battery icon with percentage 
-Name: BatteryPercentX [Việt hoá]
-Author: Spark
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BatteryPercentX
-
-Package: com.matchstic.xenhtml
-Architecture: iphoneos-arm
-Version: 0.4rc7-2
-Section: System
-Maintainer: Việt hoá by Trương Tam Phong
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
-Filename: ./debfiles/com.matchstic.xenhtml_0.4rc7-2_iphoneos-arm.deb
-Size: 1120494
-MD5sum: 9a86d16f4b50641368b1398405f35aeb
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Unified HTML rendering; lockscreen and homescreen
-Name: Xen HTML [Việt hoá]
-Author: Matt Clarke <matt@incendo.ws>
-Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
-
 Package: com.matchstic.libgithubissues
 Architecture: iphoneos-arm
 Version: 0.0.2
@@ -313,21 +283,6 @@ Name: Ybht
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ybht
 
-Package: com.TruongTamPhong.Activator
-Architecture: iphoneos-arm
-Version: 1.1
-Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Activator_1.1_iphoneos-arm.deb
-Size: 14092
-MD5sum: 4e73747068a551c218cdcd1689920573
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Centralized gestures, button and shortcut management for iOS
-Name: Activator [Việt hóa]
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Activator
-
 Package: com.TruongTamPhong.WeatherAndTime
 Architecture: iphoneos-arm
 Version: 1.1
@@ -357,21 +312,6 @@ Description: Làm mờ nền cho các cảnh báo.
 Name: Palert [Việt hoá]
 Author: Integeritis
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Palert
-
-Package: com.TruongTamPhong.DoubleTapToWake
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debfiles/com.TruongTamPhong.DoubleTapToWake_1.0_iphoneos-arm.deb
-Size: 4860
-MD5sum: 25f979005c20234da64dc28d770a1a96
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Waking your phone too often? Double Tap to Wake, rather than Tap to Wake, on iPhone X.
-Name: DoubleTapToWake
-Author: AppleBetas
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DoubleTapToWake
 
 Package: com.TruongTamPhong.WeatherAndTime
 Architecture: iphoneos-arm
@@ -1850,6 +1790,22 @@ Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
 Icon: file:///Library/PreferenceBundles/SnowboardPrefs.bundle/icon-rounded.png
 
+Package: com.TruongTamPhong.NextUp2VietNam
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.NextUp2VietNam_1.1_iphoneos-arm.deb
+Size: 550776
+MD5sum: 07b0346c8ee80a7a82413da9489c9606
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Bỏ qua bài hát mà bạn không muốn nghe.
+Name: NextUp 2 (iOS 12 & 13) Việt Nam
+Author: Andreas Henriksson
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NextUp2VietNam
+Icon: file:///Library/PreferenceBundles/NextUpPrefs.bundle/icon@2x.png
+
 Package: com.TruongTamPhong.SixlsVietNam
 Architecture: iphoneos-arm
 Version: 1.0.5
@@ -1864,3 +1820,36 @@ Description: Mang khóa màn hình iOS 6 lên iOS 11 và 12
 Name: Six (LS) Việt Nam
 Author: Skitty
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SixlsVietNam
+Icon: file:///Library/PreferenceBundles/SixLS.bundle/icon@3x.png
+
+Package: com.TruongTamPhong.SwitcherStyleVietNam
+Architecture: iphoneos-arm
+Version: 0.5.4
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.SwitcherStyleVietNam_0.5.4_iphoneos-arm.deb
+Size: 39592
+MD5sum: 60b54d8aba97fdb513c1a6e17169c778
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Đa nhiệm dạng lưới.
+Name: SwitcherStyle Việt Nam
+Author: JunesiPhone
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SwitcherStyleVietNam
+Icon: file:///Library/PreferenceBundles/switcherstyleprefs.bundle/icon@3x.png
+
+Package: com.TruongTamPhong.XenHTMLVietNam
+Architecture: iphoneos-arm
+Version: 1.1~beta4
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
+Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1~beta4_iphoneos-arm.deb
+Size: 2698348
+MD5sum: 15a7220d972dea2114cd1264bebacfdb
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Hiện Widget lên màn chính và khoá. Việt hoá Trương Tam Phong
+Name: Xen HTML Việt Nam
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
