@@ -1870,13 +1870,13 @@ Package: com.TruongTamPhong.SixlsVietNam
 Architecture: iphoneos-arm
 Version: 1.0.5
 Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate, preferenceloader, firmware (> 11.0)
 Filename: ./debfiles/com.TruongTamPhong.SixlsVietNam_1.0.5_iphoneos-arm.deb
 Size: 1565970
 MD5sum: 59e400a610c8de8377e4d842b6028f45
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Mang khóa màn hình iOS 6 lên iOS 11 và 12
+Description: iOS 6 Style Lock Screen!
 Name: Six (LS) Việt Nam
 Author: Skitty
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SixlsVietNam
