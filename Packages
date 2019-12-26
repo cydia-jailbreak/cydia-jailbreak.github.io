@@ -423,6 +423,7 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.KamCCNarrow_1.0_iphoneos-arm.deb
 Size: 95820
 MD5sum: 2d4241cf463545d1320e33e317b85bdc
