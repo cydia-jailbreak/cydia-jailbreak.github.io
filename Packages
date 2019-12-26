@@ -108,7 +108,7 @@ Architecture: iphoneos-arm
 Version: 0.4rc7-2
 Section: System
 Maintainer: Việt hoá by Trương Tam Phong
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
 Filename: ./debfiles/com.matchstic.xenhtml_0.4rc7-2_iphoneos-arm.deb
 Size: 1120494
 MD5sum: 9a86d16f4b50641368b1398405f35aeb
@@ -438,7 +438,7 @@ Architecture: iphoneos-arm
 Version: 0.4rc7-3
 Section: System
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
 Filename: ./debfiles/com.matchstic.xenhtml_0.4rc7-3_iphoneos-arm.deb
 Size: 1081278
 MD5sum: 7e63c6c56d41425448ff2483a7322666
@@ -916,7 +916,7 @@ Architecture: iphoneos-arm
 Version: 0.4rc8-1
 Section: System
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
 Filename: ./debfiles/com.matchstic.xenhtml_0.4rc8-1_iphoneos-arm.deb
 Size: 1226068
 MD5sum: 00534a76e70e817ac86b1ae63838b00d
@@ -1470,7 +1470,7 @@ Architecture: iphoneos-arm
 Version: 1.0.1~release
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
 Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.0.1~release_iphoneos-arm.deb
 Size: 2260080
 MD5sum: c9229ceb7d39b7134b4a6757efaadbd7
@@ -1761,7 +1761,7 @@ Architecture: iphoneos-arm
 Version: 1.1~beta2
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
 Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1~beta2_iphoneos-arm.deb
 Size: 2705994
 MD5sum: 3eebf6cb69d2e379729a8ff67d689697
@@ -1871,7 +1871,7 @@ Architecture: iphoneos-arm
 Version: 1.0.5
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
+Depends: mobilesubstrate, preferenceloader, firmware (> 11.0)
 Filename: ./debfiles/com.TruongTamPhong.SixlsVietNam_1.0.5_iphoneos-arm.deb
 Size: 1565970
 MD5sum: 59e400a610c8de8377e4d842b6028f45
@@ -1887,7 +1887,7 @@ Architecture: iphoneos-arm
 Version: 0.5.4
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
+Depends: mobilesubstrate, me.nepeta.libcolorpicker
 Filename: ./debfiles/com.TruongTamPhong.SwitcherStyleVietNam_0.5.4_iphoneos-arm.deb
 Size: 39592
 MD5sum: 60b54d8aba97fdb513c1a6e17169c778
@@ -1903,7 +1903,7 @@ Architecture: iphoneos-arm
 Version: 1.1~beta4
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 11.0) | com.unlimapps.uaunbox
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
 Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1~beta4_iphoneos-arm.deb
 Size: 2698348
 MD5sum: 15a7220d972dea2114cd1264bebacfdb
