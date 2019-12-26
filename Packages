@@ -136,7 +136,7 @@ dev: Matt Clarke <matt@incendo.ws>
 Package: com.TruongTamPhong.AmLichVaDanhNgon
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widget
+Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.0_iphoneos-arm.deb
@@ -226,7 +226,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.LaRoi
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widgets (Widget động)
+Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.LaRoi_1.0_iphoneos-arm.deb
@@ -614,7 +614,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.AmLichVaDanhNgon
 Architecture: iphoneos-arm
 Version: 1.3-1
-Section: Widget tĩnh
+Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.3-1_iphoneos-arm.deb
@@ -1484,7 +1484,7 @@ Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
 Package: com.TruongTamPhong.XenInfoVietNam
 Architecture: iphoneos-arm
 Version: 2.2.6
-Section: Addons
+Section: Utilities
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, firmware (>= 9.0)
 Filename: ./debfiles/com.TruongTamPhong.XenInfoVietNam_2.2.6_iphoneos-arm.deb
@@ -1620,7 +1620,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.ThreeDock
 Architecture: iphoneos-arm
 Version: 1.0.2
-Section: Widget tĩnh
+Section: Widget Dock
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.ThreeDock_1.0.2_iphoneos-arm.deb
