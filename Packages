@@ -1847,7 +1847,7 @@ Description: Chống ứng dụng phát hiện máy jailbreak
 Name: FlyJB Việt Nam
 Author: XsF1re
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
-Icon: file:///Library/PreferenceBundles/flỵbprefs.bundle/Icon@2x.png
+Icon: file:///Library/PreferenceBundles/flỵbprefs.bundle/icon@2x.png
 
 Package: com.TruongTamPhong.NextUp2VietNam
 Architecture: iphoneos-arm
@@ -1863,7 +1863,7 @@ Description: Bỏ qua bài hát mà bạn không muốn nghe.
 Name: NextUp 2 (iOS 12 & 13) Việt Nam
 Author: Andreas Henriksson
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NextUp2VietNam
-Icon: file:///Library/PreferenceBundles/NextUpPrefs.bundle/Icon@2x.png
+Icon: file:///Library/PreferenceBundles/NextUpPrefs.bundle/icon@2x.png
 
 Package: com.TruongTamPhong.SixlsVietNam
 Architecture: iphoneos-arm
@@ -1879,7 +1879,6 @@ Description: Mang khóa màn hình iOS 6 lên iOS 11 và 12
 Name: Six (LS) Việt Nam
 Author: Skitty
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SixlsVietNam
-Icon: file:///Library/PreferenceBundles/SixLS.bundle/icon@3x.png
 
 Package: com.TruongTamPhong.SnowBoardVietNam
 Architecture: iphoneos-arm
@@ -1909,7 +1908,7 @@ Size: 39592
 MD5sum: 60b54d8aba97fdb513c1a6e17169c778
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Đa nhiệm dạng lưới.
+Icon: file:///Library/PreferenceBundles/switcherstyleprefs.bundle/icon@3x.png
 Name: SwitcherStyle Việt Nam
 Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SwitcherStyleVietNam
-Icon: file:///Library/PreferenceBundles/switcherstyleprefs.bundle/icon@3x.png
