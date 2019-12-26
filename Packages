@@ -1849,3 +1849,19 @@ Author: Spark & Dennis D. Bednarz <truongtamphong686@gmail.com>
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
 Icon: file:///Library/PreferenceBundles/SnowboardPrefs.bundle/icon-rounded.png
+
+Package: com.TruongTamPhong.NextUp2VietNam
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.NextUp2VietNam_1.1_iphoneos-arm.deb
+Size: 550776
+MD5sum: 07b0346c8ee80a7a82413da9489c9606
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Bỏ qua bài hát mà bạn không muốn nghe.
+Name: NextUp 2 (iOS 12 & 13) Việt Nam
+Author: Andreas Henriksson
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NextUp2VietNam
+Icon: file:///Library/PreferenceBundles/NextUpPrefs.bundle/icon@2x.png
