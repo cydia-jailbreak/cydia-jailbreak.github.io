@@ -2,7 +2,7 @@ Package: com.TruongTamPhong.CleanFunWhiteRed
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.CleanFunWhiteRed_1.0_iphoneos-arm.deb
 Size: 272612
@@ -17,7 +17,7 @@ Package: com.TruongTamPhong.ClockTransparent
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.ClockTransparent_1.0_iphoneos-arm.deb
 Size: 224018
@@ -32,7 +32,7 @@ Package: com.TruongTamPhong.AutoChangeWallpaper
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AutoChangeWallpaper_1.0_iphoneos-arm.deb
 Size: 4483914
@@ -47,7 +47,7 @@ Package: com.TruongTamPhong.Ybht
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Ybht_1.0_iphoneos-arm.deb
 Size: 35720
@@ -62,7 +62,7 @@ Package: com.TruongTamPhong.Slyd
 Architecture: iphoneos-arm
 Version: 0.1.1
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Slyd_0.1.1_iphoneos-arm.deb
 Size: 18880
@@ -77,7 +77,7 @@ Package: com.TruongTamPhong.LgClock
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.LgClock_1.0_iphoneos-arm.deb
 Size: 256884
@@ -92,7 +92,7 @@ Package: com.TruongTamPhong.BatteryPercentX
 Architecture: iphoneos-arm
 Version: 1.3.2-2
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
 Filename: ./debfiles/com.TruongTamPhong.BatteryPercentX_1.3.2-2_iphoneos-arm.deb
 Size: 249952
@@ -107,7 +107,7 @@ Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm
 Version: 0.4rc7-2
 Section: System
-Maintainer: Việt hoá by Trương Tam Phong
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
 Filename: ./debfiles/com.matchstic.xenhtml_0.4rc7-2_iphoneos-arm.deb
 Size: 1120494
@@ -122,7 +122,7 @@ Package: com.matchstic.libgithubissues
 Architecture: iphoneos-arm
 Version: 0.0.2
 Section: System
-Maintainer: Matt Clarke <matt@incendo.ws>
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: firmware (>= 8.0)
 Filename: ./debfiles/com.matchstic.libgithubissues_0.0.2_iphoneos-arm.deb
 Size: 1006630 
@@ -137,7 +137,7 @@ Package: com.TruongTamPhong.AmLichVaDanhNgon
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.0_iphoneos-arm.deb
 Size: 15942
@@ -152,7 +152,7 @@ Package: com.TruongTamPhong.HtcClock
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.HtcClock_1.0_iphoneos-arm.deb
 Size: 44262
@@ -167,7 +167,7 @@ Package: com.TruongTamPhong.RectangleClock
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.RectangleClock_1.0_iphoneos-arm.deb
 Size: 66126
@@ -182,7 +182,7 @@ Package: com.TruongTamPhong.TemperatureClock
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.TemperatureClock_1.0_iphoneos-arm.deb
 Size: 141108
@@ -197,7 +197,7 @@ Package: com.TruongTamPhong.TextDate
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.TextDate_1.0_iphoneos-arm.deb
 Size: 74190
@@ -212,7 +212,7 @@ Package: com.TruongTamPhong.BoCongAnh
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.BoCongAnh_1.0_iphoneos-arm.deb
 Size: 413838
@@ -227,7 +227,7 @@ Package: com.TruongTamPhong.LaRoi
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.LaRoi_1.0_iphoneos-arm.deb
 Size: 9757882
@@ -242,7 +242,7 @@ Package: com.TruongTamPhong.SaoBay
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.SaoBay_1.0_iphoneos-arm.deb
 Size: 32792
@@ -257,7 +257,7 @@ Package: com.TruongTamPhong.TuyetRoi
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.TuyetRoi_1.0_iphoneos-arm.deb
 Size: 28616
@@ -272,7 +272,7 @@ Package: com.TruongTamPhong.IconStateBackUp
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.IconStateBackUp_1.0_iphoneos-arm.deb
 Size: 216086
@@ -287,7 +287,7 @@ Package: com.TruongTamPhong.WeatherAndTime
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.0_iphoneos-arm.deb
 Size: 233268
@@ -302,7 +302,7 @@ Package: com.TruongTamPhong.Ybht
 Architecture: iphoneos-arm
 Version: 1.0.1
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Ybht_1.0.1_iphoneos-arm.deb
 Size: 44658
@@ -317,7 +317,7 @@ Package: com.TruongTamPhong.Activator
 Architecture: iphoneos-arm
 Version: 1.1
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Activator_1.1_iphoneos-arm.deb
 Size: 14092
@@ -332,7 +332,7 @@ Package: com.TruongTamPhong.WeatherAndTime
 Architecture: iphoneos-arm
 Version: 1.1
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.1_iphoneos-arm.deb
 Size: 233260
@@ -347,7 +347,7 @@ Package: com.TruongTamPhong.Palert
 Architecture: iphoneos-arm
 Version: 1.1.0-3
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debfiles/com.TruongTamPhong.Palert_1.1.0-3_iphoneos-arm.deb
 Size: 136978
@@ -362,7 +362,7 @@ Package: com.TruongTamPhong.DoubleTapToWake
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, firmware (>= 11.0)
 Filename: ./debfiles/com.TruongTamPhong.DoubleTapToWake_1.0_iphoneos-arm.deb
 Size: 4860
@@ -377,7 +377,7 @@ Package: com.TruongTamPhong.WeatherAndTime
 Architecture: iphoneos-arm
 Version: 1.2
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.2_iphoneos-arm.deb
 Size: 247942
@@ -392,7 +392,7 @@ Package: com.TruongTamPhong.AmLichVaDanhNgon
 Architecture: iphoneos-arm
 Version: 1.3
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.3_iphoneos-arm.deb
 Size: 137998
@@ -407,7 +407,7 @@ Package: com.TruongTamPhong.CalendaText
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.CalendaText_1.0_iphoneos-arm.deb
 Size: 143442
@@ -1500,7 +1500,7 @@ Package: com.TruongTamPhong.SnowBoardVietNam
 Architecture: iphoneos-arm
 Version: 1.2.37~Beta1
 Section: Tweaks
-Maintainer: Spark <truongtamphong686@gmail.com>
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
 Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.37~Beta1_iphoneos-arm.deb
 Size: 2541884
@@ -1636,7 +1636,7 @@ Package: com.TruongTamPhong.SnowBoardVietNam
 Architecture: iphoneos-arm
 Version: 1.2.67~Beta1
 Section: Tweaks
-Maintainer: Spark <truongtamphong686@gmail.com>
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
 Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.67~Beta1_iphoneos-arm.deb
 Size: 2727316
@@ -1712,7 +1712,7 @@ Package: com.TruongTamPhong.SnowBoardVietNam
 Architecture: iphoneos-arm
 Version: 1.2.68
 Section: Tweaks
-Maintainer: Spark <truongtamphong686@gmail.com>
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
 Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.68_iphoneos-arm.deb
 Size: 2899368
@@ -1728,7 +1728,7 @@ Package: com.TruongTamPhong.SnowBoardVietNam
 Architecture: iphoneos-arm
 Version: 1.2.69~Beta1
 Section: Tweaks
-Maintainer: Spark <truongtamphong686@gmail.com>
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
 Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.69~Beta1_iphoneos-arm.deb
 Size: 2892904
@@ -1744,7 +1744,7 @@ Package: com.TruongTamPhong.SnowBoardVietNam
 Architecture: iphoneos-arm
 Version: 1.2.72~Beta1
 Section: Tweaks
-Maintainer: Spark <truongtamphong686@gmail.com>
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
 Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.72~Beta1_iphoneos-arm.deb
 Size: 2902900
@@ -1837,7 +1837,7 @@ Package: com.TruongTamPhong.SnowBoardVietNam
 Architecture: iphoneos-arm
 Version: 1.2.74~Beta1
 Section: Tweaks
-Maintainer: Spark <truongtamphong686@gmail.com>
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
 Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.74~Beta1_iphoneos-arm.deb
 Size: 2905968
@@ -1851,26 +1851,26 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Icon: file:///Library/PreferenceBundles/SnowboardPrefs.bundle/icon-rounded.png
 
 Package: com.TruongTamPhong.NextUp2VietNam
-Name: NextUp 2 Việt Nam
-Author: Andreas Henriksson
-Version: 1.1
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap (>> 1.0.6)
 Architecture: iphoneos-arm
-Description: See and change the next track
+Version: 1.1
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Filename: ./debfiles/com.TruongTamPhong.NextUp2VietNam_1.1_iphoneos-arm.deb
 Size: 550736
 MD5sum: 9ed17779d1e4ba603a9e764a2f8c7815
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Maintainer: Thủ Thuật Cydia Và Jailbreak
-Section: Tweaks
+Description: See and change the next track
+Name: NextUp 2 Việt Nam
+Author: Andreas Henriksson
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NextUp2VietNam
 Icon: file:///Library/PreferenceBundles/NextUpPrefs.bundle/icon@2x.png
-Filename: ./debfiles/com.TruongTamPhong.NextUp2VietNam_1.1_iphoneos-arm.deb
 
 Package: com.TruongTamPhong.SixlsVietNam
 Architecture: iphoneos-arm
 Version: 1.0.5
 Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader, firmware (> 11.0)
 Filename: ./debfiles/com.TruongTamPhong.SixlsVietNam_1.0.5_iphoneos-arm.deb
 Size: 1565970
