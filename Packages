@@ -1,7 +1,7 @@
 Package: com.TruongTamPhong.CleanFunWhiteRed
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widget
+Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.CleanFunWhiteRed_1.0_iphoneos-arm.deb
@@ -16,7 +16,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.ClockTransparent
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widget
+Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.ClockTransparent_1.0_iphoneos-arm.deb
@@ -46,7 +46,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.Ybht
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widget
+Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Ybht_1.0_iphoneos-arm.deb
@@ -76,7 +76,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.LgClock
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widget
+Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.LgClock_1.0_iphoneos-arm.deb
@@ -151,7 +151,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.HtcClock
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widget
+Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.HtcClock_1.0_iphoneos-arm.deb
@@ -166,7 +166,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.RectangleClock
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widget
+Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.RectangleClock_1.0_iphoneos-arm.deb
@@ -181,7 +181,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.TemperatureClock
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widget
+Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.TemperatureClock_1.0_iphoneos-arm.deb
@@ -196,7 +196,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.TextDate
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widget
+Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.TextDate_1.0_iphoneos-arm.deb
