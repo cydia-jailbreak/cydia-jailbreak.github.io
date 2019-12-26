@@ -1829,7 +1829,6 @@ Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Hiện Widget lên màn chính và khoá. Việt hoá Trương Tam Phong
 Name: Xen HTML Việt Nam
 Author: Matt Clarke <matt@incendo.ws>
-Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
 Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
 
 Package: com.TruongTamPhong.FlyJBVietNam
@@ -1845,7 +1844,6 @@ Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Chống ứng dụng phát hiện máy jailbreak
 Name: FlyJB Việt Nam
 Author: XsF1re
-Icon: file:///Library/PreferenceBundles/flỵjbprefs.bundle/icon@2x.png
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
 
 Package: com.TruongTamPhong.NextUp2VietNam
@@ -1861,7 +1859,6 @@ Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Bỏ qua bài hát mà bạn không muốn nghe.
 Name: NextUp 2 (iOS 12 & 13) Việt Nam
 Author: Andreas Henriksson
-Icon: file:///Library/PreferenceBundles/NextUpPrefs.bundle/icon@2x.png
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NextUp2VietNam
 
 Package: com.TruongTamPhong.SixlsVietNam
@@ -1877,7 +1874,6 @@ Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Mang khóa màn hình iOS 6 lên iOS 11 và 12
 Name: Six (LS) Việt Nam
 Author: Skitty
-Icon: file:///Library/PreferenceBundles/SixLS.bundle/icon@3x.png
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SixlsVietNam
 
 Package: com.TruongTamPhong.SnowBoardVietNam
@@ -1894,7 +1890,6 @@ Description: Động cơ trượt tuyết theo chủ để. Đủ các gói kế
 Name: SnowBoard Việt Nam
 Author: Spark & Dennis D. Bednarz <truongtamphong686@gmail.com>
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Icon: file:///Library/PreferenceBundles/SnowboardPrefs.bundle/icon-rounded.png
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
 
 Package: com.TruongTamPhong.SwitcherStyleVietNam
@@ -1910,5 +1905,4 @@ Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Đa nhiệm dạng lưới.
 Name: SwitcherStyle Việt Nam
 Author: JunesiPhone
-Icon: file:///Library/PreferenceBundles/switcherstyleprefs.bundle/icon@3x.png
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SwitcherStyleVietNam
