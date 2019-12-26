@@ -1852,7 +1852,7 @@ Icon: file:///Library/PreferenceBundles/SnowboardPrefs.bundle/icon-rounded.png
 
 Package: com.TruongTamPhong.SixlsVietNam
 Architecture: iphoneos-arm
-Version: 1.1
+Version: 1.0.5
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
