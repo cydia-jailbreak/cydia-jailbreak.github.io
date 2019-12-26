@@ -31,7 +31,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.AutoChangeWallpaper
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widgets
+Section: Widgets (Widget động)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AutoChangeWallpaper_1.0_iphoneos-arm.deb
@@ -211,7 +211,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.BoCongAnh
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widgets
+Section: Widgets (Widget động)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.BoCongAnh_1.0_iphoneos-arm.deb
@@ -226,7 +226,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.LaRoi
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widgets
+Section: Widgets (Widget động)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.LaRoi_1.0_iphoneos-arm.deb
@@ -241,7 +241,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.SaoBay
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widgets
+Section: Widgets (Widget động)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.SaoBay_1.0_iphoneos-arm.deb
@@ -256,7 +256,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.TuyetRoi
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widgets
+Section: Widgets (Widget động)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.TuyetRoi_1.0_iphoneos-arm.deb
@@ -271,7 +271,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.IconStateBackUp
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widgets
+Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.IconStateBackUp_1.0_iphoneos-arm.deb
@@ -450,7 +450,7 @@ Author: Matt Clarke <matt@incendo.ws>
 Package: com.TruongTamPhong.NotchXS
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widgets (Statusbar)
+Section: Widgets (Thanh Trạng Thái)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.NotchXS_1.0_iphoneos-arm.deb
@@ -465,7 +465,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.DockCityXS
 Architecture: iphoneos-arm
 Version: 1.1
-Section: Widgets
+Section: Widgets (Thanh Dock)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.1_iphoneos-arm.deb
@@ -510,7 +510,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.NotchXS
 Architecture: iphoneos-arm
 Version: 1.1
-Section: Widgets
+Section: Widgets (Thanh trạng thái)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.NotchXS_1.1_iphoneos-arm.deb
@@ -525,7 +525,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.DockCityXS
 Architecture: iphoneos-arm
 Version: 1.2
-Section: Widgets
+Section: Widgets (Thanh Dock)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.2_iphoneos-arm.deb
@@ -540,7 +540,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.DockCityXS
 Architecture: iphoneos-arm
 Version: 1.2.1
-Section: Widgets
+Section: Widgets (Thanh Dock)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.2.1_iphoneos-arm.deb
@@ -599,7 +599,7 @@ Author: Max Rudberg
 Package: com.TruongTamPhong.DockXS
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widgets
+Section: Widgets (Thanh Dock)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockXS_1.0_iphoneos-arm.deb
@@ -659,7 +659,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.ThuPhap
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widgets
+Section: Widgets (Widget động)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.ThuPhap_1.0_iphoneos-arm.deb
@@ -674,7 +674,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.Stt3NotchXS++
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widgets
+Section: Widgets (Thanh trạng thái)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS++_1.0_iphoneos-arm.deb
@@ -689,7 +689,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.Stt3NotchXS++
 Architecture: iphoneos-arm
 Version: 1.1
-Section: Widgets
+Section: Widgets (Thanh trạng thái)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS++_1.1_iphoneos-arm.deb
@@ -704,7 +704,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.Stt3NotchXS
 Architecture: iphoneos-arm
 Version: 1.1
-Section: Widgets
+Section: Widgets (Thanh trạng thái)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS_1.1_iphoneos-arm.deb
@@ -719,7 +719,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.DockCityXS
 Architecture: iphoneos-arm
 Version: 1.3
-Section: Widgets
+Section: Widgets (Thanh Dock)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.3_iphoneos-arm.deb
@@ -734,7 +734,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.DockCityXS++
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widgets
+Section: Widgets (Thanh Dock)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockCityXS++_1.0_iphoneos-arm.deb
@@ -749,7 +749,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.DockXS
 Architecture: iphoneos-arm
 Version: 1.2
-Section: Widgets
+Section: Widgets (Thanh Dock)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockXS_1.2_iphoneos-arm.deb
@@ -764,7 +764,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.DockXS++
 Architecture: iphoneos-arm
 Version: 1.2
-Section: Widgets
+Section: Widgets (Thanh Dock)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockXS++_1.2_iphoneos-arm.deb
@@ -779,7 +779,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.StatusBarNotch
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widgets
+Section: Widgets (Thanh trạng thái)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.StatusBarNotch_1.0_iphoneos-arm.deb
@@ -794,7 +794,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.StatusBarNotch++
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Widgets
+Section: Widgets (Thanh trạng thái)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.StatusBarNotch++_1.0_iphoneos-arm.deb
@@ -809,7 +809,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.DockCityXS
 Architecture: iphoneos-arm
 Version: 1.3-1
-Section: Widgets
+Section: Widgets (Thanh Dock)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.3-1_iphoneos-arm.deb
@@ -824,7 +824,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.DockCityXS++
 Architecture: iphoneos-arm
 Version: 1.1
-Section: Widgets
+Section: Widgets (Thanh Dock)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockCityXS++_1.1_iphoneos-arm.deb
@@ -839,7 +839,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.DockXS
 Architecture: iphoneos-arm
 Version: 1.2-1
-Section: Widgets
+Section: Widgets (Thanh Dock)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockXS_1.2-1_iphoneos-arm.deb
@@ -854,7 +854,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.DockXS++
 Architecture: iphoneos-arm
 Version: 1.2-1
-Section: Widgets
+Section: Widgets (Thanh Dock)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockXS++_1.2-1_iphoneos-arm.deb
@@ -869,7 +869,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.Stt3NotchXS
 Architecture: iphoneos-arm
 Version: 1.2
-Section: Tweaks
+Section: Widgets (Thanh trạng thái)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS_1.2_iphoneos-arm.deb
@@ -884,7 +884,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.Stt3NotchXS++
 Architecture: iphoneos-arm
 Version: 1.2
-Section: Tweaks
+Section: Widgets (Thanh trạng thái)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS++_1.2_iphoneos-arm.deb
@@ -899,7 +899,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.CanhChimTrang
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Themes (SpringBoard)
+Section: Themes (Huy hiệu)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.CanhChimTrang_1.0_iphoneos-arm.deb
@@ -914,7 +914,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm
 Version: 0.4rc8-1
-Section: System
+Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
 Filename: ./debfiles/com.matchstic.xenhtml_0.4rc8-1_iphoneos-arm.deb
@@ -928,7 +928,7 @@ Author: Matt Clarke <matt@incendo.ws>
 Package: com.TruongTamPhong.Stt3NotchXS
 Architecture: iphoneos-arm
 Version: 1.2.1
-Section: Tweaks
+Section: Widgets (Thanh trạng thái)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS_1.2.1_iphoneos-arm.deb
@@ -943,7 +943,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.Stt3NotchXS++
 Architecture: iphoneos-arm
 Version: 1.2.1
-Section: Tweaks
+Section: Widgets (Thanh trạng thái)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS++_1.2.1_iphoneos-arm.deb
@@ -958,7 +958,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.StatusBarNotch
 Architecture: iphoneos-arm
 Version: 1.1
-Section: Tweaks
+Section: Widgets (Thanh trạng thái)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.StatusBarNotch_1.1_iphoneos-arm.deb
@@ -973,7 +973,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.StatusBarNotch++
 Architecture: iphoneos-arm
 Version: 1.3
-Section: Tweaks
+Section: Widgets (Thanh trạng thái)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.StatusBarNotch++_1.3_iphoneos-arm.deb
@@ -988,7 +988,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.CanhChimVang
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Themes (SpringBoard)
+Section: Themes (Huy hiệu)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.CanhChimVang_1.0_iphoneos-arm.deb
@@ -1003,7 +1003,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.AmLich
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Tweaks
+Section: Widgets
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AmLich_1.0_iphoneos-arm.deb
@@ -1018,7 +1018,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.DanhNgon
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Tweaks
+Section: Widgets
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DanhNgon_1.0_iphoneos-arm.deb
@@ -1033,7 +1033,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.DiamondGold
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Tweaks
+Section: Widgets
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DiamondGold_1.0_iphoneos-arm.deb
@@ -1048,7 +1048,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.DiamondWhite
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Tweaks
+Section: Widgets
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DiamondWhite_1.0_iphoneos-arm.deb
@@ -1063,7 +1063,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.VanTay
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Tweaks
+Section: Widgets (Widget động)
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.VanTay_1.0_iphoneos-arm.deb
@@ -1093,7 +1093,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.Gold
 Architecture: iphoneos-arm
 Version: 2.0.3
-Section: Themes (SpringBoard)
+Section: Themes
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Gold_2.0.3_iphoneos-arm.deb
@@ -1108,7 +1108,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.FullHouse
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Tweaks
+Section: Widgets
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.FullHouse_1.0_iphoneos-arm.deb
@@ -1123,7 +1123,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.FullHouseGold
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Tweaks
+Section: Widgets
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.FullHouseGold_1.0_iphoneos-arm.deb
@@ -1138,7 +1138,7 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.WeatherNow
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Tweaks
+Section: Widgets
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherNow_1.0_iphoneos-arm.deb
