@@ -1851,20 +1851,20 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Icon: file:///Library/PreferenceBundles/SnowboardPrefs.bundle/icon-rounded.png
 
 Package: com.TruongTamPhong.NextUp2VietNam
-Architecture: iphoneos-arm
+Name: NextUp 2 Việt Nam
+Author: Andreas Henriksson
 Version: 1.1
-Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.NextUp2VietNam_1.1_iphoneos-arm.deb
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Architecture: iphoneos-arm
+Description: See and change the next track
 Size: 550736
 MD5sum: 9ed17779d1e4ba603a9e764a2f8c7815
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Bỏ qua bài hát mà bạn không muốn nghe.
-Name: NextUp 2 Việt Nam
-Author: Andreas Henriksson
+Maintainer: Thủ Thuật Cydia Và Jailbreak
+Section: Tweaks
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NextUp2VietNam
 Icon: file:///Library/PreferenceBundles/NextUpPrefs.bundle/icon@2x.png
+Filename: ./debfiles/com.TruongTamPhong.NextUp2VietNam_1.1_iphoneos-arm.deb
 
 Package: com.TruongTamPhong.SixlsVietNam
 Architecture: iphoneos-arm
