@@ -1815,8 +1815,8 @@ Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: firmware (>= 12.0), firmware (<= 12.4.3), mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.PicoBanners2_0.0.1b2-7_iphoneos-arm.deb
-Size: 89502
-MD5sum: dc68b9537f23df21bbef186ff5cd83fb
+Size: 956456
+MD5sum: 41e99daf878be507eb912a2cbf89d231
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Thu nhỏ thanh thông báo.
 Name: PicoBanners 2
