@@ -12,7 +12,7 @@ Description: Widget for Xen HTML
 Name: CleanFun White Red
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CleanFunWhiteRed
-Icon: ./icon/Widgets.png
+Icon: file:///Library/PreferenceBundles/TruongTamPhong.bundle/Widgets.png
 
 Package: com.TruongTamPhong.ClockTransparent
 Architecture: iphoneos-arm
@@ -1815,8 +1815,8 @@ Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: firmware (>= 12.0), firmware (<= 12.4.3), mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.PicoBanners2_0.0.1b2-7_iphoneos-arm.deb
-Size: 72652
-MD5sum: 16c6ade1875dca77b11a8df8553d8fb9
+Size: 89502
+MD5sum: dc68b9537f23df21bbef186ff5cd83fb
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Thu nhỏ thanh thông báo.
 Name: PicoBanners 2
