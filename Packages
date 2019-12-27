@@ -2039,8 +2039,8 @@ Section: System
 Essential: yes
 Maintainer: Apple Cydia & Jailbreak <truongtamphong686@gmail.com>
 Filename: ./debfiles/com.Apple.Cydia.Jailbreak.icon_1.0.0_iphoneos-arm.deb
-Size: 89644
-MD5sum: 401fb9068cfa30eaee24a7165b11e0b3
+Size: 87768
+MD5sum: ce6af8bdc56fc61b6a990f61e1bc47a8
 Description: Biểu tượng cho Nguồn Cydia-Jailbreak
 Architecture: iphoneos-arm
 Name: Repo Icon Cydia-Jailbreak
