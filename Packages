@@ -12,6 +12,7 @@ Description: Widget for Xen HTML
 Name: CleanFun White Red
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CleanFunWhiteRed
+Icon: ./icon/Widgets.png
 
 Package: com.TruongTamPhong.ClockTransparent
 Architecture: iphoneos-arm
@@ -27,6 +28,7 @@ Description: Widget for Xen HTML
 Name: Clock Transparent
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ClockTransparent
+Icon: ./icon/Widgets.png
 
 Package: com.TruongTamPhong.AutoChangeWallpaper
 Architecture: iphoneos-arm
@@ -42,6 +44,7 @@ Description: Widget for Xen HTML
 Name: Auto Change Wallpaper
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AutoChangeWallpaper
+Icon: ./icon/Widgets.png
 
 Package: com.TruongTamPhong.Ybht
 Architecture: iphoneos-arm
@@ -57,6 +60,7 @@ Description: Widget for Xen HTML
 Name: Ybht
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ybht
+Icon: ./icon/Widgets.png
 
 Package: com.TruongTamPhong.Slyd
 Architecture: iphoneos-arm
@@ -72,6 +76,7 @@ Description: Trượt để mở khoá cho >= iPhone X
 Name: Slyd (SlideToUnlock) [Việt hoá]
 Author: Nepeta
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Slyd
+Icon: ./icon/Widgets.png
 
 Package: com.TruongTamPhong.LgClock
 Architecture: iphoneos-arm
@@ -87,6 +92,7 @@ Description: Widget for Xen HTML
 Name: Lg Clock
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.LgClock
+Icon: ./icon/Widgets.png
 
 Package: com.TruongTamPhong.BatteryPercentX
 Architecture: iphoneos-arm
