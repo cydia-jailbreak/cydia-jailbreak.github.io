@@ -76,7 +76,7 @@ Description: Trượt để mở khoá cho >= iPhone X
 Name: Slyd (SlideToUnlock) [Việt hoá]
 Author: Nepeta
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Slyd
-Icon: ./icon/Widgets.png
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
 
 Package: com.TruongTamPhong.LgClock
 Architecture: iphoneos-arm
@@ -1919,3 +1919,18 @@ Name: Xen HTML Việt Nam
 Author: Matt Clarke <matt@incendo.ws>
 Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
 Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+
+Package: com.Apple.Cydia.Jailbreak.icon
+Version: 4.0
+Section: System
+Essential: yes
+Maintainer: Apple Cydia & Jailbreak
+Filename: ./debfiles/com.Apple.Cydia.Jailbreak.icon_4.0_iphoneos-arm.deb
+Size: 39422
+MD5sum: 85326134d32b199f810eabaed8a09bc1
+Description: Biểu tượng Cydia cho kho lưu trữ
+Architecture: iphoneos-arm
+Name: Icon Apple Cydia
+Author: Trương Tam Phong
+Depiction: https://cydia-jailbreak.github.io/view/1301
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
