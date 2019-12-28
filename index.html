@@ -1,48 +1,57 @@
 <!DOCTYPE html>
-<html><head>
-<title>Cydia & Jailbreak</title>
-<link rel='stylesheet' type='text/css' href='ios7.css'/>
-<meta name='viewport' content='width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;'/>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<html lang="vn">
+<head>
+	<title>Apple Cydia & Jailbreak Repo</title>
+	<noscript>
+		<link rel="stylesheet" href="ios7.min.css?_=d" type="text/css" />
+	</noscript>
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta charset="utf-8">
 </head>
 <script src="jquery-3.2.1.min.js"></script>
-<script src="description.js?_=4654654"></script>
-<body>
-<h3><p style="text-align:center;">SAY HELLO TO THE FUTURE</p></h3>
-<h2><p style="text-align:center;">Repo: http://cydia-jailbreak.github.io/</p></h2>
-<h2>thêm nguồn tự động</h2>
-<ul>
-	<li>
-		<a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://cydia-jailbreak.github.io/">
-			<img class="icon" src="cydia7.png"/>
-			Thêm vào Cydia</label>
-		</a>
-	</li>
-</ul>
-<h2><strong>Thêm nguồn thủ công</strong></h2>
-<ul>
-	<li>
-		<p style="text-align:left;">👉Bước1: Vào "Cydia"  </p>
-<p style="text-align:left;">👉Bước 2: Nhấn "Sửa" và nhấn "Thêm"</p>
-<p style="text-align:left;">👉Bước 3: Nhập :*cydia-jailbreak.github.io* </p>
-<p style="text-align:left;">👉Bước 4: Hoàn tất và chờ đợi...</p>
-		</a>
-	</li>
-</ul>
-<h2><strong>Liên hệ</strong></h2>
-<ul>
-	<li>
-		<a href="https://www.facebook.com/Truong.Tam.Phong.1988" target="_blank">
+<script src="description.js?_=d"></script>
+<body onload="loadPackages();">
+	<main id="content">
+		<h2 role="header">Apple Cydia & Jailbreak Repo</h2>
+		<ul>
+			<li class="has-icon">
+				<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia-jailbreak.github.io/" role="button">
+					<img style = "border-radius: 20%;" href="cydia7.png" alt="" srcset="cydia7.png 2x, cydia7.png 3x" class="icon"/>
+					<label>Open Cydia</label>
+				</a>
+			</li>
+		</ul>
+		<p style="text-align: center; font-size: 85%;" role="footer" id="neo">Repo: https://cydia-jailbreak.github.io/</p>
+		<noscript>
+			<h2></h2><ul style="background:#ff0000"><center><li><p>Error JavaScript Disabled.</p></li></center></ul>
+		</noscript>
+		<span id="updates_" hidden><h2 role="header">Last Updates</h2><ul id="updates"></ul></span>
+		<span id="browser_" hidden><h2 role="header">Browse Packages</h2><ul id="browser"></ul></span>
+		<h2 role="header">Social</h2>
+		<ul>
+			<li class="has-icon">
+				<a href="https://github.com/cydia-jailbreak" target="_blank" role="button">
+					<img style = "border-radius: 20%;" href="github.png" alt="" srcset="github.png 2x, github.png 3x" class="icon"/>
+					<label>GitHub</label>
+				</a>
+			</li>
+			<li class="has-icon">
+				<a href="https://www.facebook.com/Truong.Tam.Phong.1988" target="_blank">
 			<img class="icon" src="fb.png"/>
 			<label>Facebook</label>
 		</a>
-	</li>
-	<li>
-		<a href="mailto:truongtamphong686@gmail.com?subject=CydiaRepo"" target="_blank">
-			<img class="icon" src="email.png"/>
-			<label>Email</label>
-		</a>
-	</li>
-</ul>
-<p style="text-align:center;"><img class="icon" src="CydiaIcon.png"/><strong>Cydia-Jailbreak</strong></p>
-</body></html>
+			</li>
+		</ul>
+		<h2 role="header">Theme</h2>
+		<ul>
+			<li>
+				<a onclick="toogleTheme();" role="button">
+					<p>Change Theme</p>
+				</a>
+			</li>
+		</ul>
+	</main>
+	<p style="text-align: center; font-size: 85%; margin-top: 10px;" role="footer" id="neo">Trương Tam Phong © 2019</p>
+</body>
+</html>
