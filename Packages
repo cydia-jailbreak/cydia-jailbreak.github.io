@@ -2046,3 +2046,19 @@ Architecture: iphoneos-arm
 Name: Repo Icon Cydia-Jailbreak
 Author: Trương Tam Phong
 Icon: file:///Applications/Cydia.app/Sections/System1.png
+
+Package: com.TruongTamPhong.SymbianBelle
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Chủ đề
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.SymbianBelle_1.0.0_iphoneos-arm.deb
+Size: 2675616
+MD5sum: be9c2bbeeed8a0a643ed1a2368faa4ff
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Chủ đề Belle dành cho bạn.
+Name: Symbian Belle
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SymbianBelle
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
