@@ -12,6 +12,7 @@ Description: Widget for Xen HTML
 Name: CleanFun White Red
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CleanFunWhiteRed
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CleanFunWhiteRed
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.ClockTransparent
@@ -28,6 +29,7 @@ Description: Widget for Xen HTML
 Name: Clock Transparent
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ClockTransparent
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ClockTransparent
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.AutoChangeWallpaper
@@ -44,6 +46,7 @@ Description: Widget for Xen HTML
 Name: Auto Change Wallpaper
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AutoChangeWallpaper
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AutoChangeWallpaper
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Ybht
@@ -60,6 +63,7 @@ Description: Widget for Xen HTML
 Name: Ybht
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ybht
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ybht
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Slyd
@@ -76,6 +80,7 @@ Description: Trượt để mở khoá cho >= iPhone X
 Name: Slyd (SlideToUnlock) [Việt hoá]
 Author: Nepeta
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Slyd
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Slyd
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.LgClock
@@ -92,6 +97,7 @@ Description: Widget for Xen HTML
 Name: Lg Clock
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.LgClock
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.LgClock
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.BatteryPercentX
@@ -108,6 +114,7 @@ Description: Replaces the battery icon with percentage
 Name: BatteryPercentX [Việt hoá]
 Author: Spark
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BatteryPercentX
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BatteryPercentX
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.matchstic.xenhtml
@@ -124,6 +131,7 @@ Description: Unified HTML rendering; lockscreen and homescreen
 Name: Xen HTML [Việt hoá]
 Author: Matt Clarke <matt@incendo.ws>
 Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
+SileoDepiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.matchstic.libgithubissues
@@ -156,6 +164,7 @@ Description: Widget for Xen HTML
 Name: Âm Lịch & Danh Ngôn
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AmLichVaDanhNgon
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AmLichVaDanhNgon
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.HtcClock
@@ -172,6 +181,7 @@ Description: Widget for Xen HTML
 Name: HTC Clock
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.HtcClock
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.HtcClock
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.RectangleClock
@@ -188,6 +198,7 @@ Description: Widget for Xen HTML
 Name: Rectangle Clock
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.RectangleClock
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.RectangleClock
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.TemperatureClock
@@ -204,6 +215,7 @@ Description: Widget for Xen HTML
 Name: Temperature Clock
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.TemperatureClock
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.TemperatureClock
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.TextDate
@@ -220,6 +232,7 @@ Description: Widget for Xen HTML
 Name: Text Date
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.TextDate
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.TextDate
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.BoCongAnh
@@ -236,6 +249,7 @@ Description: Widget for Xen HTML
 Name: Bồ Công Anh
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BoCongAnh
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BoCongAnh
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.LaRoi
@@ -252,6 +266,7 @@ Description: Widget for Xen HTML
 Name: Lá Rơi
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.LaRoi
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.LaRoi
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.SaoBay
@@ -268,6 +283,7 @@ Description: Widget for Xen HTML
 Name: Sao Bay
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SaoBay
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SaoBay
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.TuyetRoi
@@ -284,6 +300,7 @@ Description: Widget for Xen HTML
 Name: Tuyết Rơi
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.TuyetRoi
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.TuyetRoi
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.IconStateBackUp
@@ -300,6 +317,7 @@ Description: Sao lưu và khôi phục vị trí biểu tượng trên màn hìn
 Name: IconStateBackUp [Việt hóa]
 Author: 4nni3
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.IconStateBackUp
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.IconStateBackUp
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.WeatherAndTime
@@ -316,6 +334,7 @@ Description: Widget for Xen HTML
 Name: Weather & Time
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherAndTime
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherAndTime
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Ybht
@@ -332,6 +351,7 @@ Description: Widget for Xen HTML
 Name: Ybht
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ybht
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ybht
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Activator
@@ -348,6 +368,7 @@ Description: Centralized gestures, button and shortcut management for iOS
 Name: Activator [Việt hóa]
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Activator
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Activator
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.WeatherAndTime
@@ -364,6 +385,7 @@ Description: Widget for Xen HTML
 Name: Weather & Time
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherAndTime
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherAndTime
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Palert
@@ -380,6 +402,7 @@ Description: Làm mờ nền cho các cảnh báo.
 Name: Palert [Việt hoá]
 Author: Integeritis
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Palert
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Palert
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.DoubleTapToWake
@@ -396,6 +419,7 @@ Description: Waking your phone too often? Double Tap to Wake, rather than Tap to
 Name: DoubleTapToWake
 Author: AppleBetas
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DoubleTapToWake
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DoubleTapToWake
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.WeatherAndTime
@@ -412,6 +436,7 @@ Description: Widget for Xen HTML
 Name: Weather & Time
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherAndTime
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherAndTime
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.AmLichVaDanhNgon
@@ -428,6 +453,7 @@ Description: Widget for Xen HTML
 Name: Âm Lịch & Danh Ngôn
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AmLichVaDanhNgon
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AmLichVaDanhNgon
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.CalendaText
@@ -444,6 +470,7 @@ Description: Widget for Xen HTML
 Name: Calenda Text
 Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CalendaText
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CalendaText
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.KamCCNarrow
@@ -460,6 +487,7 @@ Description: Widget for Xen HTML
 Name: KamCC Narrow
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.KamCCNarrow
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.KamCCNarrow
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.matchstic.xenhtml
@@ -491,6 +519,7 @@ Description: Widget for Xen HTML
 Name: Notch XS
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NotchXS
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NotchXS
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.DockCityXS
@@ -507,6 +536,7 @@ Description: Widget for Xen HTML
 Name: Dock City XS
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.LgClock
@@ -523,6 +553,7 @@ Description: Widget for Xen HTML
 Name: Lg Clock
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.LgClock
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.LgClock
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.WeatherAndTime
@@ -539,6 +570,7 @@ Description: Widget for Xen HTML
 Name: Weather & Time
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherAndTime
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherAndTime
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.NotchXS
@@ -555,6 +587,7 @@ Description: Widget for Xen HTML
 Name: Notch XS
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NotchXS
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NotchXS
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.DockCityXS
@@ -571,6 +604,7 @@ Description: Widget for Xen HTML
 Name: Dock City XS
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.DockCityXS
@@ -587,6 +621,7 @@ Description: Widget for Xen HTML
 Name: Dock City XS
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Glasklart
@@ -603,6 +638,7 @@ Description: Glasklart is swedish, it means clear as glass
 Name: Glasklart
 Author: Max Rudberg
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Glasklart
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Glasklart
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
 Package: com.TruongTamPhong.IconBundlesOne
@@ -650,6 +686,7 @@ Description: Widget for Xen HTML
 Name: Dock XS
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockXS
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockXS
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.AmLichVaDanhNgon
@@ -666,6 +703,7 @@ Description: Widget for Xen HTML
 Name: Âm Lịch & Danh Ngôn
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AmLichVaDanhNgon
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AmLichVaDanhNgon
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.IconBundlesOne
@@ -682,6 +720,7 @@ Description: Gói biểu tượng hỗ trợ Glasklart
 Name: IconBundlesOne
 Author: Max Rudberg
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.IconBundlesOne
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.IconBundlesOne
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
 Package: com.TruongTamPhong.TextDate
@@ -698,6 +737,7 @@ Description: Widget for Xen HTML
 Name: Text Date
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.TextDate
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.TextDate
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.ThuPhap
@@ -714,6 +754,7 @@ Description: Widget for Xen HTML
 Name: Thư Pháp
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ThuPhap
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ThuPhap
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Stt3NotchXS++
@@ -730,6 +771,7 @@ Description: Widget for Xen HTML
 Name: Stt3NotchXS++
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS++
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS++
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Stt3NotchXS++
@@ -746,6 +788,7 @@ Description: Widget for Xen HTML
 Name: Stt3NotchXS++
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS++
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS++
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Stt3NotchXS
@@ -762,6 +805,7 @@ Description: Widget for Xen HTML
 Name: Stt3NotchXS
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.DockCityXS
@@ -778,6 +822,7 @@ Description: Widget for Xen HTML
 Name: Dock City XS
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.DockCityXS++
@@ -794,6 +839,7 @@ Description: Widget for Xen HTML
 Name: Dock City XS++
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS++
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS++
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.DockXS
@@ -810,6 +856,7 @@ Description: Widget for Xen HTML
 Name: Dock XS
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockXS
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockXS
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.DockXS++
@@ -826,6 +873,7 @@ Description: Widget for Xen HTML
 Name: Dock XS++
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockXS++
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockXS++
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.StatusBarNotch
@@ -842,6 +890,7 @@ Description: Widget for Xen HTML
 Name: StatusBarNotch
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StatusBarNotch
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StatusBarNotch
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.StatusBarNotch++
@@ -858,6 +907,7 @@ Description: Widget for Xen HTML
 Name: StatusBarNotch++
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StatusBarNotch++
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StatusBarNotch++
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.DockCityXS
@@ -874,6 +924,7 @@ Description: Widget for Xen HTML
 Name: Dock City XS
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.DockCityXS++
@@ -890,6 +941,7 @@ Description: Widget for Xen HTML
 Name: Dock City XS++
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS++
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockCityXS++
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.DockXS
@@ -906,6 +958,7 @@ Description: Widget for Xen HTML
 Name: Dock XS
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockXS
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockXS
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.DockXS++
@@ -922,6 +975,7 @@ Description: Widget for Xen HTML
 Name: Dock XS++
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockXS++
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockXS++
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Stt3NotchXS
@@ -938,6 +992,7 @@ Description: Widget for Xen HTML
 Name: Stt3NotchXS
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Stt3NotchXS++
@@ -954,6 +1009,7 @@ Description: Widget for Xen HTML
 Name: Stt3NotchXS++
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS++
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS++
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.CanhChimTrang
@@ -970,6 +1026,7 @@ Description: Badge for all themes
 Name: Cánh chim trắng
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CanhChimTrang
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CanhChimTrang
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
 Package: com.matchstic.xenhtml
@@ -1001,6 +1058,7 @@ Description: Widget for Xen HTML
 Name: Stt3NotchXS
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Stt3NotchXS++
@@ -1017,6 +1075,7 @@ Description: Widget for Xen HTML
 Name: Stt3NotchXS++
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS++
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS++
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.StatusBarNotch
@@ -1033,6 +1092,7 @@ Description: Widget for Xen HTML
 Name: StatusBarNotch
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StatusBarNotch
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StatusBarNotch
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.StatusBarNotch++
@@ -1049,6 +1109,7 @@ Description: Widget for Xen HTML
 Name: StatusBarNotch++
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StatusBarNotch++
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StatusBarNotch++
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.CanhChimVang
@@ -1065,6 +1126,7 @@ Description: Badge for all themes
 Name: Cánh chim vàng
 Author: Cường Mèo
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CanhChimVang
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CanhChimVang
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
 Package: com.TruongTamPhong.AmLich
@@ -1081,6 +1143,7 @@ Description: Widget for Xen HTML
 Name: Âm Lịch
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AmLich
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AmLich
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.DanhNgon
@@ -1097,6 +1160,7 @@ Description: Widget for Xen HTML
 Name: Danh Ngôn
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DanhNgon
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DanhNgon
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.DiamondGold
@@ -1113,6 +1177,7 @@ Description: Widget for Xen HTML
 Name: Diamond Gold
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DiamondGold
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DiamondGold
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.DiamondWhite
@@ -1129,6 +1194,7 @@ Description: Widget for Xen HTML
 Name: Diamond White
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DiamondWhite
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DiamondWhite
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.VanTay
@@ -1145,6 +1211,7 @@ Description: Widget for Xen HTML
 Name: Vân Tay
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.VanTay
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.VanTay
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.BadgeCustomizer
@@ -1161,6 +1228,7 @@ Description: Change badge color, size & position
 Name: Badge Customizer Việt Nam
 Author: merdok
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BadgeCustomizer
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BadgeCustomizer
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.Gold
@@ -1177,6 +1245,7 @@ Description: Chủ đề màu Gold
 Name: Gold
 Author: Hà Tía Tô & Kim Chậm
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Gold
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Gold
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
 Package: com.TruongTamPhong.FullHouse
@@ -1193,6 +1262,7 @@ Description: Widget for Xen HTML
 Name: Full House
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FullHouse
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FullHouse
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.FullHouseGold
@@ -1209,6 +1279,7 @@ Description: Widget for Xen HTML
 Name: Full House Gold
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FullHouseGold
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FullHouseGold
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.WeatherNow
@@ -1225,6 +1296,7 @@ Description: Widget for Xen HTML
 Name: Weather Now
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNow
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNow
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.WeatherNowDark
@@ -1241,6 +1313,7 @@ Description: Widget for Xen HTML
 Name: Weather Now Dark
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNowDark
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNowDark
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.PinkColor
@@ -1257,6 +1330,7 @@ Description: Chủ đề màu Hường
 Name: Pink Color
 Author: Kim Chậm + Hà Tía Tô + TTP
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.PinkColor
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.PinkColor
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
 Package: com.TruongTamPhong.Luxury
@@ -1273,6 +1347,7 @@ Description: Theme for all devices iPhone
 Name: Luxury
 Author: Kim Chậm + Hà Tía Tô + TTP
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Luxury
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Luxury
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
 Package: com.TruongTamPhong.WeatherNow
@@ -1289,6 +1364,7 @@ Description: Widget for Xen HTML
 Name: Weather Now
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNow
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNow
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.WeatherNowDark
@@ -1305,6 +1381,7 @@ Description: Widget for Xen HTML
 Name: Weather Now Dark
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNowDark
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNowDark
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.ThuPhap
@@ -1321,6 +1398,7 @@ Description: Widget for Xen HTML
 Name: Thư Pháp
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ThuPhap
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ThuPhap
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.VanTay
@@ -1337,6 +1415,7 @@ Description: Widget for Xen HTML
 Name: Vân Tay
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.VanTay
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.VanTay
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Circle
@@ -1353,6 +1432,7 @@ Description: Widget for Xen HTML
 Name: Circle
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Circle
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Circle
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.HTCClock
@@ -1369,6 +1449,7 @@ Description: Widget for Xen HTML
 Name: HTC Clock
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.HTCClock
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.HTCClock
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.AnalogClockWeather
@@ -1385,6 +1466,7 @@ Description: Widget for Xen HTML
 Name: Analog Clock Weather
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AnalogClockWeather
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AnalogClockWeather
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Circle
@@ -1401,6 +1483,7 @@ Description: Widget for Xen HTML
 Name: Circle
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Circle
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Circle
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.ClockDeaultSmall
@@ -1417,6 +1500,7 @@ Description: Widget for Xen HTML
 Name: Clock Deault Small
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ClockDeaultSmall
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ClockDeaultSmall
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.MainLed
@@ -1433,6 +1517,7 @@ Description: Widget for Xen HTML
 Name: MainLed
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.MainLed
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.MainLed
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.StartNotch
@@ -1449,6 +1534,7 @@ Description: Widget for Xen HTML
 Name: Start Notch
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StartNotch
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StartNotch
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.VanTay
@@ -1465,6 +1551,7 @@ Description: Widget for Xen HTML
 Name: Vân Tay
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.VanTay
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.VanTay
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.WeatherNow
@@ -1481,6 +1568,7 @@ Description: Widget for Xen HTML
 Name: Weather Now
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNow
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNow
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.WeatherNow+
@@ -1497,6 +1585,7 @@ Description: Widget for Xen HTML
 Name: Weather Now+
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNow+
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNow+
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.WeatherNowDark
@@ -1513,6 +1602,7 @@ Description: Widget for Xen HTML
 Name: Weather Now Dark
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNowDark
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNowDark
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.WeatherNowDark+
@@ -1529,6 +1619,7 @@ Description: Widget for Xen HTML
 Name: Weather Now Dark+
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNowDark+
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNowDark+
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.AnalogClockWeather+
@@ -1545,6 +1636,7 @@ Description: Widget for Xen HTML
 Name: Analog Clock Weather+
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AnalogClockWeather+
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AnalogClockWeather+
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.StartNotch
@@ -1561,6 +1653,7 @@ Description: Widget for Xen HTML
 Name: Start Notch
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StartNotch
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StartNotch
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.XenHTMLVietNam
@@ -1577,6 +1670,7 @@ Description: Hiển thị Widget lên màn hình chính và màn hình khoá. Vi
 Name: Xen HTML Việt Nam
 Author: Matt Clarke <matt@incendo.ws>
 Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
+SileoDepiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.XenInfoVietNam
@@ -1593,6 +1687,7 @@ Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML
 Name: XenInfo Việt Nam
 Author: JunesIphone & Matchstic
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenInfoVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenInfoVietNam
 Icon: file:///Applications/Cydia.app/Sections/Utilities1.png
 
 Package: com.TruongTamPhong.SnowBoardVietNam
@@ -1610,6 +1705,7 @@ Name: SnowBoard Việt Nam
 Author: Spark & Dennis D. Bednarz <truongtamphong686@gmail.com>
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.SnowBoardApplication
@@ -1626,6 +1722,7 @@ Description: SnowBoard application
 Name: SnowBoard Application
 Author: Spark
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardApplication
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardApplication
 Icon: file:///Applications/Cydia.app/Sections/Utilities1.png
 
 Package: com.TruongTamPhong.BlurTransV1
@@ -1642,6 +1739,7 @@ Description: Widget for Xen HTML
 Name: BlurTrans V1
 Author: Ata Ra Shi
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BlurTransV1
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BlurTransV1
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.ClockBelle
@@ -1658,6 +1756,7 @@ Description: Widget for Xen HTML
 Name: ClockBelle
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ClockBelle
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ClockBelle
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.InformationColumn
@@ -1674,6 +1773,7 @@ Description: Widget for Xen HTML
 Name: InformationColumn
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.InformationColumn
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.InformationColumn
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Nema
@@ -1690,6 +1790,7 @@ Description: Widget for Xen HTML
 Name: Nema
 Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Nema
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Nema
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Ando
@@ -1706,6 +1807,7 @@ Description: Widget for Xen HTML
 Name: Ando
 Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ando
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ando
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.MyName
@@ -1722,6 +1824,7 @@ Description: Widget for Xen HTML
 Name: My Name
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.MyName
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.MyName
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.ThreeDock
@@ -1738,6 +1841,7 @@ Description: Widget for Xen HTML
 Name: ThreeDock
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ThreeDock
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ThreeDock
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.SnowBoardVietNam
@@ -1755,6 +1859,7 @@ Name: SnowBoard Việt Nam
 Author: Spark & Dennis D. Bednarz <truongtamphong686@gmail.com>
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.BlurTransV1
@@ -1771,6 +1876,7 @@ Description: Widget for Xen HTML
 Name: BlurTrans V1
 Author: Ata Ra Shi
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BlurTransV1
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BlurTransV1
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Ando
@@ -1787,6 +1893,7 @@ Description: Widget for Xen HTML
 Name: Ando
 Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ando
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ando
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.FlyJBVietNam
@@ -1803,6 +1910,7 @@ Description: Chống ứng dụng phát hiện máy jailbreak
 Name: FlyJB Việt Nam
 Author: XsF1re
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.BorderV1
@@ -1819,6 +1927,7 @@ Description: Widget for Xen HTML
 Name: BorderV1
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BorderV1
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BorderV1
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.SnowBoardVietNam
@@ -1836,6 +1945,7 @@ Name: SnowBoard Việt Nam
 Author: Spark & Dennis D. Bednarz <truongtamphong686@gmail.com>
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.SnowBoardVietNam
@@ -1853,6 +1963,7 @@ Name: SnowBoard Việt Nam
 Author: Spark & Dennis D. Bednarz <truongtamphong686@gmail.com>
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.SnowBoardVietNam
@@ -1870,6 +1981,7 @@ Name: SnowBoard Việt Nam
 Author: Spark & Dennis D. Bednarz <truongtamphong686@gmail.com>
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.XenHTMLVietNam
@@ -1886,6 +1998,7 @@ Description: Hiển thị Widget lên màn hình chính và màn hình khoá. Vi
 Name: Xen HTML Việt Nam
 Author: Matt Clarke <matt@incendo.ws>
 Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
+SileoDepiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.IwMuneNeonEdition
@@ -1902,6 +2015,7 @@ Description: Widget for Xen HTML
 Name: Iw Mune - Neon Edition
 Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.IwMuneNeonEdition
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.IwMuneNeonEdition
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.FlyJBVietNam
@@ -1918,6 +2032,7 @@ Description: Chống ứng dụng phát hiện máy jailbreak
 Name: FlyJB Việt Nam
 Author: XsF1re
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.PicoBanners2
@@ -1934,6 +2049,7 @@ Description: Thu nhỏ thanh thông báo.
 Name: PicoBanners 2
 Author: Michele Primavera
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.PicoBanners2
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.PicoBanners2
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.FlyJBVietNam
@@ -1950,6 +2066,7 @@ Description: Chống ứng dụng phát hiện máy jailbreak
 Name: FlyJB Việt Nam
 Author: XsF1re
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.SnowBoardVietNam
@@ -1967,6 +2084,7 @@ Name: SnowBoard Việt Nam
 Author: Spark & Dennis D. Bednarz <truongtamphong686@gmail.com>
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.NextUp2VietNam
@@ -1983,6 +2101,7 @@ Description: See and change the next track
 Name: NextUp 2 Việt Nam
 Author: Andreas Henriksson
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NextUp2VietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NextUp2VietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.SixlsVietNam
@@ -1999,6 +2118,7 @@ Description: iOS 6 Style Lock Screen!
 Name: Six (LS) Việt Nam
 Author: Skitty
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SixlsVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SixlsVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.SwitcherStyleVietNam
@@ -2015,6 +2135,7 @@ Description: Đa nhiệm dạng lưới.
 Name: SwitcherStyle Việt Nam
 Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SwitcherStyleVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SwitcherStyleVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.XenHTMLVietNam
@@ -2031,6 +2152,7 @@ Description: Hiện Widget lên màn chính và khoá. Việt hoá Trương Tam 
 Name: Xen HTML Việt Nam
 Author: Matt Clarke <matt@incendo.ws>
 Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
+SileoDepiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.Apple.Cydia.Jailbreak.icon
@@ -2061,4 +2183,5 @@ Description: Chủ đề Belle dành cho bạn.
 Name: Symbian Belle
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SymbianBelle
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SymbianBelle
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
