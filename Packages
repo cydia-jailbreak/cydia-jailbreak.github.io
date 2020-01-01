@@ -7,6 +7,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.CleanFunWhiteRed_1.0_iphoneos-arm.deb
 Size: 272612
 MD5sum: 2fcf42a72703775efd212763030c959f
+SHA256: 86d07d96a58536c73ee69d7bc87d2eb86111280cb107a9645c1d3b0138a7b312
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: CleanFun White Red
@@ -24,6 +25,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.ClockTransparent_1.0_iphoneos-arm.deb
 Size: 224018
 MD5sum: 29671f72b274318946eed7ba62c35ac5
+SHA256: add6ff733b85a6cd65a70b9fa8e404cea094dfb1680a72040354b9bbc70074f6
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Clock Transparent
@@ -41,6 +43,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AutoChangeWallpaper_1.0_iphoneos-arm.deb
 Size: 4483914
 MD5sum: 40df34ca0ec6b1b4b3a24a2611566ef1
+SHA256: 7cb0f3d23565cede66eb602146775b817a9fff020c9634412ae9c93757551b82
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Auto Change Wallpaper
@@ -58,6 +61,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Ybht_1.0_iphoneos-arm.deb
 Size: 35720
 MD5sum: af6c893e5c05c695371a6678012b7ebb
+SHA256: 21165102825e2c787e4469949106f2f8e60072d8c153af2600d6a0d0d9d7588d
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Ybht
@@ -75,6 +79,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Slyd_0.1.1_iphoneos-arm.deb
 Size: 18880
 MD5sum: 6c7de2ea9c9d5d559195017f914db61f
+SHA256: 7fe42fdc7299bccec8445118a72638aa55fa77f71f2624a0e3b0a80115c09551
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Trượt để mở khoá cho >= iPhone X
 Name: Slyd (SlideToUnlock) [Việt hoá]
@@ -92,6 +97,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.LgClock_1.0_iphoneos-arm.deb
 Size: 256884
 MD5sum: 9015320eada7ce3a5fab13e13e6d02cc
+SHA256: 0ea964afb470a8bfee6a89cc14c8688f0fc2e32ecdddd06b22aaa8b2f8c8b1b9
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Lg Clock
@@ -109,29 +115,13 @@ Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
 Filename: ./debfiles/com.TruongTamPhong.BatteryPercentX_1.3.2-2_iphoneos-arm.deb
 Size: 249952
 MD5sum: 17ad9dc7bb86cc994e39d0976644a449
+SHA256: 6762a9f60b837f6d9dff7aa252f9bbffeb034b97ece3eaaf7063696f64d39837
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Replaces the battery icon with percentage 
 Name: BatteryPercentX [Việt hoá]
 Author: Spark
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BatteryPercentX
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BatteryPercentX
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
-Package: com.matchstic.xenhtml
-Architecture: iphoneos-arm
-Version: 0.4rc7-2
-Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
-Filename: ./debfiles/com.matchstic.xenhtml_0.4rc7-2_iphoneos-arm.deb
-Size: 1120494
-MD5sum: 9a86d16f4b50641368b1398405f35aeb
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Unified HTML rendering; lockscreen and homescreen
-Name: Xen HTML [Việt hoá]
-Author: Matt Clarke <matt@incendo.ws>
-Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
-SileoDepiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.matchstic.libgithubissues
@@ -143,6 +133,7 @@ Depends: firmware (>= 8.0)
 Filename: ./debfiles/com.matchstic.libgithubissues_0.0.2_iphoneos-arm.deb
 Size: 1006630 
 MD5sum: 580538464dd5e9405c53bc7fe8fca1a3
+SHA256: 5921772c552e17c5a88444d021911119d77587f1e432b63fb4759e1c88ee95bf
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Integrate GitHub Issues as a bugtracker
 Name: libGitHubIssues
@@ -159,6 +150,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.0_iphoneos-arm.deb
 Size: 15942
 MD5sum: 5dd23f6a6ccc6106903f5797152d1112
+SHA256: 0f84a4a15dcc45eebc732ce18d58e98fdba58a84f74a3ef55ffb0b107e2f2ec1
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Âm Lịch & Danh Ngôn
@@ -176,6 +168,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.HtcClock_1.0_iphoneos-arm.deb
 Size: 44262
 MD5sum: ec0426a8f4aa70761142bab5a63bbc9d
+SHA256: e83fe724940d05eb150c7799a56326aca4b1d2161e0d829e8b67101eb9b3adfe
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: HTC Clock
@@ -193,6 +186,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.RectangleClock_1.0_iphoneos-arm.deb
 Size: 66126
 MD5sum: fc1b9d3321b42b4e7226887689eaae08
+SHA256: f292de9eca8f2f45066f7f408fca8ce059739faaccdf650b6ce24803831d9f16
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Rectangle Clock
@@ -210,6 +204,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.TemperatureClock_1.0_iphoneos-arm.deb
 Size: 141108
 MD5sum: 92a31f9d7e74b104744c397c75072308
+SHA256: 532b336088b008b2f75c7ad9b911704a5022709eb225898aa6e74df4c57c198c
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Temperature Clock
@@ -227,6 +222,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.TextDate_1.0_iphoneos-arm.deb
 Size: 74190
 MD5sum: a6167a371aabd42bab746c8ac4026f22
+SHA256: 61fbdc99071d496209f2009c01d9a277a488536b1796c02cde9ec42918e0adbe
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Text Date
@@ -244,6 +240,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.BoCongAnh_1.0_iphoneos-arm.deb
 Size: 413838
 MD5sum: 0ac9de26b0a562c16d58cd73cc51a00c
+SHA256: 7e5b314d97cb12edec460abe9898b9f429b290c9f154c2be09a7aaa46fef94e6
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Bồ Công Anh
@@ -261,6 +258,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.LaRoi_1.0_iphoneos-arm.deb
 Size: 9757882
 MD5sum: c845e15c4098f40bb1061684ba911d07
+SHA256: 9d22bb2d323d729ac536615485758742dbcaa03fbfed3ae4da5df04dfeddb039
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Lá Rơi
@@ -278,6 +276,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.SaoBay_1.0_iphoneos-arm.deb
 Size: 32792
 MD5sum: 61c51cbdec7c2afb6a8822eaa8aa749c
+SHA256: 16221bef5573aae2b800b74d64027385a53abbd338fa54ff454bc74c5a15ba53
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Sao Bay
@@ -295,6 +294,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.TuyetRoi_1.0_iphoneos-arm.deb
 Size: 28616
 MD5sum: e4bb1667ba1d9b2f494f4d2bf4c01d44
+SHA256: 7fca2d799b0201fa96e4da0086ec1d146568c95336f19addc076b59bd93d4bf4
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Tuyết Rơi
@@ -312,6 +312,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.IconStateBackUp_1.0_iphoneos-arm.deb
 Size: 216086
 MD5sum: d89ae0893b3942cb2e281ff30838274c
+SHA256: 53a958a3be6d083a9650433c934018cf91e5f9a2fc453d78a04e408a39d69f61
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Sao lưu và khôi phục vị trí biểu tượng trên màn hình chính!
 Name: IconStateBackUp [Việt hóa]
@@ -329,6 +330,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.0_iphoneos-arm.deb
 Size: 233268
 MD5sum: 4de20360915b04457110abf8ff681b2c
+SHA256: 0c6dfad5ef8e477fdc2d0cfd94ff834e40ba149806d4145c9685096d26759e8a
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Weather & Time
@@ -346,6 +348,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Ybht_1.0.1_iphoneos-arm.deb
 Size: 44658
 MD5sum: 398c104f27cb8e84a7cbb3cb66507585
+SHA256: 19e53b63ff33bde57cbeffb1d8ebf8a41c1baf3bad454c6ae552a5e971831174
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Ybht
@@ -363,6 +366,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Activator_1.1_iphoneos-arm.deb
 Size: 14092
 MD5sum: 4e73747068a551c218cdcd1689920573
+SHA256: cfca30e637f71fad5ab730da2d03ccc4111b27c22cfd9c879580ea07242c7293
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Centralized gestures, button and shortcut management for iOS
 Name: Activator [Việt hóa]
@@ -380,6 +384,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.1_iphoneos-arm.deb
 Size: 233260
 MD5sum: 59eba883dc9c64f6985224209ffe6936
+SHA256: 9054593db345f5c21519f62e89f2134b7b009a8f9aa2babccaa957fab05b8706
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Weather & Time
@@ -397,6 +402,7 @@ Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debfiles/com.TruongTamPhong.Palert_1.1.0-3_iphoneos-arm.deb
 Size: 136978
 MD5sum: 7906f9bf336be4de7d6cb1ed868ea70e
+SHA256: 965ec74aac289fae21ea4471e56f3b386e4fddab4468675d8dc8f4476cece067
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Làm mờ nền cho các cảnh báo.
 Name: Palert [Việt hoá]
@@ -414,6 +420,7 @@ Depends: mobilesubstrate, firmware (>= 11.0)
 Filename: ./debfiles/com.TruongTamPhong.DoubleTapToWake_1.0_iphoneos-arm.deb
 Size: 4860
 MD5sum: 25f979005c20234da64dc28d770a1a96
+SHA256: beb53a9468be97c25b939aae9b217105ee3d862123c26062e14fa0b8f0972988
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Waking your phone too often? Double Tap to Wake, rather than Tap to Wake, on iPhone X.
 Name: DoubleTapToWake
@@ -431,6 +438,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.2_iphoneos-arm.deb
 Size: 247942
 MD5sum: 2df67ac1155e6f81bddb87f0bae9744d
+SHA256: 943d2142fa8e404ab7bdc6854e9a65a413b53f230a8217edecdc04391b6b6ed8
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Weather & Time
@@ -448,6 +456,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.3_iphoneos-arm.deb
 Size: 137998
 MD5sum: dd7069c35d2a5bfe7253172202c9937f
+SHA256: e646f7251201ae7af63f21583e9a829f4af7c4d6885c1b6bb99cb73cea07d7b5
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Âm Lịch & Danh Ngôn
@@ -465,6 +474,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.CalendaText_1.0_iphoneos-arm.deb
 Size: 143442
 MD5sum: 46777805ac4d9eb659fbff3070d1e022
+SHA256: 57a0f985ff3095bf5a15133d0a1a52a241fbd8856149502fd57a018a371f9374
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Calenda Text
@@ -482,6 +492,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.KamCCNarrow_1.0_iphoneos-arm.deb
 Size: 95820
 MD5sum: 2d4241cf463545d1320e33e317b85bdc
+SHA256: 18034229a46be7d20d01108b75ed65697a29bbb17d401df282e0ec7d97a0233a
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: KamCC Narrow
@@ -489,21 +500,6 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.KamCCNarrow
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.KamCCNarrow
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
-Package: com.matchstic.xenhtml
-Architecture: iphoneos-arm
-Version: 0.4rc7-3
-Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
-Filename: ./debfiles/com.matchstic.xenhtml_0.4rc7-3_iphoneos-arm.deb
-Size: 1081278
-MD5sum: 7e63c6c56d41425448ff2483a7322666
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Hiển thị Widget lên màn hình chính và màn hình khoá. Việt hoá by Trương Tam Phong
-Name: Xen HTML [Việt hoá]
-Author: Matt Clarke <matt@incendo.ws>
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.NotchXS
 Architecture: iphoneos-arm
@@ -514,6 +510,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.NotchXS_1.0_iphoneos-arm.deb
 Size: 92342
 MD5sum: ac27e573c6f19d525227581e6420d785
+SHA256: 833abcaba38c19cb03636b883470eb88f622ea73a175199d9e0194da39133d3e
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Notch XS
@@ -531,6 +528,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.1_iphoneos-arm.deb
 Size: 21886
 MD5sum: 8a0febae9e835f2c1014270f2a86791f
+SHA256: 4c25a6c78c798b37f6bc245346804c0fc8f83528c8af1f44de9a5e832f07abd0
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Dock City XS
@@ -548,6 +546,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.LgClock_1.1_iphoneos-arm.deb
 Size: 256436
 MD5sum: c42a3978e46fa16ac28fb267123690d5
+SHA256: e24df82879c49a95997e20f3b0c6070cd6e50196d5fd5c366e467397ff29e00a
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Lg Clock
@@ -565,6 +564,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.2.1_iphoneos-arm.deb
 Size: 248026
 MD5sum: 90c8a6a2ffa04252d6550a8459102087
+SHA256: f215fd75eaf71faa7a206192bee0b31d4ef0786abec516ca86a4d320a410fefd
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Weather & Time
@@ -582,6 +582,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.NotchXS_1.1_iphoneos-arm.deb
 Size: 76392
 MD5sum: 750929aed0edda78416f08c660aade14
+SHA256: 8314fb82c5f8561ddf31131c5337a250e3d6a910ce1cfabaf5cbfac0ac624cae
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Notch XS
@@ -599,6 +600,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.2_iphoneos-arm.deb
 Size: 21998
 MD5sum: 0b772826cfd81691ad85a76a46c1228d
+SHA256: 960045aa4544086f7537d2a65dc6ada7cb57f3a95d5af80acf73baef46afb7b2
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Dock City XS
@@ -616,6 +618,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.2.1_iphoneos-arm.deb
 Size: 21994
 MD5sum: 130f57eccb33781ca476458b416b97d6
+SHA256: 7d237fc07fa9bf90d80023e24e2ca7ba26435837f2baf5df72533ead2b966729
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Dock City XS
@@ -633,6 +636,7 @@ Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.IconBundlesOne, c
 Filename: ./debfiles/com.TruongTamPhong.Glasklart_5.61_iphoneos-arm.deb
 Size: 24339050
 MD5sum: 8daeef55f58650c0a26d8661aefc2d1d
+SHA256: 3978ace375f2e33e155cc8d63cf49d56a4cdab7984e4a73c8b80fb06137ce9a0
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Glasklart is swedish, it means clear as glass
 Name: Glasklart
@@ -650,6 +654,7 @@ Depends: firmware (>=9.0)
 Filename: ./debfiles/com.TruongTamPhong.IconBundlesOne_1.0_iphoneos-arm.deb
 Size: 21184048
 MD5sum: 7d7b8835db3eefca9a4802238ad72911
+SHA256: 833f31a7d972b5831a87aea32787a8f9b80214db70cbe2181730283afc30371d
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Gói biểu tượng hỗ trợ Glasklart
 Name: IconBundlesOne
@@ -666,6 +671,7 @@ Priority: optional
 Filename: ./debfiles/com.TruongTamPhong.IconBundlesTwo_1.0.1_iphoneos-arm.deb
 Size: 22008436
 MD5sum: 01dcc316de8023bd5d39153338ef4cf4
+SHA256: bca2fd1fb4940bb30a237c3643842b9b7998430418923ae64333b839a34d321b
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Gói biểu tượng hỗ trợ Glasklart
 Name: IconBundlesTwo
@@ -681,6 +687,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockXS_1.0_iphoneos-arm.deb
 Size: 7280
 MD5sum: 7bacf4e7af2269f6472717933eba8dad
+SHA256: 805327dcbfc281e0cf75d566ba5746281e8d0d6468585db69e42d8e792ccae50
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Dock XS
@@ -698,6 +705,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.3-1_iphoneos-arm.deb
 Size: 138404
 MD5sum: cdff53ff0af778f6e80c23fe7ae6f93d
+SHA256: 9209fd46014827d84416ca0715aec1ebb69e21dbac62d787d9563b253c895bf1
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Âm Lịch & Danh Ngôn
@@ -715,6 +723,7 @@ Depends: firmware (>=9.0)
 Filename: ./debfiles/com.TruongTamPhong.IconBundlesOne_1.1_iphoneos-arm.deb
 Size: 21257134
 MD5sum: 7cfc10485ea44c70b02aeb08ec0bc062
+SHA256: 4be528c0fdf5b511f2e348f0a948bef4a9df782e99fd206247550243f9535e03
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Gói biểu tượng hỗ trợ Glasklart 
 Name: IconBundlesOne
@@ -732,6 +741,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.TextDate_1.2_iphoneos-arm.deb
 Size: 66374
 MD5sum: 6df1f1269a4ddcab035db6d81ee30798
+SHA256: f913f80d529672b267d9f37dc2d91c28c07870bb88d90e2376e4d38910fb8a5b
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Text Date
@@ -749,6 +759,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.ThuPhap_1.0_iphoneos-arm.deb
 Size: 205666
 MD5sum: 751f6254be15cd086d7e2938def17cf5
+SHA256: 2ddbd1348af5f8e480ce40fb4574e9d1fb1875125404319aaed297443bf15896
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Thư Pháp
@@ -766,6 +777,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS++_1.0_iphoneos-arm.deb
 Size: 7304
 MD5sum: f9c7c24317af91fbb554735ea884cf4b
+SHA256: 871fe3db8a982a0f049989e7099228470d36de6458a2dea6620d39cc4aaad1a7
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Stt3NotchXS++
@@ -783,6 +795,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS++_1.1_iphoneos-arm.deb
 Size: 7432
 MD5sum: 2ccdfd4e54c0db66eda4cce0b1977af2
+SHA256: 7025665d0972f594e58982865a140d56346806a124a75ff8ccf742aae122ab84
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Stt3NotchXS++
@@ -800,6 +813,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS_1.1_iphoneos-arm.deb
 Size: 7406
 MD5sum: 1504294b38021b4822b2e96b0c7de3d6
+SHA256: 5a080491b4290257ed0f1cc136aff97319fc38d3306266f2fb882be98f550730
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Stt3NotchXS
@@ -817,6 +831,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.3_iphoneos-arm.deb
 Size: 22216
 MD5sum: c6b71f187a4d6dfc65e0c1041cc3ed62
+SHA256: 353a402a7f4a0c28afadf5786b35197a8590bfff89aedfde0c2eedc9ef586d34
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Dock City XS
@@ -834,6 +849,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockCityXS++_1.0_iphoneos-arm.deb
 Size: 22234
 MD5sum: b1a5568d22939501f5202478edd45842
+SHA256: baa5ccf843219c45f19af207f17494796be44c80b9febbc73befa6ee296aeed1
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Dock City XS++
@@ -851,6 +867,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockXS_1.2_iphoneos-arm.deb
 Size: 7414
 MD5sum: 0b4e781aca0576b9dd1eda06b22511d4
+SHA256: b49557ae22a83eb8e8837d0d582a5c350bd020cd39466aee5696fe9874b8168d
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Dock XS
@@ -868,6 +885,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockXS++_1.2_iphoneos-arm.deb
 Size: 7428
 MD5sum: a8e4529398acfc911bbfd302284c9681
+SHA256: a508119a5bc4d017690f65d5feb620d4117925c1b02a587b713b39620f626ae7
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Dock XS++
@@ -885,6 +903,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.StatusBarNotch_1.0_iphoneos-arm.deb
 Size: 7230
 MD5sum: 889a045ef57fea0565023c8c9e47be48
+SHA256: 47c6b63fef4993b39428f26fd943eede89a6aff3a66efdaa34209c880395136a
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: StatusBarNotch
@@ -902,6 +921,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.StatusBarNotch++_1.0_iphoneos-arm.deb
 Size: 7296
 MD5sum: 2fca4bda49045bf432515e727bfb1932
+SHA256: 162ed3eb9735da9d12770d6c2d7a6e165a65b4d5ab1b367263854385f435fe29
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: StatusBarNotch++
@@ -919,6 +939,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.3-1_iphoneos-arm.deb
 Size: 22218
 MD5sum: f289c91decb3551e417d355e17c8d8ae
+SHA256: 6133f06526b609b0a29e64aa40f760bf66bf09896c778c64ab4892daf9f4b681
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Dock City XS
@@ -936,6 +957,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockCityXS++_1.1_iphoneos-arm.deb
 Size: 22192
 MD5sum: 3d9fc6877e985e70266a0f94f0ceef7f
+SHA256: b7c6d686ea122c9989d98fb3fe3d5be5a19aa3b8faf9d0785292d354f0fa694b
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Dock City XS++
@@ -953,6 +975,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockXS_1.2-1_iphoneos-arm.deb
 Size: 7426
 MD5sum: 925ce92f7b2b9a1d502180a63c9f43ac
+SHA256: 460efe9e6e247759297c44c6b6b57ac2efa2c9ac5c757c9b1cefe71bbc57d121
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Dock XS
@@ -970,6 +993,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DockXS++_1.2-1_iphoneos-arm.deb
 Size: 7438
 MD5sum: 209b1d9db455b35a2fef64877949fafd
+SHA256: 6720ef310b1f3756ee17c9088485ffca571727c96680415f9ec756b0a12c3599
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Dock XS++
@@ -987,6 +1011,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS_1.2_iphoneos-arm.deb
 Size: 7498
 MD5sum: 4a173605641d090cbe1d5f267b6730dd
+SHA256: 830889c46635c21e3da33336fd49913d29538796d3ddd64a72acf161cf5901a4
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Stt3NotchXS
@@ -1004,6 +1029,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS++_1.2_iphoneos-arm.deb
 Size: 7510
 MD5sum: 080987e983439cbb2a77c8a2445ed3fc
+SHA256: ea8f74165a584c9a504c573d39e9d7620e7ef3d4c0c7d120549e1bfdd34ad767
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Stt3NotchXS++
@@ -1021,6 +1047,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.CanhChimTrang_1.0_iphoneos-arm.deb
 Size: 10650
 MD5sum: e405080f05713212d7f4d7c8d61aa711
+SHA256: 67dbbdd53c10b39326bd8160ad370822d9afce92683ddf6e2671f1a39cdb26e3
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Badge for all themes
 Name: Cánh chim trắng
@@ -1028,21 +1055,6 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CanhChimTrang
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CanhChimTrang
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
-
-Package: com.matchstic.xenhtml
-Architecture: iphoneos-arm
-Version: 0.4rc8-1
-Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
-Filename: ./debfiles/com.matchstic.xenhtml_0.4rc8-1_iphoneos-arm.deb
-Size: 1226068
-MD5sum: 00534a76e70e817ac86b1ae63838b00d
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Unified HTML rendering; lockscreen and homescreen
-Name: Xen HTML [Việt hoá]
-Author: Matt Clarke <matt@incendo.ws>
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.Stt3NotchXS
 Architecture: iphoneos-arm
@@ -1053,6 +1065,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS_1.2.1_iphoneos-arm.deb
 Size: 7482
 MD5sum: 7d6fea651f0c4f1939cf4784e829f522
+SHA256: 45994dd8a65efa245493b80a0e80701bdd8537fffe405b1136abe587de921e30
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Stt3NotchXS
@@ -1070,6 +1083,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS++_1.2.1_iphoneos-arm.deb
 Size: 7620
 MD5sum: c16ac1efcfc3b5b0425f9b8bbba19ddd
+SHA256: 975cce891ac25f296be2f046398b2dff881f2cce3201dd5a15ed61e618b2a564
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Stt3NotchXS++
@@ -1087,6 +1101,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.StatusBarNotch_1.1_iphoneos-arm.deb
 Size: 7472
 MD5sum: 44b5abf68f9e917c1d4fe857790866d3
+SHA256: f2da51dd4438d2599a26195d8ffa568bf2716709ac5344d6ec64109b8f82e873
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: StatusBarNotch
@@ -1104,6 +1119,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.StatusBarNotch++_1.3_iphoneos-arm.deb
 Size: 7500
 MD5sum: 1a57c6dabf1a9a8fa79f951b49e1d593
+SHA256: 43aded6c2f08c8b3f299a3d30761469e513c9187497b9d6e100f495853f69404
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: StatusBarNotch++
@@ -1121,6 +1137,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.CanhChimVang_1.0_iphoneos-arm.deb
 Size: 9232
 MD5sum: 7ad8e50a591633eebfc18b5765000b74
+SHA256: 862fc97bf1c2770da19d3e3bbbda140cb0cfd4595880d6561813f9e2c6107aef
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Badge for all themes
 Name: Cánh chim vàng
@@ -1138,6 +1155,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AmLich_1.0_iphoneos-arm.deb
 Size: 127252
 MD5sum: 73c0775a7dff533bfb8db0cee233271c
+SHA256: 53fcf561314e5799b5b7d1baf6c59663d3a047e8a274e75e9d4dfb02e767187f
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Âm Lịch
@@ -1155,6 +1173,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DanhNgon_1.0_iphoneos-arm.deb
 Size: 137640
 MD5sum: e1228d38df8b93b27702893ec250d217
+SHA256: 78bc619eb186dac56d6bc2952dd7c7b994dffdb786ba43a69dd60ceb17914ea4
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Danh Ngôn
@@ -1172,6 +1191,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DiamondGold_1.0_iphoneos-arm.deb
 Size: 77806
 MD5sum: 8583b4b08ac7a8a4439d300910669eef
+SHA256: a67a72e2ada2319b1aacbcae54b99d872d7e691e04791281f5e52f75544079cb
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Diamond Gold
@@ -1189,6 +1209,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.DiamondWhite_1.0_iphoneos-arm.deb
 Size: 77800
 MD5sum: fdf8bf3c06d129127a864ae0b5e464aa
+SHA256: a8ff71980bea116fba7bc4b5f53c198c8ff7a988f916c7343a7782a078a55303
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Diamond White
@@ -1206,6 +1227,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.VanTay_1.0_iphoneos-arm.deb
 Size: 27282
 MD5sum: a4ef34dfe7f7838e8e83da3895e48c90
+SHA256: 64c968e8abeae42bd08aca93552da10399ae43b92f402fd396999038551c9fa0
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Vân Tay
@@ -1223,6 +1245,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.BadgeCustomizer_1.4.3-3_iphoneos-arm.deb
 Size: 69668
 MD5sum: b5ce79f39cf3fb40cd3b0e48c56279c1
+SHA256: 2cb8dcfd281f8ec3523d95c9a1a00752fd507fc0bae0d3afaa41be5a9449a1de
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Change badge color, size & position
 Name: Badge Customizer Việt Nam
@@ -1240,6 +1263,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Gold_2.0.3_iphoneos-arm.deb
 Size: 800144
 MD5sum: a614232c9948dcf815ccdd0fa62d0b55
+SHA256: 500c2dd2c7899d1bc5d1d378c8b1e37ad98af43b2cb0420dbaa3dac6e576909d
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Chủ đề màu Gold
 Name: Gold
@@ -1257,6 +1281,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.FullHouse_1.0_iphoneos-arm.deb
 Size: 6026
 MD5sum: c169dbb4cdcccb2f5b4f1d0b4eaf6234
+SHA256: 33356408fc7c6bbd29a2e2a89207ff6877b8f3f78f9085d60c5ecc6363d527fb
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Full House
@@ -1274,6 +1299,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.FullHouseGold_1.0_iphoneos-arm.deb
 Size: 5924
 MD5sum: 284cc288dfcbf3a694ea2d18aa06a298
+SHA256: e5e82e6ee64c71549cb757dba11b365da6ba7c3935c7593ca43a85779e7cc607
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Full House Gold
@@ -1291,6 +1317,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherNow_1.0_iphoneos-arm.deb
 Size: 9902180
 MD5sum: d24b94688e0efc636f36c822e6f37c26
+SHA256: c4624c1dbb1a3a8d9bc5f00f80638cb4ad21695625dbd737a8a91752d7da2125
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Weather Now
@@ -1308,6 +1335,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherNowDark_1.0_iphoneos-arm.deb
 Size: 8998294
 MD5sum: 9ecdbfeb314531b314901cfc4446a94f
+SHA256: 6c7ce3eb767f74e1a46e7f9858e97cc5fcaa7d08ec2feb4f071e41d81d989677
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Weather Now Dark
@@ -1325,6 +1353,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.PinkColor_2.0.5_iphoneos-arm.deb
 Size: 1290712
 MD5sum: f8eebf77b2d3792214d600bf3321a380
+SHA256: eda45911133b3934b10169b150e8e287777477ebac87b611df12963e1789c045
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Chủ đề màu Hường
 Name: Pink Color
@@ -1342,6 +1371,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Luxury_2.1_iphoneos-arm.deb
 Size: 1522494
 MD5sum: 65e8099d252f126294bd6f2178637110
+SHA256: 75eedf85751a2b868bf59355b7f8833827ecfbdb3c4d13921fcf265b0fd4416a
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Theme for all devices iPhone
 Name: Luxury
@@ -1359,6 +1389,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherNow_1.1_iphoneos-arm.deb
 Size: 9902168
 MD5sum: ab781ad57dfee2c71e5286fecf531ffb
+SHA256: b399d12fc7a77592c4f43a835c37365b50dff0f1f9e1851a8626d2be89c9306d
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Weather Now
@@ -1376,6 +1407,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherNowDark_1.1_iphoneos-arm.deb
 Size: 8998986
 MD5sum: ed2c511b080c690c7b683e1aea5f2f15
+SHA256: 35d4f088af7a21d594efe5a44d779601fa45e2b5ddadec97bc4c549c139c2d73
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Weather Now Dark
@@ -1393,6 +1425,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.ThuPhap_1.1_iphoneos-arm.deb
 Size: 185270
 MD5sum: e4c9c19a5f3ebc22a2b11a2d300d1ca7
+SHA256: 475386818d4646aa17213a2818e652f604401124462a100fdbcf1c34dc66755d
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Thư Pháp
@@ -1410,6 +1443,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.VanTay_1.1_iphoneos-arm.deb
 Size: 612058
 MD5sum: 1f84afce724860b2458b16fd0425053f
+SHA256: b281a26ceb69ee1a2e51827cc78bb31812d91d1c2c4fa21976c039f564038a6d
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Vân Tay
@@ -1427,6 +1461,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Circle_1.0_iphoneos-arm.deb
 Size: 5148
 MD5sum: 5824277fd5a1cbb085f27303b615ca6f
+SHA256: 2665339b0c0dc16806daf214dbb5936a44d383bf14c9af7426c087a8ed96d1f6
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Circle
@@ -1444,6 +1479,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.HTCClock_1.1_iphoneos-arm.deb
 Size: 126168
 MD5sum: 73c8a257d103fa44003dc68dac099513
+SHA256: 27be414a72d33de47ec6304273aa22c90ad6dc45f4b2f0386da9125113165da6
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: HTC Clock
@@ -1461,6 +1497,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AnalogClockWeather_1.0_iphoneos-arm.deb
 Size: 300694
 MD5sum: 1d369dbb49b0cf07cd9d47aeff8c4436
+SHA256: 7200f569c044628a65682f3e25b5111251b721e24b762ab8c0674e488b2bdde3
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Analog Clock Weather
@@ -1478,6 +1515,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Circle_1.1_iphoneos-arm.deb
 Size: 4330
 MD5sum: af50a4eb198faf393f648162abdcd5ec
+SHA256: 8203c2cb1d4e7351dbdd08333962312d021648410fdc64182962af089f411b0f
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Circle
@@ -1495,6 +1533,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.ClockDeaultSmall_1.0_iphoneos-arm.deb
 Size: 88312
 MD5sum: 0816781fde48cbc0bbb0834a6c47bc84
+SHA256: c0ec8070615c07cefc863490a1821366872e52e37140ae168243125a144f7d03
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Clock Deault Small
@@ -1512,6 +1551,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.MainLed_1.0_iphoneos-arm.deb
 Size: 10498016
 MD5sum: 774ca870134ae1711c4f171f87224043
+SHA256: c451e93391e7934174afcba5597bdf6ca9d3515396af2cb4dcaf639321351ed2
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: MainLed
@@ -1529,6 +1569,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.StartNotch_1.0_iphoneos-arm.deb
 Size: 6152
 MD5sum: da2eaf024c53fb3dfb1fdfae79071b1e
+SHA256: 1e688b33ab27ca4ae8bb60d29f95934eee747c3c7bdada17da913ccd467c36c5
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Start Notch
@@ -1546,6 +1587,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.VanTay_1.1-1_iphoneos-arm.deb
 Size: 612066
 MD5sum: 1226caf315512c1890ab321510fd95e2
+SHA256: 17e263010f3ccf5d2361e3dad3284da296c4aa76454679f09b6127b27a2fd4a7
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Vân Tay
@@ -1563,6 +1605,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherNow_1.2_iphoneos-arm.deb
 Size: 9902174
 MD5sum: b4c43a6b71d428d37d009eba26c12af3
+SHA256: 86476d5036088468225bb9f287a39266e7fcb583c78708bf442f6e644d205ec1
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Weather Now
@@ -1580,6 +1623,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherNow+_1.2_iphoneos-arm.deb
 Size: 9902192
 MD5sum: 177d549f6bd415bf0ec951a86ae415ed
+SHA256: e87ce8388dde832da31042eecbdb637c72473bc9581e78d887421ae2d18184e7
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Weather Now+
@@ -1597,6 +1641,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherNowDark_1.2_iphoneos-arm.deb
 Size: 8998944
 MD5sum: 4dc4141450066cd9ce6b82a10e92d293
+SHA256: fc730d73d3cddf74b03b722dc51a9120481acec3e4401aca56591e474e7b8dc7
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Weather Now Dark
@@ -1614,6 +1659,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherNowDark+_1.2_iphoneos-arm.deb
 Size: 8999002
 MD5sum: dd00b905dfc60a3fe888e68e7498f9d0
+SHA256: 7034e5b9ba1b9485101feeeb06de919a34dd1f195daa9265e51f4effbd53d312
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Weather Now Dark+
@@ -1631,6 +1677,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AnalogClockWeather+_1.0_iphoneos-arm.deb
 Size: 300698
 MD5sum: 6605c280e909a807425bd0a8e0f7722f
+SHA256: 7b7b131c2df8ddfbf42f941e71a159fc864a9fcc765bfd2184cd9e5fd2cdea62
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Analog Clock Weather+
@@ -1648,6 +1695,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.StartNotch_1.1_iphoneos-arm.deb
 Size: 6220
 MD5sum: b4490878363241e4087309e3d498c802
+SHA256: 64d0a593c6dc0dfa99fed9ad5ec39f1a030ca84ee174abbcaf33d433e0b29501
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Start Notch
@@ -1665,6 +1713,7 @@ Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.lib
 Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.0.1~release_iphoneos-arm.deb
 Size: 2260080
 MD5sum: c9229ceb7d39b7134b4a6757efaadbd7
+SHA256: a2691417e4ec54318a11aafcc669695f06eaff70efcae460be9f6ebb5908bc2c
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Hiển thị Widget lên màn hình chính và màn hình khoá. Việt hoá by Trương Tam Phong
 Name: Xen HTML Việt Nam
@@ -1682,6 +1731,7 @@ Depends: mobilesubstrate, firmware (>= 9.0)
 Filename: ./debfiles/com.TruongTamPhong.XenInfoVietNam_2.2.6_iphoneos-arm.deb
 Size: 140644 
 MD5sum: 743ce0ff5a3d2cc243398adb5a281cc4
+SHA256: ee31a4cef07e6bb2d63056776320c019132ba2fdc71c89a868d05b3b41d31c41
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML
 Name: XenInfo Việt Nam
@@ -1699,6 +1749,7 @@ Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplicat
 Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.37~Beta1_iphoneos-arm.deb
 Size: 2541884
 MD5sum: a0a4bf17815be4fe666bec9017554458
+SHA256: dc38a711af9507113b5e663e2dc7fa4a6c36f13fd61a50dc998e9b12a7cfe44c
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Động cơ trượt tuyết theo chủ để. Đủ các gói kết hợp dành cho bạn.
 Name: SnowBoard Việt Nam
@@ -1717,6 +1768,7 @@ Depends: com.TruongTamPhong.SnowboardVietNam
 Filename: ./debfiles/com.TruongTamPhong.SnowBoardApplication_1.0.1~Beta1_iphoneos-arm.deb
 Size: 701902
 MD5sum: 69476d033d8cd24b052e5c5643db2a76
+SHA256: 4cfb711a378ed1ca58fba2da2b7827c8e3901be5236c3679045c5a255435ef86
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: SnowBoard application
 Name: SnowBoard Application
@@ -1734,6 +1786,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.BlurTransV1_1.0.0_iphoneos-arm.deb
 Size: 1336090
 MD5sum: efd7584cdebec718a93dc5e8c60e1e6b
+SHA256: 6d19ff322d580750d49baff2ea0c32425fd19b157b833ad2906c6afb84dd3748
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: BlurTrans V1
@@ -1751,6 +1804,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.ClockBelle_1.0_iphoneos-arm.deb
 Size: 112520
 MD5sum: cd7d823a43152ae504481c4b64415e76
+SHA256: 4383d4d6971668b1dbe63d322b6c0a7fdb923c7f1a6265587f8780a09ec73b0d
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: ClockBelle
@@ -1768,6 +1822,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.InformationColumn_1.0_iphoneos-arm.deb
 Size: 158828
 MD5sum: 5c0e811ac937b56f234a83197fc14c0e
+SHA256: 3cd6d87bac3cfb567bab5d9149c0456397f8e1e758b649c1acf68836e90dbf4f
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: InformationColumn
@@ -1785,6 +1840,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Nema_1.0.0_iphoneos-arm.deb
 Size: 117828
 MD5sum: 65ea1c32f3797f29dfa0d3f7c5c4482d
+SHA256: 7160911ef6049080eefa1ff22d1b7f45af2478c266c092d1eabc0506f8c75b02
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Nema
@@ -1802,6 +1858,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Ando_1.0.0_iphoneos-arm.deb
 Size: 11852284
 MD5sum: 03dd71daa33ef0492c8fcda69aba8246
+SHA256: ebcb22f2314f487dc65205f8f178505d15f1ec387a04fd52c73a13be6055ad08
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Ando
@@ -1819,6 +1876,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.MyName_2.0.1_iphoneos-arm.deb
 Size: 5374266
 MD5sum: 2188eb3ade8b9a7ba8cc5d17586fc894
+SHA256: 29d808b91ce7bf5cd46b6c55b3ef9294e79e1a6d4548ec71143c5e5638d17db8
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: My Name
@@ -1836,6 +1894,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.ThreeDock_1.0.2_iphoneos-arm.deb
 Size: 7468
 MD5sum: 8b9f1240ebe36d58e5fc5aee9f33060a
+SHA256: 05f7c743b24e3c4eb47ac93d56c6cd1ddd94d3af7f10fe0d865cb1aeafe93f7f
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: ThreeDock
@@ -1853,6 +1912,7 @@ Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplicat
 Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.67~Beta1_iphoneos-arm.deb
 Size: 2727316
 MD5sum: 74d1c76ee7a0d9bf79bc74bed5b091be
+SHA256: 1cf22643a006bc173c020dc61f1f02657b04653dc8ffa12cd72d13efc9ebaa92
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Động cơ trượt tuyết theo chủ để. Đủ các gói kết hợp dành cho bạn.
 Name: SnowBoard Việt Nam
@@ -1871,6 +1931,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.BlurTransV1_1.0.1_iphoneos-arm.deb
 Size: 1336044
 MD5sum: c7f0063c29c62dd4728ae019d46bada4
+SHA256: 6c29c1c339235d58ef156ebacff725386e9777db65fa88c59d28a9aea5e37d69
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: BlurTrans V1
@@ -1888,6 +1949,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Ando_1.0.1_iphoneos-arm.deb
 Size: 11853836
 MD5sum: 8e18bf200a1da9ee786a6e8c9ebb243f
+SHA256: 62e13a931835b7d40e9e57b1262d1cca43f96d6c9bd7976ec19cd7b2fe1ef802
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Ando
@@ -1905,6 +1967,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.FlyJBVietNam_0.2~beta17_iphoneos-arm.deb
 Size: 321260
 MD5sum: d4ab51143bab80d88a2a82c5cf36b881
+SHA256: dd0f4c1ab62720009246a7de2fae978cfc392342811fecf517281c6c2b14b024
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Chống ứng dụng phát hiện máy jailbreak
 Name: FlyJB Việt Nam
@@ -1922,6 +1985,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.BorderV1_1.0.0_iphoneos-arm.deb
 Size: 2042
 MD5sum: 75081c56c4052c7040299d6782a85ea6
+SHA256: 5938b0d48ebe8ed090d778fb75972ee27e1dc0bd59f31a12dac855828df47431
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: BorderV1
@@ -1939,6 +2003,7 @@ Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplicat
 Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.68_iphoneos-arm.deb
 Size: 2899368
 MD5sum: dc95266c2e9551ef8b2f0ba270ee5237
+SHA256: 71319966fc3414a14eb7d94fadcabd3675a800db8ac3b65cb8f47b9e8c8a3fe2
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Động cơ trượt tuyết theo chủ để. Đủ các gói kết hợp dành cho bạn.
 Name: SnowBoard Việt Nam
@@ -1957,6 +2022,7 @@ Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplicat
 Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.69~Beta1_iphoneos-arm.deb
 Size: 2892904
 MD5sum: a77cd0324f289ffc4fe9a0b5c4e37ddc
+SHA256: bca82f69ea17c29fd80765a6bb9e002cde839b6550ebdabea04aa28d964e7671
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Động cơ trượt tuyết theo chủ để. Đủ các gói kết hợp dành cho bạn.
 Name: SnowBoard Việt Nam
@@ -1975,6 +2041,7 @@ Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplicat
 Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.72~Beta1_iphoneos-arm.deb
 Size: 2902900
 MD5sum: 605e2ee008c3b9f454909920a30b6634
+SHA256: 4661ec51fcb2f93f3909d59e3b3f7a9ccbfbefa230ef1fa0a78432af47006f90
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Động cơ trượt tuyết theo chủ để. Đủ các gói kết hợp dành cho bạn.
 Name: SnowBoard Việt Nam
@@ -1993,6 +2060,7 @@ Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.lib
 Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1~beta2_iphoneos-arm.deb
 Size: 2705994
 MD5sum: 3eebf6cb69d2e379729a8ff67d689697
+SHA256: 161ce9493b472e42b4caf8676623c07a5cd4632d23ad475190c2c307626d8711
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Hiển thị Widget lên màn hình chính và màn hình khoá. Việt hoá by Trương Tam Phong
 Name: Xen HTML Việt Nam
@@ -2010,6 +2078,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.IwMuneNeonEdition_1.0.0_iphoneos-arm.deb
 Size: 12027236
 MD5sum: da9bd353b82279c72ac141e97c566eb9
+SHA256: efdf3832cf7cfb60e62db9dfbc2506fce8a1ed683f93fafefcf5d2fe44c4b010
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Iw Mune - Neon Edition
@@ -2027,6 +2096,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.FlyJBVietNam_0.2~beta19_iphoneos-arm.deb
 Size: 309428
 MD5sum: 26b37563f9767a3fe89922ead679249a
+SHA256: 76ee852a7da3ecc4d45719f80226c0e002afa20fd819d6d8c721b1cfbe2c1f59
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Chống ứng dụng phát hiện máy jailbreak
 Name: FlyJB Việt Nam
@@ -2044,6 +2114,7 @@ Depends: firmware (>= 12.0), firmware (<= 12.4.3), mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.PicoBanners2_0.0.1b2-7_iphoneos-arm.deb
 Size: 72652
 MD5sum: 16c6ade1875dca77b11a8df8553d8fb9
+SHA256: 78f4dfd0c9687263c013d54e2557e5c856a43b89caf04115d5c9a9d47baab9c7
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Thu nhỏ thanh thông báo.
 Name: PicoBanners 2
@@ -2061,6 +2132,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.FlyJBVietNam_0.2~beta35_iphoneos-arm.deb
 Size: 334190
 MD5sum: 996d4c65757edfb0f1afbc6af14fa40d
+SHA256: 3abbed9b3e8132d168a9074a85a34f8cc8a54b0ca0a22df2a7e7ff7871324dc4
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Chống ứng dụng phát hiện máy jailbreak
 Name: FlyJB Việt Nam
@@ -2078,6 +2150,7 @@ Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplicat
 Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.74~Beta1_iphoneos-arm.deb
 Size: 2905968
 MD5sum: 97b9cb72f60e751f9c5d75c7cd063608
+SHA256: 3761b00fd2ad8fa47b11ee713035789495db3db80e7beefc1b6f94c10b306e1f
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Động cơ trượt tuyết theo chủ để. Đủ các gói kết hợp dành cho bạn.
 Name: SnowBoard Việt Nam
@@ -2096,6 +2169,7 @@ Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader, co
 Filename: ./debfiles/com.TruongTamPhong.NextUp2VietNam_1.1_iphoneos-arm.deb
 Size: 550736
 MD5sum: 9ed17779d1e4ba603a9e764a2f8c7815
+SHA256: 7b6834d8af86acf7a9df7ea83678f43323537150ba4d4b905186d85f33a9249a
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: See and change the next track
 Name: NextUp 2 Việt Nam
@@ -2113,6 +2187,7 @@ Depends: mobilesubstrate, preferenceloader, firmware (> 11.0)
 Filename: ./debfiles/com.TruongTamPhong.SixlsVietNam_1.0.5_iphoneos-arm.deb
 Size: 1565970
 MD5sum: 59e400a610c8de8377e4d842b6028f45
+SHA256: fe46a3b4c4600bdc8a204bf759b962ecc0b5d34039a829fd97bbec73904cd37c
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: iOS 6 Style Lock Screen!
 Name: Six (LS) Việt Nam
@@ -2130,6 +2205,7 @@ Depends: mobilesubstrate, me.nepeta.libcolorpicker
 Filename: ./debfiles/com.TruongTamPhong.SwitcherStyleVietNam_0.5.4_iphoneos-arm.deb
 Size: 39592
 MD5sum: 60b54d8aba97fdb513c1a6e17169c778
+SHA256: 79674ed7f60c09ac4912961a117a5c191cc4e8aedb498ca815b0e9228c97c35c
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Đa nhiệm dạng lưới.
 Name: SwitcherStyle Việt Nam
@@ -2147,6 +2223,7 @@ Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.lib
 Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1~beta4_iphoneos-arm.deb
 Size: 2698348
 MD5sum: 15a7220d972dea2114cd1264bebacfdb
+SHA256: 018dc9ae51aa65c7c09d1c21064aaf951891810fb1c3ebefd5c33a7dbb85e533
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Hiện Widget lên màn chính và khoá. Việt hoá Trương Tam Phong
 Name: Xen HTML Việt Nam
@@ -2163,6 +2240,7 @@ Maintainer: Apple Cydia & Jailbreak <truongtamphong686@gmail.com>
 Filename: ./debfiles/com.Apple.Cydia.Jailbreak.icon_1.0.0_iphoneos-arm.deb
 Size: 81106
 MD5sum: fa28705c8f2d00e86d8e64fa4386eccd
+SHA256: a4984b6ba26d5194042369b4094b60e12b2dcd92e375599e8f87506f0de1d0a9
 Description: Biểu tượng cho Nguồn Cydia-Jailbreak
 Architecture: iphoneos-arm
 Name: Repo Icon Cydia-Jailbreak
@@ -2178,6 +2256,7 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.SymbianBelle_1.0.0_iphoneos-arm.deb
 Size: 2675616
 MD5sum: be9c2bbeeed8a0a643ed1a2368faa4ff
+SHA256: 059b9d025d5f5bbeb44a2d404e79236d729f21e1128a224d7adb6826266c4461
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Chủ đề Belle dành cho bạn.
 Name: Symbian Belle
