@@ -2282,5 +2282,25 @@ Description: Mix up your preferences
 Name: Shuffle Việt Nam
 Author: CreatureSurvive
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShuffleVietNam
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.TruongTamPhong.ShuffleVietNam
-Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShuffleVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.AppazeVietNam
+Architecture: iphoneos-arm
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), com.a3tweaks.flipswitch
+Filename: ./debfiles/com.TruongTamPhong.AppazeVietNam_2.1.1_iphoneos-arm.deb
+Size: 1313736
+MD5sum: e44caf752b4deb9a9794f8b0747974eb
+SHA1: 5f9bc86c863e89ddc301a1029bde9233a27808b1
+SHA256: 219bb0451462071644fa6bbf6da81db549e2d800a51142c88b959ebb87325e2a
+SHA512: 6b635e2b39c593c6ecad7a076f2fb024cd2dcf97f945aad46e96e401018e32db2f62e6b414298720865a4f43c96d2770fb704386245fae1c685f88a119bb9743
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Set custom volume/brightness/toggles per app, directly from 3D Touch menu
+Name: Appaze Việt Nam
+Author: AnthoPak
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AppazeVietNam
+SileoDepiction: http://cydia-jailbreak.io/description.html?id=com.TruongTamPhong.AppazeVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
