@@ -1,4 +1,4 @@
 {
-	"desc_long": "- Hiển thị tên lên Màn hình chính hoặc Màn hình khóa.<br>- Thao tác tất cả có trong cài đặt của Widget này gồm:<br>+ Đổi Font chữ (80 phông).<br>+ Chỉnh tốc độ chạy chữ.<br>+ Kích hoạt hoặc hủy bỏ chạy chữ.<br>+ Đổi màu chữ và sửa đổi tên theo ý bạn.<br><br>* Yêu cầu cài Xen HTML để sử dụng.",
+	"desc_long": "PHIÊN BẢN 2.0.2<br>Bổ sung thêm đổi cỡ chữ<br><br>PHIÊN BẢN 2.0.1<br>- Hiển thị tên lên Màn hình chính hoặc Màn hình khóa.<br>- Thao tác tất cả có trong cài đặt của Widget này gồm:<br>+ Đổi Font chữ (80 phông).<br>+ Chỉnh tốc độ chạy chữ.<br>+ Kích hoạt hoặc hủy bỏ chạy chữ.<br>+ Đổi màu chữ và sửa đổi tên theo ý bạn.<br><br>* Yêu cầu cài Xen HTML để sử dụng.",
 	"screenshot": "<div style='text-align:center;'><a href='screenshot/MyName.png' target='_blank'><img width=90% src='screenshot/MyName.png'/></a><div style='text-align:center;'><a href='screenshot/MyNameSet.png' target='_blank'><img width=90% src='screenshot/MyNameSet.png'/></a><br></div>",
 }
