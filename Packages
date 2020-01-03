@@ -1958,24 +1958,6 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ando
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
-Package: com.TruongTamPhong.FlyJBVietNam
-Architecture: iphoneos-arm
-Version: 0.2~beta17
-Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.FlyJBVietNam_0.2~beta17_iphoneos-arm.deb
-Size: 321260
-MD5sum: d4ab51143bab80d88a2a82c5cf36b881
-SHA256: dd0f4c1ab62720009246a7de2fae978cfc392342811fecf517281c6c2b14b024
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Chống ứng dụng phát hiện máy jailbreak
-Name: FlyJB Việt Nam
-Author: XsF1re
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
-SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
 Package: com.TruongTamPhong.BorderV1
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -2087,24 +2069,6 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.IwMuneNeonEdition
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
-Package: com.TruongTamPhong.FlyJBVietNam
-Architecture: iphoneos-arm
-Version: 0.2~beta19
-Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.FlyJBVietNam_0.2~beta19_iphoneos-arm.deb
-Size: 309428
-MD5sum: 26b37563f9767a3fe89922ead679249a
-SHA256: 76ee852a7da3ecc4d45719f80226c0e002afa20fd819d6d8c721b1cfbe2c1f59
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Chống ứng dụng phát hiện máy jailbreak
-Name: FlyJB Việt Nam
-Author: XsF1re
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
-SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
 Package: com.TruongTamPhong.PicoBanners2
 Architecture: iphoneos-arm
 Version: 0.0.1b2-7
@@ -2121,24 +2085,6 @@ Name: PicoBanners 2
 Author: Michele Primavera
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.PicoBanners2
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.PicoBanners2
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
-Package: com.TruongTamPhong.FlyJBVietNam
-Architecture: iphoneos-arm
-Version: 0.2~beta35
-Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.FlyJBVietNam_0.2~beta35_iphoneos-arm.deb
-Size: 334190
-MD5sum: 996d4c65757edfb0f1afbc6af14fa40d
-SHA256: 3abbed9b3e8132d168a9074a85a34f8cc8a54b0ca0a22df2a7e7ff7871324dc4
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Chống ứng dụng phát hiện máy jailbreak
-Name: FlyJB Việt Nam
-Author: XsF1re
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
-SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.SnowBoardVietNam
