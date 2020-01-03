@@ -2304,3 +2304,63 @@ Author: AnthoPak
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AppazeVietNam
 SileoDepiction: http://cydia-jailbreak.io/description.html?id=com.TruongTamPhong.AppazeVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.MyName
+Architecture: iphoneos-arm
+Version: 2.0.2
+Section: Widget động
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.MyName_2.0.2_iphoneos-arm.deb
+Size: 5374274
+MD5sum: 553555695ad999f872b490c23150f3d1
+SHA1: 8a39500a78b6705439105df00da6d9cea65e48af
+SHA256: 872e2ed9fac4dd5e88602bba614d3a2be6f7f4c537b82389d0073daca15b3fa3
+SHA512: d2b6ba183f8646b76e9cd533259b6c9aaf19ce7984ae0bfc00926f5443f85fb839d0b53e00943b45b7f234e184e552bb64d4ff100f969979c6ab46ee70065c3e
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: My Name
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.MyName
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.MyName
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.RingWrapper
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.RingWrapper_1.0.0_iphoneos-arm.deb
+Size: 3814
+MD5sum: e19b7ca2575cdd00d42daa2e780666ce
+SHA1: f238eaf7141d585d6f3e7513c96a7f8af10da201
+SHA256: 353f52e080f6d7adedf0a715954f95a45ba583e738904c9fe87b997c297ba2ed
+SHA512: 34ac6fd583377bd9b3f8e57eeb9a430e7d9bf83d218c5def09484ee1c4137e053b8228a8c82e8611db8be1e5cd448ded33f8e74208fcb33042e00699111be46e
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Ring Wrapper
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.RingWrapper
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.RingWrapper
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: kr.xsf1re.flyjb
+Architecture: iphoneos-arm
+Version: 0.2~beta36
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Filename: ./debfiles/com.TruongTamPhong.FlyJBVietNam_0.2~beta36_iphoneos-arm.deb
+Size: 334660
+MD5sum: 0af9f84c987a36a28c833eba1054c23a
+SHA1: 328d1ea801dcc5d82a6a64e046579c47335d26cc
+SHA256: d4132199272dc638f92b230cb9a1905537148b105c9a611dd926f41b2728479c
+SHA512: 86072535970f1bb07a24141c97d27c13c8259f4659bbf99593c45a4b09335a196cf7920e385672260d02efdd079261ad05d950084356e3def6741d35ec7af2c6
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Chống ứng dụng phát hiện máy jailbreak
+Name: FlyJB Việt Nam
+Author: XsF1re
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
