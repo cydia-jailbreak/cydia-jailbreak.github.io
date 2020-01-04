@@ -2310,3 +2310,23 @@ Author: XsF1re
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.ShWidget
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ShWidget_1.2_iphoneos-arm.deb
+Size: 971018
+MD5sum: 9431d88c92519d957058cb7e62ae022a
+SHA1: 116e682f1cd6af1e58c1a6699ffcc72c0ffcfef3
+SHA256: 1caa929f81ba5dd250cfc958efbb836efdb6657c0a8a10a9f1f0437f954f9899
+SHA512: b568e197a2dc9e3642fb67984dd991f1b84917605e5d2d1ff6726aea1e10cce2f092322eb5e301b29c59330f105581a2c4b86c92500a3e6bf36bf954cda8908b
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: ShWidget
+Author: imo7and
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShWidget
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShWidget
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
