@@ -2350,3 +2350,63 @@ Author: imo7and
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShWidget
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShWidget
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.ShWidget
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ShWidget_1.2.2_iphoneos-arm.deb
+Size: 668374
+MD5sum: 93d16a2d9015a7916b178f2f7da9db88
+SHA1: cf080ab6095888c6b46a33b8000ea9456c64e0f3
+SHA256: cc8581f306043b84183d34b55d272ea9e5bd4f39e1ac166352c4e38d091e426d
+SHA512: da73d1acdc3fb85dceb0238b9431a540beec81c9afeb119826ba59b8bf112b3b85fefebe3f3bd38d52c93d4ae80cc779dcf1b4512d2c2798d8756c1f180ff272
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: ShWidget
+Author: imo7and
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShWidget
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShWidget
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.ShWidgetGold
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ShWidgetGold_1.2.2_iphoneos-arm.deb
+Size: 414876
+MD5sum: 4d2bd5a3a599646d010a9af7e6b95020
+SHA1: 601073fdb412dabd6c660a4b042e2d811e9c45a8
+SHA256: 959fd302d58f767d0c9d230f15a0a8d2f361e4adfa9cfbf8d911f61d8462b32e
+SHA512: 60197e58f405e66f31554000842534614530a3cc1d3c88e9a85142a375c60e99da27ba216622521cc7a2a9a41b4858fc0584abfc81137b19163ad8ebf78ea312
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: ShWidget Gold
+Author: imo7and
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShWidgetGold
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShWidgetGold
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.RingWrapperV2
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.RingWrapperV2_1.0.0_iphoneos-arm.deb
+Size: 3844
+MD5sum: 3c2f4049b10e09ebcbb9078fc08b257e
+SHA1: b7a8f574c67580ba6f467239816919153548338e
+SHA256: dee4b116add8e3f19b064cf5f15845f11685b346c44647e62462c1bc93545037
+SHA512: 27496eb1bf66122f815b2e3df2c07eb4b4229f13eab1db6d958a91b9e56534d0545609c1ef7777597ffa58e13427bcc3fb0ea053bd00fc6b6bf892ac41780ad2
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Ring Wrapper V2
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.RingWrapperV2
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.RingWrapperV2
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
