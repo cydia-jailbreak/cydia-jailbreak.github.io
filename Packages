@@ -2429,8 +2429,6 @@ Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Hiển thị Widget lên màn chính và khoá. Việt hoá Trương Tam Phong
 Name: Xen HTML Việt Nam
 Author: Matt Clarke <matt@incendo.ws>
-firmware (>= 9.0), com.truongtamphong.xeninfovietnam, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
-Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
 Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
 SileoDepiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
