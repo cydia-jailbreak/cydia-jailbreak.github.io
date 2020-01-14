@@ -2419,7 +2419,7 @@ dev: MattClarke
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: firmware (>= 9.0), com.truongtamphong.xeninfovietnam, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
-Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1~beta4_iphoneos-arm.deb
+Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1-6_iphoneos-arm.deb
 Size: 2899848
 MD5sum: 8af69ecb23c0efecc7af5db6e0441461
 SHA1: 55194bf1b4f1b5dfad31afd51ea55f29745a40ab
