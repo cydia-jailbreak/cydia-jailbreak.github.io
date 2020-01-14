@@ -2410,3 +2410,26 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.RingWrapperV2
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.RingWrapperV2
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.XenHTMLVietNam
+Architecture: iphoneos-arm
+Version: 1.1-6
+Section: Tweaks
+dev: MattClarke
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
+Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1~beta4_iphoneos-arm.deb
+Size: 2899848
+MD5sum: 8af69ecb23c0efecc7af5db6e0441461
+SHA1: 55194bf1b4f1b5dfad31afd51ea55f29745a40ab
+SHA256: c234ac0229e7a251f4b6a17a9c288ca9a974b87b2585f93b1837acafdd99976b
+SHA512: f1512c3525c98d635c933f8ff3f1660ed949a237e76588da908476b5e9ec61d9c21926aa41cd77a357840a219f376ba55062bd2c8bf62f00bb2f6b82658be708
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Hiển thị Widget lên màn chính và khoá. Việt hoá Trương Tam Phong
+Name: Xen HTML Việt Nam
+Author: Matt Clarke <matt@incendo.ws>
+firmware (>= 9.0), com.truongtamphong.xeninfovietnam, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
+SileoDepiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
