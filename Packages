@@ -2411,20 +2411,60 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.RingWrapperV2
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.SpaceXSPro
+Name: SpaceXS Pro
+Author: AussieAppz
+Version: 1.0.5
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Widget for Xen HTML
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Maintainer: Apple Cydia Và Jailbreak
+Section: Widget tĩnh
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SpaceXSPro
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SpaceXSPro
+Filename: ./debfiles/com.TruongTamPhong.SpaceXSPro_1.0.5_iphoneos-arm.deb
+Size: 1421088
+MD5sum: 44697705d221edc6e2cbe70c7fce3c51
+SHA1: 63b29d057fa8d40d2300e786f6610401a2a87a9c
+SHA256: 88cc129d96ab8fe973e0b49d7ed801f3b87394ec87ebb0b87a3bebd8ca92de0c
+SHA512: 9af6055421f73a5e7f65c68cf6e6f3b3fcb3dafd1b644e751eee73241fc2106f3f883f5f62b77cfd89f732bb64441352defb67e56d318e812ff70f8535d779ec
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.AnalogClockWeatherXSM
+Name: Analog Clock Weather XSM
+Author: Trương Tam Phong
+Version: 1.0.0
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Widget for Xen HTML
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Maintainer: Apple Cydia Và Jailbreak
+Section: Widget động
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AnalogClockWeatherXSM
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AnalogClockWeatherXSM
+Filename: ./debfiles/com.TruongTamPhong.AnalogClockWeatherXSM_1.0.0_iphoneos-arm.deb
+Size: 296016
+MD5sum: c7b063c089f767bd72e86754c09f7be6
+SHA1: f3cd029378358c7e05622d50cabdbf56b13a422c
+SHA256: b57631878ec04a7807b14367ddc727f326a5ce21071bc903d05cfafafa343756
+SHA512: 2ef89a9959fa7c6a7f86b2b1d9ef6aa106372ac72b03ebd5b4a5eb8fefba2627684cb70fe55296bfc79d88e975f877f906c8ffdc4fc49a45ffb3adf23c7aaa3f
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.XenHTMLVietNam
 Architecture: iphoneos-arm
-Version: 1.1-6
+Version: 1.1-7
 Section: Tweaks
 dev: MattClarke
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: firmware (>= 9.0), com.truongtamphong.xeninfovietnam, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
-Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1-6_iphoneos-arm.deb
-Size: 2899848
-MD5sum: 8af69ecb23c0efecc7af5db6e0441461
-SHA1: 55194bf1b4f1b5dfad31afd51ea55f29745a40ab
-SHA256: c234ac0229e7a251f4b6a17a9c288ca9a974b87b2585f93b1837acafdd99976b
-SHA512: f1512c3525c98d635c933f8ff3f1660ed949a237e76588da908476b5e9ec61d9c21926aa41cd77a357840a219f376ba55062bd2c8bf62f00bb2f6b82658be708
+Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1-7_iphoneos-arm.deb
+Size: 2899854
+MD5sum: 985223856086926cc2f495c9af25557c
+SHA1: 6768cde9c879e012bb74af36cb6991079c861f4d
+SHA256: 78775abbb7e0960feb273d9312b94e497687c6af6a0fa32a24b0184dd8469521
+SHA512: a4bba3d2d98c1c0090eb005c8caede3f4a7bf23587ac3e9ebc3f0ffd26f8b8ecc1b83bb9d91570355967c681b63d653b5a5083bcf4c0991901e0e63372c54423
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Hiển thị Widget lên màn chính và khoá. Việt hoá Trương Tam Phong
 Name: Xen HTML Việt Nam
