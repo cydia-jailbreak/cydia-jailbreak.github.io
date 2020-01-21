@@ -2472,3 +2472,44 @@ Author: Matt Clarke <matt@incendo.ws>
 Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
 SileoDepiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SnowBoardVietNam
+Architecture: iphoneos-arm
+Version: 1.2.78~Beta1
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.78~Beta1_iphoneos-arm.deb
+Size: 2947240
+MD5sum: bc4b8d3940433e270f2fb8f0c2eca78d
+SHA1: 589d5d64fe24d31b17c87dff1f1b68a32b5b2dee
+SHA256: ede568a2bd96801f92e0ae917f077006a8b31283af82b79d6a22f7f69d28ff75
+SHA512: 992198a31914f3a59d44e9798378de21c8bf877cefdf4865b08280d262faf0bf8c75a3aae0ceff29c5c20f0b38b14ab18c5d3f73a7008f979e3f7b978ebab7aa
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Động cơ trượt tuyết theo chủ để. Đủ các gói kết hợp dành cho bạn.
+Name: SnowBoard Việt Nam
+Author: Spark & Dennis D. Bednarz <truongtamphong686@gmail.com>
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SpaceXSPro
+Name: SpaceXS Pro
+Author: AussieAppz
+Version: 1.0.6
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Widget for Xen HTML
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Maintainer: Apple Cydia Và Jailbreak
+Section: Widget tĩnh
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SpaceXSPro
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SpaceXSPro
+Filename: ./debfiles/com.TruongTamPhong.SpaceXSPro_1.0.6_iphoneos-arm.deb
+Size: 1421084
+MD5sum: 8f77230dfd8fda4f3ca908a3160eab25
+SHA1: b251ba6b8128c7416229edfd255b136ebd47c234
+SHA256: 6b396c01e2271e20298a3ce1bec494773333bad9ecbdb482d8d5c529a7847a8a
+SHA512: ff14a3a991752b3d7f9584337bc28beac6d90eebcfe2106aeedfd103ed26cdecfa9ffef5e2ba9988b28ebff6832c247c10bba56fa8b5808b87b683cd0921bd8e
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
