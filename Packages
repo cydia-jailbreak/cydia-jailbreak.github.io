@@ -2601,7 +2601,7 @@ Architecture: iphoneos-arm
 Description: Động cơ trượt tuyết theo chủ đề. Đủ các gói kết hợp dành cho bạn.
 Author: Spark & Dennis D. Bednarz
 Section: Tweaks
-Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
+Depends: mobilesubstrate, preferenceloader
 Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.86~Beta2_iphoneos-arm.deb
 Size: 2974538
 MD5sum: 9bc74b9a196915b3d5d957f0e53ba628
