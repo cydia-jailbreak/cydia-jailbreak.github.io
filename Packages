@@ -2573,3 +2573,23 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Juno
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Juno
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
+Package: com.TruongTamPhong.SnowBoardVietNam
+Name: SnowBoard Việt Nam
+Version: 1.2.83~Beta1
+Architecture: iphoneos-arm
+Description: Động cơ trượt tuyết theo chủ đề. Đủ các gói kết hợp dành cho bạn.
+Author: Spark & Dennis D. Bednarz
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.83~Beta1_iphoneos-arm.deb
+Size: 2970044
+MD5sum: 9a03fb8fec8d19bedfc4239eed420eb3
+SHA1: 4105636a607912881ef2e61d77b02ff03f28b9fa
+SHA256: 36618776ce5ce4a11b78b113731804f86d10c7f6c57738b0f56596dcf3226723
+SHA512: d6ddc02a1de59c1aff163c9931868a8ab13b1df37e332280a05ac708033094187e380ac1fbf23cd0b40a73f8e6027be77c2dad33015c4db80bd40df5cb430f5a
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: Spark <truongtamphong686@gmail.com>
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
