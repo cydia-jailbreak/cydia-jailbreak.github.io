@@ -2602,14 +2602,15 @@ Description: Động cơ trượt tuyết theo chủ đề. Đủ các gói kế
 Author: Spark & Dennis D. Bednarz
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.86~Beta2_iphoneos-arm.deb
-Size: 2974538
-MD5sum: 9bc74b9a196915b3d5d957f0e53ba628
-SHA1: ab30f3276436ddcc675e187a7f37c397e681f1e8
-SHA256: 2bc407a7a794e33abea40b0d2f4536d1dd21eb0432b11b42ede84cff5388bbfe
-SHA512: 8cf6e8c9feb73d71a4383a6b419b9af5d12c69cf08a1b3f2221a119625b23537b5e546617fca19e3344f629aa175a3c76648581615e7d8cb4ee5ba0be4491588
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Maintainer: Spark <truongtamphong686@gmail.com>
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.86~Beta2_iphoneos-arm.deb
+Size: 2974530
+MD5sum: dc31f78a26e20102f1c5e98458e13f33
+SHA1: 9441aa7d96e1ae6309e8bc7b5e6045be852b0e15
+SHA256: 0cd7ec9cce227c5164869ed1be79492402978941a9468e4950378773253111de
+SHA512: b3c0342e1926d22e6bf9f5279cfe11dde364e8c0327b5665f9e18be0d00c2b55d69d0b55efe950648ec0cadaf9669c8146867af8722a78dbe9da575a553c37db
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
