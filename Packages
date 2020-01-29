@@ -2593,3 +2593,41 @@ Maintainer: Spark <truongtamphong686@gmail.com>
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SnowBoardVietNam
+Name: SnowBoard Việt Nam
+Version: 1.2.86~Beta2
+Architecture: iphoneos-arm
+Description: Động cơ trượt tuyết theo chủ đề. Đủ các gói kết hợp dành cho bạn.
+Author: Spark & Dennis D. Bednarz
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.86~Beta2_iphoneos-arm.deb
+Size: 2974538
+MD5sum: 9bc74b9a196915b3d5d957f0e53ba628
+SHA1: ab30f3276436ddcc675e187a7f37c397e681f1e8
+SHA256: 2bc407a7a794e33abea40b0d2f4536d1dd21eb0432b11b42ede84cff5388bbfe
+SHA512: 8cf6e8c9feb73d71a4383a6b419b9af5d12c69cf08a1b3f2221a119625b23537b5e546617fca19e3344f629aa175a3c76648581615e7d8cb4ee5ba0be4491588
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: Spark <truongtamphong686@gmail.com>
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SnowBoardApplication
+Architecture: iphoneos-arm
+Version: 1.0.1~Beta2
+Section: Utilities
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardApplication_1.0.1~Beta2_iphoneos-arm.deb
+Size: 701962
+MD5sum: f116f539b0a5dada2603c6c692a1add6
+SHA1: 01074db89431eb4e543965f69f1a494d0d1b86a2
+SHA256: dbb830d08dae45e5b82eddce6eb2bfb60ddf710fa18b70756ac88e0365174e46
+SHA512: 505c5495561730a0c82f2e7178a59996d0df5bede1f8575e184b5ad3b54346c7dbbe56e75c880ce162b2e4d56f242e443aa01cfa8a0a22ccf6928bb912f33e0e
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: SnowBoard application
+Name: SnowBoard Application
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/Utilities1.png
