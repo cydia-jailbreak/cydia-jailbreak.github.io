@@ -2632,3 +2632,23 @@ Description: SnowBoard application
 Name: SnowBoard Application
 Author: Spark
 Icon: file:///Applications/Cydia.app/Sections/Utilities1.png
+
+Package: com.TruongTamPhong.Juno
+Architecture: iphoneos-arm
+Version: 2.3.8
+Section: Chủ đề
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Juno_2.3.8_iphoneos-arm.deb
+Size: 11727032
+MD5sum: 826fce930a44020dc78a3fdb50cb3f3e
+SHA1: 51d24d54fed47cc64964159ac75949a5f6157d71
+SHA256: bae6f539adb875b1509d1cf2f831c35ada66340b429e603c456a45486f7f4547
+SHA512: 5174fee6dee5d01bb16c7b272abe8b3cc7351e48e38f2cc02c101a6bbf0842f7f5f4b7933f74455da295df1bf2117c48786ce23b2ca4bc49ecdb55337c632f33
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Một chủ đề nhiều màu sắc dành cho bạn.
+Name: Juno
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Juno
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Juno
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
