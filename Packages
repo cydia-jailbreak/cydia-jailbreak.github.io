@@ -2652,3 +2652,23 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Juno
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Juno
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
+Package: com.TruongTamPhong.Juno
+Architecture: iphoneos-arm
+Version: 2.8.8
+Section: Chủ đề
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Juno_2.8.8_iphoneos-arm.deb
+Size: 14067022
+MD5sum: fab238acb4f4c03e4c961ffe8f207e1a
+SHA1: 1459b87be7bf727d5dd79200747bf5d55f285467
+SHA256: b817b334d8d202516bd0e9807782f6ed702f5adf07ab05659c585b83474c5b4c
+SHA512: ec3174faed97e3bc117f84bbd79d627a62c2223266fc1f8388d435c7baa458db865b55bc826760fc222e5135ba65b668e38b2e6cc4185ca9f1c557972bedef4f
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Một chủ đề nhiều màu sắc dành cho bạn.
+Name: Juno
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Juno
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Juno
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
