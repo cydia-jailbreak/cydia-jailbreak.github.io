@@ -2678,7 +2678,6 @@ Architecture: iphoneos-arm
 Version: 3.0.7
 Section: Chủ đề
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Juno_3.0.7_iphoneos-arm.deb
 Size: 16967170
 MD5sum: fbea6053dba14807ec80510458c7b237
@@ -2692,3 +2691,109 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Juno
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Juno
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
+Package: com.TruongTamPhong.Juno
+Architecture: iphoneos-arm
+Version: 4.2.2
+Section: Chủ đề
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: com.TruongTamPhong.RespringSongoku, com.TruongTamPhong.Gineso12, com.TruongTamPhong.Gineso13, com.TruongTamPhong.Geometric12, com.TruongTamPhong.Geometric13
+Filename: ./debfiles/com.TruongTamPhong.Juno_4.2.2_iphoneos-arm.deb
+Size: 23649182
+MD5sum: 5461824b261c161d1758ffe1d036fd30
+SHA1: 5dab91725d39a9a1822fc25fda9fb4dc8b6622ae
+SHA256: 17f9c299800b38d004364e7f6b0b6c805be43e1ca993f66361b40b2e52223175
+SHA512: 1f969648776d13f6a0b90da92e6a8eaf74a1af20389695378cd5fedb17346ae8b3cc560f8c3a3112233cc497cc6152acc2d435527e27c2a9ea88e0856e84e44d
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Một chủ đề nhiều màu sắc dành cho bạn.
+Name: Juno
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Juno
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Juno
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
+Package: com.TruongTamPhong.RespringSongoku
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: com.TruongTamPhong.Juno
+Filename: ./debfiles/com.TruongTamPhong.RespringSongoku_1.0.0_iphoneos-arm.deb
+Size: 25018696
+MD5sum: c9a1597e200a957138dd5138db92d59c
+SHA1: eef08da57e173f3185b90af647d44a739c155e84
+SHA256: a70a545220aff28d3fed76ab269126458dd65a2ff36ed247ab71030e2c8180c5
+SHA512: 72f2ef518e0b66e7df57be117011c302be46983a2711096d8614b4149e0f67f6fcf2a6c04a8736d632ea615830795e695f1e170b71dab43c0f439b7b3edc5c14
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Respring cho SnowBoard
+Name: Respring Songoku
+Author: Trương Tam Phong
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.Geometric12
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Fonts
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: com.TruongTamPhong.Juno
+Filename: ./debfiles/com.TruongTamPhong.Geometric12_1.1_iphoneos-arm.deb
+Size: 13043964
+MD5sum: bb7ab45f57c62cdd29ba53b6dd1ec119
+SHA1: 659e46051ef5629b6ac7dbf1188dac985f8f21bd
+SHA256: 281e5127d2f5aaaccafd97224e7712309b5d976d500479a4cb5f5546a6aed81d
+SHA512: 04c8ef07a5931cdcb6efcbb73e2333b55eead1e9835e982bb17378247cb8996be4dda4754477848cc4a1c28b085dd68460cc6ddfd294225dfa82f90afac0e93d
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Font cho iThemer và SnowBoard
+Name: Geometric (iOS 10-12)
+Author: Evelyn
+
+Package: com.TruongTamPhong.Geometric13
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Fonts
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: com.TruongTamPhong.Juno
+Filename: ./debfiles/com.TruongTamPhong.Geometric13_1.0_iphoneos-arm.deb
+Size: 9532606
+MD5sum: 74804e8344662fab133c57abd2b5e8dd
+SHA1: 564af839b926a56cda4e2322bb57baf14d3712e7
+SHA256: a127837cd0fbb9561f95d2d01a8c70b6c4890f5e1738b52a2ae74c99bc89a2d9
+SHA512: 0ee7da1e6eadbe8226bb574a0e6e4a03179b4fc9d3f6d458ef663f9f0bc0c07a068823097b069a0eb902de9d87975d9fef90b2ad23a911fa66d7157f1087b537
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Font cho iThemer và SnowBoard
+Name: Geometric (iOS 13)
+Author: Evelyn
+
+Package: com.TruongTamPhong.Gineso12
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Fonts
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: com.TruongTamPhong.Juno
+Filename: ./debfiles/com.TruongTamPhong.Gineso12_1.1_iphoneos-arm.deb
+Size: 13163616
+MD5sum: 465b3ec2313a244e37f9464bc483cdab
+SHA1: 1775d9381bc3243a17deb0d29b76a4f496ba5b98
+SHA256: decaa61b06fc354162a7d26aeeb7fdab938be0df64a62cb152f2f306cddde4d9
+SHA512: 8f39628ff5c5ad33ba4c7c2db7019eaeacb9237c17767e4325aaffea1c65cd2d066bc291a796c3d4245c8e77406511a4fcf1e1b29467600dbe3b890ddbd228d6
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Font cho iThemer và SnowBoard
+Name: Gineso (iOS 10-12)
+Author: Alex
+
+Package: com.TruongTamPhong.Gineso13
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Fonts
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: com.TruongTamPhong.Juno
+Filename: ./debfiles/com.TruongTamPhong.Gineso13_1.0_iphoneos-arm.deb
+Size: 13568576
+MD5sum: e655e135e036d5e60a9926c326b95d67
+SHA1: 19a4ffd67f15979e7e8f83b9f8dd68e7cf2bc228
+SHA256: 74e79048deed3378ecb57f5daac4790f421f9ad30fe74515890a1ecbd8fbdaad
+SHA512: f3dcebd4750b1b64c582244f80b4cb1a35dc026c75fef05ed5d750ee762516aac0677d6cf517ac7955866fed2845eb02c2ce4a09a3cd0a6788d35c55f4cf5f79
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Font cho iThemer và SnowBoard
+Name: Gineso (iOS 13)
+Author: Alex
