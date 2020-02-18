@@ -3,7 +3,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.CleanFunWhiteRed_1.0_iphoneos-arm.deb
 Size: 272612
 MD5sum: 2fcf42a72703775efd212763030c959f
@@ -21,7 +20,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.ClockTransparent_1.0_iphoneos-arm.deb
 Size: 224018
 MD5sum: 29671f72b274318946eed7ba62c35ac5
@@ -39,7 +37,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AutoChangeWallpaper_1.0_iphoneos-arm.deb
 Size: 4483914
 MD5sum: 40df34ca0ec6b1b4b3a24a2611566ef1
@@ -57,7 +54,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Ybht_1.0_iphoneos-arm.deb
 Size: 35720
 MD5sum: af6c893e5c05c695371a6678012b7ebb
@@ -93,7 +89,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.LgClock_1.0_iphoneos-arm.deb
 Size: 256884
 MD5sum: 9015320eada7ce3a5fab13e13e6d02cc
@@ -146,7 +141,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.0_iphoneos-arm.deb
 Size: 15942
 MD5sum: 5dd23f6a6ccc6106903f5797152d1112
@@ -164,7 +158,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.HtcClock_1.0_iphoneos-arm.deb
 Size: 44262
 MD5sum: ec0426a8f4aa70761142bab5a63bbc9d
@@ -182,7 +175,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.RectangleClock_1.0_iphoneos-arm.deb
 Size: 66126
 MD5sum: fc1b9d3321b42b4e7226887689eaae08
@@ -200,7 +192,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.TemperatureClock_1.0_iphoneos-arm.deb
 Size: 141108
 MD5sum: 92a31f9d7e74b104744c397c75072308
@@ -218,7 +209,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.TextDate_1.0_iphoneos-arm.deb
 Size: 74190
 MD5sum: a6167a371aabd42bab746c8ac4026f22
@@ -236,7 +226,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.BoCongAnh_1.0_iphoneos-arm.deb
 Size: 413838
 MD5sum: 0ac9de26b0a562c16d58cd73cc51a00c
@@ -254,7 +243,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.LaRoi_1.0_iphoneos-arm.deb
 Size: 9757882
 MD5sum: c845e15c4098f40bb1061684ba911d07
@@ -272,7 +260,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.SaoBay_1.0_iphoneos-arm.deb
 Size: 32792
 MD5sum: 61c51cbdec7c2afb6a8822eaa8aa749c
@@ -290,7 +277,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.TuyetRoi_1.0_iphoneos-arm.deb
 Size: 28616
 MD5sum: e4bb1667ba1d9b2f494f4d2bf4c01d44
@@ -326,7 +312,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.0_iphoneos-arm.deb
 Size: 233268
 MD5sum: 4de20360915b04457110abf8ff681b2c
@@ -344,7 +329,6 @@ Architecture: iphoneos-arm
 Version: 1.0.1
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Ybht_1.0.1_iphoneos-arm.deb
 Size: 44658
 MD5sum: 398c104f27cb8e84a7cbb3cb66507585
@@ -380,7 +364,6 @@ Architecture: iphoneos-arm
 Version: 1.1
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.1_iphoneos-arm.deb
 Size: 233260
 MD5sum: 59eba883dc9c64f6985224209ffe6936
@@ -434,7 +417,6 @@ Architecture: iphoneos-arm
 Version: 1.2
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.2_iphoneos-arm.deb
 Size: 247942
 MD5sum: 2df67ac1155e6f81bddb87f0bae9744d
@@ -452,7 +434,6 @@ Architecture: iphoneos-arm
 Version: 1.3
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.3_iphoneos-arm.deb
 Size: 137998
 MD5sum: dd7069c35d2a5bfe7253172202c9937f
@@ -470,7 +451,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.CalendaText_1.0_iphoneos-arm.deb
 Size: 143442
 MD5sum: 46777805ac4d9eb659fbff3070d1e022
@@ -488,7 +468,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.KamCCNarrow_1.0_iphoneos-arm.deb
 Size: 95820
 MD5sum: 2d4241cf463545d1320e33e317b85bdc
@@ -506,7 +485,6 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Widget status bar
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.NotchXS_1.0_iphoneos-arm.deb
 Size: 92342
 MD5sum: ac27e573c6f19d525227581e6420d785
@@ -2658,7 +2636,6 @@ Architecture: iphoneos-arm
 Version: 2.8.8
 Section: Chủ đề
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Juno_2.8.8_iphoneos-arm.deb
 Size: 14067022
 MD5sum: fab238acb4f4c03e4c961ffe8f207e1a
@@ -2797,3 +2774,86 @@ Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Font cho iThemer và SnowBoard
 Name: Gineso (iOS 13)
 Author: Alex
+
+Package: com.TruongTamPhong.XenInfoVietNam
+Architecture: iphoneos-arm
+Version: 2.2.8
+Section: Utilities
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debfiles/com.TruongTamPhong.XenInfoVietNam_2.2.8_iphoneos-arm.deb
+Size: 270090
+MD5sum: b84dcce16c67efe6fe46834d05574dbc
+SHA1: ca22545ee55f7c6530ce83bcfdee6a18bd039697
+SHA256: d62a24867d77945bee351373d566dfac9e5e2e89604f6074ca7c5e73bb86a843
+SHA512: 0d9d73290f16d52a76daece3bfc8297618659c0b5e2a1fe48e0015dca4d58e9313732a4b09044de5893c0c45ed3918272d04ee6f9c11727d8522cd5b5ff0276d
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Thông tin về âm nhạc, thời tiết và pin cho Xen HTML
+Name: XenInfo Việt Nam
+Author: JunesIphone & Matchstic
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenInfoVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenInfoVietNam
+Icon: file:///Applications/Cydia.app/Sections/Utilities1.png
+
+Package: kr.xsf1re.flyjb
+Architecture: iphoneos-arm
+Version: 0.2~beta49
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Filename: ./debfiles/com.TruongTamPhong.FlyJBVietNam_0.2~beta49_iphoneos-arm.deb
+Size: 341756
+MD5sum: 010d0849cc8909fb3543eaa26c9c9fac
+SHA1: 9174c78c8063bd960ceee438a12da68546d28785
+SHA256: 62d4afbe7dabeda2187ac7f47564766e6c3aa625d8780f3a2597e1d481ce74a5
+SHA512: c8e86dc659495f274b0d18fc9dfef3892b29b3fab8d47f49740fbbe015df15b4d7881befad72fcb1b29e271964d1b85a37c287a6b9aa070c19001fdabd959f7f
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Chống ứng dụng phát hiện máy jailbreak
+Name: FlyJB Việt Nam
+Author: XsF1re
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SnowBoardVietNam
+Name: SnowBoard Việt Nam
+Version: 1.2.87~Beta2
+Architecture: iphoneos-arm
+Description: Động cơ trượt tuyết theo chủ đề. Đủ các gói kết hợp dành cho bạn.
+Author: Spark & Dennis D. Bednarz
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.87~Beta2_iphoneos-arm.deb
+Size: 2984096
+MD5sum: 76e60195de2c8693b64cbd71653c89ac
+SHA1: cfe9f400046c89d0b61c1f69b133bd8f9a2547e2
+SHA256: 35e90bf8ac27d7bc8f05f8129f2c2f016ce37f9a55ff55d49b8fce97925cf556
+SHA512: 930d49fe27a72d9f6c3eff7fb11b3d35f97270d9c543884a9155c99204d56664b64cd325ba4d615c673ee19a87417a957ada77391c6350332c6a67d51111d42e
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.XenHTMLVietNam
+Architecture: iphoneos-arm
+Version: 1.1-8
+Section: Tweaks
+dev: MattClarke
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: firmware (>= 9.0), com.truongtamphong.xeninfovietnam, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1-8_iphoneos-arm.deb
+Size: 2850408
+MD5sum: a74e56adf56454898bdce28afbd4f675
+SHA1: ff0b8366418637030fe25f000b337846b2c4c432
+SHA256: d414b0874fda93fa8b70b8ec9fc1a622fde822b84e66b6504e86aa263f8d83e7
+SHA512: d31d02d134512b334265e6862b58653e3a8d1de1eb700bff56dee7f6a54343ef0edde677271d75300552e7102dc4e3c6bec0d60a67ff1071327d97c7cb2f1ed5
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Hiển thị Widget lên màn chính và khoá. Việt hoá Trương Tam Phong
+Name: Xen HTML Việt Nam
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
+SileoDepiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
