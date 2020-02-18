@@ -2754,11 +2754,11 @@ Section: Fonts
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: com.TruongTamPhong.Juno
 Filename: ./debfiles/com.TruongTamPhong.Geometric13_1.0_iphoneos-arm.deb
-Size: 9532606
-MD5sum: 74804e8344662fab133c57abd2b5e8dd
-SHA1: 564af839b926a56cda4e2322bb57baf14d3712e7
-SHA256: a127837cd0fbb9561f95d2d01a8c70b6c4890f5e1738b52a2ae74c99bc89a2d9
-SHA512: 0ee7da1e6eadbe8226bb574a0e6e4a03179b4fc9d3f6d458ef663f9f0bc0c07a068823097b069a0eb902de9d87975d9fef90b2ad23a911fa66d7157f1087b537
+Size: 9539798
+MD5sum: 2830a0133c7fedb18047bcea1431b2ef
+SHA1: bda2a63fe7552e3df25cb52727d9d93614a3a852
+SHA256: 1e3d37e819496bde0d5c093ad265a6f97b6f451f5b94974bd45cf61ce7e5de0f
+SHA512: e5c8d51c02b2f25d01b9ffb64b46d5d813bc1468140ac8c0584e9c88d734d6d2c9904732164d7717cc6b4255191757aba47a814cae73399d25cd467585a67e04
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Font cho iThemer và SnowBoard
 Name: Geometric (iOS 13)
@@ -2788,11 +2788,11 @@ Section: Fonts
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: com.TruongTamPhong.Juno
 Filename: ./debfiles/com.TruongTamPhong.Gineso13_1.0_iphoneos-arm.deb
-Size: 13568576
-MD5sum: e655e135e036d5e60a9926c326b95d67
-SHA1: 19a4ffd67f15979e7e8f83b9f8dd68e7cf2bc228
-SHA256: 74e79048deed3378ecb57f5daac4790f421f9ad30fe74515890a1ecbd8fbdaad
-SHA512: f3dcebd4750b1b64c582244f80b4cb1a35dc026c75fef05ed5d750ee762516aac0677d6cf517ac7955866fed2845eb02c2ce4a09a3cd0a6788d35c55f4cf5f79
+Size: 13576106
+MD5sum: da73a1c061f628b98e26e5bf16a8999c
+SHA1: 089fe532e29d6a59dabe8a5d7e0f13d65e427642
+SHA256: 2e4410a54dfdd62eb70f19697876e9326bca184e6b782b4875f69723a3808e84
+SHA512: 34df5022177be143e185c7a73a741aed013dbf571466bf8e50921ac8d3fc44be8dcb0880ef1a71da07412c1a52d454d1e69eb0cf7bf98fa13eddc3e0f4ddd414
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Font cho iThemer và SnowBoard
 Name: Gineso (iOS 13)
