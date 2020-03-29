@@ -2942,3 +2942,23 @@ Author: CreatureSurvive
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShuffleVietNam
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShuffleVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.ShuffleVietNam
+Architecture: iphoneos-arm
+Version: 1.1.3-1
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: com.creaturecoding.libcspreferences
+Filename: ./debfiles/com.TruongTamPhong.ShuffleVietNam_1.1.3-1_iphoneos-arm.deb
+Size: 341074
+MD5sum: eeb12b481947e22b2253587cdd45709f
+SHA1: e98fb22d6b872b69eeefdecce776ec593e2d4ddb
+SHA256: cc5ae576748fd40702c9e3b2662e7ca1f9ce4a07742c50e3c93de596a1a94179
+SHA512: 88a926c12c99f5b471712f4e05665e9d4f875dea3a7fbef1a3f9959cac58a40b709180945c3407f5bad8d731532c1416f1003c34e502ebcc93a7a273f1dce615
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Mix up your preferences
+Name: Shuffle Việt Nam
+Author: CreatureSurvive
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShuffleVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShuffleVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
