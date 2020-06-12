@@ -1,11 +1,11 @@
-Origin: Repo cydia-jalbreak
+Origin: Apple Cydia & Jalbreak
 Label: Apple Cydia And Jailbreak
 Suite: stable
 Version: 1.0
 Codename: ios
 Architecture: iphoneos-arm
 Components: main
-Description: Repo cydia-jalbreak
+Description: Apple Cydia & Jalbreak
 MD5Sum:
- 68a4356e901ed8528f21adfbf5b4f4ed 133953 Packages
- a2654254c946c71597864db2d083b336 29947 Packages.bz2
+ 5dd02ed79515c3f97f6ecd8c44d3a478 133240 Packages
+ dcbf832960649c58ae7a08ab08689fd6 29799 Packages.bz2

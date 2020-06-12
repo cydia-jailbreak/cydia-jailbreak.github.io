@@ -1,0 +1,12 @@
+Package: com.TruongTamPhong.MusicAndWeatherDark
+Name: Music & Weather Dark
+Author: Ata Ra Shi & TTP
+Version: 1.0.8
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Widget dành cho Xen HTML.
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Maintainer: Apple Cydia Và Jailbreak
+Section: Widget tĩnh
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Music&WeatherDark
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Music&WeatherDark
