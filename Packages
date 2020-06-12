@@ -215,6 +215,25 @@ Author: AnthoPak
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AppazeVietNam
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AppazeVietNam
 
+Package: com.TruongTamPhong.AprilVietNam
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks1
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.AprilVietNam_2.0.1_iphoneos-arm.deb
+Size: 3742
+MD5sum: 292ece8d4a71021c5bad80be1466a75a
+SHA1: 5d3ec03cd9e6ccc6708f1c8b51c794fa0cf208f0
+SHA256: 4072eefef13aa60b46fcb5ab466ff8b66ce15b88798aa0bdd1883da7e0612d03
+SHA512: 52b3ddbb7e63a613c53b86e1559797d5e6038de249f8117dabe8bd24a286f083e0de9cae969f31275e216ce320982768de77e5e5765d4fd5ebfe794ac682f298
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Gói ngôn ngữ tiếng Việt hỗ trợ April
+Name: April (Gói tiếng Việt)
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AprilVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AprilVietNam
+
 Package: com.TruongTamPhong.AutoChangeWallpaper
 Architecture: iphoneos-arm
 Version: 1.0
