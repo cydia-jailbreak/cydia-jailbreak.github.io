@@ -946,6 +946,44 @@ Name: Gineso (iOS 10-12)
 Author: Alex
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Gineso12
 
+Package: com.TruongTamPhong.Gineso13
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Fonts
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Gineso13_1.0.0_iphoneos-arm.deb
+Size: 13575688
+MD5sum: fb9cfe9f441e8f5085f56a5e39f8a41d
+SHA1: 2fa2f510d7f6cad71d1f7593dff59d465edf12cf
+SHA256: 453d8166fc542e45ccfd02e1a4a3fab1cb1c66861ddafa33fb3ea479279e0cf0
+SHA512: a57d3918ba2bd7ea5e86855fe848d60535c9f93da0e7bf53e28ffa7fba09300a61bbbe153d6760d4d06f801c21aadff0b5b2ba0472e938867e7bc7eafdd19bd9
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Font cho iTheme và SnowBoard
+Name: Gineso (iOS 13)
+Author: Alex
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Gineso13
+ SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Gineso13
+
+Package: com.TruongTamPhong.Glasklart
+Architecture: iphoneos-arm
+Version: 5.62
+Section: Themes
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Glasklart_5.62_iphoneos-arm.deb
+Size: 64407336
+MD5sum: 9cfeffa4bc77212877706558775d9d78
+SHA1: 8184521c3ea929db2568323cd834c3084bb9443b
+SHA256: e2cb937df3fe4e3125377befeccb69bbf53ba73b37ba7f5d3dd1e16abe155ba7
+SHA512: b80a5d1f4be04f5f55e28e5b9a1c50226bf35639dc2b2b6f67c1cd4dd624a8655ccd630e094b74670471a007f51e2baab2e96d99bafedeef634767ed29085da0
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Glasklart is swedish, it means clear as glass
+Name: Glasklart
+Author: Max Rudberg
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Glasklart
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
 Package: com.matchstic.libgithubissues
 Architecture: iphoneos-arm
 Version: 0.0.2
