@@ -968,16 +968,15 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 Package: com.TruongTamPhong.Gl
 Architecture: iphoneos-arm
 Version: 1.2.0
-Priority: optional
 Section: Themes
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate, com.TruongTamPhong.Glasklart
 Filename: ./debfiles/com.TruongTamPhong.Gl_1.2.0_iphoneos-arm.deb
-Size: 15225176
-MD5sum: cb59e0ebe72b536d729b94079761aca1
-SHA1: e8b2dc4bf4834576245c618b0b13f8d189d8c831
-SHA256: f7db56b24df541b0ba81465e1572c2bbd041ffee6ed354d4a0fb9768f71dbe1f
-SHA512: 3d189998f887bc2d13640d4f1c111df08652ccc2606253a9ae5d4d89d41b7ef87959d0d44b540c3c5db22606b53ffa934681ed4638d2b4d3e212ee9a000d5d12
+Size: 15225190
+MD5sum: 32cc1bb3646bd70a2e819fa6e9596ad3
+SHA1: fbbdbdd1c2d6510b2df06e03f5decaadd5659c3b
+SHA256: 1c8a7c6e0bf786a952f0bc4c009ad529da03b9090a27bbe6f49c61f814f3ad2d
+SHA512: 9a789840718d5fa10286a16376b78d30998e46cac5884891ec10ff7a6a96e53e94ef0cc8961dec4b36779df66783dbccc9918b4cc123cceae8b10d6e638c1a27
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Gói biểu tượng hỗ trợ theme Glasklart
 Name: Gl
