@@ -1086,6 +1086,26 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.HtcClock
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.IconOmaticVietNam
+Architecture: iphoneos-arm
+Version: 2.4.8-29
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.IconOmaticVietNam_2.4.8-29_iphoneos-arm.deb
+Size: 39576558
+MD5sum: e64e130dc99ebd60576c3052e1496d8c
+SHA1: fc1e14426dbea1ca96bd0f70d7ae1b04293661fa
+SHA256: 79dfc6ed0fa7ba0f8e19b843e147c7574f930cc2d397fc2a2ade200205955817
+SHA512: 07950117e8a942344d01de9e7b66250d8cb8da01b9a730d5f15c418b52f8773a31f4a92b2ffb45c4a8e60c8c79c65b794b2afeef5c6c0717cb7c94b85805b88c
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Thay đổi giao diện, chủ đề của bạn.
+Name: IconOmatic Việt Nam
+Author: FreeApple
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.IconOmaticVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.IconOmaticVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.IconStateBackUp
 Architecture: iphoneos-arm
 Version: 1.0.0
