@@ -15,23 +15,6 @@ Name: Repo Icon Cydia-Jailbreak
 Author: Trương Tam Phong
 Icon: file:///Applications/Cydia.app/Sections/System.png
 
-Package: com.Apple.Cydia.Jailbreak.icon
-Architecture: iphoneos-arm
-Version: 1.0.1
-Essential: yes
-Section: System
-Maintainer: Apple Cydia & Jailbreak
-Filename: ./debfiles/com.Apple.Cydia.Jailbreak.icon_1.0.1_iphoneos-arm.deb
-Size: 84538
-MD5sum: a98cf8f2c14ae0736e9f342aaad82b77
-SHA1: a72456962de4610e061041bdabd45e8d9f160475
-SHA256: 1922ad34ea0705f6ea7557604f9cb46891dcb4a0b240d7285a04e5f2fec89e49
-SHA512: ae6460538ad091ff68b4b28c5b3bb379ff4b59d6ebf2cf7a4d9b062eb4b3e2be62234576bd4a82edd27ec35edb79fed0280737692881fdb2d48ce887e567fc7c
-Description: Biểu tượng cho Nguồn Cydia-Jailbreak
-Name: Repo Icon Cydia-Jailbreak
-Author: Trương Tam Phong
-Icon: file:///Applications/Cydia.app/Sections/System1.png
-
 Package: com.TruongTamPhong.AmLichVaDanhNgon
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -916,17 +899,16 @@ Section: Fonts
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Geometric12_1.1_iphoneos-arm.deb
-Size: 13043700
-MD5sum: 2c860f407e45f8dd117c468afb694815
-SHA1: afc2836ac28985b4eb99d584b40c12d5767de3b0
-SHA256: fae40af882d4fc26f127b7f3bcad66eec5caabc0dd2344aff2a1db663786ab0c
-SHA512: 1a707c62c8e07ca9a500821499d28720e068ff482a3a11a7e336db3192d0585a470d093d00c0f0f8411aff96b519e0df87d0ec5dea7956c16ad2746d507d55d0
+Size: 13043686
+MD5sum: 2289c1f6a64d9a74fd1135143ce956f2
+SHA1: 61acdfb1b53f7e8d800f2dd56c2fa0b7b04ea62d
+SHA256: efb9a80683436a2b5e2f5d8cad8a32efb9c4d6b9245e4de6d12502abb5f0c854
+SHA512: ea9221c427575a317e726e153026d2bd4cb4497f94348ef227355174112d53ce3660ebfcaa3602e5aa73056d80d212b87533cef2a93804cae30abf7a08d97d2f
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Font cho iTheme và SnowBoard
 Name: Geometric (iOS 10-12)
 Author: Evelyn
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Geometric12
-Icon: file:///Applications/Cydia.app/Sections/Fonts1.png
 
 Package: com.TruongTamPhong.Geometric13
 Architecture: iphoneos-arm
@@ -935,17 +917,34 @@ Section: Fonts
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Geometric13_1.0.0_iphoneos-arm.deb
-Size: 9539932
-MD5sum: 4f33a5e3b317e0f913b4648d5cd8d53a
-SHA1: 0532a7f9e8c879a625779406b25d2d2d68e93fdd
-SHA256: 49efa1c74630b5cce20df618e4b8792957eca894e4414125527f55f7c3f92c4b
-SHA512: 5c7c8720d9de1969a04f3ba70ceffda2723f6896b4db08c0c35d1497f5d5b4e18cb683969ff423cef82b6c20001a6822bc4d59288fef3ea751eeaa2197222062
+Size: 9539536
+MD5sum: fc2fa277ff8c63e22f5a343893db0650
+SHA1: f10505310e2f0d92771623b89a6f629a63034866
+SHA256: 953e9c403cda983bfb644c500ea165f26750ca1f1c7a4ad738e451ab44cbe104
+SHA512: 0411119f28738eaac62573845005ba16d23eef97b8e1d5307335eb4f119cc2e064851cf8cc8fc366aa9d74404b54f9fcfed8e0ed0d8f845a3852d9f93c808f22
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Font cho iTheme và SnowBoard
 Name: Geometric (iOS 13)
 Author: Evelyn
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Geometric13
- Icon: file:///Applications/Cydia.app/Sections/Fonts1.png
+
+Package: com.TruongTamPhong.Gineso12
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Fonts
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Gineso12_1.1_iphoneos-arm.deb
+Size: 13163776
+MD5sum: fcaad45d607c46c511b43708a6c7c187
+SHA1: dee5f18d81d0b7a35c60220365200aaeb011e152
+SHA256: b9ec52db604d1fd3e972dc7110797cd2481392bedd2e1678972f33cc3da2278f
+SHA512: 0585c3131406266512e5c0f8cd70e27a1613cbb5ae10b3d4af55375e4fa6611519bec0cd4a25445e83f37d9b96304e1aa546958c027536db7070c27a6c1021cc
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Font cho iTheme và SnowBoard
+Name: Gineso (iOS 10-12)
+Author: Alex
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Gineso12
 
 Package: com.matchstic.libgithubissues
 Architecture: iphoneos-arm
