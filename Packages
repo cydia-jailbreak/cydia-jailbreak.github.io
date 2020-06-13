@@ -965,18 +965,37 @@ Author: Alex
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Gineso13
  SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Gineso13
 
+Package: com.TruongTamPhong.Gl
+Architecture: iphoneos-arm
+Version: 1.2.0
+Priority: optional
+Section: Themes
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate, com.TruongTamPhong.Glasklart
+Filename: ./debfiles/com.TruongTamPhong.Gl_1.2.0_iphoneos-arm.deb
+Size: 15225176
+MD5sum: cb59e0ebe72b536d729b94079761aca1
+SHA1: e8b2dc4bf4834576245c618b0b13f8d189d8c831
+SHA256: f7db56b24df541b0ba81465e1572c2bbd041ffee6ed354d4a0fb9768f71dbe1f
+SHA512: 3d189998f887bc2d13640d4f1c111df08652ccc2606253a9ae5d4d89d41b7ef87959d0d44b540c3c5db22606b53ffa934681ed4638d2b4d3e212ee9a000d5d12
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Gói biểu tượng hỗ trợ theme Glasklart
+Name: Gl
+Author: Max Rudberg
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
 Package: com.TruongTamPhong.Glasklart
 Architecture: iphoneos-arm
 Version: 5.62
 Section: Themes
 Maintainer: Apple Cydia Và Jailbreak
-Depends: mobilesubstrate
+Depends: mobilesubstrate, com.TruongTamPhong.Gl
 Filename: ./debfiles/com.TruongTamPhong.Glasklart_5.62_iphoneos-arm.deb
-Size: 64407336
-MD5sum: 9cfeffa4bc77212877706558775d9d78
-SHA1: 8184521c3ea929db2568323cd834c3084bb9443b
-SHA256: e2cb937df3fe4e3125377befeccb69bbf53ba73b37ba7f5d3dd1e16abe155ba7
-SHA512: b80a5d1f4be04f5f55e28e5b9a1c50226bf35639dc2b2b6f67c1cd4dd624a8655ccd630e094b74670471a007f51e2baab2e96d99bafedeef634767ed29085da0
+Size: 49133758
+MD5sum: aed84a7a64affedf7f003fdf7a066665
+SHA1: 7d3f545d1e53b7e83a70d2638b5f9b06a741d53d
+SHA256: f50fd328fadcb31a0067c0f1d591129e9a74ac7262725f391f134b82a5d6122f
+SHA512: ebadf6100b2c80d22452315959cc3b04ddbb676449e776d8d0e858a9a02c3c31e54d860c6e2d0cb09ef1d33b16cf3e962267f13b6aa84968764be8177668f5b5
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Glasklart is swedish, it means clear as glass
 Name: Glasklart
