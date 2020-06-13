@@ -234,15 +234,15 @@ Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AprilVietNam_2.0.1_iphoneos-arm.deb
-Size: 3776
-MD5sum: 44effb2e4547f8acc3ff988d682dbf00
-SHA1: e5375d994239610e6ecfd55088cd7af2ae816eca
-SHA256: ba03d15b05d49aea5031c5482017b37e40035ae746ac88f10ff4f9bc5fb44ca5
-SHA512: 29fe4478395eec9739ae2ebf7be7a87de5c9c0d2854f471810d742ef9102d1b5d6c24d7566a5e4bde47a99f48a8b920d911bf76c50c78b2bcd09f0a1adf4c81f
+Size: 110974
+MD5sum: 6e5214f12d48c744a997d0062bdfdb63
+SHA1: bf30aa50145c5ea26f8f6545c24783834e0942e1
+SHA256: 9ad60f68f2c60e0a7bbd60c38896adaf4f60b564da1cf9b39aaeecfd01dacce2
+SHA512: 06af0ab7556b4bec120afe57b741aeccf25c09b8763573bcd7858c0b76ee98aee2f8f74c4153a66af7fc5adbca4090c4c865e9fd508770498f836b34eb0c893e
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Gói ngôn ngữ tiếng Việt hỗ trợ April
-Name: April (Gói tiếng Việt)
-Author: Trương Tam Phong
+Description: Làm cho màn hình khóa của bạn độc đáo.
+Name: April Việt Nam
+Author: Constanze
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AprilVietNam
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AprilVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
@@ -1370,6 +1370,26 @@ Description: Widget for Xen Html
 Name: Main Led
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.MainLed
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.MusicAndWeatherDark
+Architecture: iphoneos-arm
+Version: 1.0.8-1
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.MusicAndWeatherDark_1.0.8-1_iphoneos-arm.deb
+Size: 14335552
+MD5sum: 36a928df8f44d7e0b8ee325db388f24c
+SHA1: 30081475681157427e7934948b61b67a090e45bd
+SHA256: 4849eac9d1e4fb9fa21a41df42a1ce6eca474ef838a9ebd0b87525193692c705
+SHA512: f159e82fc19e71b8f045fa5497c4d21bbe2aa4b7bba0aa8dad5d7a019b273aa1bacf475bfd49c9ddcf9ad78c254c2793ac3b890bc0043f11f65ddbc5771a9096
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget dành cho Xen HTML. Xem hình srnh để biết thêm chi tiết.
+Name: Music & Weather Dark
+Author: Ata Ra Shi & TTP
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Music&WeatherDark
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Music&WeatherDark
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.MusicAndWeatherDark

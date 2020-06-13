@@ -1,24 +1,4 @@
 {
-	
-	"desc_long": "
-
-- Gán các hành động mà bạn muốn.
-
-<br>
-
-- Đã Fix dùng được cho IOS 13.
-<br><br>
-
-Biên dịch bởi Trương Tam Phong
-
-",
-	"screenshot": "<div style='text-align:center;'><a href='screenshot/
-
-Activator.png
-
-' target='_blank'><img width=90% src='screenshot/
-
-Activator.png
-
-'/></a><br></div>",
+	"desc_long": "- Gán các hành động mà bạn muốn.<br>- Đã Fix dùng được cho IOS 13.<br><br>Biên dịch bởi Trương Tam Phong",
+	"screenshot": "<div style='text-align:center;'><a href='screenshot/Activator.png' target='_blank'><img width=90% src='screenshot/Activator.png'/></a><br></div>",
 }
