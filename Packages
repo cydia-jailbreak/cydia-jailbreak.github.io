@@ -35,6 +35,31 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ActivatorVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.ActivatorVietNam
+Architecture: iphoneos-arm
+Version: 1.9.13~rc3
+Priority: optional
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~rc1), com.rpetrich.rocketbootstrap (>= 1.0.9)
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Filename: ./debfiles/com.TruongTamPhong.ActivatorVietNam_1.9.13~rc3_iphoneos-arm.deb
+Size: 1202782
+MD5sum: f6d841c2fb445a8d6946cc95b0c5576b
+SHA1: 4ee55072149d9f190b0bde57d5a38713297c1952
+SHA256: ed227a85deac74f2d47450717cf39e4b7e41c1435f487797f5bdc96747dd1f71
+SHA512: 98c9d326382ee71c29154b451f66acf67947d9ed803e6e1cbefaf04479c131c315a5b2edb48ba03a6443b96b1965e12c47d6472fc6b6d5676bf1a4282f9a1e20
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Cử chỉ tập trung, quản lý nút và phím tắt cho iOS
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Name: Activator Việt Nam
+Author: Ryan Petrich
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ActivatorVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ActivatorVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.AmLichVaDanhNgon
 Architecture: iphoneos-arm
 Version: 1.0.0
