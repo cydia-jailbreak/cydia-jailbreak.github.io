@@ -2365,6 +2365,554 @@ Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Temperature Clock
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.TextDate
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.TextDate_1.0.0_iphoneos-arm.deb
+Size: 74206
+MD5sum: 4d2b09696d14cece3d45026f32ea2fbc
+SHA1: 6dec00017abc8e4eb9ff8e12fe9f63446382b624
+SHA256: bd3642c16a183fe4d08809bf72509851006f2209881aa2f05df48d03df1d18ca
+SHA512: 5367e2023391dba43d36fa01cd1643e8cef77960d034d110d844de2f7609aff76a4ea69c9b87fb9e93d4a99c870a254a7526c85aeb944341f87d1f8a49fbc41f
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Text Date
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.TextDate
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.TextDate
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.TextDate_1.2.0_iphoneos-arm.deb
+Size: 66392
+MD5sum: d09cc87a6c92e8f88d82fb48eeb267cd
+SHA1: 23dec04334e970cc41124d62a0b5a30e805c6d4b
+SHA256: 4b6dc332cc1d8fe99ac8ac733a3aed2358d70001a243fbfdb8743a3c695b166a
+SHA512: def602bcc38b9607ebf57721b256c0d42a25eeb5589c31e70d66979040916f7c1f662b38f918f9676d17b5033cdbca1b021c8cc85824dddd3da5262aef5f13bc
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Text Date
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.TextDate
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.ThreeDock
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ThreeDock_1.0.2_iphoneos-arm.deb
+Size: 7496
+MD5sum: 35cd498ee424ee1a50fa6d024a8dae27
+SHA1: c7a96c63e48914410e9fe7391c0209b2306ac452
+SHA256: 0a5ed17dd550a904513fd9b86c3dc0ab1678748b8f7d484547d58cb91fc1f35d
+SHA512: 481e7cfd7cb346660211ad62465456e6d709e79b40ba6039979bc7e65d02df24debbc2ba60fd762d3d678b7392f08e679fa3521e0561b9025bd214af7a23802c
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen Html
+Name: Three Dock
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ThreeDock
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.ThuPhap
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ThuPhap_1.0.0_iphoneos-arm.deb
+Size: 205698
+MD5sum: b1cf751539eeb9f05867d25e942ed2ac
+SHA1: 3e58f036f1a3d17acc639ec47562f9dd792cee7b
+SHA256: 674bcc24b13d3c4da6c91a2c947526dd2e82940bf594e7ec731133ac30896039
+SHA512: c37747ac70b420fef979b542116fa5630fde239882529b826f5e9581535a04830c72d65600e24ef3ec848f0f2016136ed74d870e900c562bb8a72069490acaf5
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Thư Pháp
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ThuPhap
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.ThuPhap
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Widget động
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ThuPhap_1.1.0_iphoneos-arm.deb
+Size: 185296
+MD5sum: d37496263080bc1c8d361559e2c47341
+SHA1: 312d07851359fa8ac3af4bc7acc01dd526736154
+SHA256: 06d2615ba54394423931fd40d3c63c6dd3c9edea3ccb91d087b9bc5ccdb1e713
+SHA512: 68d3d6f7fcd10fdea41bb6b64f86bcaf8cb57edcaf3e850498b8fd95cd12d6a2eaa42996a4fa38e91694975c59048b8931e7a4e27dfad762f6f14485fc552e69
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen Html
+Name: Thư Pháp
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ThuPhap
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.TuyetRoi
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.TuyetRoi_1.0.0_iphoneos-arm.deb
+Size: 28646
+MD5sum: 85ad95b1454d2eee64750e77a6231d9f
+SHA1: 3ba8148fbea4d47df3b7aba9adf8b09eef10a886
+SHA256: 904e69a4332ae9ab47153ea0826f028f1d93cb604b45d9aa53e80445cad6494d
+SHA512: 1ce8aa08b71fd01815e5620e52d9a4a379066d55f691c5d3229d9bce276890c8e0c38cf4ddd525b997223e46e2859e9885b7dccf6ca36c924f2844896e971d48
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Tuyết Rơi
+Author: Kênh Táo
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.TuyetRoi
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.VanTay
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.VanTay_1.0.0_iphoneos-arm.deb
+Size: 27314
+MD5sum: 8c378b37d65cd489ec1c7cd3906a77cd
+SHA1: e7c882b0091c6d1f0f39b9520e11b84ab7f963a0
+SHA256: 4b1cfd2045ddc5603d261e6876a01b0cac22e2fdc2de301cdb67a16be258f9f0
+SHA512: d7dc763ebe312563b26b4ae5007717ba149354a17b49d973672597c7ab26ab1fcff7e013134aa164d2320790c7cc4e0e39e0751084aac453aa9ae66a09536401
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Vân Tay
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.VanTay
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.VanTay
+Architecture: iphoneos-arm
+Version: 1.1-1
+Section: Widget động
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.VanTay_1.1-1_iphoneos-arm.deb
+Size: 612098
+MD5sum: 5596437af0cc601e8c29037b74c9a611
+SHA1: c3926388e90145545b7c586d47d148eaa6347422
+SHA256: 7e83e4c5a2bed8784d476bda2dac82ef7dc21f0bab143593ccda2285b066a5ad
+SHA512: f63ce374a905851b9f8add7778730943e8afae1dec518051bd4ebb535a3901af6e9b64b27cffa807871f0dc9173aa44ff4bc9be39f35f1fc3f1ed7c7f7f873ae
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen Html
+Name: Vân Tay
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.VanTay
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.VanTay
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Widget động
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.VanTay_1.1.0_iphoneos-arm.deb
+Size: 612096
+MD5sum: c8d4c3a15728f7e7870447f3d3398c48
+SHA1: 4ecd2c51f41278b596cd8bc02ae41cc4369da650
+SHA256: 5a9f7eedbd56533a490e397911757aaf94ee0ebb42ecd5e521da05c0a9dc7472
+SHA512: d52fcd2037799166b6a588414953b0e1ef7f96418cca8c3346303b7104d54759f54ccc03ef5c3d0930bc751061479f906a2f794315442756844430e5e3c07edc
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen Html
+Name: Vân Tay
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.VanTay
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.WeatherAndTime
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.0.0_iphoneos-arm.deb
+Size: 233290
+MD5sum: c119302e87416c35ed09589a49fa6826
+SHA1: 7d7f749a729a278805571470b9187ed7c8b0aff4
+SHA256: 727d81cc552b6685533a094d82dbb0a537f9c2e0ec35f1f30dd07ac38cbeb44d
+SHA512: 2864a9d48a574aad945374e1cc5e0a900b7b6454fc4acccea69590c1c5c8e15981a21f778b50804605ae80a4535529f9ebd9239af3603dbd173cfc93e6353df1
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Weather & Time
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherAndTime
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.WeatherAndTime
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.1.0_iphoneos-arm.deb
+Size: 233276
+MD5sum: e15024d50208e075082aa1177a32783c
+SHA1: 4fe44846eee440d5824d513be3a2dfa673b1d06e
+SHA256: e067ad7d326e945284fafa4b147078ecdafd7e1a4e6a430ccc4708b1ab9f9bcc
+SHA512: b7ecc7b49c037c0414272e1a5a15eb6a905ddea41e8498234233b23de6a9b519d6bb07e8b08bb6ca8816fca62fa269d0041f3d7df6464be3c886aa262de1b830
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Weather And Time
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherAndTime
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.WeatherAndTime
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.2.0_iphoneos-arm.deb
+Size: 247960
+MD5sum: 7eb4d5259509e25cb358210178017b41
+SHA1: 2981230c5da94d99cb5b68c9d20a793acb53f9d0
+SHA256: 7579d0a1abc160917880bf32c7802a70b8b4333b79e5ffa0c776241837f0bad1
+SHA512: 5a3ce6c25cec27e6ddb2af4471ae6840d88ee4d10a20683cb7c075111dd3ffc9d06874ec4523aea2235d2faef203163eaee75109867d8aac9c3b1daec2ab9bdf
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Weather & Time
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherAndTime
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.WeatherAndTime
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.2.1_iphoneos-arm.deb
+Size: 248044
+MD5sum: efef59603c333b8b41f08797345b4ac8
+SHA1: 7236a0ae418f7be0d109586ba16c843af7977abd
+SHA256: baf9ffb440135aa256ecb84fb9020ba092f3d48da49cddbc08878298a13f9386
+SHA512: 2c28b635b86a3963e72e3e0f0a638c7787634792e9cedd96688859c3b6d96f895d9357ad76bff79f120b0fb6afd2b54f2734e70a921eda39b0f1433fa5f91440
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Weather & Time
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherAndTime
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.WeatherNow+
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherNow+_1.2.0_iphoneos-arm.deb
+Size: 9902202
+MD5sum: 53011328a90b71ec683db75d0c4091fd
+SHA1: fa5136736c58019a8ea24881617e87890cb734bf
+SHA256: 4fc7a1737a9b96ad7d82495d7c67fb935a69dbbc7425e0418593b781e69bc507
+SHA512: 82dfd951cd347a466ea5e7202b025536a0c3e79af113406781c667a5a58384f0c1aa6e5bd7fba119ffb73836902d6d3ab6d5a86950bdf36bb8605bff765db4ef
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen Html
+Name: Weather Now+
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNow+
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.WeatherNowDark+
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherNowDark+_1.2.0_iphoneos-arm.deb
+Size: 8999022
+MD5sum: 7776bd91808b89a21b792490111f75f9
+SHA1: 195dcbfb420d47f372e88d4fa1585b0334759869
+SHA256: 50759ba324e3566bceec0c638eb2e9ca7ecaf8a763fc2520349517b4050a8663
+SHA512: b42ea9aede284bacec8fbed56c13d5da08e5f4c3439e1bccdb83c100d531ecbc4b4c024e0026984ac183fafe992b6b982ed2d929d2a781cb2aed31f9e1ed32f2
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen Html
+Name: Weather Now Dark+
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNowDark+
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.WeatherNowDark
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherNowDark_1.0.0_iphoneos-arm.deb
+Size: 8998308
+MD5sum: 95dd890c93f4f11c1bc328175fdaec13
+SHA1: bbdbd77a3fe8c33c278c963dbb0c93d4c3af507e
+SHA256: b7351a7c138dcdbd253a61299b161d8342ce6693ae3ec6aeec0905d30a7dacde
+SHA512: 13eab2f2458bcc41433fce79fa58dd3ac073877e332395b36bebb3d2bfc72e8270dc74d91f429c803e3f7b62af8942e608c6f9dc711989ef5d32a6b61575d38b
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen Html
+Name: Weather Now Dark
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNowDark
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.WeatherNowDark
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherNowDark_1.1.0_iphoneos-arm.deb
+Size: 8999004
+MD5sum: af6a777a454993c90cd9403832ab3133
+SHA1: 48c7026d051f9620a2ddf0acf1b4737c820f8372
+SHA256: 1e236aee84376e2d3e8f7e269e46f3d9e8e2b55e00dfa4632320f2f0c2f84fe3
+SHA512: d3abcc2173822cb0e9a241f1bff63db77f25f70359933ae1cfc881bd8e5898d8a98e7e47b5a44d540c9916d659aeb40aed6361609da02c125cce7148a0c5cb43
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen Html
+Name: Weather Now Dark
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNowDark
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.WeatherNowDark
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherNowDark_1.2.0_iphoneos-arm.deb
+Size: 8998966
+MD5sum: 0e28419ff1895aa6b72f4a3032079bfb
+SHA1: fcdf35d458064adeea6323964881d21d73cfd745
+SHA256: 782f3b3b13487858ea3188d0bf5ae4c83a6431ffc153f6d2863674a9364bafcc
+SHA512: 3ee5042a4ab5d3a41de203efd27179b5a25e6d5ce6d7c9ff2f41f7062c0a299f21449e817eb7cb0914283f55b7434000bb4cb2d41e70713b9279bf02b2caa7af
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen Html
+Name: Weather Now Dark
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNowDark
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.WeatherNow
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherNow_1.0.0_iphoneos-arm.deb
+Size: 9902192
+MD5sum: e9df3d255b656ae32e5a1a5324f71932
+SHA1: f6083c9e5d2fbe37c3bbd5c31e55ac7042a5d75b
+SHA256: c7959b078928581cea74c592fd0e9a55af7a1c2b272c50b8d0c45e4b1c96a86a
+SHA512: 0b0846f44a311856bcb225778ce6548a03e9a699bcd60483fb144955623bdc08d2b8b956db5eb1c83acc3486c62c2a7524fbcf6ebb02e2d7ea5c4f53f88208ff
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen Html
+Name: Weather Now
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNow
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.WeatherNow
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherNow_1.1.0_iphoneos-arm.deb
+Size: 9902154
+MD5sum: ef8cf61846bf15ffebe433fabbbe9d3d
+SHA1: 170b8e6156dccf1689b3baf9f92713cd383d8bda
+SHA256: f28a8fbb198b99c9ce4b30585327b84c8f58744e9c81617561ce532ab2899e9d
+SHA512: 656bc2fc4c3b745efaa1cbe85a0ad83e19144939f375084c7ad1f6c6002c9a5bb66422e91811c0209f27d391a35fa6d4ce28c5f9f852000d19479a0738970495
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen Html
+Name: Weather Now
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNow
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.WeatherNow
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.WeatherNow_1.2.0_iphoneos-arm.deb
+Size: 9902186
+MD5sum: 6c55d94650f25b9ea4750fa06bd4d588
+SHA1: adc6cae84e08caa38334273ee752d1e87a675d9c
+SHA256: 604c04287976b26fc0dd2be532dc00efaa2f7ef4526b98423d43b6ea1cfe3923
+SHA512: fb3aa1ac709ba36352b8e96a69289231e0ab944219f57af65f967b22423070e8220ae3b1c9495c2bcb2b5a6417ed289b2fecc4123456defb202090a8f18ffdb6
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen Html
+Name: Weather Now
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNow
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.XenHTMLVietNam
+Architecture: iphoneos-arm
+Version: 1.0.1~release
+Section: Tweaks
+Maintainer: Việt hoá by Trương Tam Phong <truongtamphong686@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
+Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.0.1~release_iphoneos-arm.deb
+Size: 2260084
+MD5sum: 4bbe54175e86775bea99a20c60d9f535
+SHA1: b9fa906f1f46dc84830ee4bc19337c0b690f0f01
+SHA256: 6b376e85adbf00fda86b6fec8c2d0300dcdea3bf9ece8c36c5b73c79c7e0dce5
+SHA512: 6412e4add3d8c95e6adeffa68baedd19d3d79e2f465c15863025bb99239a56de1af17db7e96855c52314c4c7aa8d9b85da95ee0849cc47e9750e67edb00089d6
+Description: Hiển thị Widget lên màn hình chính và màn hình khoá. Việt hoá by Trương Tam Phong
+Name: Xen HTML Việt Nam
+Author: Matt Clarke <matt@incendo.ws>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.XenHTMLVietNam
+Architecture: iphoneos-arm
+Version: 1.1-7
+Priority: optional
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Depends: firmware (>= 9.0), com.truongtamphong.xeninfovietnam, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1-7_iphoneos-arm.deb
+Size: 2899844
+MD5sum: 66151dd053921ec04ad14c6252a18747
+SHA1: 65af26ff67e38328f499eb9f95ab19ef19318649
+SHA256: ce736ec80851ad9c3d8bd72907e4e200bd6c7cc5872ba46eafdb7dd83cfc97f1
+SHA512: 90d1f7b12c86d7910d7f6369feb9b46f2afe938b083a2b9e63891f4cdc9a47930a1c7540528010df09b02371d802c436f3cd5b1510be77a158075916756242a6
+Description: Hiển thị Widget lên màn hình chính và màn hình khoá. Việt hoá by Trương Tam Phong
+Name: Xen HTML Việt Nam
+Author: Matt Clarke <matt@incendo.ws>
+dev: MattClarke
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.XenHTMLVietNam
+Architecture: iphoneos-arm
+Version: 1.1-8
+Priority: optional
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Depends: firmware (>= 9.0), com.truongtamphong.xeninfovietnam, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1-8_iphoneos-arm.deb
+Size: 2850402
+MD5sum: fb062ea8d4936ea28107a9002267356c
+SHA1: 989f59ab47d83f192e696ae6982a90dae39e58d9
+SHA256: 920f6165011f17bc56919ee99f60ba3003a6f10a0e0b0aadd8c9809f95f7f8a0
+SHA512: a26c4cdae910062c9c594eb904a1f763988a5097bfa17b6ff1a4336f347322e36fa32a3b7da6f4b29e5df1fe05ef4955d0b987acef9f1f19aacc9575c55d2610
+Description: Hiển thị Widget lên màn hình chính và màn hình khoá. Việt hoá by Trương Tam Phong
+Name: Xen HTML Việt Nam
+Author: Matt Clarke <matt@incendo.ws>
+dev: MattClarke
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.XenHTMLVietNam
+Architecture: iphoneos-arm
+Version: 1.1.9
+Priority: optional
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Depends: firmware (>= 9.0), com.truongtamphong.xeninfovietnam, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1.9_iphoneos-arm.deb
+Size: 2850394
+MD5sum: c87b7d2a4179b058888ab56ba2a08f5d
+SHA1: 51a25dfd73ef242446cc5343602aca357be18842
+SHA256: 2ed20551d14e57d93e67f531450274adb2f001b57b41ca12d6bb1a55d380ddfb
+SHA512: 28eac09b563c4cb26021c59099d00341e69d85afd01a49dc100cee65d1f21fd669a8eb2e6a74e8035722740387858c724c53f2cb053aae122f654f4bd1e04431
+Description: Hiển thị Widget lên màn hình chính và màn hình khoá. Việt hoá by Trương Tam Phong
+Name: Xen HTML Việt Nam
+Author: Matt Clarke <matt@incendo.ws>
+dev: MattClarke
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.XenHTMLVietNam
+Architecture: iphoneos-arm
+Version: 1.1~beta2
+Section: Tweaks
+Maintainer: Việt hoá by Trương Tam Phong <truongtamphong686@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
+Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1~beta2_iphoneos-arm.deb
+Size: 2705996
+MD5sum: 965f449b731059bb6978387dc7ea7a4b
+SHA1: 7801c5fb081c2b69916a9a965b3c69b62e2cbcc6
+SHA256: 704efb403c71b02beb6070dbeed197badc65ae382bf097d6b115c2cab318b308
+SHA512: 187a90984d3051795a4cf022945e6a4148fdc07e515f3f085958676d46daf8680f1792138fa67372e46e4ffb13e2c5715e5beac768c311146f975eb5b4f739e4
+Description: Hiển thị Widget lên màn hình chính và màn hình khoá. Việt hoá by Trương Tam Phong
+Name: Xen HTML Việt Nam
+Author: Matt Clarke <matt@incendo.ws>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.XenHTMLVietNam
+Architecture: iphoneos-arm
+Version: 1.1~beta4
+Section: Tweaks
+Maintainer: Việt hoá by Trương Tam Phong <truongtamphong686@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
+Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1~beta4_iphoneos-arm.deb
+Size: 2698364
+MD5sum: 417b28c74d4399af91fd0c10826278c7
+SHA1: 6852b2d50b38f81db8823cc4f2be885ec7706ebf
+SHA256: f665c1eee66621fe3b61efb1d27772d98965bd1dc2b2a427b4be0e554667cae9
+SHA512: 542302ac78d46eb4fbe3bf01e26efc8cb23f62e319c80c8a34ff5bf1919ce4683709be3a29d0dbd40b1c94bc04d0ab89daf3c8f6766bcbcf9791369b69725769
+Description: Hiển thị Widget lên màn hình chính và màn hình khoá. Việt hoá by Trương Tam Phong
+Name: Xen HTML Việt Nam
+Author: Matt Clarke <matt@incendo.ws>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.XenInfoVietNam
+Architecture: iphoneos-arm
+Version: 2.2.6
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debfiles/com.TruongTamPhong.XenInfoVietNam_2.2.6_iphoneos-arm.deb
+Size: 140674
+MD5sum: a7919f472243eb121c25e33b52aa1606
+SHA1: 2fb5744034fd3ca3ad290a474d1905309d49c6cc
+SHA256: ff4cbf6b5cfc259b6fd2d5cf8eb7952daeb0f5a1351fb85ed8f4ce6498a0a829
+SHA512: ae9ea7c40343ea3f1bc275a61d2dca5887230341366e4282e1df67fddd7c3cf4cb1c720fc313ecfc232d30599c9d740f83551c31874e581690ff01fedb98977c
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Âm nhạc, Thời tiết, Pin & Thông tin cho Xen HTML
+Name: XenInfo Việt Nam
+Author: JunesIphone & Matchstic
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenInfoVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.Ybht
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Ybht_1.0.1_iphoneos-arm.deb
+Size: 44668
+MD5sum: d9772362cb825c0deb52e1e055b14941
+SHA1: ee1364d6ee18f62965e0f29ae7c1fc7d68b453dc
+SHA256: c7c080ed86bd800baf02093ed4c01a7012de6e694895636def1de4da732d8829
+SHA512: 49da255df443981b1ef3179b7e1e3c666b7917e269f94dfd2777c776b567910dd82b64ec729600ebddbfc90e830b350dc786dea9a567db62f3a75625ba86597b
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Ybht
+Author: JunesiPhone
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ybht
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.matchstic.libgithubissues
 Architecture: iphoneos-arm
 Version: 0.0.2
