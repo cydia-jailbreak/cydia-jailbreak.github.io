@@ -1449,6 +1449,922 @@ Author: Andreas Henriksson
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NextUp2VietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.NotchXS
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.NotchXS_1.0.0_iphoneos-arm.deb
+Size: 92358
+MD5sum: 05a98568199e86f32d6ae801a84a9bce
+SHA1: 9f40f094ad32195063cbb8b926915a196e6a3475
+SHA256: d9c3ef907b8610f979a8a2c5ffaaa22fc474cef2ef06ed6b4a5c01ec934c9de1
+SHA512: 4d235a5b52090e3c6df07140a3e8721e739f2304e83d7ea2c2f6c4ec3365e4b90ca06000175ba2a7411f7edc9f2a29dfc8634f6761bc87ef4913e72c4246589b
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Notch XS
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NotchXS
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.NotchXS
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.NotchXS_1.1.0_iphoneos-arm.deb
+Size: 76416
+MD5sum: f3564bee70c9ba058f7ef2c8fd9af63f
+SHA1: 794c88e1181daa37ea2f4e8f3b2a05c83300e652
+SHA256: 0e25a1f80d4181c53b892a18df387fdcf80574abea1f8dd3bca6ee43fa4ed831
+SHA512: 06b3f7eb6357e94e17215cb47c05423686b6db622304b055cc0066921b38f9906704cfcd4de5ca2f805b2ad2afb63cd1d65989954ff40ec94d083c7bca1261dd
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Notch XS
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NotchXS
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.Palert
+Architecture: iphoneos-arm
+Version: 1.1.0-3
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debfiles/com.TruongTamPhong.Palert_1.1.0-3_iphoneos-arm.deb
+Size: 136968
+MD5sum: 53f56319efdbccad3c095480d835e37f
+SHA1: 1ff64ee6e19f37d5df9407fe51ea83331138b592
+SHA256: 146035cee5c887122b1d4b39f045a36b87c7998480a3276c411668efc2042e72
+SHA512: 5c6d180106d20ae1d57a1f751b22c8b47d85b9f154b38cc3c4e61a29219c6a457feb9e5c01fd8195180c03d53cb3787ae31f1a25a973f4ee6f7a19dda33b6a10
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: tvOS style alerts
+Author: Integeritis
+Name: Palert (iOS 12) [Việt hoá]
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Palert
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.PicoBanners2
+Architecture: iphoneos-arm
+Version: 0.0.1b2-7
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: firmware (>= 12.0), firmware (<= 12.4.3), mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.PicoBanners2_0.0.1b2-7_iphoneos-arm.deb
+Size: 72694
+MD5sum: ddbaa606d5b4aa36fe7c01fb281fa210
+SHA1: 2637b613fe9cb336c99fb3e2364c36908f03df66
+SHA256: 2b8d26b5d5871eaed0a1334d9177b6639012d1c363bf5cecd7cbd9d0c5aa52c4
+SHA512: 72c06bd029c0e3c78380ffaa4e0434ad9618a4e742fb2c06333508530de194e49b67c150693483894fa7f3667b3efe3ba800c40284ceb7fd817aa0c88092699b
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Thu nhỏ thanh thông báo.
+Name: PicoBanners 2 (iOS12)
+Author: Michele Primavera
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.PicoBanners2
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.RectangleClock
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.RectangleClock_1.0.0_iphoneos-arm.deb
+Size: 66140
+MD5sum: 9844226ec1265580c3928156f59b03d3
+SHA1: 68780057543f57185b3549fddc7a861c8bf59df5
+SHA256: 9c44a3d9aab6788a77959182b937a5bcc8ec21420cc15ff7d99507fe11489d4f
+SHA512: 390ca08312a0c7426b562759500c91f133d948be73d6461b4badb5b98502a3aa0c3a01cdb644834752c980a23193fe6c48bf47be3564106cf76f58e5fd07a175
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Rectangle Clock
+Author: JunesiPhone
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.RectangleClock
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.RingWrapperV2
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.RingWrapperV2_1.0.0_iphoneos-arm.deb
+Size: 3876
+MD5sum: 90a11faba9868fe358b4baaa17d6e124
+SHA1: 6bd1871782ddd42b4b14d2256bf46553e2af658a
+SHA256: cc862c44c4300a37b12aef9998914ebf4926108d10111e1a061762d7b23e2725
+SHA512: ce9f241aea104621e9c0cc7bdc4191ac444755bb2ff3f3469468dc4abbcaeeb75803d51627633ae3978bfcb33613b302138c4fab535531a72a716b5f8e33a241
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Ring Wrapper V2
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.RingWrapperV2
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.RingWrapperV2
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.RingWrapper
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.RingWrapper_1.0.0_iphoneos-arm.deb
+Size: 3854
+MD5sum: 52639501a30c25ef983f526d0cb6ab7b
+SHA1: 3ab4e9badf2a363a30586a51c9147acdc31b5688
+SHA256: 14c94291a28b4c9d3611f2e143d45fb7a79cc304a37f18dee6c51357a0be1243
+SHA512: 7a086b1a780e67c11dafe3a2563f93c8b63318d54a213e70f3927293f2b32230e33cae68915d2fc1f9b30f416919da816899298cf56b25a75d0848df4597b9e1
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Ring Wrapper
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.RingWrapper
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.RingWrapper
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.SaoBay
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.SaoBay_1.0.0_iphoneos-arm.deb
+Size: 32824
+MD5sum: f945675e78b117c11b828e77d7444126
+SHA1: 5f0cfe1da0e867acc74826f69866d0f51521f5cd
+SHA256: e0424d16b5b8d40b5032f58930ec59f7e7f57c6950117c956590370caff956ee
+SHA512: 85482dd48ff0dcb07106707d6d2ad7194adc13daf0d577a1355ddddbed8da06651030e16522da9e61888a9fbfc26a144836b039dffe1f5f03e51ba37fb968b7d
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Sao Bay
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SaoBay
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.ShWidgetGold
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ShWidgetGold_1.2.2_iphoneos-arm.deb
+Size: 414916
+MD5sum: c6389c25eaba91235d21fd51fceda655
+SHA1: 0aa371a6abb13876f095f09c622364908436f36a
+SHA256: 8b034bde95a637224d77866ab5717b3bcf5d67d308cc363aad8c49a6c48c7d71
+SHA512: c15591a4b9466028eafe836710f422c009997c6531a7bbd1b6e9649dff39934e95bbc37c887558b33ef284b5ed4792333b9263601ea37ec23851231c4c733929
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: ShWidget Gold
+Author: imo7and
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShWidgetGold
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShWidgetGold
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.ShWidget
+Architecture: iphoneos-arm
+Version: 1.2-1
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ShWidget_1.2-1_iphoneos-arm.deb
+Size: 737134
+MD5sum: 7ee61d17a0ba49dba389a71e4dc5f489
+SHA1: 4207600a454e5a5d816b9012e0c663da9824ac67
+SHA256: 3c0ffbbf4d70be12c028777904577993fa2671c2e3176db75c5dba5b5f8fb440
+SHA512: 0fb245be4eca2112cbeb945b89dfce6972763840be10091523c45da8fe72a76b8c0b69daef708a1c03b23bae91ca27a855a6928a940d251d2d4901885cee837f
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: ShWidget
+Author: imo7and
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShWidget
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShWidget
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.ShWidget
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ShWidget_1.2.0_iphoneos-arm.deb
+Size: 971060
+MD5sum: ea780e4f666c37bf4f601c9e98d67acf
+SHA1: 8d56783b59f6d39b795abd4429ff1884ed6b7d31
+SHA256: 80cbb75d352b7035e32bfdffc176326ecad645abd46fecb06ce6dc1d4ee5810e
+SHA512: 275960dccbd4a2eeda2610d13604be34ec68b2cacfa97e8853e8f2aab72111c42d956a5f8aa12ddf386aa66525e4e48044d4f2964bd2ea1db394f2b4ef0be3de
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: ShWidget
+Author: imo7and
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShWidget
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShWidget
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.ShWidget
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ShWidget_1.2.2_iphoneos-arm.deb
+Size: 668404
+MD5sum: f67568454d351740b4d039a4e633ae9f
+SHA1: 16f53521fbbb168066f8ce9a35195449ba2e79d7
+SHA256: 9f875e5210a31d5657cc9ea50a17574062cfe2231912050dadc7e7b9c8fd976c
+SHA512: 527b1d9a786b63ea8c2899896ce2d231988351b6197c01ed88ea13e0d9a4f33b29e5e8a10fb7e52bb328f8e4e3e5b6ed36f07478dee46ab466232be45d5a8690
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: ShWidget
+Author: imo7and
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShWidget
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShWidget
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.ShuffleVietNam
+Architecture: iphoneos-arm
+Version: 1.0.7
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: com.creaturecoding.libcspreferences
+Filename: ./debfiles/com.TruongTamPhong.ShuffleVietNam_1.0.7_iphoneos-arm.deb
+Size: 320768
+MD5sum: 52d28246dd0c92cd24bf93a28a789eef
+SHA1: dd48173d619d8fadf78084ddf42add0d80554239
+SHA256: 76d8bd7fcccb97bf7c8a55961274d446da998ac00a5663355c4080ab5af7d6c6
+SHA512: e735f400ac4586bd21e40be5c1b94b58d42a7f0c0080d7df7cdd9780d37e8c076976103a967cb1dc71047f541ef39e8c176db05a595bddf7277c93c0c5b47c74
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Mix up your preferences
+Name: Shuffle Việt Nam
+Author: CreatureSurvive
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShuffleVietNam
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.TruongTamPhong.ShuffleVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.ShuffleVietNam
+Architecture: iphoneos-arm
+Version: 1.1.3-1
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: com.creaturecoding.libcspreferences
+Filename: ./debfiles/com.TruongTamPhong.ShuffleVietNam_1.1.3-1_iphoneos-arm.deb
+Size: 341104
+MD5sum: d1e8d8ba84b6fcd772ce345b9cd68ade
+SHA1: 7a0062a678b9179ac59e6f65ffa3049f7b0861fa
+SHA256: 949fe7c068ed78284b702e7aa23466932fb133e3a2dcf97ee2ebc0216e3f881f
+SHA512: 071081720fa3436bf54bdc7798d1554fc0f7d71cd6c089dd3330f702f7cf47d890213ad77577e3d470200a3acf9f7a478b25e3c577a3039ac352e7ba7f0c4550
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Mix up your preferences
+Name: Shuffle Việt Nam
+Author: CreatureSurvive
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShuffleVietNam
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.TruongTamPhong.ShuffleVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.ShuffleVietNam
+Architecture: iphoneos-arm
+Version: 1.1.3
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: com.creaturecoding.libcspreferences
+Filename: ./debfiles/com.TruongTamPhong.ShuffleVietNam_1.1.3_iphoneos-arm.deb
+Size: 341150
+MD5sum: a738cdf27927d50a1a467485245fc5a6
+SHA1: 75e8edf8e8d0d6132924d2d5c486e6a73b4770ab
+SHA256: 85dc21fd723183e638f15ff070bd2671211c21ca89c799d59e716321c4ce9893
+SHA512: 54f886e4fca7efa6a9cbd6165e50088be3640f85ce97faae3250f1bc2730e0bac092d08db6c7ff07ba8f232354d13bb3bb6da2298be8db3680275cea3a8f65f3
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Mix up your preferences
+Name: Shuffle Việt Nam
+Author: CreatureSurvive
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ShuffleVietNam
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.TruongTamPhong.ShuffleVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SixlsVietNam
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate, preferenceloader, firmware (> 11.0)
+Filename: ./debfiles/com.TruongTamPhong.SixlsVietNam_1.0.5_iphoneos-arm.deb
+Size: 1566004
+MD5sum: 068a039d671726446e392877c6dc1959
+SHA1: f977466d6f09f385260e21afceadcd8254cc8e4a
+SHA256: ef66e399fa6fc69060ed3de5fc346db2dec386c82aea1cf2be79494971f865c7
+SHA512: 900a23cd2c1a79e3a87140c1735efa5c6eaaa0b79e3eebf8e38dbf09e7ec500e9bef93a2f4d6a7a591a9179b735b54b3515872dd533acb738dbdcf94023f51c3
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: iOS 6 Style Lock Screen!
+Name: Six (LS) Việt Nam
+Author: Skitty
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SixlsVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.Slyd
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Slyd_0.1.1_iphoneos-arm.deb
+Size: 18902
+MD5sum: 55675a79cfe06a978c704296bc75aad5
+SHA1: ff0e2817914e501c6f26bf17c41cd9c770cbd2f9
+SHA256: 1062d75382dc3eba3b78a5331cc660f321f96e496f6339f07cbe58ef570a3fd8
+SHA512: 43da42020f4f9a16a8d4a70ed719934fc9131b1df52bc835c817002838e94206966463a867d5c8a14714086170da55f2d1d27f5e32ee1430c7963d8c94a1c5cc
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Trượt để mở khoá cho >= iPhone X
+Name: Slyd (SlideToUnlock) [Việt hoá]
+Author: Nepeta
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Slyd
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SnowBoardApplication
+Architecture: iphoneos-arm
+Version: 1.0.1~Beta1
+Section: Utilities
+Maintainer: Spark
+Depends: com.TruongTamPhong.SnowBoardVietNam
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardApplication_1.0.1~Beta1_iphoneos-arm.deb
+Size: 701948
+MD5sum: 6b9a15bd603fed164a11d031c3e0d1af
+SHA1: 4ee296f0645369085c2c126fbb5de73043eae1e9
+SHA256: 170a763945e7c7ebdc6d4a8f3c0bf2821a212b205737afcedaccc732c004bf08
+SHA512: bdf4be3cf24fd8580cb257b42154e32bd680c69291d2072dcab28dee21e94e602bf8faa9740ad9285927a7ad5c9a2cfa5806c430773a6cb7840f415b1b6d3b21
+Description: SnowBoard application
+Name: SnowBoard Application
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/Utilities1.png
+
+Package: com.TruongTamPhong.SnowBoardApplication
+Architecture: iphoneos-arm
+Version: 1.0.1~Beta2
+Section: Utilities
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardApplication_1.0.1~Beta2_iphoneos-arm.deb
+Size: 701992
+MD5sum: 7c6359e4000c54ebc3089abfc225dde5
+SHA1: 134d05e47bdfe4c1fb0b4087e137a6c6a0222e1a
+SHA256: 9eed3d8bb66ae45f539dd73a3d9fba0e446a8d71ba73f84ad7e32449675939b4
+SHA512: bd6eb2d1a172fb7cbea03bebe465df0f189b7b2cff142e65214bcb65fa3637049a188ec0024485c514c6955957607a109b82244f9523df7dff31111d29894ba8
+Description: SnowBoard application
+Name: SnowBoard Application
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/Utilities1.png
+
+Package: com.TruongTamPhong.SnowBoardVietNam
+Architecture: iphoneos-arm
+Version: 1.2.37~Beta1
+Section: Tweaks
+Maintainer: Spark <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.37~Beta1_iphoneos-arm.deb
+Size: 2541932
+MD5sum: 1578cb2bcf7f9508a5d60745346de54c
+SHA1: 474f0ee193298bbcad1877bede83d6c5289ee014
+SHA256: fae11a4553c58690a1c6a87efd496740aedd4ae971c85338d063a11d76782d77
+SHA512: bdd3202c192371cdbd9e8b515552bbb1c838d4b9b4d36244388440afa8e8697101bd4737962b17850394a4191d9cddb727d7dbfd51657e02ceea6b00b7cd0708
+Description: Động cơ trượt tuyết theo chủ để. Đủ các gói kết hợp dành cho bạn
+Name: SnowBoard Việt Nam
+Author: Spark & Dennis D. Bednarz <truongtamphong686@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SnowBoardVietNam
+Architecture: iphoneos-arm
+Version: 1.2.67~Beta1
+Section: Tweaks
+Maintainer: Spark <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.67~Beta1_iphoneos-arm.deb
+Size: 2727356
+MD5sum: 59b6b084136680cc29137024503ba2fb
+SHA1: b68bdc2993623aa3a3c513a3cbc030faa779b672
+SHA256: d043f3834ae42dcf054d70576e96609a4a02d520fcfc8f4d0468c0f6bbea5453
+SHA512: b254bb1cc0c627db7a10ccaaacb9c46c06c4c3662ae3bc300f5274614f5396c59e49c1c248bbb5d92d0483d0534584c5f4dd34332e5de6f7d0a3d086786024a1
+Description: Động cơ trượt tuyết theo chủ đề. Đủ các gói kết hợp dành cho bạn.
+Name: SnowBoard Việt Nam
+Author: Spark & Dennis D. Bednarz
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SnowBoardVietNam
+Architecture: iphoneos-arm
+Version: 1.2.68
+Section: Tweaks
+Maintainer: Spark <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.68_iphoneos-arm.deb
+Size: 2899408
+MD5sum: d76ade0a28e86512ec2b0d862e596f36
+SHA1: 0774c2d87dc1851c8d773b335dea2bec63c76f36
+SHA256: 6d80339ee7a4a8f10d1c2589f875fa52c0317b512bb1036490c8bf3c36bcd87b
+SHA512: 3657804ce0bfc31a7cf35f29961fe7e3800d5979cd8c6de8ca3fb54e6db5fdc9f9f6b27062efa7b4306c53b9ce72096a3b72aea5b3af11efbedb25fcba0ce53a
+Description: Động cơ trượt tuyết theo chủ đề. Đủ các gói kết hợp dành cho bạn.
+Name: SnowBoard Việt Nam
+Author: Spark & Dennis D. Bednarz
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SnowBoardVietNam
+Architecture: iphoneos-arm
+Version: 1.2.69~Beta1
+Section: Tweaks
+Maintainer: Spark <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.69~Beta1_iphoneos-arm.deb
+Size: 2892942
+MD5sum: 48b933d497b2d6b7dd74286bf6c82996
+SHA1: 6fa33a0548e5516c6562e05dbad85e0ef3f33db8
+SHA256: 487578a0a6ddbd9161c4962cb489cd3ad26e3175de38da295a9a7098ed36af68
+SHA512: 78cd7e4ac19f1166191ea65c18d7c2a3378016b99897dfa1182f4edae345005382da2fc119bf7784929ccc96296a73c6ca7ffa3d159a9e1d8b7d3b38e9fa9f24
+Description: Động cơ trượt tuyết theo chủ đề. Đủ các gói kết hợp dành cho bạn.
+Name: SnowBoard Việt Nam
+Author: Spark & Dennis D. Bednarz
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SnowBoardVietNam
+Architecture: iphoneos-arm
+Version: 1.2.72~Beta1
+Section: Tweaks
+Maintainer: Spark <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.72~Beta1_iphoneos-arm.deb
+Size: 2902940
+MD5sum: 733bad21eaebc02e163b19d2c51cc798
+SHA1: 31905fc583b6e2f4a16cfa4a8221450120aa2445
+SHA256: 1b7a5f3253a52f764859374d3edaf59513e177ea2238ad8986782353c0a0736e
+SHA512: c261d8e8e175f3b92332ec640e63ba8fc0a8b42504865c51e988ffbaf420e6992f974d80d36e6c5bb20fcfdacca30752d6e5e5ab1a99a5030249d7287fbe43eb
+Description: Động cơ trượt tuyết theo chủ đề. Đủ các gói kết hợp dành cho bạn.
+Name: SnowBoard Việt Nam
+Author: Spark & Dennis D. Bednarz
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SnowBoardVietNam
+Architecture: iphoneos-arm
+Version: 1.2.74~Beta1
+Section: Tweaks
+Maintainer: Spark <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.74~Beta1_iphoneos-arm.deb
+Size: 2906006
+MD5sum: dcd28914eaace7310be37def6a94601d
+SHA1: 6ef48c11248d3547bf301eaeb33cf5b874db97c4
+SHA256: 693bdfc09986abf862b888cc38bc9637ad726aa6b32aca50cc609fb4a6859e5e
+SHA512: b0111cfd3b53096a0911375a118b2c52183599e2d2a3348d2b6c68693550a1e0923e8426d5501f4f35864e92b16abc118596df00b20d590a57631c9cc49a9a5a
+Description: Động cơ trượt tuyết theo chủ đề. Đủ các gói kết hợp dành cho bạn.
+Name: SnowBoard Việt Nam
+Author: Spark & Dennis D. Bednarz
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SnowBoardVietNam
+Architecture: iphoneos-arm
+Version: 1.2.78~Beta1
+Section: Tweaks
+Maintainer: Spark <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.78~Beta1_iphoneos-arm.deb
+Size: 2947274
+MD5sum: c795fb4b90330a3819924a379f8b92a7
+SHA1: 4d115be970e827382756b27447175f238aee17c0
+SHA256: 4934f1d81272104fbab112a6cf71eb400b752d0ef37e5bb1518ed6cb62895f6f
+SHA512: b12b537e3367a3d584b590c0d6bb7e2935921bc8f8bfa78f735e26d7529cb0f4c408d2681a6f3ce31f180d086680a86a9a85f5dc3dcf4e483614bf0cfa465f66
+Description: Động cơ trượt tuyết theo chủ đề. Đủ các gói kết hợp dành cho bạn.
+Name: SnowBoard Việt Nam
+Author: Spark & Dennis D. Bednarz
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SnowBoardVietNam
+Architecture: iphoneos-arm
+Version: 1.2.83~Beta1
+Section: Tweaks
+Maintainer: Spark <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.83~Beta1_iphoneos-arm.deb
+Size: 2970076
+MD5sum: 7410dd6126067f3fd0f7fb4584be2cb8
+SHA1: 0dc22cdc5699549e2d27e254d5a5f71cf6179134
+SHA256: 916c71a19561d232f26766fe70f7c5fd8a9c44418d34ead0a664125691101b32
+SHA512: 5cca559558619b4fb27005fb298d7bdfe583e5ca60f6f8e51b57a4b5ca6ce889fbb5a201f11d5330f8f98468b5fe28ea870c77452c6f89354003c3a66c87559e
+Description: Động cơ trượt tuyết theo chủ đề. Đủ các gói kết hợp dành cho bạn.
+Name: SnowBoard Việt Nam
+Author: Spark & Dennis D. Bednarz
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SnowBoardVietNam
+Architecture: iphoneos-arm
+Version: 1.2.86~Beta2
+Section: Tweaks
+Maintainer: Spark <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.86~Beta2_iphoneos-arm.deb
+Size: 2974570
+MD5sum: e89d97162a57b124dc0db75d4451e549
+SHA1: 7b3fe0fdec1a7b2cd9b8adf6b9412bcf4fa8cd4f
+SHA256: 169ad87853a139a2ed73ae48ec18074c313310aae9d36eef11dcb6177bd42ab1
+SHA512: 923357495b986d61768b757c95417302f94d732d83319fd70d9486a635bec7302e6e23102ed441fb71d8a09c4882f8372e9d73db916c9daf6f91a417770693eb
+Description: Động cơ trượt tuyết theo chủ đề. Đủ các gói kết hợp dành cho bạn.
+Name: SnowBoard Việt Nam
+Author: Spark & Dennis D. Bednarz
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SnowBoardVietNam
+Architecture: iphoneos-arm
+Version: 1.2.87~Beta2
+Section: Tweaks
+Maintainer: Spark <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.87~Beta2_iphoneos-arm.deb
+Size: 2984140
+MD5sum: b595e39df742ad983a7794cc56be0b6d
+SHA1: 8392e940671d7c43fcde38db71b070eae068be9f
+SHA256: e01302312a378f317ba2aba67d531f4767677b8d1e791e964547a248b1f1baa2
+SHA512: f7b9608845228f141f09bbfb23e540f74e40a6ccd509e874e33ced4a0181ae2affabbbb02fa5bb2a760c08c7859f59edefeaa786c8f2dfc9511c876bc164d20c
+Description: Động cơ trượt tuyết theo chủ đề. Đủ các gói kết hợp dành cho bạn.
+Name: SnowBoard Việt Nam
+Author: Spark & Dennis D. Bednarz
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SnowBoardVietNam
+Architecture: iphoneos-arm
+Version: 1.2.87~Beta3
+Section: Tweaks
+Maintainer: Spark <truongtamphong686@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.87~Beta3_iphoneos-arm.deb
+Size: 2980974
+MD5sum: 4cd5f05973a2b24ee142d2506d6f6615
+SHA1: 14761ceeb2f3ff9ed3bee676fa60a4aa2558dd98
+SHA256: 3983966bc108cc45f2a18b0ded7ca0d0b2f32d85b2a218b7047b846972485b76
+SHA512: 78d19625dd726d8fca03ad4cea14bc70d2dd9a72247a864eb4d801e3742d1f93d7fd2ddccdab97e5f3cc72ddc864548c66f5e29d60721061425880e999d1810f
+Description: Động cơ trượt tuyết theo chủ đề. Đủ các gói kết hợp dành cho bạn.
+Name: SnowBoard Việt Nam
+Author: Spark & Dennis D. Bednarz
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SnowBoardVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SpaceXSPro
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.SpaceXSPro_1.0.5_iphoneos-arm.deb
+Size: 1421134
+MD5sum: 9c0a1d6a1c6f5fd9c318775400e7d665
+SHA1: 27dbf9b9201aab9c79083f53c1b834fb29e958a9
+SHA256: 68d1e6db3928854d2899bc9142cbb0ebdf427609ff39d8f02c0f2a1c0026f068
+SHA512: 30fea68487d52eafeb4cd42eb9dfca96c55b23cc711ec258376a49bba5824c35378e9d8816f9ae2fd8670f503df75d616cde89cbe5751cabc9633d0788dee16f
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: SpaceXS Pro
+Author: AussieAppz
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SpaceXSPro
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SpaceXSPro
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.SpaceXSPro
+Architecture: iphoneos-arm
+Version: 1.0.6
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.SpaceXSPro_1.0.6_iphoneos-arm.deb
+Size: 1421124
+MD5sum: 725a768cac055c336a3f3d9fcdc75dab
+SHA1: f243a62280150c229a59a88adcf5c83861dc8ea0
+SHA256: 0ace29d65684f536246ff5aef7f9fab514f07f7ce1a9428625459882a7a3822b
+SHA512: 965b359fad2e637e81a0a67e8fa0148caf2a5783b4b8652add1a696ad16c183a864dcbd9de01cd4780de2787929ffeffba67d40bf51232a323efcc27bfce953b
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: SpaceXS Pro
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SpaceXSPro
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SpaceXSPro
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.StartNotch
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.StartNotch_1.0.0_iphoneos-arm.deb
+Size: 6176
+MD5sum: 2a43e421557757619194a4e939524f79
+SHA1: 32f4caa13e26f30955e1cdc1f7f83f4277ed3605
+SHA256: a247d69c86132943f0264e3bf026969e00bf8f72d7eba3befe0b51b1082cd8c3
+SHA512: ef419257fd42dcab72f7ffa84ab827bc0cff24f6089c747f03321e933392a37b6847b4706ee8361b2f209d130e55bcb382442d843f8b0f2db36490ea70a2afec
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen Html
+Name: Start Notch
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StartNotch
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.StartNotch
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Widget động
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.StartNotch_1.1.0_iphoneos-arm.deb
+Size: 6246
+MD5sum: 5b56fc7d197748e27432cda3731397ce
+SHA1: 04cb0878c90b14831ecd714187a1f26e037fa3b9
+SHA256: 3bf8be7bbfb912ea772f2b5dd9ad514b09aad1ea1b69c926b8a0bfb2a27cd682
+SHA512: f9ef002e769522bf4ce7e9e24eed309f7b0856055b497080fc13fd83338cf38c9d0ba58b764d07afd71de9067a8d87584cee41a1e4f32b333ecaa249f192b149
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen Html
+Name: Start Notch
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StartNotch
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.StatusBarNotch++
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.StatusBarNotch++_1.0.0_iphoneos-arm.deb
+Size: 7316
+MD5sum: 1e0246f9b67cf00fa13e56fbf760b31c
+SHA1: 2c6b76f4bfd044506abbb58ed949c7d7d7474b16
+SHA256: b5f4c1aa950156e39efb11243d10d35082b74be25ff7af2134046f101be926f3
+SHA512: ded91c6ad7b6ba2bfb611256688368326d74fa60c4fa2f446a665b35ca8723c1ba5cb8a24b55819f2ba96a0e620f38f5e06cfa19bd654a36ef74f05111795588
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: StatusBarNotch++
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StatusBarNotch++
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.StatusBarNotch++
+Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.StatusBarNotch++_1.3.0_iphoneos-arm.deb
+Size: 7524
+MD5sum: 6fa943b970516dda8953e2ddfa3922af
+SHA1: f0c2e5950046ff705e26d831d5bbeac73869673e
+SHA256: a88ed94ed50f40b70449413eb3f677a81cc5ef51d6c5e38f5cd40eec080fdc7e
+SHA512: f39989a69a55f530db7f46cc545fe5ace0d950baab626ac3ff744004fd27ad2b1a0aa3124aaa2541f0a8843c4dc4cb3f48232999c7cd4f9578b384010f7f3049
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: StatusBarNotch++
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StatusBarNotch++
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.StatusBarNotch
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.StatusBarNotch_1.0.0_iphoneos-arm.deb
+Size: 7250
+MD5sum: 0c301e7a800c6b372f16e340838cdd40
+SHA1: 8385daee82d488ad1baf65046bcc246fcb0faae2
+SHA256: 4ae576c3babb353752759789bf540f0868b71932f87651893aaeca65ca4d008c
+SHA512: 7af494f740363753f6c2eb191a1b2838287119973a697d030d4702adf6fabf022cb127db539f172b8c73fb55d04bce6168ce2e78023e6fc07b45f80837c657fd
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: StatusBarNotch
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StatusBarNotch
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.StatusBarNotch
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.StatusBarNotch_1.1.0_iphoneos-arm.deb
+Size: 7496
+MD5sum: de36a80350dd608c3abf67905408047d
+SHA1: 15b2dc8fec80c67a64bb1e2878ba4607eddb38af
+SHA256: 56b0a1fbaf29e8a0d018766431f9a9117ab2d2f447d56c49bd16e237a4a52ffd
+SHA512: 245e64b00d43fa70fecebbaf1190910383473d197f63142aa7b0cd244af6fece03ea1f9bd640c4f70d6ebd4891c36ad0cb2fcb347924c7940abed2bfae0fa04d
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: StatusBarNotch
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StatusBarNotch
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.Stt3NotchXS++
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS++_1.0.0_iphoneos-arm.deb
+Size: 7324
+MD5sum: 64e7791bfa93c79841b70b2c3dce1915
+SHA1: a248c2cc2930cb57fd7bd53d1ab7fef6379216b4
+SHA256: 353e35df891d395cd36b88506119867963ea8df7654b2391bd0f7155c64920c9
+SHA512: 663b90a6b744e79bf8e4c4e362c0078f3ac2b62c3440e8b3f8cd51b12a5234d75e1a92d76b1b52c957334c0d3c8f4b8a9eb912aaf84916203545d0cdcc334912
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Stt3NotchXS++
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS++
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.Stt3NotchXS++
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS++_1.1.0_iphoneos-arm.deb
+Size: 7450
+MD5sum: 3859871d09117636dc0b25798f68f6eb
+SHA1: ed88353f3b78ee6c9a4fd5308911f7a8e57f59b8
+SHA256: d4273923b2e947fd3c9bab4c7f780a36df59018c4f1911c24ad4139c24cdb2df
+SHA512: e9d1103f81d74925c7631d24ab5f449b0232cb7e4f143dcb51be5f98f51a956ec6c6044f9ae83cb583bde9c0bd0cb7f6dc3512a68c6e0f377b64f5be0ac2a1c7
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Stt3NotchXS++
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS++
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.Stt3NotchXS++
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS++_1.2.0_iphoneos-arm.deb
+Size: 7530
+MD5sum: dc75024954971fe587b8b577dee7a70f
+SHA1: d42d1d9039db0940d7bbcabcaaa4da0ed1947d73
+SHA256: eb0aa60833ff3940d8a1b889f69926e0eca84d7020bd19688a6fdd3e44442926
+SHA512: 576cff56ac0b382edc8326ca8262e3bde9980dfd0f09d4d3bef73630b36d5954a0614e430c429d0864abf25998ecb435323001fdfb036203b382559ff1a36f02
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Stt3NotchXS++
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS++
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.Stt3NotchXS++
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS++_1.2.1_iphoneos-arm.deb
+Size: 7636
+MD5sum: 787f0af8a9e2ded9c827291793952e8a
+SHA1: ab3992be14895cd89b461a715edd07a93fe7d325
+SHA256: a14b6a27ec5599101aa10a5940ee07bd51171385d7381de7075d88c3097e1fb9
+SHA512: d50fdbe3d062e3a7d96542bff277860cb5a47197943e232ee5e8c059dd605a105ec2059c12c093be469bb371cc512cd3c40f73aa1fdfc54e805970e39e870873
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Stt3NotchXS++
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS++
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.Stt3NotchXS
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS_1.1.0_iphoneos-arm.deb
+Size: 7430
+MD5sum: 289ce0a84f6a74f0bc8cf0b6a6b0f711
+SHA1: c3063ce6c01d586e0fd9747ac9cb4fbd5ef01954
+SHA256: fa1fbd35bc3025743586996e0e85b412685aec161997eda1e9f91eadccf3155b
+SHA512: b45d4c05fdf9a1c2e9296ae6cfbd707861d475ec8a519d943351c3c2f7545900edc4c88478528f726e28a0363a361bfa9eb31e2080ee1592b64d725ea591df86
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Stt3NotchXS
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.Stt3NotchXS
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS_1.2.0_iphoneos-arm.deb
+Size: 7514
+MD5sum: d6419d85b8e0bd3e3199e25429e4d80e
+SHA1: 8c15b082a50974f99fef1f50269f9d7e46842f36
+SHA256: bdbed9b276c50850d2abe54bd131d4b309116b57443a84bebc5f9af66e9d59a3
+SHA512: 10444e789fd6173d0b3a2ca58bfe9a410d7dbd62845004ecf8ad2b44318f9b5407deb7689c7ca1078fa9a9bae54cf21cb08087dd70b63cb7c0f5ba1c2a6bac84
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Stt3NotchXS
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.Stt3NotchXS
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS_1.2.1_iphoneos-arm.deb
+Size: 7502
+MD5sum: adb878bc74e5e9e4d51356fa7c7fc371
+SHA1: ba0c20d09bd2328e627a04c338e705bbbd18688f
+SHA256: 481296f59ddb4864425975d9b83aca05609707cc4775a1a67d3c577882e69c3d
+SHA512: 86489caca3321352d2a0d1df8b19a519c57fb0efdc64300f17368a86c523a04cdc42b3a6b9713a6c08b0299ea69911ca761ef8683c69194f1658a88d59632d38
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Stt3NotchXS
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.SwitcherStyleVietNam
+Architecture: iphoneos-arm
+Version: 0.5.4
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate, me.nepeta.libcolorpicker
+Filename: ./debfiles/com.TruongTamPhong.SwitcherStyleVietNam_0.5.4_iphoneos-arm.deb
+Size: 39624
+MD5sum: 3da4442cba7a2372372c489b9dc03c63
+SHA1: b9212d4cf365bafb373a8c4108fbb89c48de2e4c
+SHA256: 8ea3c0d2df9381cf29075c6400313a3400ba769df6ed99506d3bf3f1ddda8735
+SHA512: 18dab56202f1110ace93c78d255a5513d129d186dec68ec58fcd4199ee8ea13630c6932747ea517bc8e3d35b08aeff63f220e42e1297d7475d55ab6e7283dab4
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Change App Switcher settings
+Name: SwitcherStyle Việt Nam
+Author: JunesiPhone
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SwitcherStyleVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.SymbianBelle
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.SymbianBelle_1.0.0_iphoneos-arm.deb
+Size: 2675650
+MD5sum: 33013790471238ec494c8a01381b51ff
+SHA1: 1bdabf0d5c8266e9fd64ceaa23dee910020220a0
+SHA256: 8c18336c42a09d22b09dfe8291a06bda0fd3867359b41835989c987054c75f3b
+SHA512: 7d10c5400456b837831bd23e2b1941c107447a395acafb84411379c47183787b490582dcbd5cedc239999c107a7483020e4fb91440f11ba54475344a393404eb
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Chủ đề Belle cho bạn
+Name: Symbian Belle
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SymbianBelle
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
+Package: com.TruongTamPhong.TemperatureClock
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.TemperatureClock_1.0.0_iphoneos-arm.deb
+Size: 141120
+MD5sum: 58dfa7966adc2b5e36b986f785f7c515
+SHA1: d4a255c8e5c6d7a11e6f4434051a372a9c05d9d0
+SHA256: 6df61e868f34aa4ecdbf8505c3bb5a89d3ca41e6a61e5b47bda5ebbb4882a024
+SHA512: b28105fc12e33d0e1393ddfdcbeea4894040794b5fd4828525341e11247676383d3c4b61505b54e19e2c1ff22c59a6744a411fc1ea88ca6e7fad713b47f86935
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Temperature Clock
+Author: JunesiPhone
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Temperature Clock
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.matchstic.libgithubissues
 Architecture: iphoneos-arm
 Version: 0.0.2
@@ -1484,5 +2400,24 @@ Description: Widget for Xen HTML
 Name: CleanFun White Red
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.truongtamphong.cleanfunwhitered
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.truongtamphong.ybht
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.truongtamphong.ybht_1.0.0_iphoneos-arm.deb
+Size: 44768
+MD5sum: b8825244b9a32559f5bad023ae25ff86
+SHA1: 408f87614fad9f856a6e6a0ef299945ff9124a62
+SHA256: 3d76febe2c1bc9db7e31c31e35b0f8daeefc6afc3b3a93efbfbada303b63fd85
+SHA512: 02de4ce0e8beddeb7168d915440be3949be5e832988a3e7e88997de649630f0a8b6ba0e899fe06bb4b75e5e3f78341572ae204b91ec2b2524f513431e8998241
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Ybht
+Author: JunesiPhone
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.truongtamphong.ybht
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
