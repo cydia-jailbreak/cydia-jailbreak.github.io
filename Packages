@@ -3105,6 +3105,24 @@ Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ybht
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.bccxiweatherfix
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: SlyFabi
+Depends: mobilesubstrate, com.atwiiks.betterccxiweather
+Filename: ./debfiles/com.TruongTamPhong.bccxiweatherfix_1.0.0_iphoneos-arm.deb
+Size: 4702
+MD5sum: 2b6b31c8ec5cbe69f3d5aec1a11b8fbe
+SHA1: 7706b8211082adcda73a65a6e4e0062f7cdb1c90
+SHA256: c731652cca725e213c88409b48d133a3b6054f1d3639255d2db4afca7adae6fe
+SHA512: e8bd83dea374fc4f772817dbae3484f594f4abce9edc928e252ddaa0f7180fbfbf654a91160b921b45ca67ba46aed0d251516957b8fda0f571268a6b9848ab22
+Description: Fixes the broken look of BetterCCXI Weather Addon on iOS 13.
+Name: BetterCCXIWeatherFix
+Author: SlyFabi
+Depiction: http://cydia-jailbreak.github.io/depictions/?p=com.TruongTamPhong.bccxiweatherfix
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.matchstic.libgithubissues
 Architecture: iphoneos-arm
 Version: 0.0.2
