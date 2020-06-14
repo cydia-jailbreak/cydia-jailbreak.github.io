@@ -12,10 +12,7 @@
 	<descriptionlist>
 		<description>Sửa lỗi giao diện BetterCCXI Weather Addon trên iOS 13.</description>
 	</descriptionlist>
-<screenshotslist>
-	<screenshots></screenshots>
-<url>depictions/screenshot/AmLich.png</url>
-</screenshotslist>
+	<screenshots><img id="imgId" src="Main.png"/></screenshots>
 	<changelog>
 		<change>Phát hành lần đầu</change>
 	</changelog>
