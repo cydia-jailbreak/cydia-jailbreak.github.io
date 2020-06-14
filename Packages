@@ -3045,25 +3045,26 @@ Name: Xen HTML Việt Nam
 Author: Matt Clarke <matt@incendo.ws>
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
-Package: com.TruongTamPhong.XenHtmlVietNam
+Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm
-Version: 2.0~beta3.2
+Version: 2.0~beta3.3
 Priority: optional
 Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
-Filename: ./debfiles/com.TruongTamPhong.XenHtmlVietNam_2.0~beta3.2_iphoneos-arm.deb
-Size: 6329732
-MD5sum: 83ca3e27b76b5ee6a29fb38f69dfb0eb
-SHA1: 4cabd8f7e811ad299bf2e1e472cc917e4b533ed3
-SHA256: 9a36f3ea16e0e3bb7b23ad28a94b395e6707547162c70d1f1ebcf4a8bc5d1666
-SHA512: 05f445b12ccdb9786437febd8d5d87924fc9c2406c53d65bf2bd50803c531b87ff1841178797b7ded150c92d6b581e1009347c252dc57fda69af3bbd57179824
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Hợp nhất màn hình hiển thị HTML trên màn hình khoá và màn hình chính
+Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Filename: ./debfiles/com.TruongTamPhong.XenHtmlVietNam_2.0~beta3.3_iphoneos-arm.deb
+Size: 6452540
+MD5sum: 14bc8310583b0f24d0dbf1f7803a80f1
+SHA1: c5d305e3642fbd07cc8264703a47e08bdf34f724
+SHA256: 61ba28fb4a39d6b04a69d0a5650ad4253d59363cf6426a8b00c178aabd5cd6fa
+SHA512: 374a0f0377e9ae842e3263fa6e866b2a69ab0033a0f0fe1b72c074df45141a0af7f76f12f4a1419f16760b6e0b46325ecf392343e3c9e61505303f01ebe2b177
+Description: Hiển thị Widget lên màn hình chính và màn hình khoá. Việt hoá by Trương Tam Phong
 Name: Xen HTML Việt Nam
-Author: Matt Clarke
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenHtmlVietNam
-SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenHtmlVietNam
+Author: Matt Clarke <matt@incendo.ws>
+dev: MattClarke
+Depiction: https://xenpublic.incendo.ws/depictions/com.matchstic.xenhtml.html
+ SileoDepiction: https://xenpublic.incendo.ws/sileo/com.matchstic.xenhtml.json
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.XenInfoVietNam
