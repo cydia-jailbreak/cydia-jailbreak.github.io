@@ -60,6 +60,31 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ActivatorVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.ActivatorVietNam
+Architecture: iphoneos-arm
+Version: 1.9.13~rc5
+Priority: optional
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.TruongTamPhong.FlipSwitch (>= 1.0.16~rc1), com.rpetrich.rocketbootstrap (>= 1.0.9)
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Filename: ./debfiles/com.TruongTamPhong.ActivatorVietNam_1.9.13~rc5_iphoneos-arm.deb
+Size: 1209972
+MD5sum: 14d202b02c65aad211792b6c69933934
+SHA1: 235f96c2dfd715d38c3a73f5baa716af6ba46fce
+SHA256: 3b3d7a46939b8574fae7be9a4bec01f5e410284b3daf01c9a3f9d10e52f543b1
+SHA512: 45e61a93aaaf4a31ae17e9199d94447994288e39d23ab5f85d987e0deeac5553946e909b42423473a88ef3ce207bbe88b232b7ca2d8f0b8f7afd2b18c1bad40e
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Cử chỉ tập trung, quản lý nút và phím tắt cho iOS
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Name: Activator Việt Nam
+Author: Ryan Petrich
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ActivatorVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ActivatorVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.AmLichVaDanhNgon
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -250,6 +275,26 @@ Name: Appaze Việt Nam
 Author: AnthoPak
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AppazeVietNam
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AppazeVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.AprilVietNam
+Architecture: iphoneos-arm
+Version: 2.0.1-1
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.15.1), org.thebigboss.libcolorpicker, com.peterdev.libpddokdo
+Filename: ./debfiles/com.TruongTamPhong.AprilVietNam_2.0.1-1_iphoneos-arm.deb
+Size: 111048
+MD5sum: 1e8306f05fa77879fc0fc0dd62fdc15f
+SHA1: bb6b63b6de63788028a22a2c358eaf71b5a4a256
+SHA256: 7a6c419591af27bb96c0a14c9cbaf30b6fe479eaa7c379e6e3a5b3b6d5a736d0
+SHA512: 9ecd88efd8f585fb3cc7f416835251a0184d9d3a8578a7d7cd4989d604cd1d7490512dd2fa3d7a113547f3f2e2a33ff4cf81259ff3d8b60eca8b8b1b8b0d83fc
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Làm cho màn hình khóa của bạn độc đáo.
+Name: April Việt Nam
+Author: Constanze
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AprilVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AprilVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.AprilVietNam
@@ -860,6 +905,26 @@ Name: DoubleTapToWake
 Author: AppleBetas
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DoubleTapToWake
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.FlipSwitch
+Architecture: iphoneos-arm
+Version: 1.0.16~rc2
+Section: System
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.9) | firmware (<< 7.0)
+Filename: ./debfiles/com.TruongTamPhong.FlipSwitch_1.0.16~rc2_iphoneos-arm.deb
+Size: 477912
+MD5sum: db0c7791433704cba611dbc707a738be
+SHA1: a81729e982478866571434038c5c5402c4cf7bac
+SHA256: cbbd9cd1fc75ba09ddfcc6028f673325864273b58fc82adca77446820140a295
+SHA512: 51060a8fe81b63348cb495edd4cb94fc4ea32eb2dec498a929c2dc47b273271117fc14199de8d258615debff77ce4d3952e6d62dba8d7810ce2d43982b48d02f
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Hệ thống chuyển đổi tập trung cho iOS
+Name: FlipSwitch
+Author: rpetrich
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlipSwitch
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlipSwitch
+Icon: file:///Applications/Cydia.app/Sections/System1.png
 
 Package: kr.xsf1re.flyjb
 Architecture: iphoneos-arm
@@ -2978,6 +3043,27 @@ SHA512: 542302ac78d46eb4fbe3bf01e26efc8cb23f62e319c80c8a34ff5bf1919ce4683709be3a
 Description: Hiển thị Widget lên màn hình chính và màn hình khoá. Việt hoá by Trương Tam Phong
 Name: Xen HTML Việt Nam
 Author: Matt Clarke <matt@incendo.ws>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.XenHtmlVietNam
+Architecture: iphoneos-arm
+Version: 2.0~beta3.2
+Priority: optional
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
+Filename: ./debfiles/com.TruongTamPhong.XenHtmlVietNam_2.0~beta3.2_iphoneos-arm.deb
+Size: 6329732
+MD5sum: 83ca3e27b76b5ee6a29fb38f69dfb0eb
+SHA1: 4cabd8f7e811ad299bf2e1e472cc917e4b533ed3
+SHA256: 9a36f3ea16e0e3bb7b23ad28a94b395e6707547162c70d1f1ebcf4a8bc5d1666
+SHA512: 05f445b12ccdb9786437febd8d5d87924fc9c2406c53d65bf2bd50803c531b87ff1841178797b7ded150c92d6b581e1009347c252dc57fda69af3bbd57179824
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Hợp nhất màn hình hiển thị HTML trên màn hình khoá và màn hình chính
+Name: Xen HTML Việt Nam
+Author: Matt Clarke
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenHtmlVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenHtmlVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.XenInfoVietNam
