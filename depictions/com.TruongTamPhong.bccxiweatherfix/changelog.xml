@@ -1,5 +1,5 @@
 <package>
-	<id>com.slyfabi.bccxiweatherfix</id>
+	<id>com.TruongTamPhong.bccxiweatherfix</id>
 	<name>BetterCCXI Weather Fix</name>
 	<version>1.0</version>
 	<compatibility>
@@ -10,11 +10,11 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Fixes the broken look of BetterCCXI Weather Addon on iOS 13.</description>
+		<description>Sửa lỗi giao diện BetterCCXI Weather Addon trên iOS 13.</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>AmLich.png</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Phát hành lần đầu</change>
 	</changelog>
 	<links></links>
 </package>
