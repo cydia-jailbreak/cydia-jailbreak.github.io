@@ -1,23 +1,15 @@
-<package>
-	<id>com.TruongTamPhong.bccxiweatherfix</id>
-	<name>BetterCCXI Weather Fix</name>
-	<version>1.0.0</version>
-	<compatibility>
-		<firmware>
-			<miniOS>13.0</miniOS>
-			<otherVersions>unconfirmed</otherVersions>
-		</firmware>
-	</compatibility>
-	<dependencies></dependencies>
-	<descriptionlist>
-		<description>Sửa lỗi giao diện BetterCCXI Weather Addon trên iOS 13.</description>
-	</descriptionlist>
-<screenshotsLink>
-	<screenshots></screenshots>
-<url><img id="imgId" src="depictions/Main.png"/></url>
-</screenshotsLink>
-	<changelog>
-		<change>Phát hành lần đầu</change>
-	</changelog>
-	<links></links>
-</package>
+<changelog>
+    <changes>
+        <version>1.0.0</version>
+        <change>Sửa lỗi giao diện BetterCCXI Weather Addon trên iOS 13.</change>
+        <change>Sửa lỗi khác trên iOS 12.</change>
+    </changes>
+    <changes>
+        <version>1.0.1</version>
+        <change>Đã khắc phục sự cố trên iPad khi hiển thị các trang hành động lưu / xóa.</change>
+    </changes>
+    <changes>
+        <version>1.0.0</version>
+        <change>Phát hành lần đầu</change>
+    </changes>
+</changelog>
