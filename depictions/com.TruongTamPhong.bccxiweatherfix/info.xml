@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.bccxiweatherfix</id>
 	<name>BetterCCXI Weather Fix</name>
-	<version>1.0.0</version>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -15,27 +15,12 @@
 <screenshots>
         <screenshot>
             <description></description>
-            <image>1.png</image>
-        </screenshot>
-        <screenshot>
-            <description></description>
             <image>2.png</image>
-        </screenshot>
-        <screenshot>
-            <description></description>
-            <image>3.png</image>
-        </screenshot>
-        <screenshot>
-            <description></description>
-            <image>4.png</image>
-        </screenshot>
-        <screenshot>
-            <description></description>
-            <image>5.png</image>
         </screenshot>
     </screenshots>
 	<changelog>
-		<change>Phát hành lần đầu</change>
+		<change>Đã thêm hỗ trợ cho chế độ tối trên iOS 13.</change>
+        <change>Đã sửa lỗi bố cục trên iOS 13.</change>
 	</changelog>
 	<links></links>
 </package>
