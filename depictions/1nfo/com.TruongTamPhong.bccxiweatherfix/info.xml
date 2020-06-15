@@ -1,0 +1,25 @@
+<package>
+	<id>com.TruongTamPhong.bccxiweatherfix</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Sửa lỗi giao diện BetterCCXI Weather Addon trên iOS 13.</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <image>2.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Đã thêm hỗ trợ cho chế độ tối trên iOS 13.</change>
+        <change>Đã sửa lỗi bố cục trên iOS 13.</change>
+	</changelog>
+	<links></links>
+</package>

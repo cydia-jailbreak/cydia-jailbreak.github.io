@@ -1,5 +1,5 @@
 // changed const to var for IE9/10 compatibity.
-var VERSION_CHECK_SUPPORTED = "Phiên bản iOS của bạn được hỗ trợ rồi &#x1f60a";
+var VERSION_CHECK_SUPPORTED = "Phiên bản iOS của bạn được hỗ trợ! &#x1f60a";
 var VERSION_CHECK_NEEDS_UPGRADE = "Yêu cầu iOS thấp nhất là %s &#x1f615;";
 var VERSION_CHECK_UNCONFIRMED = "Chưa được thử nghiệm trên iOS %s &#x1f601;";
 var VERSION_CHECK_UNSUPPORTED = "Chỉ tương thích với iOS %s đến %s &#x1f61e;";

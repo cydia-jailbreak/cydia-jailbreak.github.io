@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Screenshots</title>
+  <title>Hình ảnh</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -38,7 +38,7 @@
 							.text($(data).find('description').text())
 						)
 						th.append($("<img>")
-							.attr("src",bundleid+'/screenshots/'+$(data).find('image').text())
+							.attr("src",bundleid+'/1nfo/screenshots/'+$(data).find('image').text())
 						)
 						$(element).append(th);
 					});
@@ -50,7 +50,7 @@
         $.ajax({
             type    : "GET",
             dataType: "xml",
-            url     : (bundleid+"/info.xml"),
+            url     : (bundleid+"/1nfo/info.xml"),
             success : function(xml){
 				document.title = $(xml).find("package>name").text();
             	data_loader_engine(contentBlocks,xml)
