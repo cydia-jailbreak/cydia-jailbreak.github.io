@@ -1,5 +1,6 @@
 .disable-hover {
     pointer-events: none;
+border-radius: 30px;
 }
 
 .link-item {
@@ -8,11 +9,10 @@
     display: block;
     color: #337ab7 !important;
     text-align: left;
-    border-radius: 30px;
 }
 
 .link-item:hover {
-    border: 2px solid #ddd;
+    border: 1px solid #ddd;
     background-color: #f5f5f5;
     border-radius: 30px;
 }
