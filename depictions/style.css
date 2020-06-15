@@ -11,7 +11,7 @@
 }
 
 .link-item:hover {
-    border: 0px solid #fff;
+    border: 1px solid #fff;
     background-color: transparent;
 }
 
