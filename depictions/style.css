@@ -27,17 +27,16 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     font-size: 16px;
     margin-left: 5px;
     margin-right: 10px;
+    border-radius: 30px;
 }
 
 .alert alert-danger {
     text-align: center;
+    border-radius: 30px;
 }
 
 .container {
     text-align: center;
     color: #333 !important;
-}
-
-.descriptionList {
     border-radius: 30px;
 }
