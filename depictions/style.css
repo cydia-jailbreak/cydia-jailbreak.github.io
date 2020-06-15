@@ -29,6 +29,6 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     margin-right: 10px;
 }
 
-#packageVersion {
+.packageVersion {
     text-align: center;
 }
