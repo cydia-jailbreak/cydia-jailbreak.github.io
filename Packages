@@ -4,7 +4,7 @@ Version: 1.0.0
 Essential: yes
 Section: System
 Maintainer: Apple Cydia Và Jailbreak
-Filename: ./debfiles/com.Apple.Cydia.Jailbreak.icon_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.Apple.Cydia.Jailbreak.icon_1.0.0_iphoneos-arm.deb
 Size: 81110
 MD5sum: dd36aaff12f950ebc1ff02000653c2b8
 SHA1: 91fff5388dbf1d3a61cdf24a06e50b53f842ef34
@@ -21,7 +21,7 @@ Version: 1.9.13~beta11
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~beta7), com.rpetrich.rocketbootstrap (>= 1.0.9)
-Filename: ./debfiles/com.TruongTamPhong.ActivatorVietNam_1.9.13~beta11_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.ActivatorVietNam_1.9.13~beta11_iphoneos-arm.deb
 Size: 1156432
 MD5sum: 4790f3fbe5043455207787b669f25113
 SHA1: 9eb6127de09dfbda02590f91e0d9786a8a724c61
@@ -44,7 +44,7 @@ Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~rc1), com.rpetrich.rocketbootstrap (>= 1.0.9), com.a3tweaks.flipswitch
 Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
 Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
-Filename: ./debfiles/com.TruongTamPhong.ActivatorVietNam_1.9.13~rc3-1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.ActivatorVietNam_1.9.13~rc3-1_iphoneos-arm.deb
 Size: 1202502
 MD5sum: fdd0566196d0fa7b8516446d0919843b
 SHA1: b103cd3e6892691bcc36ed11786c8f16a3959ac5
@@ -69,7 +69,7 @@ Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.TruongTamPhong.FlipSwitch (>= 1.0.16~rc1), com.rpetrich.rocketbootstrap (>= 1.0.9)
 Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
 Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
-Filename: ./debfiles/com.TruongTamPhong.ActivatorVietNam_1.9.13~rc5_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.ActivatorVietNam_1.9.13~rc5_iphoneos-arm.deb
 Size: 1209972
 MD5sum: 14d202b02c65aad211792b6c69933934
 SHA1: 235f96c2dfd715d38c3a73f5baa716af6ba46fce
@@ -91,7 +91,7 @@ Version: 1.0.0
 Section: Widget động
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.AmLichVaDanhNgon_1.0.0_iphoneos-arm.deb
 Size: 15984
 MD5sum: 70bd30e4b03729bd3df6335655853936
 SHA1: a8372656dde7f2b8f26b16236031abed1fdde5a5
@@ -110,7 +110,7 @@ Version: 1.3-1
 Section: Widget động
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.3-1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.AmLichVaDanhNgon_1.3-1_iphoneos-arm.deb
 Size: 138432
 MD5sum: b553c175a4f2000c5ff7e67633c0d800
 SHA1: 8699ef40c1a40be76a90e7f9d0a470a9587cbba6
@@ -129,7 +129,7 @@ Version: 1.3
 Section: Widget động
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.3_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.AmLichVaDanhNgon_1.3_iphoneos-arm.deb
 Size: 138034
 MD5sum: 5c344e549135843db95e114c2c83c80f
 SHA1: a760f9a153baa777f450b74fdf5b106014f433c1
@@ -148,7 +148,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.AmLich_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.AmLich_1.0.0_iphoneos-arm.deb
 Size: 127276
 MD5sum: 3983aaa61e93b7ec6b9c0a062d5413d5
 SHA1: 3ff5f4998a9d4188444c34f03ba432d52f69458e
@@ -167,7 +167,7 @@ Version: 1.0.0
 Section: Widget động
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.AnalogClockWeather+_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.AnalogClockWeather+_1.0.0_iphoneos-arm.deb
 Size: 300740
 MD5sum: 275eda69a55bb685393e5b53c2170c31
 SHA1: 6ac4a299a50aa6271dd12e6b1e9a6103fb947e2a
@@ -186,7 +186,7 @@ Version: 1.0.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.AnalogClockWeatherXSM_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.AnalogClockWeatherXSM_1.0.0_iphoneos-arm.deb
 Size: 296054
 MD5sum: 68873dcb295fe0d376a5b4336594f00a
 SHA1: d66253c1e4fb9a3fd1bc0316315fc7f7132e40d1
@@ -206,7 +206,7 @@ Version: 1.0.0
 Section: Widget động
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.AnalogClockWeather_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.AnalogClockWeather_1.0.0_iphoneos-arm.deb
 Size: 300736
 MD5sum: 574ad300420e288c03a3a83a1a0377fa
 SHA1: 0c6fc25dfaf3daa56fa72d3ad3b63ae2a35d0e4e
@@ -225,7 +225,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Ando_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Ando_1.0.0_iphoneos-arm.deb
 Size: 11852320
 MD5sum: 6b279d67dfac5bb647523d9ee08364cc
 SHA1: cbdf78f016009583d9e0ccfaf5670f7644063b70
@@ -244,7 +244,7 @@ Version: 1.0.1
 Section: Widget tĩnh
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Ando_1.0.1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Ando_1.0.1_iphoneos-arm.deb
 Size: 11853874
 MD5sum: f4fba1bc82ff6121dad4d8fb70528744
 SHA1: 4dbab0351f6924b08d37bcbff9d5a39858c691cd
@@ -263,7 +263,7 @@ Version: 2.1.1
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), com.a3tweaks.flipswitch
-Filename: ./debfiles/com.TruongTamPhong.AppazeVietNam_2.1.1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.AppazeVietNam_2.1.1_iphoneos-arm.deb
 Size: 1313764
 MD5sum: 7381f636bf0d1efd93619948b59d75f5
 SHA1: 8e0435e02cb2e8a5ccba986d38d01abf26da2ead
@@ -283,7 +283,7 @@ Version: 2.0.1-1
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.15.1), org.thebigboss.libcolorpicker, com.peterdev.libpddokdo
-Filename: ./debfiles/com.TruongTamPhong.AprilVietNam_2.0.1-1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.AprilVietNam_2.0.1-1_iphoneos-arm.deb
 Size: 111048
 MD5sum: 1e8306f05fa77879fc0fc0dd62fdc15f
 SHA1: bb6b63b6de63788028a22a2c358eaf71b5a4a256
@@ -303,7 +303,7 @@ Version: 2.0.1
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.AprilVietNam_2.0.1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.AprilVietNam_2.0.1_iphoneos-arm.deb
 Size: 110974
 MD5sum: 6e5214f12d48c744a997d0062bdfdb63
 SHA1: bf30aa50145c5ea26f8f6545c24783834e0942e1
@@ -323,7 +323,7 @@ Version: 1.0.0
 Section: Widget động
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.AutoChangeWallpaper_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.AutoChangeWallpaper_1.0.0_iphoneos-arm.deb
 Size: 4483956
 MD5sum: 193413b1ff990f5b29dca43b0496498e
 SHA1: 5ccee58aff561267b350969f07b4651578b0a4c1
@@ -342,7 +342,7 @@ Version: 1.4.3-3
 Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.BadgeCustomizer_1.4.3-3_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.BadgeCustomizer_1.4.3-3_iphoneos-arm.deb
 Size: 69700
 MD5sum: 6d94fa69af8191cb17d4bf7255d89385
 SHA1: bca06b3e9dcb791e5ed15aa779661c3e332e5429
@@ -361,7 +361,7 @@ Version: 1.3.2-2
 Section: Tweaks
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debfiles/com.TruongTamPhong.BatteryPercentX_1.3.2-2_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.BatteryPercentX_1.3.2-2_iphoneos-arm.deb
 Size: 249986
 MD5sum: 0ee7993c440d771efe97de19df40b12b
 SHA1: 4120d5447a1f28e6aa1299ab6c438db1783bb6c1
@@ -380,7 +380,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.BlurTransV1_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.BlurTransV1_1.0.0_iphoneos-arm.deb
 Size: 1336124
 MD5sum: 337d425b67438a656a93d6baa2d63fd0
 SHA1: 543e3e82e09edca56d1c3328734a657c5950a0fc
@@ -399,7 +399,7 @@ Version: 1.0.1
 Section: Widget tĩnh
 Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.BlurTransV1_1.0.1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.BlurTransV1_1.0.1_iphoneos-arm.deb
 Size: 1336084
 MD5sum: b4e10ca09d091607ade546ee61ee9c7c
 SHA1: b8104a9b8d157d93f8f41618d209140050f43a81
@@ -418,7 +418,7 @@ Version: 1.0.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.BoCongAnh_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.BoCongAnh_1.0.0_iphoneos-arm.deb
 Size: 413866
 MD5sum: 3e179af96ae108b11ffb5393f9996935
 SHA1: 23222e76562d2545a3fc70838d0142fc9358c9ba
@@ -437,7 +437,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.BorderV1_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.BorderV1_1.0.0_iphoneos-arm.deb
 Size: 2080
 MD5sum: dbc04f97f425aed6c7967614a0290d99
 SHA1: 6ca8abf8190ce982009d8449c0666f60847d7950
@@ -456,7 +456,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.CalendaText_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.CalendaText_1.0.0_iphoneos-arm.deb
 Size: 143458
 MD5sum: 1969aaf6e8f293d9e7c9c336ba662d36
 SHA1: 3deec89f7a04162247fcdcaf2db61cb1e648d838
@@ -475,7 +475,7 @@ Version: 1.0.0
 Section: Themes
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.CanhChimTrang_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.CanhChimTrang_1.0.0_iphoneos-arm.deb
 Size: 10660
 MD5sum: b392a1caf32e9de363b1366a7dc3fe41
 SHA1: cc80afd9821a06dca022ed9bbd13581e9d15770f
@@ -494,7 +494,7 @@ Version: 1.0.0
 Section: Themes
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.CanhChimVang_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.CanhChimVang_1.0.0_iphoneos-arm.deb
 Size: 9246
 MD5sum: 58dee0af79a1a1414459d5e469e0c967
 SHA1: d63cf9616c5b791bec65753e2eeeac37d4dbafed
@@ -513,7 +513,7 @@ Version: 1.0.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Circle_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Circle_1.0.0_iphoneos-arm.deb
 Size: 5178
 MD5sum: 67781cf9a29da92d2656d353c39772c5
 SHA1: 3956176062e33a48646a0a8a1191573c338d5a2a
@@ -532,7 +532,7 @@ Version: 1.1.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Circle_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Circle_1.1.0_iphoneos-arm.deb
 Size: 4358
 MD5sum: e2523438b8824ddf636b934c46b58950
 SHA1: 1b82390342bc6a3d4784ef9181d4b79ca4ef7381
@@ -551,7 +551,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.ClockBelle_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.ClockBelle_1.0.0_iphoneos-arm.deb
 Size: 112552
 MD5sum: 8640da04633803f754f3ce523241ca1a
 SHA1: ac56b88466a10821fc2907c54ea83897f390d550
@@ -570,7 +570,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.ClockDeaultSmall_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.ClockDeaultSmall_1.0.0_iphoneos-arm.deb
 Size: 88340
 MD5sum: d12199227750b33fe9eafa5c8e233896
 SHA1: 8971c05204f1a8e977b977ea5d619508877856f2
@@ -589,7 +589,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.ClockTransparent_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.ClockTransparent_1.0.0_iphoneos-arm.deb
 Size: 224036
 MD5sum: b83c2f2c5960cbb7e3f17c72d5c3b8fe
 SHA1: 64911555254dc2a09c4c1d6b052889c2a098bd08
@@ -608,7 +608,7 @@ Version: 1.0.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.DanhNgon_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.DanhNgon_1.0.0_iphoneos-arm.deb
 Size: 137670
 MD5sum: 0bca1d2dcb3d3b0b66ed597ba833194f
 SHA1: a10f3096300696222b602c62f969860bd921efd9
@@ -627,7 +627,7 @@ Version: 1.0.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.DiamondGold_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.DiamondGold_1.0.0_iphoneos-arm.deb
 Size: 77838
 MD5sum: 3b30949974789e8c125b5752476938e6
 SHA1: 84cdce6dbc8b3196a8492a69b7cca1488e0262d6
@@ -646,7 +646,7 @@ Version: 1.0.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.DiamondWhite_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.DiamondWhite_1.0.0_iphoneos-arm.deb
 Size: 77834
 MD5sum: b4dd2563d260c4d7fd49233752ba7dfc
 SHA1: 87555d620bd9ccbd42b624064539baa58edd9b9b
@@ -665,7 +665,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.DockCityXS++_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.DockCityXS++_1.0.0_iphoneos-arm.deb
 Size: 22256
 MD5sum: 6f3b8b69e62acf090bae72be98448fe5
 SHA1: 752c1ffccb6e8a37effc08135f38e0c3bade937c
@@ -684,7 +684,7 @@ Version: 1.1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.DockCityXS++_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.DockCityXS++_1.1.0_iphoneos-arm.deb
 Size: 22214
 MD5sum: 0ccb88ffc64031eebe0b2b00039b2585
 SHA1: cb10ddb2b050fd66f94d56297602fb98a4d35307
@@ -703,7 +703,7 @@ Version: 1.1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.DockCityXS_1.1.0_iphoneos-arm.deb
 Size: 21906
 MD5sum: e7dda1e97d025d6ecb712e0e2ebf174d
 SHA1: 991a09b894cc04ddb62f34b21c569318cd51ef49
@@ -722,7 +722,7 @@ Version: 1.2.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.2.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.DockCityXS_1.2.0_iphoneos-arm.deb
 Size: 22022
 MD5sum: 7abf20d2959336733d43b9cccea2ea35
 SHA1: bd8d5ef0e4e87f2cfcf685c1b7f6fe46e234bf1d
@@ -741,7 +741,7 @@ Version: 1.2.1
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.2.1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.DockCityXS_1.2.1_iphoneos-arm.deb
 Size: 22014
 MD5sum: 47c8681b38c60110b064e70bd6e00c5c
 SHA1: 592fec8f0abb326961e1730df162d85cb4c6d80f
@@ -760,7 +760,7 @@ Version: 1.3-1
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.3-1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.DockCityXS_1.3-1_iphoneos-arm.deb
 Size: 22236
 MD5sum: 4f43b6f47e74151316a901bf6061f49e
 SHA1: 96f31c6ca3c118148bc8c469c33e49ab0b7bcbfd
@@ -779,7 +779,7 @@ Version: 1.3.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.DockCityXS_1.3.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.DockCityXS_1.3.0_iphoneos-arm.deb
 Size: 22242
 MD5sum: f3b04be55a9cb5505c96e18d5821fb32
 SHA1: da11e81c374b1af69cafb58751420723998638e9
@@ -798,7 +798,7 @@ Version: 1.2-1
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.DockXS++_1.2-1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.DockXS++_1.2-1_iphoneos-arm.deb
 Size: 7458
 MD5sum: 2ce4f5ef17ee5cbf144e32c4fd76819a
 SHA1: adc03c0172a66c1b17b6b04406c58d12a19ae493
@@ -817,7 +817,7 @@ Version: 1.2.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.DockXS++_1.2.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.DockXS++_1.2.0_iphoneos-arm.deb
 Size: 7448
 MD5sum: 97fc3c9106c47580d5e77ba84c699dad
 SHA1: 9c342b2fe12962bc03b0fc256822ee1f17ee063e
@@ -836,7 +836,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.DockXS_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.DockXS_1.0.0_iphoneos-arm.deb
 Size: 7306
 MD5sum: a10727eb5fcc74de7ce3666138f0a09c
 SHA1: 8e69cd9c13ab3911d2b7060772caff875688394f
@@ -855,7 +855,7 @@ Version: 1.2-1
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.DockXS_1.2-1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.DockXS_1.2-1_iphoneos-arm.deb
 Size: 7444
 MD5sum: aec1fddbc8d02e0a8419f77fb6489da0
 SHA1: 3c3a5adec4026a54a67f165783c206c92e672579
@@ -874,7 +874,7 @@ Version: 1.2.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.DockXS_1.2.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.DockXS_1.2.0_iphoneos-arm.deb
 Size: 7436
 MD5sum: 799b78e9073747e47f5a86b385dce7de
 SHA1: c4385d21e80bd983c10b687fc7fcaab5ad3cdfce
@@ -893,7 +893,7 @@ Version: 1.0.0
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debfiles/com.TruongTamPhong.DoubleTapToWake_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.DoubleTapToWake_1.0.0_iphoneos-arm.deb
 Size: 4876
 MD5sum: 81a2288d3a1b2d9b3692feca867c0409
 SHA1: 1439ae4c5512e076154ad88e1b0adfd6cf0feb64
@@ -912,7 +912,7 @@ Version: 0.2~beta36
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
-Filename: ./debfiles/com.TruongTamPhong.FlyJBVietNam_0.2~beta36_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.FlyJBVietNam_0.2~beta36_iphoneos-arm.deb
 Size: 334692
 MD5sum: 5c928bbeef3c1ac3829df274ac0ecd76
 SHA1: ec346aafb36704d4417e03f1d29465c1451603ac
@@ -931,7 +931,7 @@ Version: 0.2~beta49
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
-Filename: ./debfiles/com.TruongTamPhong.FlyJBVietNam_0.2~beta49_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.FlyJBVietNam_0.2~beta49_iphoneos-arm.deb
 Size: 341788
 MD5sum: 8823aeb371d3969c5817f57ea2203441
 SHA1: 189400f81463677377b0ce7ec56cf5a92ae47ab5
@@ -950,7 +950,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.FullHouseGold_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.FullHouseGold_1.0.0_iphoneos-arm.deb
 Size: 5944
 MD5sum: 335c7e66e56c82989dd0a35dae12cb36
 SHA1: 007cc5b2cee8d029ce6820c98fc866f77b2c8391
@@ -969,7 +969,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.FullHouse_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.FullHouse_1.0.0_iphoneos-arm.deb
 Size: 6048
 MD5sum: 2b65ef99ed5265f1a333abebb229391d
 SHA1: 7e44bbe87301fe2baacd4340908d1a7cd9c95f59
@@ -988,7 +988,7 @@ Version: 1.1
 Section: Fonts
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Geometric12_1.1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Geometric12_1.1_iphoneos-arm.deb
 Size: 13043686
 MD5sum: 2289c1f6a64d9a74fd1135143ce956f2
 SHA1: 61acdfb1b53f7e8d800f2dd56c2fa0b7b04ea62d
@@ -1006,7 +1006,7 @@ Version: 1.0.0
 Section: Fonts
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Geometric13_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Geometric13_1.0.0_iphoneos-arm.deb
 Size: 9539536
 MD5sum: fc2fa277ff8c63e22f5a343893db0650
 SHA1: f10505310e2f0d92771623b89a6f629a63034866
@@ -1024,7 +1024,7 @@ Version: 1.1
 Section: Fonts
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Gineso12_1.1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Gineso12_1.1_iphoneos-arm.deb
 Size: 13163776
 MD5sum: fcaad45d607c46c511b43708a6c7c187
 SHA1: dee5f18d81d0b7a35c60220365200aaeb011e152
@@ -1042,7 +1042,7 @@ Version: 1.0.0
 Section: Fonts
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Gineso13_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Gineso13_1.0.0_iphoneos-arm.deb
 Size: 13575688
 MD5sum: fb9cfe9f441e8f5085f56a5e39f8a41d
 SHA1: 2fa2f510d7f6cad71d1f7593dff59d465edf12cf
@@ -1062,7 +1062,7 @@ Priority: optional
 Section: Themes
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Gl_1.2.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Gl_1.2.0_iphoneos-arm.deb
 Size: 15225168
 MD5sum: 012b351889076b01d51dd15ecdb2260a
 SHA1: 2c012f3e44826be0cc829d31a2f3d7baa9a56077
@@ -1080,7 +1080,7 @@ Version: 5.62
 Section: Themes
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate, com.TruongTamPhong.Gl
-Filename: ./debfiles/com.TruongTamPhong.Glasklart_5.62_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Glasklart_5.62_iphoneos-arm.deb
 Size: 49133758
 MD5sum: aed84a7a64affedf7f003fdf7a066665
 SHA1: 7d3f545d1e53b7e83a70d2638b5f9b06a741d53d
@@ -1099,7 +1099,7 @@ Version: 1.1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.HTCClock_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.HTCClock_1.1.0_iphoneos-arm.deb
 Size: 126194
 MD5sum: 5597b0747bbf16ad47ff56798c6b3a56
 SHA1: 73930c04e98333ddc2e85a11858d86da1805b59d
@@ -1118,7 +1118,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.HtcClock_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.HtcClock_1.0.0_iphoneos-arm.deb
 Size: 44280
 MD5sum: 417516fa5520987cfa53a1280c33cd11
 SHA1: 2f67b54e99a805fea6baf3d063db34701b45e141
@@ -1137,7 +1137,7 @@ Version: 2.4.8-29
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.IconOmaticVietNam_2.4.8-29_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.IconOmaticVietNam_2.4.8-29_iphoneos-arm.deb
 Size: 39576558
 MD5sum: e64e130dc99ebd60576c3052e1496d8c
 SHA1: fc1e14426dbea1ca96bd0f70d7ae1b04293661fa
@@ -1157,7 +1157,7 @@ Version: 1.0.0
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.IconStateBackUp_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.IconStateBackUp_1.0.0_iphoneos-arm.deb
 Size: 216108
 MD5sum: 0d1adb9903c6ce7f855a6e7023b3c286
 SHA1: 1d6582dce6f3c1ece72e3a69839fff24a344d650
@@ -1176,7 +1176,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.InformationColumn_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.InformationColumn_1.0.0_iphoneos-arm.deb
 Size: 158848
 MD5sum: 3610cf8f4117e19d556571a7fa6d8abc
 SHA1: f142f8a5e97aa00f8adba60705f363b02f1b839f
@@ -1195,7 +1195,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.IwMuneNeonEdition_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.IwMuneNeonEdition_1.0.0_iphoneos-arm.deb
 Size: 12027258
 MD5sum: 898bd794b86ea4416d4fdb62f1aa130b
 SHA1: 2b723607ac8faa89c0ba3548f13df067b433b7f0
@@ -1214,7 +1214,7 @@ Version: 1.0.0
 Section: Themes
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Juno_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Juno_1.0.0_iphoneos-arm.deb
 Size: 1609714
 MD5sum: dcaa89552b549e4d68520870cc08d90e
 SHA1: 551b9e376ec25a6c3dbd66b20c1b2543d521f7b9
@@ -1234,7 +1234,7 @@ Version: 1.0.1
 Section: Themes
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Juno_1.0.1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Juno_1.0.1_iphoneos-arm.deb
 Size: 1656930
 MD5sum: 82c97270b82e848cf624f5752226deb5
 SHA1: e71ea90c0d1d033c405a9191eb215c24c941ad54
@@ -1254,7 +1254,7 @@ Version: 1.7.4
 Section: Themes
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Juno_1.7.4_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Juno_1.7.4_iphoneos-arm.deb
 Size: 7643128
 MD5sum: e8aa5c62e1cf43d723d77384eb3d6565
 SHA1: 104a666225be8841d2716cdeeddd73ce3fcb167c
@@ -1274,7 +1274,7 @@ Version: 2.3.8
 Section: Themes
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Juno_2.3.8_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Juno_2.3.8_iphoneos-arm.deb
 Size: 11727072
 MD5sum: bc6b3318bc3d1f9bc47fc8a5cdc91dc7
 SHA1: e8771dad411a761a73543c30ab475f57083c4c34
@@ -1294,7 +1294,7 @@ Version: 2.8.8
 Section: Themes
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Juno_2.8.8_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Juno_2.8.8_iphoneos-arm.deb
 Size: 14067052
 MD5sum: 75126d8af0aedb93cd966a43c3088165
 SHA1: 683f1ab1cb72f959e890087bc358a9a0998e01f2
@@ -1314,7 +1314,7 @@ Version: 3.0.7
 Section: Themes
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Juno_3.0.7_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Juno_3.0.7_iphoneos-arm.deb
 Size: 16967192
 MD5sum: 2e94d30318a4d8cd94ef53f2f106cdd7
 SHA1: 8e4d3365419618c9a10773c97464391e6a25eb63
@@ -1334,7 +1334,7 @@ Version: 4.2.2
 Section: Themes
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Juno_4.2.2_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Juno_4.2.2_iphoneos-arm.deb
 Size: 48667274
 MD5sum: 4f41c62d341d9cf4646a7426fcf80bd9
 SHA1: 71b92eb49979fb29e943261d93d0da4b30231904
@@ -1354,7 +1354,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.KamCCNarrow_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.KamCCNarrow_1.0.0_iphoneos-arm.deb
 Size: 95838
 MD5sum: 3dae1f748c6fe1db3e859e4c00fcd9c5
 SHA1: 064d61fc02f3462e76ee26dd46ad17ea507a5a26
@@ -1373,7 +1373,7 @@ Version: 1.0.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.LaRoi_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.LaRoi_1.0.0_iphoneos-arm.deb
 Size: 9757902
 MD5sum: 495e993cf42df5fc9741c0183457a31f
 SHA1: 22ebea0cfdf1e553f0cfb6065f8784b9b899f502
@@ -1392,7 +1392,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.LgClock_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.LgClock_1.0.0_iphoneos-arm.deb
 Size: 256912
 MD5sum: 8518144d2a9c4f76652d7a664e06f009
 SHA1: 2641a125907cae4f11fb458bd445c2ce34794dc7
@@ -1411,7 +1411,7 @@ Version: 1.1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.LgClock_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.LgClock_1.1.0_iphoneos-arm.deb
 Size: 256452
 MD5sum: 4a7f8e779ed64626d25a3196e3d5c18f
 SHA1: 3de375705b77cc17141724b3f7fcb420adfbfd59
@@ -1430,7 +1430,7 @@ Version: 2.1.0
 Section: Themes
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Luxury_2.1.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Luxury_2.1.0_iphoneos-arm.deb
 Size: 1522510
 MD5sum: 94c617c6bbd612fa9ec65c2f3cd1ee6b
 SHA1: d0d897cc052763328cf001bd8cb1eeb08376ff47
@@ -1449,7 +1449,7 @@ Version: 1.0.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.MainLed_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.MainLed_1.0.0_iphoneos-arm.deb
 Size: 10498032
 MD5sum: be4d8a7955d65ec9611ad90fae7775a8
 SHA1: 9ba25ef939fd137780986c579eef50af77a8b588
@@ -1468,7 +1468,7 @@ Version: 1.0.8-1
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.MusicAndWeatherDark_1.0.8-1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.MusicAndWeatherDark_1.0.8-1_iphoneos-arm.deb
 Size: 14335552
 MD5sum: 36a928df8f44d7e0b8ee325db388f24c
 SHA1: 30081475681157427e7934948b61b67a090e45bd
@@ -1488,7 +1488,7 @@ Version: 1.0.8
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.MusicAndWeatherDark_1.0.8_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.MusicAndWeatherDark_1.0.8_iphoneos-arm.deb
 Size: 14335552
 MD5sum: 9799f9d549368f50ee42010a160e5ae1
 SHA1: 22402837bd70098186039a9f068a77dc0d0ed28a
@@ -1508,7 +1508,7 @@ Version: 2.0.1
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.MyName_2.0.1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.MyName_2.0.1_iphoneos-arm.deb
 Size: 5374308
 MD5sum: dc211d4b9d09cd05eae0da0915746b64
 SHA1: aee26b1d0bbbf2cd5c7d6494623673f121564de3
@@ -1527,7 +1527,7 @@ Version: 2.0.2
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.MyName_2.0.2_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.MyName_2.0.2_iphoneos-arm.deb
 Size: 5374310
 MD5sum: 6762570a9ca658ff61a15e37e528c8f8
 SHA1: 34ec73ddc25161d18fa5580fcc6e72f592607196
@@ -1547,7 +1547,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Nema_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Nema_1.0.0_iphoneos-arm.deb
 Size: 117852
 MD5sum: 686b53eec8875f6d22604b3a30f25590
 SHA1: 9b20b115d4e22dc5fc05581417fb680ab3ecb33b
@@ -1566,7 +1566,7 @@ Version: 1.1.0
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap (>> 1.0.6)
-Filename: ./debfiles/com.TruongTamPhong.NextUp2VietNam_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.NextUp2VietNam_1.1.0_iphoneos-arm.deb
 Size: 550754
 MD5sum: 8590be81276bbc322e251e0e0423368d
 SHA1: e6b6f6300f76fc698ad7179a6ddcf275b38866f5
@@ -1585,7 +1585,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.NotchXS_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.NotchXS_1.0.0_iphoneos-arm.deb
 Size: 92358
 MD5sum: 05a98568199e86f32d6ae801a84a9bce
 SHA1: 9f40f094ad32195063cbb8b926915a196e6a3475
@@ -1604,7 +1604,7 @@ Version: 1.1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.NotchXS_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.NotchXS_1.1.0_iphoneos-arm.deb
 Size: 76416
 MD5sum: f3564bee70c9ba058f7ef2c8fd9af63f
 SHA1: 794c88e1181daa37ea2f4e8f3b2a05c83300e652
@@ -1623,7 +1623,7 @@ Version: 1.1.0-3
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debfiles/com.TruongTamPhong.Palert_1.1.0-3_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Palert_1.1.0-3_iphoneos-arm.deb
 Size: 136968
 MD5sum: 53f56319efdbccad3c095480d835e37f
 SHA1: 1ff64ee6e19f37d5df9407fe51ea83331138b592
@@ -1642,7 +1642,7 @@ Version: 0.0.1b2-7
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: firmware (>= 12.0), firmware (<= 12.4.3), mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.PicoBanners2_0.0.1b2-7_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.PicoBanners2_0.0.1b2-7_iphoneos-arm.deb
 Size: 72694
 MD5sum: ddbaa606d5b4aa36fe7c01fb281fa210
 SHA1: 2637b613fe9cb336c99fb3e2364c36908f03df66
@@ -1661,7 +1661,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.RectangleClock_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.RectangleClock_1.0.0_iphoneos-arm.deb
 Size: 66140
 MD5sum: 9844226ec1265580c3928156f59b03d3
 SHA1: 68780057543f57185b3549fddc7a861c8bf59df5
@@ -1680,7 +1680,7 @@ Version: 1.0.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.RingWrapperV2_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.RingWrapperV2_1.0.0_iphoneos-arm.deb
 Size: 3876
 MD5sum: 90a11faba9868fe358b4baaa17d6e124
 SHA1: 6bd1871782ddd42b4b14d2256bf46553e2af658a
@@ -1700,7 +1700,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.RingWrapper_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.RingWrapper_1.0.0_iphoneos-arm.deb
 Size: 3854
 MD5sum: 52639501a30c25ef983f526d0cb6ab7b
 SHA1: 3ab4e9badf2a363a30586a51c9147acdc31b5688
@@ -1720,7 +1720,7 @@ Version: 1.0.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.SaoBay_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SaoBay_1.0.0_iphoneos-arm.deb
 Size: 32824
 MD5sum: f945675e78b117c11b828e77d7444126
 SHA1: 5f0cfe1da0e867acc74826f69866d0f51521f5cd
@@ -1739,7 +1739,7 @@ Version: 1.2.2
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.ShWidgetGold_1.2.2_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.ShWidgetGold_1.2.2_iphoneos-arm.deb
 Size: 414916
 MD5sum: c6389c25eaba91235d21fd51fceda655
 SHA1: 0aa371a6abb13876f095f09c622364908436f36a
@@ -1759,7 +1759,7 @@ Version: 1.2-1
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.ShWidget_1.2-1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.ShWidget_1.2-1_iphoneos-arm.deb
 Size: 737134
 MD5sum: 7ee61d17a0ba49dba389a71e4dc5f489
 SHA1: 4207600a454e5a5d816b9012e0c663da9824ac67
@@ -1779,7 +1779,7 @@ Version: 1.2.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.ShWidget_1.2.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.ShWidget_1.2.0_iphoneos-arm.deb
 Size: 971060
 MD5sum: ea780e4f666c37bf4f601c9e98d67acf
 SHA1: 8d56783b59f6d39b795abd4429ff1884ed6b7d31
@@ -1799,7 +1799,7 @@ Version: 1.2.2
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.ShWidget_1.2.2_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.ShWidget_1.2.2_iphoneos-arm.deb
 Size: 668404
 MD5sum: f67568454d351740b4d039a4e633ae9f
 SHA1: 16f53521fbbb168066f8ce9a35195449ba2e79d7
@@ -1819,7 +1819,7 @@ Version: 1.0.7
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: com.creaturecoding.libcspreferences
-Filename: ./debfiles/com.TruongTamPhong.ShuffleVietNam_1.0.7_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.ShuffleVietNam_1.0.7_iphoneos-arm.deb
 Size: 320768
 MD5sum: 52d28246dd0c92cd24bf93a28a789eef
 SHA1: dd48173d619d8fadf78084ddf42add0d80554239
@@ -1839,7 +1839,7 @@ Version: 1.1.3-1
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: com.creaturecoding.libcspreferences
-Filename: ./debfiles/com.TruongTamPhong.ShuffleVietNam_1.1.3-1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.ShuffleVietNam_1.1.3-1_iphoneos-arm.deb
 Size: 341104
 MD5sum: d1e8d8ba84b6fcd772ce345b9cd68ade
 SHA1: 7a0062a678b9179ac59e6f65ffa3049f7b0861fa
@@ -1859,7 +1859,7 @@ Version: 1.1.3
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: com.creaturecoding.libcspreferences
-Filename: ./debfiles/com.TruongTamPhong.ShuffleVietNam_1.1.3_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.ShuffleVietNam_1.1.3_iphoneos-arm.deb
 Size: 341150
 MD5sum: a738cdf27927d50a1a467485245fc5a6
 SHA1: 75e8edf8e8d0d6132924d2d5c486e6a73b4770ab
@@ -1879,7 +1879,7 @@ Version: 1.0.5
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate, preferenceloader, firmware (> 11.0)
-Filename: ./debfiles/com.TruongTamPhong.SixlsVietNam_1.0.5_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SixlsVietNam_1.0.5_iphoneos-arm.deb
 Size: 1566004
 MD5sum: 068a039d671726446e392877c6dc1959
 SHA1: f977466d6f09f385260e21afceadcd8254cc8e4a
@@ -1898,7 +1898,7 @@ Version: 0.1.1
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Slyd_0.1.1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Slyd_0.1.1_iphoneos-arm.deb
 Size: 18902
 MD5sum: 55675a79cfe06a978c704296bc75aad5
 SHA1: ff0e2817914e501c6f26bf17c41cd9c770cbd2f9
@@ -1917,7 +1917,7 @@ Version: 1.0.1~Beta1
 Section: Utilities
 Maintainer: Spark
 Depends: com.TruongTamPhong.SnowBoardVietNam
-Filename: ./debfiles/com.TruongTamPhong.SnowBoardApplication_1.0.1~Beta1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SnowBoardApplication_1.0.1~Beta1_iphoneos-arm.deb
 Size: 701948
 MD5sum: 6b9a15bd603fed164a11d031c3e0d1af
 SHA1: 4ee296f0645369085c2c126fbb5de73043eae1e9
@@ -1934,7 +1934,7 @@ Version: 1.0.1~Beta2
 Section: Utilities
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.SnowBoardApplication_1.0.1~Beta2_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SnowBoardApplication_1.0.1~Beta2_iphoneos-arm.deb
 Size: 701992
 MD5sum: 7c6359e4000c54ebc3089abfc225dde5
 SHA1: 134d05e47bdfe4c1fb0b4087e137a6c6a0222e1a
@@ -1952,7 +1952,7 @@ Section: Tweaks
 Maintainer: Spark <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.37~Beta1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SnowBoardVietNam_1.2.37~Beta1_iphoneos-arm.deb
 Size: 2541932
 MD5sum: 1578cb2bcf7f9508a5d60745346de54c
 SHA1: 474f0ee193298bbcad1877bede83d6c5289ee014
@@ -1970,7 +1970,7 @@ Section: Tweaks
 Maintainer: Spark <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.67~Beta1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SnowBoardVietNam_1.2.67~Beta1_iphoneos-arm.deb
 Size: 2727356
 MD5sum: 59b6b084136680cc29137024503ba2fb
 SHA1: b68bdc2993623aa3a3c513a3cbc030faa779b672
@@ -1988,7 +1988,7 @@ Section: Tweaks
 Maintainer: Spark <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.68_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SnowBoardVietNam_1.2.68_iphoneos-arm.deb
 Size: 2899408
 MD5sum: d76ade0a28e86512ec2b0d862e596f36
 SHA1: 0774c2d87dc1851c8d773b335dea2bec63c76f36
@@ -2006,7 +2006,7 @@ Section: Tweaks
 Maintainer: Spark <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.69~Beta1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SnowBoardVietNam_1.2.69~Beta1_iphoneos-arm.deb
 Size: 2892942
 MD5sum: 48b933d497b2d6b7dd74286bf6c82996
 SHA1: 6fa33a0548e5516c6562e05dbad85e0ef3f33db8
@@ -2024,7 +2024,7 @@ Section: Tweaks
 Maintainer: Spark <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.72~Beta1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SnowBoardVietNam_1.2.72~Beta1_iphoneos-arm.deb
 Size: 2902940
 MD5sum: 733bad21eaebc02e163b19d2c51cc798
 SHA1: 31905fc583b6e2f4a16cfa4a8221450120aa2445
@@ -2042,7 +2042,7 @@ Section: Tweaks
 Maintainer: Spark <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.74~Beta1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SnowBoardVietNam_1.2.74~Beta1_iphoneos-arm.deb
 Size: 2906006
 MD5sum: dcd28914eaace7310be37def6a94601d
 SHA1: 6ef48c11248d3547bf301eaeb33cf5b874db97c4
@@ -2060,7 +2060,7 @@ Section: Tweaks
 Maintainer: Spark <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.78~Beta1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SnowBoardVietNam_1.2.78~Beta1_iphoneos-arm.deb
 Size: 2947274
 MD5sum: c795fb4b90330a3819924a379f8b92a7
 SHA1: 4d115be970e827382756b27447175f238aee17c0
@@ -2078,7 +2078,7 @@ Section: Tweaks
 Maintainer: Spark <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.TruongTamPhong.SnowBoardApplication
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.83~Beta1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SnowBoardVietNam_1.2.83~Beta1_iphoneos-arm.deb
 Size: 2970076
 MD5sum: 7410dd6126067f3fd0f7fb4584be2cb8
 SHA1: 0dc22cdc5699549e2d27e254d5a5f71cf6179134
@@ -2098,7 +2098,7 @@ Section: Tweaks
 Maintainer: Spark <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.86~Beta2_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SnowBoardVietNam_1.2.86~Beta2_iphoneos-arm.deb
 Size: 2974570
 MD5sum: e89d97162a57b124dc0db75d4451e549
 SHA1: 7b3fe0fdec1a7b2cd9b8adf6b9412bcf4fa8cd4f
@@ -2118,7 +2118,7 @@ Section: Tweaks
 Maintainer: Spark <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.87~Beta2_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SnowBoardVietNam_1.2.87~Beta2_iphoneos-arm.deb
 Size: 2984140
 MD5sum: b595e39df742ad983a7794cc56be0b6d
 SHA1: 8392e940671d7c43fcde38db71b070eae068be9f
@@ -2138,7 +2138,7 @@ Section: Tweaks
 Maintainer: Spark <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.2.87~Beta3_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SnowBoardVietNam_1.2.87~Beta3_iphoneos-arm.deb
 Size: 2980974
 MD5sum: 4cd5f05973a2b24ee142d2506d6f6615
 SHA1: 14761ceeb2f3ff9ed3bee676fa60a4aa2558dd98
@@ -2158,7 +2158,7 @@ Section: Tweaks
 Maintainer: Spark <truongtamphong686@gmail.com>
 Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.3.3~Beta4_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SnowBoardVietNam_1.3.3~Beta4_iphoneos-arm.deb
 Size: 3125430
 MD5sum: 4678a0a5d041cda3473d664be9e372e6
 SHA1: 1d0fdaeb1711715e64540fb01d13f03c900c6535
@@ -2177,7 +2177,7 @@ Version: 1.0.5
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.SpaceXSPro_1.0.5_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SpaceXSPro_1.0.5_iphoneos-arm.deb
 Size: 1421134
 MD5sum: 9c0a1d6a1c6f5fd9c318775400e7d665
 SHA1: 27dbf9b9201aab9c79083f53c1b834fb29e958a9
@@ -2197,7 +2197,7 @@ Version: 1.0.6
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.SpaceXSPro_1.0.6_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SpaceXSPro_1.0.6_iphoneos-arm.deb
 Size: 1421124
 MD5sum: 725a768cac055c336a3f3d9fcdc75dab
 SHA1: f243a62280150c229a59a88adcf5c83861dc8ea0
@@ -2217,7 +2217,7 @@ Version: 1.0.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.StartNotch_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.StartNotch_1.0.0_iphoneos-arm.deb
 Size: 6176
 MD5sum: 2a43e421557757619194a4e939524f79
 SHA1: 32f4caa13e26f30955e1cdc1f7f83f4277ed3605
@@ -2236,7 +2236,7 @@ Version: 1.1.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.StartNotch_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.StartNotch_1.1.0_iphoneos-arm.deb
 Size: 6246
 MD5sum: 5b56fc7d197748e27432cda3731397ce
 SHA1: 04cb0878c90b14831ecd714187a1f26e037fa3b9
@@ -2255,7 +2255,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.StatusBarNotch++_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.StatusBarNotch++_1.0.0_iphoneos-arm.deb
 Size: 7316
 MD5sum: 1e0246f9b67cf00fa13e56fbf760b31c
 SHA1: 2c6b76f4bfd044506abbb58ed949c7d7d7474b16
@@ -2274,7 +2274,7 @@ Version: 1.3.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.StatusBarNotch++_1.3.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.StatusBarNotch++_1.3.0_iphoneos-arm.deb
 Size: 7524
 MD5sum: 6fa943b970516dda8953e2ddfa3922af
 SHA1: f0c2e5950046ff705e26d831d5bbeac73869673e
@@ -2293,7 +2293,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.StatusBarNotch_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.StatusBarNotch_1.0.0_iphoneos-arm.deb
 Size: 7250
 MD5sum: 0c301e7a800c6b372f16e340838cdd40
 SHA1: 8385daee82d488ad1baf65046bcc246fcb0faae2
@@ -2312,7 +2312,7 @@ Version: 1.1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.StatusBarNotch_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.StatusBarNotch_1.1.0_iphoneos-arm.deb
 Size: 7496
 MD5sum: de36a80350dd608c3abf67905408047d
 SHA1: 15b2dc8fec80c67a64bb1e2878ba4607eddb38af
@@ -2331,7 +2331,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS++_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Stt3NotchXS++_1.0.0_iphoneos-arm.deb
 Size: 7324
 MD5sum: 64e7791bfa93c79841b70b2c3dce1915
 SHA1: a248c2cc2930cb57fd7bd53d1ab7fef6379216b4
@@ -2350,7 +2350,7 @@ Version: 1.1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS++_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Stt3NotchXS++_1.1.0_iphoneos-arm.deb
 Size: 7450
 MD5sum: 3859871d09117636dc0b25798f68f6eb
 SHA1: ed88353f3b78ee6c9a4fd5308911f7a8e57f59b8
@@ -2369,7 +2369,7 @@ Version: 1.2.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS++_1.2.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Stt3NotchXS++_1.2.0_iphoneos-arm.deb
 Size: 7530
 MD5sum: dc75024954971fe587b8b577dee7a70f
 SHA1: d42d1d9039db0940d7bbcabcaaa4da0ed1947d73
@@ -2388,7 +2388,7 @@ Version: 1.2.1
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS++_1.2.1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Stt3NotchXS++_1.2.1_iphoneos-arm.deb
 Size: 7636
 MD5sum: 787f0af8a9e2ded9c827291793952e8a
 SHA1: ab3992be14895cd89b461a715edd07a93fe7d325
@@ -2407,7 +2407,7 @@ Version: 1.1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Stt3NotchXS_1.1.0_iphoneos-arm.deb
 Size: 7430
 MD5sum: 289ce0a84f6a74f0bc8cf0b6a6b0f711
 SHA1: c3063ce6c01d586e0fd9747ac9cb4fbd5ef01954
@@ -2426,7 +2426,7 @@ Version: 1.2.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS_1.2.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Stt3NotchXS_1.2.0_iphoneos-arm.deb
 Size: 7514
 MD5sum: d6419d85b8e0bd3e3199e25429e4d80e
 SHA1: 8c15b082a50974f99fef1f50269f9d7e46842f36
@@ -2445,7 +2445,7 @@ Version: 1.2.1
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Stt3NotchXS_1.2.1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Stt3NotchXS_1.2.1_iphoneos-arm.deb
 Size: 7502
 MD5sum: adb878bc74e5e9e4d51356fa7c7fc371
 SHA1: ba0c20d09bd2328e627a04c338e705bbbd18688f
@@ -2464,7 +2464,7 @@ Version: 0.5.4
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate, me.nepeta.libcolorpicker
-Filename: ./debfiles/com.TruongTamPhong.SwitcherStyleVietNam_0.5.4_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SwitcherStyleVietNam_0.5.4_iphoneos-arm.deb
 Size: 39624
 MD5sum: 3da4442cba7a2372372c489b9dc03c63
 SHA1: b9212d4cf365bafb373a8c4108fbb89c48de2e4c
@@ -2483,7 +2483,7 @@ Version: 1.0.0
 Section: Themes
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.SymbianBelle_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.SymbianBelle_1.0.0_iphoneos-arm.deb
 Size: 2675650
 MD5sum: 33013790471238ec494c8a01381b51ff
 SHA1: 1bdabf0d5c8266e9fd64ceaa23dee910020220a0
@@ -2502,7 +2502,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.TemperatureClock_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.TemperatureClock_1.0.0_iphoneos-arm.deb
 Size: 141120
 MD5sum: 58dfa7966adc2b5e36b986f785f7c515
 SHA1: d4a255c8e5c6d7a11e6f4434051a372a9c05d9d0
@@ -2521,7 +2521,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.TextDate_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.TextDate_1.0.0_iphoneos-arm.deb
 Size: 74206
 MD5sum: 4d2b09696d14cece3d45026f32ea2fbc
 SHA1: 6dec00017abc8e4eb9ff8e12fe9f63446382b624
@@ -2540,7 +2540,7 @@ Version: 1.2.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.TextDate_1.2.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.TextDate_1.2.0_iphoneos-arm.deb
 Size: 66392
 MD5sum: d09cc87a6c92e8f88d82fb48eeb267cd
 SHA1: 23dec04334e970cc41124d62a0b5a30e805c6d4b
@@ -2559,7 +2559,7 @@ Version: 1.0.2
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.ThreeDock_1.0.2_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.ThreeDock_1.0.2_iphoneos-arm.deb
 Size: 7496
 MD5sum: 35cd498ee424ee1a50fa6d024a8dae27
 SHA1: c7a96c63e48914410e9fe7391c0209b2306ac452
@@ -2578,7 +2578,7 @@ Version: 1.0.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.ThuPhap_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.ThuPhap_1.0.0_iphoneos-arm.deb
 Size: 205698
 MD5sum: b1cf751539eeb9f05867d25e942ed2ac
 SHA1: 3e58f036f1a3d17acc639ec47562f9dd792cee7b
@@ -2597,7 +2597,7 @@ Version: 1.1.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.ThuPhap_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.ThuPhap_1.1.0_iphoneos-arm.deb
 Size: 185296
 MD5sum: d37496263080bc1c8d361559e2c47341
 SHA1: 312d07851359fa8ac3af4bc7acc01dd526736154
@@ -2616,7 +2616,7 @@ Version: 1.0.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.TuyetRoi_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.TuyetRoi_1.0.0_iphoneos-arm.deb
 Size: 28646
 MD5sum: 85ad95b1454d2eee64750e77a6231d9f
 SHA1: 3ba8148fbea4d47df3b7aba9adf8b09eef10a886
@@ -2635,7 +2635,7 @@ Version: 1.0.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.VanTay_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.VanTay_1.0.0_iphoneos-arm.deb
 Size: 27314
 MD5sum: 8c378b37d65cd489ec1c7cd3906a77cd
 SHA1: e7c882b0091c6d1f0f39b9520e11b84ab7f963a0
@@ -2654,7 +2654,7 @@ Version: 1.1-1
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.VanTay_1.1-1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.VanTay_1.1-1_iphoneos-arm.deb
 Size: 612098
 MD5sum: 5596437af0cc601e8c29037b74c9a611
 SHA1: c3926388e90145545b7c586d47d148eaa6347422
@@ -2673,7 +2673,7 @@ Version: 1.1.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.VanTay_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.VanTay_1.1.0_iphoneos-arm.deb
 Size: 612096
 MD5sum: c8d4c3a15728f7e7870447f3d3398c48
 SHA1: 4ecd2c51f41278b596cd8bc02ae41cc4369da650
@@ -2692,7 +2692,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.WeatherAndTime_1.0.0_iphoneos-arm.deb
 Size: 233290
 MD5sum: c119302e87416c35ed09589a49fa6826
 SHA1: 7d7f749a729a278805571470b9187ed7c8b0aff4
@@ -2711,7 +2711,7 @@ Version: 1.1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.WeatherAndTime_1.1.0_iphoneos-arm.deb
 Size: 233276
 MD5sum: e15024d50208e075082aa1177a32783c
 SHA1: 4fe44846eee440d5824d513be3a2dfa673b1d06e
@@ -2730,7 +2730,7 @@ Version: 1.2.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.2.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.WeatherAndTime_1.2.0_iphoneos-arm.deb
 Size: 247960
 MD5sum: 7eb4d5259509e25cb358210178017b41
 SHA1: 2981230c5da94d99cb5b68c9d20a793acb53f9d0
@@ -2749,7 +2749,7 @@ Version: 1.2.1
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.WeatherAndTime_1.2.1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.WeatherAndTime_1.2.1_iphoneos-arm.deb
 Size: 248044
 MD5sum: efef59603c333b8b41f08797345b4ac8
 SHA1: 7236a0ae418f7be0d109586ba16c843af7977abd
@@ -2768,7 +2768,7 @@ Version: 1.2.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.WeatherNow+_1.2.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.WeatherNow+_1.2.0_iphoneos-arm.deb
 Size: 9902202
 MD5sum: 53011328a90b71ec683db75d0c4091fd
 SHA1: fa5136736c58019a8ea24881617e87890cb734bf
@@ -2787,7 +2787,7 @@ Version: 1.2.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.WeatherNowDark+_1.2.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.WeatherNowDark+_1.2.0_iphoneos-arm.deb
 Size: 8999022
 MD5sum: 7776bd91808b89a21b792490111f75f9
 SHA1: 195dcbfb420d47f372e88d4fa1585b0334759869
@@ -2806,7 +2806,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.WeatherNowDark_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.WeatherNowDark_1.0.0_iphoneos-arm.deb
 Size: 8998308
 MD5sum: 95dd890c93f4f11c1bc328175fdaec13
 SHA1: bbdbd77a3fe8c33c278c963dbb0c93d4c3af507e
@@ -2825,7 +2825,7 @@ Version: 1.1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.WeatherNowDark_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.WeatherNowDark_1.1.0_iphoneos-arm.deb
 Size: 8999004
 MD5sum: af6a777a454993c90cd9403832ab3133
 SHA1: 48c7026d051f9620a2ddf0acf1b4737c820f8372
@@ -2844,7 +2844,7 @@ Version: 1.2.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.WeatherNowDark_1.2.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.WeatherNowDark_1.2.0_iphoneos-arm.deb
 Size: 8998966
 MD5sum: 0e28419ff1895aa6b72f4a3032079bfb
 SHA1: fcdf35d458064adeea6323964881d21d73cfd745
@@ -2863,7 +2863,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.WeatherNow_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.WeatherNow_1.0.0_iphoneos-arm.deb
 Size: 9902192
 MD5sum: e9df3d255b656ae32e5a1a5324f71932
 SHA1: f6083c9e5d2fbe37c3bbd5c31e55ac7042a5d75b
@@ -2882,7 +2882,7 @@ Version: 1.1.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.WeatherNow_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.WeatherNow_1.1.0_iphoneos-arm.deb
 Size: 9902154
 MD5sum: ef8cf61846bf15ffebe433fabbbe9d3d
 SHA1: 170b8e6156dccf1689b3baf9f92713cd383d8bda
@@ -2901,7 +2901,7 @@ Version: 1.2.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.WeatherNow_1.2.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.WeatherNow_1.2.0_iphoneos-arm.deb
 Size: 9902186
 MD5sum: 6c55d94650f25b9ea4750fa06bd4d588
 SHA1: adc6cae84e08caa38334273ee752d1e87a675d9c
@@ -2920,7 +2920,7 @@ Version: 1.0.1~release
 Section: Tweaks
 Maintainer: Việt hoá by Trương Tam Phong <truongtamphong686@gmail.com>
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
-Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.0.1~release_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.XenHTMLVietNam_1.0.1~release_iphoneos-arm.deb
 Size: 2260084
 MD5sum: 4bbe54175e86775bea99a20c60d9f535
 SHA1: b9fa906f1f46dc84830ee4bc19337c0b690f0f01
@@ -2939,7 +2939,7 @@ Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
 Depends: firmware (>= 9.0), com.truongtamphong.xeninfovietnam, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
-Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1-7_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.XenHTMLVietNam_1.1-7_iphoneos-arm.deb
 Size: 2899844
 MD5sum: 66151dd053921ec04ad14c6252a18747
 SHA1: 65af26ff67e38328f499eb9f95ab19ef19318649
@@ -2959,7 +2959,7 @@ Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
 Depends: firmware (>= 9.0), com.truongtamphong.xeninfovietnam, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
-Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1-8_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.XenHTMLVietNam_1.1-8_iphoneos-arm.deb
 Size: 2850402
 MD5sum: fb062ea8d4936ea28107a9002267356c
 SHA1: 989f59ab47d83f192e696ae6982a90dae39e58d9
@@ -2979,7 +2979,7 @@ Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
 Depends: firmware (>= 9.0), com.truongtamphong.xeninfovietnam, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
-Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1.9_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.XenHTMLVietNam_1.1.9_iphoneos-arm.deb
 Size: 2850394
 MD5sum: c87b7d2a4179b058888ab56ba2a08f5d
 SHA1: 51a25dfd73ef242446cc5343602aca357be18842
@@ -2997,7 +2997,7 @@ Version: 1.1~beta2
 Section: Tweaks
 Maintainer: Việt hoá by Trương Tam Phong <truongtamphong686@gmail.com>
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
-Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1~beta2_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.XenHTMLVietNam_1.1~beta2_iphoneos-arm.deb
 Size: 2705996
 MD5sum: 965f449b731059bb6978387dc7ea7a4b
 SHA1: 7801c5fb081c2b69916a9a965b3c69b62e2cbcc6
@@ -3014,7 +3014,7 @@ Version: 1.1~beta4
 Section: Tweaks
 Maintainer: Việt hoá by Trương Tam Phong <truongtamphong686@gmail.com>
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.matchstic.libgithubissues, jp.ashikase.libpackageinfo, firmware (>= 12.4) | com.unlimapps.uaunbox
-Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1~beta4_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.XenHTMLVietNam_1.1~beta4_iphoneos-arm.deb
 Size: 2698364
 MD5sum: 417b28c74d4399af91fd0c10826278c7
 SHA1: 6852b2d50b38f81db8823cc4f2be885ec7706ebf
@@ -3033,7 +3033,7 @@ Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
-Filename: ./debfiles/com.TruongTamPhong.XenHtmlVietNam_2.0~beta3.3_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.XenHtmlVietNam_2.0~beta3.3_iphoneos-arm.deb
 Size: 6452540
 MD5sum: 14bc8310583b0f24d0dbf1f7803a80f1
 SHA1: c5d305e3642fbd07cc8264703a47e08bdf34f724
@@ -3053,7 +3053,7 @@ Version: 2.2.6
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debfiles/com.TruongTamPhong.XenInfoVietNam_2.2.6_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.XenInfoVietNam_2.2.6_iphoneos-arm.deb
 Size: 140644
 MD5sum: 2559ac247e6ea158193d35d9e01c01ec
 SHA1: 404ac9371bb6236f682c57256be60febb09310db
@@ -3072,7 +3072,7 @@ Version: 1.0.1
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.Ybht_1.0.1_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.Ybht_1.0.1_iphoneos-arm.deb
 Size: 44668
 MD5sum: d9772362cb825c0deb52e1e055b14941
 SHA1: ee1364d6ee18f62965e0f29ae7c1fc7d68b453dc
@@ -3091,7 +3091,7 @@ Version: 1.0.0
 Section: Tweaks
 Maintainer: SlyFabi
 Depends: mobilesubstrate, com.atwiiks.betterccxiweather
-Filename: ./debfiles/com.TruongTamPhong.bccxiweatherfix_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.TruongTamPhong.bccxiweatherfix_1.0.0_iphoneos-arm.deb
 Size: 4702
 MD5sum: 2b6b31c8ec5cbe69f3d5aec1a11b8fbe
 SHA1: 7706b8211082adcda73a65a6e4e0062f7cdb1c90
@@ -3110,7 +3110,7 @@ Priority: optional
 Section: System
 Maintainer: Matt Clarke <matt@incendo.ws>
 Depends: firmware (>= 8.0)
-Filename: ./debfiles/com.matchstic.libgithubissues_0.0.2_iphoneos-arm.deb
+Filename: ./debs/com.matchstic.libgithubissues_0.0.2_iphoneos-arm.deb
 Size: 1006664
 MD5sum: f877b365d0d11cd787b892bf8cc5b28a
 SHA1: 7c5e81fc14e784ca56045391d911394aae4e5fbf
@@ -3128,7 +3128,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.truongtamphong.cleanfunwhitered_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.truongtamphong.cleanfunwhitered_1.0.0_iphoneos-arm.deb
 Size: 407278
 MD5sum: 208eea51ad9dc7bfdfd258e23c326b73
 SHA1: 09eb7b0e2cc9e6d11920d643a86337687324c6da
@@ -3147,7 +3147,7 @@ Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.truongtamphong.ybht_1.0.0_iphoneos-arm.deb
+Filename: ./debs/com.truongtamphong.ybht_1.0.0_iphoneos-arm.deb
 Size: 44768
 MD5sum: b8825244b9a32559f5bad023ae25ff86
 SHA1: 408f87614fad9f856a6e6a0ef299945ff9124a62
