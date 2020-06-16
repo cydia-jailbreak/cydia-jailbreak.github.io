@@ -11,12 +11,12 @@
 }
 
 .link-item:hover {
-    border: 0px solid #fff;
+    border: 1px solid #ffffff;
     background-color: transparent;
 }
 
 html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
-    background-color: #fff;
+    background-color: #ffffff;
 }
 
 html.can-touch .link-item:active{ /* disable hover effect when input is touch */
