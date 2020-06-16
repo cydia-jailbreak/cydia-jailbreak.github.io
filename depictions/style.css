@@ -35,7 +35,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 }
 
 .container {
-    text-align: auto;
+    text-align: center;
     color: #333 !important;
     border-radius: 20px;
     height: auto;
