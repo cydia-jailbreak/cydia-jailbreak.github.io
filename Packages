@@ -1,0 +1,20 @@
+Package: com.TruongTamPhong.ActivatorVietNam
+Architecture: iphoneos-arm
+Version: 1.9.13~beta11
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~beta7), com.rpetrich.rocketbootstrap (>= 1.0.9)
+Filename: ./Debsfile/com.TruongTamPhong.ActivatorVietNam_1.9.13~beta11_iphoneos-arm.deb
+Size: 1156432
+MD5sum: 4790f3fbe5043455207787b669f25113
+SHA1: 9eb6127de09dfbda02590f91e0d9786a8a724c61
+SHA256: 135c54aed49687596f05ea48c101ebaf9d6331e04bf2ac914c3871c2ef133235
+SHA512: aa3ccf7de57b21e5329c8adebd7e3355b902711328a0b1f354c253d4ece7315dc09a0be11ad6cbff72f1a463daa6cec3c6d720fc461a0f02ed6484fa510ba0a3
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Centralized gestures, button and shortcut management for iOS
+Name: Activator Việt Nam
+Author: Ryan Petrich
+Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ActivatorVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ActivatorVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
