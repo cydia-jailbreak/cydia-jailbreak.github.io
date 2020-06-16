@@ -22,5 +22,10 @@
 		<change>Đã thêm hỗ trợ cho chế độ tối trên iOS 13.</change>
         <change>Đã sửa lỗi bố cục trên iOS 13.</change>
 	</changelog>
-	<links></links>
+	<links>		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links></links>
 </package>
