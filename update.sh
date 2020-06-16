@@ -5,7 +5,7 @@ if [[ -e compatity.txt ]]; then
     compatity=$(cat compatity.txt)
 fi
 
-for i in debs/*.deb
+for i in Debfiles/*.deb
 do
    debInfo=`dpkg -f $i`
    pkg=`echo "$debInfo" | grep "Package: " | cut -c 10- | tr -d "\n\r"`
@@ -50,7 +50,7 @@ echo "{}]" >> all.pkgs
 }
 echo "------------------"
 echo "Building Packages...."
-apt-ftparchive packages ./debs > ./Packages;
+apt-ftparchive packages ./Debfiles > ./Packages;
 #sed -i -e '/^SHA/d' ./Packages;
 bzip2 -c9k ./Packages > ./Packages.bz2;
 echo "------------------"
