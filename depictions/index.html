@@ -6,11 +6,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="Scripts/Css/Style.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-  <script type="text/javascript" src="js/jquery.querystring.js"></script>
-  <script type="text/javascript" src="js/data-loader-engine.js"></script>
-  <script type="text/javascript" src="js/ios_version_check.js"></script>
+  <script type="text/javascript" src="Scripts/Js/jquery.querystring.js"></script>
+  <script type="text/javascript" src="Scripts/Js/data-loader-engine.js"></script>
+  <script type="text/javascript" src="Scripts/Js/ios_version_check.js"></script>
   <style>
 	@media (max-width: 767px) {
 		body{background:#ffffff!important;margin:0;padding:0;border:0;outline:0;box-sizing:border-box}html{background:#ffffff}body{font:13px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;margin:0px 0 35px 0;border-radius:10px;cursor:default;-webkit-user-select:none}
@@ -221,7 +221,7 @@
             }
     }
     $( document ).ready(function() {
-        $.ajax({type: "GET", dataType: "xml",url : ("../depictions/repo.xml"),cache: false,
+        $.ajax({type: "GET", dataType: "xml",url : ("../depictions/Scripts/Xml/Repo.xml"),cache: false,
             success : function(xml){
 				      data_loader_engine(repoContents,xml);
               setAnchorTargets();
