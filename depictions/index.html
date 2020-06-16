@@ -221,7 +221,7 @@
             }
     }
     $( document ).ready(function() {
-        $.ajax({type: "GET", dataType: "xml",url : ("../Repo.xml"),cache: false,
+        $.ajax({type: "GET", dataType: "xml",url : ("../depictions/repo.xml"),cache: false,
             success : function(xml){
 				      data_loader_engine(repoContents,xml);
               setAnchorTargets();
@@ -239,7 +239,7 @@
 
 <div id="contactInfo">
 	<div class="container">
-		<h5>LIÊN HỆ</h5>
+		<h5>HỖ TRỢ</h5>
 		<ul class="list-group" id="repoFooterLinks">
 		</ul>
 	</div>
