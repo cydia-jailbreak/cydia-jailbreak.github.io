@@ -1489,17 +1489,17 @@ Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.MusicAndWeatherDark_1.0.8-1_iphoneos-arm.deb
-Size: 14335500
-MD5sum: 0a30ae7962f20600220498c3fd1b7350
-SHA1: 96c71c59d17f9a7505ccee979728a9feba7c515b
-SHA256: 33f00f4ae791559143d5ffa0481af01075d0b495844a144c759d3d0810a2387a
-SHA512: 768147de8329fdbfcd6d208b69326f71304c11fe9da940802650d25b3c08a18cfb46348baa000c952ca754ebe27637585b8da67d914b5fcdc5b4ab767e15ad80
+Size: 14335498
+MD5sum: 8f496a8f959ae4b3f71e6c6c85529e3f
+SHA1: 1f840a6a5c94b1db4ef860211428fdeff02f153c
+SHA256: 5505bb6bb98cb8c5c7b802f7b9df21324a50d8c5d2961a7ae8dcc0f3ec529b99
+SHA512: 34388e232bddd60490b72e46b570ee0eedffcb0885632385b9f49f5ceafaa5ba182c338ea2ac1b04f3218385f2be770fd62e5fa4c2eaa4f4533f52c18ee53904
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Music & Weather Dark
 Author: Ata Ra Shi & TTP
-Depiction: http://cydia-jailbreak.github.io/description?id=com.TruongTamPhong.MusicAndWeatherDark
-SileoDepiction: http://cydia-jailbreak.github.io/description?id=com.TruongTamPhong.MusicAndWeatherDark
+Depiction: http://cydia-jailbreak.github.io/décription?p=com.TruongTamPhong.MusicAndWeatherDark
+SileoDepiction: http://cydia-jailbreak.github.io/décription?p=com.TruongTamPhong.MusicAndWeatherDark
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.MusicAndWeatherDark
@@ -1509,17 +1509,17 @@ Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.MusicAndWeatherDark_1.0.8-3_iphoneos-arm.deb
-Size: 14335500
-MD5sum: 025b9ebe1b898323ab4316832b63b5b0
-SHA1: b47e1c1a361cdc3d1c599a7c4f67deb4e02ce855
-SHA256: a1cb7644b6d74fa98a2c86b7eba45659c4cc2ae470deee5afef80dc339e0a501
-SHA512: 81e6aee34daca3abd073fa8fb51d5d6b7dd25583f8319ab969991a5172eecfde60308f12d804b7b6e58df89100555b92a36702b778dd7cc1dcd562dcf6ee15fa
+Size: 14335492
+MD5sum: b01fe53ef75dbf174bac8b33b88da60e
+SHA1: abedcdc5c425da23b7705c24d23d17e456adeedb
+SHA256: 5c9a88faa3b8c33f9bc84c0c5e9f6b52d8640019886f7cfb2a022fc6bfe6cd5c
+SHA512: f265f42f742ddff5517eab0c10624bd57268c1dff1ef350909ce9e9052af83773f792911ca8d3993861cd1638fd5027b7603beb9acb8ef0f0d76f7691e4fea79
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Music & Weather Dark
 Author: Ata Ra Shi & TTP
-Depiction: http://cydia-jailbreak.github.io/description?id=com.TruongTamPhong.MusicAndWeatherDark
-SileoDepiction: http://cydia-jailbreak.github.io/description?id=com.TruongTamPhong.MusicAndWeatherDark
+Depiction: http://cydia-jailbreak.github.io/description?p=com.TruongTamPhong.MusicAndWeatherDark
+SileoDepiction: http://cydia-jailbreak.github.io/description?p=com.TruongTamPhong.MusicAndWeatherDark
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.MyName
