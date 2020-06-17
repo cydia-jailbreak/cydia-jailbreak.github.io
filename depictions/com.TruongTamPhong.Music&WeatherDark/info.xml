@@ -1,0 +1,27 @@
+<package>
+	<id>com.TruongTamPhong.MusicAndWeatherDark</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.8-3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tiện ích này hiển thị thời tiết cùng âm nhạc, hoạt động trong tinh chỉnh của Xen HTML. Phù hợp với Màn hình chính của bạn</description>
+		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
+	</descriptionlist>
+	<changelog>
+<change>Sửa lỗi nhảy 2 hàng chữ phần văn bản thời tiết</change>
+<change>Hoạt động bình thường trên iPhone Xr, Xs Max và Pro Max. Các dòng khác sẽ bị lệch :((</change>
+	</changelog>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>MusicAndWeather.png</image>
+        </screenshot>	
+    </screenshots>
+	<links></links>
+</package>
