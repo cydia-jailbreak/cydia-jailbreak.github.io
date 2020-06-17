@@ -1443,6 +1443,26 @@ Author: TTP + Hà Tía Tô + Kim Chậm
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Luxury
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
+Package: com.TruongTamPhong.LynxVietNam
+Architecture: iphoneos-arm
+Version: 1.5-2
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Filename: ./debfiles/com.TruongTamPhong.LynxVietNam_1.5-2_iphoneos-arm.deb
+Size: 747230
+MD5sum: 7e54425814c177797ddd8f16440cd713
+SHA1: 7f6e32dee9caefeb2ac581fae128b9b0c25160d6
+SHA256: d6bd00252acea225143c7e88a8008d842e62396e9b45576976ef8cd6823c3049
+SHA512: a49cdc50f94f9867d5727bd353be6ea9aab2c25d6a6df5d180f1be19c7c94d1d482ff1210811357441929f784d7c7c720a8b9ddadae63e022c7ee0d6f8964fdb
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Tùy biến ẩn các loại cho hệ thống
+Name: Lynx Việt Nam
+Author: MTAC
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LynxVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LynxVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.MainLed
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -3084,24 +3104,6 @@ Name: Ybht
 Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ybht
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
-Package: com.TruongTamPhong.bccxiweatherfix
-Architecture: iphoneos-arm
-Version: 1.0.2
-Section: Tweaks
-Maintainer: SlyFabi
-Depends: mobilesubstrate, com.atwiiks.betterccxiweather
-Filename: ./debfiles/com.TruongTamPhong.bccxiweatherfix_1.0.2_iphoneos-arm.deb
-Size: 4702
-MD5sum: 36a139c7a44ac511105aaf37941b656e
-SHA1: 3ea0fa9c0e7ba750902cd2b73c50e2f2a403ea1f
-SHA256: 52547fa1aef041d9cdf534f05a25cab23d8bfade352d36907ca0c654060aab6c
-SHA512: 0215c0f966b1b9e968ee36e7b067dfa46b917e7a4c2b1e3389a697f60f070e88d5a556b0a8cdbbd93e489f293f3989f0587f41e652d801880bad9ca1f35d09cc
-Description: Fixes the broken look of BetterCCXI Weather Addon on iOS 13.
-Name: BetterCCXIWeatherFix
-Author: SlyFabi
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.bccxiweatherfix
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.matchstic.libgithubissues
 Architecture: iphoneos-arm

@@ -1,0 +1,32 @@
+<package>
+	<id>com.TruongTamPhong.</id>
+	<name>Trương Tam Phong</name>
+	<version>1.5-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+                         <maxiOS>13.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tinh chỉnh này ẩn mọi thứ cho toàn hệ thống và ứng dụng bên thứ ba. Và nhiều chức năng tuyệt vời khác</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <image>Lynx.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+<change>Thêm Định dạng thời gian ngày tháng cho Màn hình khoá, thanh trạng thái và tin nhắn </change>
+<change>Thêm Vô hiệu hoá xoay ngang tại màn hình chính trong mục Toàn hệ thống</change>
+<change>Thêm Dùng ngày tháng thay cho tên mạng trong mục Thanh trạng thái </change>
+<change>Thêm Sử dụng mô-đun tối cho các nút trong mục Trung tâm điều khiển</change>
+<change>Thêm Vô hiệu hoá vuốt xuống để tìm kiếm trong mục Trang hôm nay</change>
+<change>Thêm Hiển thị thời gian chính xác ở Cuộc trò chuyện trong mục Tin nhắn</change>
+<change>Thêm định dạng 12h và 24h cho Hiện thời gian tất cả các cuộc gọi trong mục Điện Thoại</change>
+<change>Thêm Ẩn Tweeks được quảng cáo trong mục Twitter</change>
+<change>Loại bỏ một số mục không cần thiết trong Lynx</change>
+	</changelog>
+</package>
