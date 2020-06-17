@@ -13,12 +13,6 @@
 	<descriptionlist>
 		<description>Tinh chỉnh này ẩn mọi thứ cho toàn hệ thống, ứng dụng bên thứ ba. Và thêm nhiều chức năng tuyệt vời khác</description>
 	</descriptionlist>
-<screenshots>
-        <screenshot>
-            <description></description>
-            <image>lynx.png</image>
-        </screenshot>	
-    </screenshots>
 	<changelog>
 <change>Thêm Định dạng thời gian ngày tháng cho Màn hình khoá, thanh trạng thái và tin nhắn </change>
 <change>Thêm Vô hiệu hoá xoay ngang tại màn hình chính trong mục Toàn hệ thống</change>
@@ -30,5 +24,11 @@
 <change>Thêm Ẩn Tweeks được quảng cáo trong mục Twitter</change>
 <change>Loại bỏ một số mục không cần thiết trong Lynx</change>
 	</changelog>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>lynx.png</image>
+        </screenshot>	
+    </screenshots>
 	<links></links>
 </package>
