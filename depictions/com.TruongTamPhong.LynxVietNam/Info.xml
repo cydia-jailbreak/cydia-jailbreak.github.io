@@ -1,6 +1,6 @@
 <package>
-	<id>com.TruongTamPhong.LynxVietNam</id>
-	<name>Trương Tam Phong</name>
+	<id>com.TruongTamPhong.LynxVietNam_1.5-2_iphoneos-arm</id>
+	<name>Lynx Việt Nam</name>
 	<version>1.5-2</version>
 	<compatibility>
 		<firmware>
@@ -16,7 +16,7 @@
 <screenshots>
         <screenshot>
             <description></description>
-            <image>Lynx.png</image>
+            <image>lynx.png</image>
         </screenshot>	
     </screenshots>
 	<changelog>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Screenshots</title>
+  <title>Hình ảnh</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -49,7 +49,7 @@
         $.ajax({
             type    : "GET",
             dataType: "xml",
-            url     : (bundleid+"/info.xml"),
+            url     : (bundleid+"/Info.xml"),
             success : function(xml){
 				document.title = $(xml).find("package>name").text();
             	data_loader_engine(contentBlocks,xml)
@@ -69,7 +69,7 @@
 
 <div id="packageInformation">
 	<div class="container">
-		<h5>SCREENSHOTS</h5>
+		<h5>HÌNH ẢNH</h5>
 		<ul id="screenshotsList" class="list-group">
 		</ul>
 	</div>
@@ -104,7 +104,7 @@
 			}
 	}
     $( document ).ready(function() {
-        $.ajax({type: "GET", dataType: "xml",url : ("../repo.xml"),cache: false,
+        $.ajax({type: "GET", dataType: "xml",url : ("../depictions/Scripts/Xml/Repo.xml"),cache: false,
             success : function(xml){
 				data_loader_engine(repoContents,xml);
 				if (navigator.userAgent.search(/Cydia/) != -1) {
@@ -124,7 +124,7 @@
 
 <div id="contactInfo">
 	<div class="container">
-		<h5>CONTACT</h5>
+		<h5>LIÊN HỆ</h5>
 		<ul class="list-group" id="repoFooterLinks">
 		</ul>
 	</div>
