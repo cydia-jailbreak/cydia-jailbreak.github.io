@@ -1522,26 +1522,6 @@ Depiction: http://cydia-jailbreak.github.io/description?id=com.TruongTamPhong.Mu
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Music&WeatherDark
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
-Package: com.TruongTamPhong.MusicAndWeatherDark
-Architecture: iphoneos-arm
-Version: 1.0.8
-Section: Widget tĩnh
-Maintainer: Apple Cydia Và Jailbreak
-Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.MusicAndWeatherDark_1.0.8_iphoneos-arm.deb
-Size: 14335552
-MD5sum: 9799f9d549368f50ee42010a160e5ae1
-SHA1: 22402837bd70098186039a9f068a77dc0d0ed28a
-SHA256: bfd3f3f2def297c37c2f7207d2d9a5dfe0660e75113142051d49b67b2cf6535e
-SHA512: dcd2e99595bb97ebafbbb40ee0622905a672dde16a6982345e0312b18a6ca87cff4c9b590d73eea74e7f576f95a5066bce1ac1ba1e93c0ca3705f37420d75173
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Widget dành cho Xen HTML. Xem hình srnh để biết thêm chi tiết.
-Name: Music & Weather Dark
-Author: Ata Ra Shi & TTP
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Music&WeatherDark
-SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Music&WeatherDark
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
 Package: com.TruongTamPhong.MyName
 Architecture: iphoneos-arm
 Version: 2.0.1
