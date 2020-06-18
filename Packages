@@ -2931,6 +2931,25 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNow
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.WidgetWeatherVietNam
+Architecture: iphoneos-arm
+Version: 3.6-1
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: firmware (>= 10.0), preferenceloader
+Filename: ./debfiles/com.TruongTamPhong.WidgetWeatherVietNam_3.6-1_iphoneos-arm.deb
+Size: 5305260
+MD5sum: 9df58ed2378c6a07870d8bf3cf63b587
+SHA1: f238e0359d44b0077b34dff786aacc67ac004d74
+SHA256: c7be3a86ba859ef7f7e714ba6d9ccc050a1f0a76fe24e54c5e9cda692a970e7b
+SHA512: a683b6e59c0988d52de4b774e5a12125a9c798f836d916336cb67e70ea35507e0b8530e5f2eef409e3b8bb5852f4f043e7dfd7a4bac9ede01f817d25ed499d15
+Description: Trợ giúp cho các Widget thời tiết! Hỗ trợ A12
+Name: Widget Weather Việt Nam
+Author: SDDev & WW Team
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.WidgetWeatherVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.WidgetWeatherVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.XenHTMLVietNam
 Architecture: iphoneos-arm
 Version: 1.0.1~release

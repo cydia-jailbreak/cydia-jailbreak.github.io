@@ -1,0 +1,7 @@
+<changelog>
+    <changes>
+        <version>3.6-1</version>
+		<change>Đã tương thích A12 (XR, XS, XSMAX) </change>
+        <change>Nếu không hoạt động trên A7 - A11, hãy sử dụng Widget Weather 3.5</change>
+    </changes>
+</changelog>
