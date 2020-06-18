@@ -37,7 +37,7 @@
 							.text($(data).find('description').text())
 						)
 						th.append($("<img>")
-							.attr("src",bundleid+'/Screenshots/'+$(data).find('image').text())
+							.attr("src",bundleid+'/screenshots/'+$(data).find('image').text())
 						)
 						$(element).append(th);
 					});
@@ -49,7 +49,7 @@
         $.ajax({
             type    : "GET",
             dataType: "xml",
-            url     : (bundleid+"/Info.xml"),
+            url     : (bundleid+"/info.xml"),
             success : function(xml){
 				document.title = $(xml).find("package>name").text();
             	data_loader_engine(contentBlocks,xml)
