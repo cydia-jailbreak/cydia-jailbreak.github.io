@@ -1,0 +1,30 @@
+<package>
+	<id>com.TruongTamPhong.ActivatorVietNam</id>
+	<name>Trương Tam Phong</name>
+	<version>1.9.13~rc3-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tinh chỉnh này có thể gán mọi hành động của bạn để thực hiện các chức năng bạn mong muốn</description>
+		<description>Ví dụ: chọn Tất cả mọi nơi (gồm màn hình khoá, màn hình chính và trog ứng dụng)/Vuốt cạnh phải màn hình/Vuốt từ trên xuống/chọn Nút nguồn (giả lập). Cài xong như vậy khi vuốt từ trên xuống ở cạnh phải màn hình ở mọi nơi thì điện thoại của bạn sẽ tắt màn hình</description>
+		<description>Mọi hành động khác có thể thiết lập tuỳ ý trong cài đặt</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>Activator.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Thêm hành động Xóa thông tin xác thực vô hiệu hóa Touch ID và Face ID cho đến khi mở khóa mật mã tiếp theo</change>
+        <change>Khắc phục giảm âm lượng + nút siri trên iOS 13 cho các thiết bị không có nút home</change>
+		<change>Hỗ trợ gửi hành động qua trình kích hoạt:// gửi / trên iOS 12+</change>
+	</changelog>
+	<links></links>
+</package>
