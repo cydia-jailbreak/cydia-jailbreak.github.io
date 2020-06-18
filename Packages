@@ -886,6 +886,26 @@ Author: AppleBetas
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DoubleTapToWake
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.FlipSwitch
+Architecture: iphoneos-arm
+Version: 1.0.16~rc3
+Section: System
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.FlipSwitch_1.0.16~rc3_iphoneos-arm.deb
+Size: 478124
+MD5sum: 409a3b2676ea441f0d754df1f79422cc
+SHA1: b979b9c7b64f9f6ff33b00f50bfd3e3393e89c20
+SHA256: e18ccd16af652d59cc4f1b2c16b3829df88f48c42523d008ff387b20110c48c8
+SHA512: 16bf55d00be3dfd89faf1c6b765689e39262356545157239fc7e40a9921fefc261088a5f483b588d782d22000de139ce25a43b1a68075a0260d0e12e53dffbe5
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Hệ thống chuyển đổi tập trung cho iOS
+Name: FlipSwitch
+Author: rpetrich
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FlipSwitch
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FlipSwitch
+Icon: file:///Applications/Cydia.app/Sections/System1.png
+
 Package: kr.xsf1re.flyjb
 Architecture: iphoneos-arm
 Version: 0.2~beta36

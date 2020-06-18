@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.ActivatorVietNam</id>
 	<name>Trương Tam Phong</name>
-	<version>1.9.13 RC 6</version>
+	<version>1.9.13~rc6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
