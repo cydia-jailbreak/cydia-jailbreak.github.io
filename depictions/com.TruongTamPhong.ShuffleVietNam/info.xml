@@ -1,0 +1,28 @@
+<package>
+	<id>com.TruongTamPhong.ShuffleVietNam</id>
+	<name>Trương Tam Phong</name>
+	<version>1.2.9</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tạo mục chứa riêng trong cài đặt nhằm mục đích thu gọn các tinh chỉnh và các ứng dụng</description>
+		<description>Mục chứa bao gồm Tinh chỉnh, Ứng dụng tải về và Ứng dụng hệ thống</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>ShuffleVietNam.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Thêm tùy chọn Bo tròn các góc cho các nhóm trong bảng hiển thị</change>
+        <change>Thêm tuỳ chọn Vị trí mục chứa sẽ di chuyển lên cao khi giá trị số nhỏ đi và ngược lại</change>
+	</changelog>
+	<links></links>
+</package>
