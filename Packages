@@ -1462,6 +1462,22 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.LgClock
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.LibSkittyColor
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: System
+Maintainer: Apple Cydia Và Jailbreak
+Filename: ./debfiles/com.TruongTamPhong.LibSkittyColor_1.0.0_iphoneos-arm.deb
+Size: 49132
+MD5sum: 1f1f38f1f5494f7e2e84fce5f1f65939
+SHA1: a2568111eaabc701f9ef1c4e92bb7840a1e78c90
+SHA256: e8f7d56990c38c29df9f3579e519367e010363c30bddd4601385545e8ca34479
+SHA512: 00e6ee39ec2d28f7947a24de57a788859acadb5c57cbf54e8ba335ecea0be3b1154d51dbe1c905f72fb68648430c368ece8c70326697cf6b38b28b70df158a98
+Description: Một thực hiện chọn màu đơn giản.
+Name: LibSkittyColor
+Author: Skitty
+Icon: file:///Applications/Cydia.app/Sections/System1.png
+
 Package: com.TruongTamPhong.Luxury
 Architecture: iphoneos-arm
 Version: 2.1.0
@@ -2227,6 +2243,25 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SpaceXSPro
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SpaceXSPro
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.SpectrumVietNam
+Architecture: iphoneos-arm
+Version: 1.0.1-1
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate, com.TruongTamPhong.LibSkittyColor, firmware (>= 13.0)
+Filename: ./debfiles/com.TruongTamPhong.SpectrumVietNam_1.0.1-1_iphoneos-arm.deb
+Size: 72296
+MD5sum: f48d1fdf0f0699e7122c8e3228595a99
+SHA1: bd579bb9d56122fc5453a510965967be0841d43f
+SHA256: 7473213473c6e49cab8f916b45804602eab04b95e43173fd28cd317134759cd8
+SHA512: a2ae63b35d49e2e0f5e14c726dbae359dfc0a91ddeeb77a058ea5f4c3ec83840e66ec26fa5d5d33b1749a7546263a0470d36eb9834ec6619d0faacffdd7b2b92
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Tùy chỉnh màu sắc hệ thống!
+Name: Spectrum Việt Nam
+Author: Skitty & EvenDev
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.SpectrumVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.SpectrumVietNam
 
 Package: com.TruongTamPhong.StartNotch
 Architecture: iphoneos-arm

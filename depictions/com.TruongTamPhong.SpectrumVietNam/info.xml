@@ -1,0 +1,27 @@
+<package>
+	<id>com.TruongTamPhong.SpectrumVietNam</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Spectrum là một tùy biến màu hệ thống cho iOS 13</description>
+		<description>Cho phép bạn thay đổi màu Xanh UI trong tất cả các ứng dụng Đổi màu riêng biệt cho chế độ sáng và tối</description>
+		<description>Có thể đổi màu riêng biệt cho chế độ sáng và tối</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>Spectrum.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Thêm tô màu cho huy hiệu và nút</change>
+	</changelog>
+	<links></links>
+</package>
