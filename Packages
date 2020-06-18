@@ -70,19 +70,19 @@ Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.TruongT
 Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
 Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
 Filename: ./debfiles/com.TruongTamPhong.ActivatorVietNam_1.9.13~rc5_iphoneos-arm.deb
-Size: 1209958
-MD5sum: e90348e891e4c56ee93514cf3358c789
-SHA1: 72aa0846874a8d0516100017c30f3237828a9a32
-SHA256: d8fafe589a77083f15a43a170975c803ceaae113747e725191383fbb70ee21b0
-SHA512: 9fdd4dac0c2cf5b17ca5916b930d9415760835c36ca5f54fc557f28d13af061747173b6986367c3dbc1399a6abb24e19fe65447dc6fcb77a14f682daf3cc94e3
+Size: 1209966
+MD5sum: 8ab354b41c8fc5151e90e37e02a3df66
+SHA1: 86741d62b6e1037c64d559d764e6d0b2ca662e97
+SHA256: 72cde9991bf42421064af5d527d4cc671471f014234cddc0aaa425bf4a92c3d7
+SHA512: 34e734a73421cc527814a75ed039d8b18f024375261820ff003d8eb0746546819dbb7000b949e74e22062dd97640c549faf0c3fd541c82912511ecf8ebaf83d8
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Cử chỉ tập trung, quản lý nút và phím tắt cho iOS
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 Name: Activator Việt Nam
 Author: Ryan Petrich
-Depiction: http://cydia-jailbreak.github.io/depictions.html?id=com.TruongTamPhong.ActivatorVietNam
-SileoDepiction: http://cydia-jailbreak.github.io/depictions.html?id=com.TruongTamPhong.ActivatorVietNam
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ActivatorVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ActivatorVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.ActivatorVietNam
@@ -96,18 +96,18 @@ Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6)
 Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
 Filename: ./debfiles/com.TruongTamPhong.ActivatorVietNam_1.9.13~rc6_iphoneos-arm.deb
 Size: 1216788
-MD5sum: e3d5dcfeb5c278bc5a6f83c049b2c554
-SHA1: 14b07d5e4014524da3a7ea998bb6c10b6daa84ab
-SHA256: 41fe0c39876cb42e8101a9e1f2e87160f8452ed7c7ab2d10319a626ca6970139
-SHA512: c4a82b4eb38a29542b6a4fc08f23a492f76c2497dc70395f8cde2eb4c5d8f245589c0b8c6cf85214db6f9a149aedeac511a670406557c8408ccff4946a47988e
+MD5sum: 5646534289ecddabc133231414243836
+SHA1: c10ec5af9816f83c6941376928e7c41106bdabdb
+SHA256: dc64a9acdae764013dbe4c4ac79a5c09242c93c9595dc2ee57402bb6af2fa74a
+SHA512: a15744fbdf86ae49d0c2faf1c9fcba5e67a63af6a7a456ff4182157d146e25dec40c91786562db63476a8a2a4a2103dc751a841c8576ce1e0144a46edb3d4a71
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Cử chỉ tập trung, quản lý nút và phím tắt cho iOS
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 Name: Activator Việt Nam
 Author: Ryan Petrich
-Depiction: http://cydia-jailbreak.github.io/depictions.html?id=com.TruongTamPhong.ActivatorVietNam
-SileoDepiction: http://cydia-jailbreak.github.io/depictions.html?id=com.TruongTamPhong.ActivatorVietNam
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ActivatorVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ActivatorVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.AmLichVaDanhNgon
