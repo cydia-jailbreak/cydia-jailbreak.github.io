@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.ThuPhap</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.5</version>
+	<version>1.1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -17,7 +17,7 @@
 		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
 	</descriptionlist>
 	<changelog>
-<change>Thêm chỉnh cỡ phông</change>
+<change>Thêm tuỳ chỉnh văn bản</change>
 	</changelog>
 <screenshots>
         <screenshot>
