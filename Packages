@@ -430,6 +430,24 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BorderV1
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.Bubble13
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Fonts
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Bubble13_1.0.0_iphoneos-arm.deb
+Size: 29383296
+MD5sum: 617cef23ad19599611f60f6ddaa369a9
+SHA1: 23ae51979f11d47ab474402fee3f55ca5aece6a1
+SHA256: 7a1e59b5c8c244dce93cfb74303828c329d1e4f4c256044d6e7e8e7f5e883519
+SHA512: 4e06274b28babf5af7329fcbf699f4d032a10160071aa4fd7d4285702e37b1817b41d2d58c34ae3546db32e297df9619a00b06bc422bacc9aa27c108b4449caa
+Description: Gói Font chữ dành cho SnowBoard và iThemer
+Name: Bubble (iOS13)
+Author: Alex
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Bubble13
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Bubble13
+
 Package: com.TruongTamPhong.CalendaText
 Architecture: iphoneos-arm
 Version: 1.0.0
