@@ -17,51 +17,6 @@ Icon: file:///Applications/Cydia.app/Sections/System1.png
 
 Package: com.TruongTamPhong.ActivatorVietNam
 Architecture: iphoneos-arm
-Version: 1.9.13~beta11
-Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak
-Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~beta7), com.rpetrich.rocketbootstrap (>= 1.0.9)
-Filename: ./debfiles/com.TruongTamPhong.ActivatorVietNam_1.9.13~beta11_iphoneos-arm.deb
-Size: 1156432
-MD5sum: 4790f3fbe5043455207787b669f25113
-SHA1: 9eb6127de09dfbda02590f91e0d9786a8a724c61
-SHA256: 135c54aed49687596f05ea48c101ebaf9d6331e04bf2ac914c3871c2ef133235
-SHA512: aa3ccf7de57b21e5329c8adebd7e3355b902711328a0b1f354c253d4ece7315dc09a0be11ad6cbff72f1a463daa6cec3c6d720fc461a0f02ed6484fa510ba0a3
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Centralized gestures, button and shortcut management for iOS
-Name: Activator Việt Nam
-Author: Ryan Petrich
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ActivatorVietNam
-SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ActivatorVietNam
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
-Package: com.TruongTamPhong.ActivatorVietNam
-Architecture: iphoneos-arm
-Version: 1.9.13~rc3-1
-Priority: optional
-Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak
-Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~rc1), com.rpetrich.rocketbootstrap (>= 1.0.9), com.a3tweaks.flipswitch
-Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
-Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
-Filename: ./debfiles/com.TruongTamPhong.ActivatorVietNam_1.9.13~rc3-1_iphoneos-arm.deb
-Size: 1202502
-MD5sum: 659e29d1fea6d600d4171c767ce82973
-SHA1: 50f67245fd059c0f7076ae705930c4ea728d696a
-SHA256: 006f217cb6d2faf821acd9a69a6fde9fe4fc2b81910c2791e364b2ac705c7488
-SHA512: 661da4b3c67f5458f8efd12e8ac84c262cfd7c43d48d3301d45640424fdad51c842b0c050c676c23405e15e2a568a15291d80c387d5116824a632ee440cf5199
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Cử chỉ tập trung, quản lý nút và phím tắt cho iOS
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
-Name: Activator Việt Nam
-Author: Ryan Petrich
-Depiction: http://cydia-jailbreak.github.io/depictions?id=com.TruongTamPhong.ActivatorVietNam
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?id=com.TruongTamPhong.ActivatorVietNam
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
-Package: com.TruongTamPhong.ActivatorVietNam
-Architecture: iphoneos-arm
 Version: 1.9.13~rc5
 Priority: optional
 Section: Tweaks

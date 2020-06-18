@@ -11,6 +11,6 @@
         <version>1.9.13 RC 5</version>
 		<change>Thêm hành động Xóa thông tin xác thực vô hiệu hóa Touch ID và Face ID cho đến khi mở khóa mật mã tiếp theo</change>
         <change>Khắc phục giảm âm lượng + nút nguồn trên iOS 13 cho các thiết bị không có nút home</change>
-		<change>Hỗ trợ thêm hành động qua trình kích hoạt:// gửi / trên iOS 12+</change>
+		<change>Hỗ trợ thêm hành động 'Gửi' qua trình kích hoạt trên iOS 12+</change>
     </changes>
 </changelog>
