@@ -16,7 +16,7 @@
 		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
 	</descriptionlist>
 	<changelog>
-<change>Sửa lỗi nhảy 2 hàng chữ phần văn bản thời tiết</change>
+<change>Sửa lỗi nhảy chữ xuống hàng phần văn bản thời tiết</change>
 	</changelog>
 <screenshots>
         <screenshot>

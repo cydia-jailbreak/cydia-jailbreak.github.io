@@ -1,0 +1,29 @@
+<package>
+	<id>com.TruongTamPhong.Infinity</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+                         <maxiOS>14.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tiện ích hiển thị thời tiết, đồng hồ, pin và lịch âm dương</description>
+		<description>Hoạt động trên Màn hình chính và Màn hình khoá</description>
+		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
+	</descriptionlist>
+	<changelog>
+<change>Sửa lỗi nhảy chữ xuống hàng phần lịch Dương</change>
+<change>Thêm định dạng thời gian 12h và 24h cùng 16 gói biểu tượng thời tiết (thay đổi trong cài đặt tiện ích)</change>
+	</changelog>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>Intinify.png</image>
+        </screenshot>	
+    </screenshots>
+	<links></links>
+</package>

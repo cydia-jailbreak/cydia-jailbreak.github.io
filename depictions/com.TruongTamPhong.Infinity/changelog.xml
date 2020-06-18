@@ -1,0 +1,7 @@
+<changelog>
+    <changes>
+        <version>1.0.2</version>
+<change>Sửa lỗi nhảy chữ xuống hàng phần lịch Dương</change>
+<change>Thêm định dạng thời gian 12h và 24h cùng 16 gói biểu tượng thời tiết (thay đổi trong cài đặt tiện ích)</change>
+    </changes>
+</changelog>
