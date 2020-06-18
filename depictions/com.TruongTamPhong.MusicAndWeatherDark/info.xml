@@ -5,17 +5,18 @@
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
+                         <maxiOS>14.0</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Tiện ích này hiển thị thời tiết cùng âm nhạc, hoạt động trong tinh chỉnh của Xen HTML. Phù hợp với Màn hình chính của bạn</description>
+		<description>Tiện ích hiển thị thời tiết cùng âm nhạc trên Màn hình chính</description>
+		<description>Hoạt động bình thường trên iPhone Xr, Xs Max và Pro Max. Các dòng khác sẽ bị lệch</description>
 		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
 	</descriptionlist>
 	<changelog>
 <change>Sửa lỗi nhảy 2 hàng chữ phần văn bản thời tiết</change>
-<change>Hoạt động bình thường trên iPhone Xr, Xs Max và Pro Max. Các dòng khác sẽ bị lệch</change>
 	</changelog>
 <screenshots>
         <screenshot>
