@@ -72,7 +72,7 @@
 					// create screenshots link
 					$("#descriptionList").append(
 						$("<a class='link-item list-group-item'>")
-							.attr("href","Screenshots.html?p="+bundleid)
+							.attr("href","screenshots.html?p="+bundleid)
 							.text("Hình ảnh")
 					);
 				}
@@ -96,7 +96,7 @@
                     // create changelog link
                     $("#changesList").append(
                         $("<a class='link-item list-group-item'>")
-                            .attr("href","Changelog.html?p="+bundleid)
+                            .attr("href","changelog.html?p="+bundleid)
                             .text("Nhật ký cập nhật")
                     );
                 }
@@ -137,7 +137,7 @@
         $.ajax({
             type    : "GET",
             dataType: "xml",
-            url     : (bundleid+"/info.xml"),
+            url     : (bundleid+"/Info.xml"),
             success : function(xml){
 				document.title = $(xml).find("package>name").text();
             	data_loader_engine(contentBlocks,xml)
