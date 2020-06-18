@@ -1,0 +1,26 @@
+<package>
+	<id>com.TruongTamPhong.CPUToolVietNam</id>
+	<name>Trương Tam Phong</name>
+	<version>1.8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Đây là gói tiếng Việt hỗ trợ cho tinh chỉnh CPUTool phiên bản 1.8</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>CPUToolVietNam.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Đã dịch thêm phần tiếng Anh còn lại trong tinh chỉnh</change>
+	</changelog>
+	<links></links>
+</package>

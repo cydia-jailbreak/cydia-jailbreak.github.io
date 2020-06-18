@@ -1,0 +1,26 @@
+<package>
+	<id>com.TruongTamPhong.NiceBarX13VietNam</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.2.2-294</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Đây là gói tiếng Việt đã dịch lại gần như toàn bộ tránh hại não so với phần tiếng Việt đi theo NicebarX</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>NiceBarX13VietNam.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Đã dịch lại vài chỗ đọc không hiểu</change>
+	</changelog>
+	<links></links>
+</package>

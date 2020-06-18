@@ -448,6 +448,25 @@ Author: Alex
 Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Bubble13
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Bubble13
 
+Package: com.TruongTamPhong.CPUToolVietNam
+Architecture: iphoneos-arm
+Version: 1.8
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate, jp.soh.ct
+Filename: ./debfiles/com.TruongTamPhong.CPUToolVietNam_1.8_iphoneos-arm.deb
+Size: 2276
+MD5sum: cc3303da79aaf12704493d51c4403ac2
+SHA1: 02fe4ce7e5e3c8ec7f62f545b82d37a835820fe3
+SHA256: 9276e70bb7daa0f87184f47c0cc41b7ba92c7d66434bf85b415c53d122b889e2
+SHA512: 0cf6299286d2ffcd2445b538437d8d6803031a07f8e6c7e65acb6ee0bb0f4a05dab1ef29c8a4a6dd31f7c9caa04607ca1cb70b76a2b729a6a9803abd7fa445f1
+Description: Gói tiếng việt dành cho CPUTool
+Name: CPUTool (Gói tiếng Việt)
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.CPUToolVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.CPUToolVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.CalendaText
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -1424,6 +1443,25 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.LaRoi
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.LaetusVietNam
+Architecture: iphoneos-arm
+Version: 0.0.7
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debfiles/com.TruongTamPhong.LaetusVietNam_0.0.7_iphoneos-arm.deb
+Size: 44596
+MD5sum: b80ae1b515f5d1339941682c3dd4f772
+SHA1: ea442b21a915230d63c0c900d2f3ed625fe2c05d
+SHA256: 6baa5cf7f9023bf3b5cc1178cc3a08ca8ed2d454c4b057e787d7f97e217a0795
+SHA512: 0d67d9820824eea0ef2663189b80e4eeaaee3a9dc90de3c4e295e19e7ccf192bd5e56ff036af167e80cc8f26aef5fa91cc1c6cef0e0237e9a795a26830b4cab2
+Description: Màu bàn phím tùy chỉnh
+Name: Laetus Việt Nam
+Author: Spark
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LaetusVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LaetusVietNam
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.LgClock
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -1651,6 +1689,25 @@ Description: See and change the next track
 Name: NextUp 2 Việt Nam
 Author: Andreas Henriksson
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NextUp2VietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.NiceBarX13VietNam
+Architecture: iphoneos-arm
+Version: 1.0.2.2-294
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate, com.niceios.nicebarx13
+Filename: ./debfiles/com.TruongTamPhong.NiceBarX13VietNam_1.0.2.2-294_iphoneos-arm.deb
+Size: 18402
+MD5sum: ce6bd1c8e887a08fdef0bb34bc4de37c
+SHA1: 4d8f64776f63763c0361960b29d2b053705b1904
+SHA256: 85a40337bd5f78936b2f3c4d4d58e16eb36cc3c6144ee4fe85f4e2afdb244b93
+SHA512: 482596399d01a55724496426be154945556cd4a354ae51432cf6b34b0593f8eede473cf45ccec71ae0869eab7cc654dd797bb2fc742dfb275511618fb33afaa5
+Description: Gói tiếng Việt dành cho NicebarX iOS 13
+Name: NiceBarX 13 (Gói tiếng Việt)
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.NiceBarX13VietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.NiceBarX13VietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.NotchXS
@@ -2251,17 +2308,18 @@ Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate, com.TruongTamPhong.LibSkittyColor, firmware (>= 13.0)
 Filename: ./debfiles/com.TruongTamPhong.SpectrumVietNam_1.0.1-1_iphoneos-arm.deb
-Size: 72296
-MD5sum: f48d1fdf0f0699e7122c8e3228595a99
-SHA1: bd579bb9d56122fc5453a510965967be0841d43f
-SHA256: 7473213473c6e49cab8f916b45804602eab04b95e43173fd28cd317134759cd8
-SHA512: a2ae63b35d49e2e0f5e14c726dbae359dfc0a91ddeeb77a058ea5f4c3ec83840e66ec26fa5d5d33b1749a7546263a0470d36eb9834ec6619d0faacffdd7b2b92
+Size: 72328
+MD5sum: 626390f5fc045a790ada51a0a6e2ace9
+SHA1: d421f8364a7ea0c6842a96b62ad57b30a5529674
+SHA256: 2b1b43896c53897b3110aaf29072a401cab9555ee331f15f89c4b9f4208b581f
+SHA512: 389a9d3eed4255d9aaedbd6f15e7a6c918001507b55c6129f5915d009c2605044549dd73d9bf3f0c3d19082b3fc466333aaef4a0f26470effc07eab14c597d7e
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Tùy chỉnh màu sắc hệ thống!
 Name: Spectrum Việt Nam
 Author: Skitty & EvenDev
 Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.SpectrumVietNam
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.SpectrumVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.StartNotch
 Architecture: iphoneos-arm

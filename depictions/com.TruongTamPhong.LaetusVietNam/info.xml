@@ -1,0 +1,30 @@
+<package>
+	<id>com.TruongTamPhong.LaetusVietNam</id>
+	<name>Trương Tam Phong</name>
+	<version>0.0.7</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+                         <maxiOS>12.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Thay đổi màu nền và màu chữ cho bàn phím của bạn</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>LaetusVietNam1.png</image>
+        </screenshot>
+        <screenshot>
+            <description></description>
+            <image>LaetusVietNam2.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Khắc phục một số lỗi</change>
+	</changelog>
+	<links></links>
+</package>
