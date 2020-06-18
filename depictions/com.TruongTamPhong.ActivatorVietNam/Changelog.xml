@@ -1,8 +1,16 @@
 <changelog>
     <changes>
+        <version>1.9.13 RC 6</version>
+		<change>Khắc phục sự cố trên OS 3</change>
+        <change>Hỗ trợ tốt hơn cho chế độ tối trong nhiều phần của giao diện người dùng</change>
+		<change>Hỗ trợ gửi các hành động thông qua trình kích hoạt: // gửi / trong ứng dụng Phím tắt</change>
+        <change>Khắc phục sự cố tình trạng hiếm gặp trong ứng dụng cài đặt</change>
+        <change>Lọc đúng giảm âm lượng + nguồn. Không bao gồm tăng âm lượng + nguồn</change>
+        <change>Đã yêu cầu nâng cấp cho Flipswitch</change>
+    </changes>
         <version>1.9.13 RC 5</version>
 		<change>Thêm hành động Xóa thông tin xác thực vô hiệu hóa Touch ID và Face ID cho đến khi mở khóa mật mã tiếp theo</change>
-        <change>Khắc phục giảm âm lượng + nút siri trên iOS 13 cho các thiết bị không có nút home</change>
-		<change>Hỗ trợ gửi hành động qua trình kích hoạt:// gửi / trên iOS 12+</change>
+        <change>Khắc phục giảm âm lượng + nút nguồn trên iOS 13 cho các thiết bị không có nút home</change>
+		<change>Hỗ trợ thêm hành động qua trình kích hoạt:// gửi / trên iOS 12+</change>
     </changes>
 </changelog>
