@@ -1,0 +1,27 @@
+<package>
+	<id>com.TruongTamPhong.SwipeUpToOpen</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tiện ích hiển thị văn bản 'Vuốt lên để mở' trên Màn hình khoá với hiệu ứng ánh sáng cuộn đẹp mắt</description>
+		<description>Yêu cầu cài tinh chỉnh Xen HTML để sử dụng</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>SwipeUpToOpen.mov</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>

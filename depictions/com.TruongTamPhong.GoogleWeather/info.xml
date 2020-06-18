@@ -1,0 +1,31 @@
+<package>
+	<id>com.TruongTamPhong.GoogleWeather</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tiện ích hiển thị thông tin lịch âm dương, đồng hồ, và thời tiết lên Màn hình chính và Màn hình khoá của bạn</description>
+		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>GoogleWeather.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+        <change>Thêm nền màu cho khả năng mưa</change>
+        <change>Thêm nhiệt độ cao thấp trong ngày</change>
+	<change>Thêm lịch âm</change>
+        <change>Thêm mức pin</change>
+        <change>Sửa lại một vài lỗi</change>
+	</changelog>
+	<links></links>
+</package>

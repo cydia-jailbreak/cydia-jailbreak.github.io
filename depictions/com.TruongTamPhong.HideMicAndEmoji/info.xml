@@ -1,0 +1,28 @@
+<package>
+	<id>com.TruongTamPhong.HideMicAndEmoji</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Ẩn biểu tượng Emoji cùng biểu tượng Mic trên bàn phím nhưng chức năng vẫn hoạt động bình thường</description>
+		<description>Kích hoạt ẩn qua SnowBoard hoặc iThemer</description>
+		<description>Hỗ trợ từ iPhone X trờ lên</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>HideMicAndEmoji.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>

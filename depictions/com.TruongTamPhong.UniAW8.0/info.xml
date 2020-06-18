@@ -1,0 +1,28 @@
+<package>
+	<id>com.TruongTamPhong.UniAW8.0</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tiện ích thời tiết với nhiều hiệu ứng tuỳ chỉnh bên trong cài đặt</description>
+		<description>Hoạt động trên Màn hình chính</description>
+		<description>Yêu cầu cài Xen HTML và Widget Weather để sử dụng tiện ích này</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>UniAW8.0.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>

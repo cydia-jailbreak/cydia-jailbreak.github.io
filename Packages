@@ -600,6 +600,25 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ClockDeaultSmall
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.ClockDefaultDark
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ClockDefaultDark_1.0.0_iphoneos-arm.deb
+Size: 249384
+MD5sum: 8936de460cd7dc70297b310b646b5385
+SHA1: b8f0927137e7005dca7ea8d8931a00d5b3f6e0b5
+SHA256: d2461cd372242c3593f9ed5768693f3185f109c48761b1a86e6b7e8892b34b78
+SHA512: 20b2825902c5e59d4eeeaef5190f3e03c79ac4256958e276c3f60dabc86dd323595d6bc43a3ef3dc03dbc6e533ffb48a391459699d8e24d4131fdf1ede88add2
+Description: Widget for Xen HTML
+Name: Clock Default Dark
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ClockDefaultDark
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ClockDefaultDark
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.ClockTransparent
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -981,6 +1000,25 @@ Author: XsF1re
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FlyJBVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.FourDayForecast
+Architecture: iphoneos-arm
+Version: 1.0.2-1
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.FourDayForecast_1.0.2-1_iphoneos-arm.deb
+Size: 1296386
+MD5sum: e96d2913400e59e583c1660a525aa22a
+SHA1: e0c0eb34d00190cf66aac07be5b1eebb42a6b1e0
+SHA256: ef37c6b69f7aab844b271666c4a1b1be1d57b3d54f10c0eb014520a149a861cf
+SHA512: 64441551271e7d743cd4b796c692577d0b1f60fb556956f41232541e87b4150599af7bb775d6c2b90eb7c25cd54e3daad6de7ed5b35d5013ca04c16007439b12
+Description: Widget for Xen HTML
+Name: FourDayForecast
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FourDayForecast
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FourDayForecast
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.FullHouseGold
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -1130,6 +1168,44 @@ Author: Max Rudberg
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Glasklart
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
+Package: com.TruongTamPhong.GoogleWeatherBlur
+Architecture: iphoneos-arm
+Version: 1.0.3+1
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.GoogleWeatherBlur_1.0.3+1_iphoneos-arm.deb
+Size: 25566310
+MD5sum: 317836ac143672520c1ada1deb9e6bf1
+SHA1: a6ff7df1ce878d74b5651018a4adc84689a98fd4
+SHA256: d17d76dca798a66227264af6080638159e936af57c056ae3502d97814edaf6e9
+SHA512: 7a42844e0992e27b044c227b2079d1990ca3b4f30211be83948e50fa4f257e189543e408c2e6086544734527e84f9dea617e88be6b08004fc4d3408decdb6175
+Description: Widget for Xen HTML
+Name: Google Weather Blur
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.GoogleWeatherBlur
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.GoogleWeatherBlur
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.GoogleWeather
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.GoogleWeather_1.0.3_iphoneos-arm.deb
+Size: 25373160
+MD5sum: 91850bb50dcdc75a3741544ebed368ec
+SHA1: 7b7bb93439febd3f0f2f99fde7de049e4dab87ad
+SHA256: a7ce467404e59ea5f3932d1ab9bc466a939b911a2e708d4a1759e50f894782a5
+SHA512: 20db005a5f9950cab6e5b114ea0ebcd4c087b74958ed05ac0f39681474806504ba359fe4052eec7e905f2ef4a5c97e0d23229fa287e974e12ce1e866e6f57fd5
+Description: Widget for Xen HTML
+Name: Google Weather
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.GoogleWeather
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.GoogleWeather
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.HTCClock
 Architecture: iphoneos-arm
 Version: 1.1.0
@@ -1148,6 +1224,25 @@ Name: HTC Clock
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.HTCClock
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.HideMicAndEmoji
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.HideMicAndEmoji_1.0.0_iphoneos-arm.deb
+Size: 2660
+MD5sum: 15e1ed13b42c06c1264c078555abee6e
+SHA1: c2dfc199e8bec7445f82c5a85bbb65b6d3fb201c
+SHA256: 49c6b6596ba5c1e01cde910c6793ca3d1822c03d997a83abb004dbfe50a77e6e
+SHA512: e2ad543038e342c33fe49e36a6e2012896b6bf39df03029ab16968960d42eb605cbeffcd21e92e96d999a94256d3c3eb021ec61e5398c69bb2ff0827fda05191
+Description: Ẩn Mic và Emoji cho bàn phím
+Name: Hide Mic & Emoji
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.HideMicAndEmoji
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.HideMicAndEmoji
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
 Package: com.TruongTamPhong.HtcClock
 Architecture: iphoneos-arm
@@ -2568,6 +2663,25 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Stt3NotchXS
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.SwipeUpToOpen
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.SwipeUpToOpen_1.0.0_iphoneos-arm.deb
+Size: 218604
+MD5sum: ed53e999356f748f7189c54ddf64e091
+SHA1: 7054d5ee22da5410d5e3eedbdc36bf3128e03f3e
+SHA256: bfcfded2debc13d9dd3fbb96c2c96417bc78cc2b40157a126301a4ee4f9df4f2
+SHA512: c3dd380274cb22c7c5e8c4d73123c75db20fb50eb794ad694e84b484ca5e802be22353c16b91eb5ec53da14ce3d14601bb2137f02587faf8a998181cfb773a13
+Description: Widget for Xen HTML
+Name: Swipe Up To Open
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.SwipeUpToOpen
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.SwipeUpToOpen
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.SwitcherStyleVietNam
 Architecture: iphoneos-arm
 Version: 0.5.4
@@ -2703,6 +2817,25 @@ Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.ThuPhap
 Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Widget động
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ThuPhap_1.0.5_iphoneos-arm.deb
+Size: 190988
+MD5sum: 4814170659efba551bbec45b14ecf6dc
+SHA1: c407f797c4c2d53bcc72a5281ed10c82f0118041
+SHA256: 6471ef2a9fd7bfeafcf87f9a27914c7a98444031d3a72f6f7afeccf54470dbc5
+SHA512: c46ba1ddab5c3c642e5fd6e72aef905b4ef1f74aa01c4ed750f388be302f04388147c54b2fdb9c2bd0fddf54e1e79985406b82b5f30392bd58986765a6a57b13
+Description: Widget for Xen HTML
+Name: Thư Pháp
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ThuPhap
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ThuPhap
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.ThuPhap
+Architecture: iphoneos-arm
 Version: 1.1.0
 Section: Widget động
 Maintainer: Apple Cydia Và Jailbreak
@@ -2738,6 +2871,44 @@ Name: Tuyết Rơi
 Author: Kênh Táo
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.TuyetRoi
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.UniAW8.0
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate, com.TruongTamPhong.UniAWPartWeather
+Filename: ./debfiles/com.TruongTamPhong.UniAW8.0_1.0.0_iphoneos-arm.deb
+Size: 17445054
+MD5sum: 7c59dcfd5ef5bddc067c1766b2cfa333
+SHA1: 30029d105b7207deacfec99c98391bd261e0d08a
+SHA256: 0a7788d4c1ddde65cbe98923c12f20d85067acd3d44ddd8613593fc44ac44e0a
+SHA512: 7eab59df7fba40b3d089d497ef540358dea89111363701e2f5ac925a6e3f1d827d0a30d0146dc0b9dbb285704196cf6354f0b5e1a9c8687b56f8cce7072e7256
+Description: Widget for Xen HTML
+Name: UniAW 8.0
+Author: wrussell1989, D-Shin & m37_aga1n
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.UniAW8.0
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.UniAW8.0
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.UniAWPartWeather
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: System
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.UniAWPartWeather_1.0.0_iphoneos-arm.deb
+Size: 42504408
+MD5sum: b1af5e3d2154cdcc1990bb5f534ddf11
+SHA1: 415601975c4efbef08827900d22de634c24d9d5a
+SHA256: bd0cac372677e58384e3962d8714f3b90e621e01161c8c448f424bbd706ba164
+SHA512: c5a7cb559281d96bd8a6c6e6806c6fc8a4de1f1e30ad373bccf7bd0c7add3b390ec64e966fe18f3deb2b12eb8c7f48e6b2e39e7fbebe8f85f0969b8323abb9fa
+Description: Support Widget UniAW 8.0
+Name: UniAWPartWeather
+Author: wrussell1989, D-Shin & m37_aga1n
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.UniAWPartWeather
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.UniAWPartWeather
+Icon: file:///Applications/Cydia.app/Sections/System1.png
 
 Package: com.TruongTamPhong.VanTay
 Architecture: iphoneos-arm

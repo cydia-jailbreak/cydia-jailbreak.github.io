@@ -1,0 +1,29 @@
+<package>
+	<id>com.TruongTamPhong.ThuPhap</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tiện ích hiển thị văn bản theo cột dọc</description>
+		<description>Để thay đổi văn bản, hiệu ứng, cỡ chữ,.. bạn vào phần cài đặt trong tiện ích này tuỳ chỉnh nó</description>
+		<description>Hoạt động trên Màn hình chính và Màn hình khoá</description>
+		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
+	</descriptionlist>
+	<changelog>
+<change>Thêm chỉnh cỡ phông</change>
+	</changelog>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>ThuPhap.mov</image>
+        </screenshot>	
+    </screenshots>
+	<links></links>
+</package>
