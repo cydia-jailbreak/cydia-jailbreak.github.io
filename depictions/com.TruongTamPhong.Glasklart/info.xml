@@ -1,0 +1,24 @@
+<package>
+	<version>5.62</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Chủ đề với các biểu tượng trắng không nền đẹp mắt và tinh tế</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>Glasklart.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Thêm một số biểu tượng</change>
+	</changelog>
+	<links></links>
+</package>
