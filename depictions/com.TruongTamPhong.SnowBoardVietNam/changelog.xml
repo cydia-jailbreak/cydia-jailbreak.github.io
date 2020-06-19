@@ -1,0 +1,8 @@
+<changelog>
+    <changes>
+        <version>1.3.3~beta4</version>
+        <change>Sửa lỗi UI thanh trạng thái không hoạt động</change>
+	<change>Cải tiến hiệu suất</change>
+        <change>Thêm cảnh báo về nguồn thu thập dữ liệu</change>
+    </changes>
+</changelog>
