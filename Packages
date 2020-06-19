@@ -1936,26 +1936,6 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Widg
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.WidgetWeatherVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
-Package: com.TruongTamPhong.XenHTMLVietNam
-Architecture: iphoneos-arm
-Version: 1.1.9
-Priority: optional
-Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak <truongtamphong686@gmail.com>
-Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
-Depends: firmware (>= 9.0), com.truongtamphong.xeninfovietnam, mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
-Filename: ./debfiles/com.TruongTamPhong.XenHTMLVietNam_1.1.9_iphoneos-arm.deb
-Size: 2850394
-MD5sum: c87b7d2a4179b058888ab56ba2a08f5d
-SHA1: 51a25dfd73ef242446cc5343602aca357be18842
-SHA256: 2ed20551d14e57d93e67f531450274adb2f001b57b41ca12d6bb1a55d380ddfb
-SHA512: 28eac09b563c4cb26021c59099d00341e69d85afd01a49dc100cee65d1f21fd669a8eb2e6a74e8035722740387858c724c53f2cb053aae122f654f4bd1e04431
-Description: Hiển thị Widget lên màn hình chính và màn hình khoá. Việt hoá by Trương Tam Phong
-Name: Xen HTML Việt Nam
-Author: Matt Clarke <matt@incendo.ws>
-dev: MattClarke
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
 Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm
 Version: 2.0~beta3.3
@@ -1978,25 +1958,6 @@ Depiction: https://xenpublic.incendo.ws/depictions/com.matchstic.xenhtml.html
  SileoDepiction: https://xenpublic.incendo.ws/sileo/com.matchstic.xenhtml.json
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
-Package: com.TruongTamPhong.XenInfoVietNam
-Architecture: iphoneos-arm
-Version: 2.2.6
-Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debfiles/com.TruongTamPhong.XenInfoVietNam_2.2.6_iphoneos-arm.deb
-Size: 140644
-MD5sum: 2559ac247e6ea158193d35d9e01c01ec
-SHA1: 404ac9371bb6236f682c57256be60febb09310db
-SHA256: 10fc84ff8ef6e1deaaff7fe967db535106fbaae0372f97ed15036726b875d30e
-SHA512: 0395d3a91230cc982b3b4e89da625d5c7d69d4fba8dbdb91482820a7d010462185a5bb43e0d631a9836f64833a803fb57c4d0865a737b2b2e56150f2ce677248
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Âm nhạc, Thời tiết, Pin & Thông tin cho Xen HTML
-Name: XenInfo Việt Nam
-Author: JunesIphone & Matchstic
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.XenInfoVietNam
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
 Package: com.TruongTamPhong.Ybht
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -2015,25 +1976,6 @@ Name: Ybht
 Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ybht
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
-Package: com.matchstic.libgithubissues
-Architecture: iphoneos-arm
-Version: 0.0.2
-Priority: optional
-Section: System
-Maintainer: Matt Clarke <matt@incendo.ws>
-Depends: firmware (>= 8.0)
-Filename: ./debfiles/com.matchstic.libgithubissues_0.0.2_iphoneos-arm.deb
-Size: 1006664
-MD5sum: f877b365d0d11cd787b892bf8cc5b28a
-SHA1: 7c5e81fc14e784ca56045391d911394aae4e5fbf
-SHA256: fd53adcc76f3d094759dbd2cc3e980182e1ec1432dd7dfc98690c7ec242d634f
-SHA512: ab89642f2c8c49e559f9d7f65a20a3478cbdefc5f3c00e49baa504271cc4f7b426185d37d7b1d91df8a304c134ffda72cc75a33f516256a6f7dd878328a93698
-Description: Integrate GitHub Issues as a bugtracker
-Name: libGitHubIssues
-Author: Matt Clarke <matt@incendo.ws>
-dev: Matt Clarke <matt@incendo.ws>
-Icon: file:///Applications/Cydia.app/Sections/System1.png
 
 Package: com.truongtamphong.cleanfunwhitered
 Architecture: iphoneos-arm
