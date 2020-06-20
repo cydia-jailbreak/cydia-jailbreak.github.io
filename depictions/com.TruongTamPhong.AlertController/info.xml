@@ -19,6 +19,10 @@
 <screenshots>
         <screenshot>
             <description></description>
+            <image>AlertController0.png</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
             <image>AlertController1.png</image>
         </screenshot>	
         <screenshot>
@@ -28,7 +32,7 @@
         <screenshot>
             <description></description>
             <image>AlertController3.png</image>
-        </screenshot>	
+        </screenshot>
     </screenshots>
 	<changelog>
 		<change>Đã khắc phục sự cố khi cài đặt Kiểu UI mới cũng có thể áp dụng cho các thành phần UI khác nhau</change>
