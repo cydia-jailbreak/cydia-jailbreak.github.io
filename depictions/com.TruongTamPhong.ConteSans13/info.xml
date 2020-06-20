@@ -14,7 +14,10 @@
 		<description>Phông chữ kích hoạt qua SnowBoard hoặc iThemer</description>
 	</descriptionlist>
 <screenshots>
+        <screenshot>
+            <description></description>
             <image>ConteSans13.png</image>
+        </screenshot>	
     </screenshots>
 	<changelog>
 	<change>Hoạt động trên iOS 13</change>
