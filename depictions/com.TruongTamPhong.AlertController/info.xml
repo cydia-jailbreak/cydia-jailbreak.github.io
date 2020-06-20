@@ -1,0 +1,38 @@
+<package>
+	<id>com.TruongTamPhong.AlertController</id>
+	<name>Trương Tam Phong</name>
+	<version>1.2.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Thay đổi UX và UI giao diện của Cảnh báo và Nhóm bảng</description>
+		<description>Hiển thịt nút nhấn theo chiều dọc</description>
+		<description>Ẩn nút Huỷ</description>
+		<description>Thay đổi vị trí và nhóm bảng</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>AlertController1.png</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>AlertController2.png</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>AlertController3.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Đã khắc phục sự cố khi cài đặt Kiểu UI mới cũng có thể áp dụng cho các thành phần UI khác nhau</change>
+        <change>Đã thêm khả năng chọn Kiểu dáng cảnh báo, Kiểu dáng nhóm bảng và khả năng sử dụng lẫn lộn nhau</change>
+	</changelog>
+	<links></links>
+</package>

@@ -65,6 +65,24 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Acti
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ActivatorVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.AlertController
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.TruongTamPhong.AlertController_1.2.1_iphoneos-arm.deb
+Size: 33958
+MD5sum: 0cf334cf4dc82e8ad32c4b7e17a9cfdd
+SHA1: 0ebe116a939ef81c1202741608772264443c8cdb
+SHA256: 277ef44719cb45db0a78a0475fe1028e68c85b9e8e99091646576c97a20c5a2b
+SHA512: aac1ecb8fb8ff5ad58b35035b828289e612ff7f7570cfbb5dfb7ddad1240ba1854f9255759d13a46c930ec92e6cd4824fbc0db87ff4f79668429f313aaf57398
+Description: Thay đổi kiểu dáng cảnh báo và nhóm bảng hiển thị
+Name: Alert Controller
+Author: Tomasz Poliszuk
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AlertController
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AlertController
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.AmLichVaDanhNgon
 Architecture: iphoneos-arm
 Version: 1.3-1

@@ -1,0 +1,7 @@
+<changelog>
+    <changes>
+        <version>1.2.1</version>
+		<change>Đã khắc phục sự cố khi cài đặt Kiểu UI mới cũng có thể áp dụng cho các thành phần UI khác nhau</change>
+        <change>Đã thêm khả năng chọn Kiểu dáng cảnh báo, Kiểu dáng nhóm bảng và khả năng sử dụng lẫn lộn nhau</change>
+    </changes>
+</changelog>
