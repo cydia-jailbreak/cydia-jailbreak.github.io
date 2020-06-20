@@ -1519,6 +1519,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Spec
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.SpectrumVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.StarDock
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widget tĩnh
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.StarDock_1.0.1_iphoneos-arm.deb
+Size: 1099196
+MD5sum: 28f0c0f9e5ff77d2cbc3ec9efea87f61
+SHA1: 3c0f96522fa43bbf319af4013867a4def339d2a2
+SHA256: 9e30bb2ccb38cb01d718f218753e9a56092e8a20ff31872704a0e13ba8e466f2
+SHA512: 04aff72f026f20a6b66ebf41bf5f306e2709ccc9bc3158d9c5af8fd11fe352f413852119d770508efb3deb43f4a4746a3a833bd3f11f8f4dd32b15a93ab3a8a0
+Description: Widget for Xen HTML
+Name: StarDock
+Author: daddykool666
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.StarDock
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.StarDock
+
 Package: com.TruongTamPhong.StartNotch
 Architecture: iphoneos-arm
 Version: 1.1.0
