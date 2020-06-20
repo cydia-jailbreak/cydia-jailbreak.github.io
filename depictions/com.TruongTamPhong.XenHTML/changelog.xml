@@ -1,0 +1,11 @@
+<changelog>
+    <changes>
+        <version>2.0~beta4</version>
+	<change>Cải thiện tính ổn định của widgetinfod</change>
+        <change>Dịch một số Widget có sẵn theo Xen HTML sang tiếng Việt</change>
+    </changes>
+    <changes>
+        <version>2.0~beta3.2</version>
+        <change>Sửa lỗi với những nội dung dịch không chính xác</change>
+    </changes>
+</changelog>

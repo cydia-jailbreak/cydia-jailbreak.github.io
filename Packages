@@ -2033,6 +2033,24 @@ Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ybht
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Version: 2.0~beta4
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debfiles/com.matchstic.xenhtml_2.0~beta4_iphoneos-arm.deb
+Size: 6336068
+MD5sum: 23a50c52996dd800513380ad879f7ee9
+SHA1: a26157bee3ee821a60c0d7f7a266d79addf695a2
+SHA256: 4d04d6d7562c40d06660b32df7fdae24adaf0ef9a932f5e80f70d69930eaec70
+SHA512: 5e67cf3d7a941dd1911e285a61d272dc13fe48490ecc60c2c33544ed2669acc35730df2c7764ddcdde1bd77b52d6c90b38ec8182274885d55d1db8d5a28550e2
+Description: Hiển thị Widget lên màn hình chính và màn hình khoá
+Name: Xen HTML Việt Nam
+Author: Matt Clarke
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.XenHTML
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.XenHTML
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.truongtamphong.cleanfunwhitered
 Architecture: iphoneos-arm
 Version: 1.0.0

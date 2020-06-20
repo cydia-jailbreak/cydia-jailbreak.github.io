@@ -1,0 +1,29 @@
+<package>
+	<id>com.TruongTamPhong.XenHTML</id>
+	<name>Trương Tam Phong</name>
+	<version>2.0~beta4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tinh chỉnh này giúp các Tiện ích hiển thị lên Màn hình chính và Màn hình khoá</description>		<description>Ở Màn hình chính chọn Sắp xếp lại ứng dụng => Thêm Widget... để thêm tiện ích bất kỳ mà bạn đã có</description>
+	<description>Kéo và thả các Tiện ích trong trình chỉnh sửa Widget để di chuyển chúng tới vị trí mong muốn</description>
+	<description>Khi đang trong phần chỉnh sửa Tiện ích, bạn có thể nhấn vào biểu tượng Cài đặt để tuỳ chỉnh thêm</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>XenHTML.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Cải thiện tính ổn định của widgetinfod</change>
+        <change>Dịch một số Widget có sẵn theo Xen HTML sang tiếng Việt</change>
+	</changelog>
+	<links></links>
+</package>
