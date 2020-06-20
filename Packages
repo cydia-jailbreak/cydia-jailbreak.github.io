@@ -485,6 +485,24 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ClockTransparent
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.ConteSans13
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Fonts
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.ConteSans13_1.1.0_iphoneos-arm.deb
+Size: 7803564
+MD5sum: fcba1e9b8d0fa6c3ae0ac2d5b6dbc364
+SHA1: 3f624660dc655e2c6bfeadb80f93980b99651bff
+SHA256: a03e6bc8d6101452a3a0f0e538c63cdf7e619cc780ab443afb8ff476e4d39ff0
+SHA512: f1b147aa7545e0e8656684fd3f5f80f1deaf2aab62399b3a38fbc2c47dbd5f823a9ae2148aa7aa00ed5a17516afdd6436cd8c84fbbcd0375bcac33fa77ea576b
+Description: Gói Font chữ dành cho SnowBoard và iThemer
+Name: Conte Sans (iOS13)
+Author: Evelyn
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ConteSans13
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ConteSans13
+
 Package: com.TruongTamPhong.DanhNgon
 Architecture: iphoneos-arm
 Version: 1.0.0
