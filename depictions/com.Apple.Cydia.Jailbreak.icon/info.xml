@@ -1,0 +1,23 @@
+<package>
+	<id>com.Apple.Cydia.Jailbreak.icon</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.0</miniOS>
+                         <maxiOS>19.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Gói biểu tượng dành cho nguồn cydia-jailbreak.github.io</description>
+		<description>Bao gồm các biểu tượng như Widget, System, Tweak,...</description>
+	</descriptionlist>
+<screenshots>
+    </screenshots>
+	<changelog>
+		<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>
