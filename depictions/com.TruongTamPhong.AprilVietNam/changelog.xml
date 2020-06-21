@@ -1,5 +1,12 @@
 <changelog>
     <changes>
+        <version>2.0.4</version>
+	<change>Thêm độ mượt và độ đàn hồi</change>
+	<change>Thêm tuỳ chọn vị trí cho Màn hình xoay ngang</change>
+	<change>Thêm định dạng cho thời tiết</change>
+	<change>Thêm cài đặt sắp xếp vị trí thời gian, ngày, thời tiết và sự kiện</change>
+    </changes>
+    <changes>
         <version>2.0.1-1</version>
         <change>Lần đầu phát hành</change>
     </changes>

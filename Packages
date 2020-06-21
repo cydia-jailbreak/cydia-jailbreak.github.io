@@ -229,6 +229,24 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Apri
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AprilVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.AprilVietNam
+Architecture: iphoneos-arm
+Version: 2.0.4
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.15.1), org.thebigboss.libcolorpicker, com.peterdev.libpddokdo, ws.hbang.alderis
+Filename: ./debfiles/com.TruongTamPhong.AprilVietNam_2.0.4_iphoneos-arm.deb
+Size: 120340
+MD5sum: 916998c35c6e3fc7eaf0528b4085889d
+SHA1: e8f42a51a6d1bc3704c06c1d4a5a2e42b2357350
+SHA256: 48d247170d5193f69da02f918ad3ecbd8bfc8308fb44ed0f0096faffb9ed3422
+SHA512: 8a4c6c7480c82ca18e5777d89cdffe0ab3c138fc97d839fe74e940141555448387a4987b213a427eab31a8251dacdb3c67b5c06cbb03e4a7c3e1e2876edad41a
+Description: Làm cho màn hình khóa của bạn độc đáo hơn
+Name: April Việt Nam
+Author: Constanze
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AprilVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AprilVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.BlurTransV1
 Architecture: iphoneos-arm
 Version: 1.0.1

@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.AprilVietNam</id>
 	<name>Trương Tam Phong</name>
-	<version>2.0.1-1</version>
+	<version>2.0.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -25,7 +25,10 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-	<change>Lần đầu phát hành</change>
+	<change>Thêm độ mượt và độ đàn hồi</change>
+	<change>Thêm tuỳ chọn vị trí cho Màn hình xoay ngang</change>
+	<change>Thêm định dạng cho thời tiết</change>
+	<change>Thêm cài đặt sắp xếp vị trí thời gian, ngày, thời tiết và sự kiện</change>
 	</changelog>
 	<links></links>
 </package>
