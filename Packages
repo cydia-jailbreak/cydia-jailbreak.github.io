@@ -5,14 +5,16 @@ Essential: yes
 Section: System
 Maintainer: Apple Cydia Và Jailbreak
 Filename: ./debfiles/com.Apple.Cydia.Jailbreak.icon_1.0.0_iphoneos-arm.deb
-Size: 81110
-MD5sum: dd36aaff12f950ebc1ff02000653c2b8
-SHA1: 91fff5388dbf1d3a61cdf24a06e50b53f842ef34
-SHA256: f85a42ce47570cbb5b632984d8ee3b7619cfc35b92de9393cd0a066f6d7f8b19
-SHA512: 3ca99026c89a16276745dac95685b79f933bd56dc87e510f11d6fa55108f589dc08fa9a2fa3de5fdb85d4affe21e2548634df13b632c075bb1a8b1cf3a3a3e32
+Size: 81160
+MD5sum: e0e89e56e375d3b67ec0d9307b048756
+SHA1: e857f5d660a4490ab9afee1582ee2e08315ec3c7
+SHA256: ba0b9531e472c311d7608740e9b70e44be4dc29242d3f20e4db61be6bdfcb7c9
+SHA512: d209f4a49017bc820e1dd07983b39b6d607b963828126ef8e99381adb18bf2f0d441f2f7e0d33c38f510571de84e0e399693679e584596c75a401e552c89a56a
 Description: Biểu tượng cho Nguồn Cydia-Jailbreak
 Name: Repo Icon Cydia-Jailbreak
 Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.Apple.Cydia.Jailbreak.icon
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.Apple.Cydia.Jailbreak.icon
 Icon: file:///Applications/Cydia.app/Sections/System1.png
 
 Package: com.TruongTamPhong.ActivatorVietNam
