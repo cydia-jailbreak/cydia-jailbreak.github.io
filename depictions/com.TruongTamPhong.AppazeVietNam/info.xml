@@ -1,0 +1,35 @@
+<package>
+	<id>com.TruongTamPhong.AppazeVietNam</id>
+	<name>Trương Tam Phong</name>
+	<version>2.1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+                         <maxiOS>12.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tinh chỉnh này cho phép bạn tùy chỉnh âm lượng, độ sáng và một loạt các nút (WiFi, Cellular, Khóa định hướng, VPN, ..) cho một ứng dụng cụ thể, trực tiếp sử dụng menu 3D Touch</description>		
+<description>Nếu bạn đang ở iOS 13 hãy dùng Appaze 2</description>	
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>AppazeVietNam1.png</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>AppazeVietNam2.png</image>
+        </screenshot>
+        <screenshot>
+            <description></description>
+            <image>AppazeVietNam3.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Khắc phục sự cố một số người gặp phải khi chuyển đổi Bluetooth</change>
+	</changelog>
+	<links></links>
+</package>

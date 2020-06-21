@@ -1,0 +1,31 @@
+<package>
+	<id>com.TruongTamPhong.AprilVietNam</id>
+	<name>Trương Tam Phong</name>
+	<version>2.0.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tinh chỉnh cho phép tùy biến cao ở Màn hình khoá. Một màn hình khóa độc đáo tương thích với hầu hết các tinh chỉnh yêu thích của bạn</description>
+		<description>Bạn có thể tận hưởng một màn hình khóa hiện đại, một màn hình khóa đông đúc hoặc thậm chí là một màn hình khóa đơn giản</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>April1.png</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>April2.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+	<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>

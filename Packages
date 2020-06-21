@@ -125,174 +125,108 @@ Package: com.TruongTamPhong.AnalogClockWeather+
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Widget động
-Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AnalogClockWeather+_1.0.0_iphoneos-arm.deb
-Size: 300740
-MD5sum: 275eda69a55bb685393e5b53c2170c31
-SHA1: 6ac4a299a50aa6271dd12e6b1e9a6103fb947e2a
-SHA256: 248c11b53bc7c00c91f774237745b6a2623e25320b6c57483d4b21260c941611
-SHA512: 57310436f317e5376ed7e5c6c04e384d41e9f380f5148f96b1931269ade5e535f85cb51704257a34f86b78dbab685c1fdf753996efe6d90aa1c4239e937fc509
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Size: 300674
+MD5sum: 62dc1fda0a2206c77414929f49f0f763
+SHA1: 821e6a41ac5d8db9b627fcd666ef34fd5888348c
+SHA256: 51e3ec4db84f0536850b336c5c98ef258e4618773f7724f4b7524ab2be700805
+SHA512: e0923ede8a550bbe977447fb2a139ee6399d5fecd79c2cfa6be4e60d03a5f3bcf83df52165964231f4cde1e23bd230896150d82aa0f76971ac4c5e5377f907fe
 Description: Widget for Xen Html
 Name: Analog Clock Weather+
 Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AnalogClockWeather+
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AnalogClockWeather+
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AnalogClockWeather+
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
-Package: com.TruongTamPhong.AnalogClockWeatherXSM
+Package: com.TruongTamPhong.AnalogClockWeatherMax
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Widget động
-Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.AnalogClockWeatherXSM_1.0.0_iphoneos-arm.deb
-Size: 296054
-MD5sum: 68873dcb295fe0d376a5b4336594f00a
-SHA1: d66253c1e4fb9a3fd1bc0316315fc7f7132e40d1
-SHA256: a04849a26297779060e531e080cdbbded67dd7af1b6a2778160cf2907103b746
-SHA512: c0feebfde6df993926c5fe9d154fe6a386cee5408276c5f7b46b380c83ee593b0e54262d5d55edb3bef20d9b52faab64856b2fee0247d26f63132e7fbecf3795
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Filename: ./debfiles/com.TruongTamPhong.AnalogClockWeatherMax_1.0.0_iphoneos-arm.deb
+Size: 295994
+MD5sum: 701428f948778d82e201411921ebc2bb
+SHA1: 5adb30f8e70d8b247d61b49ef99571f686a715cc
+SHA256: 6c73a8a6b4c9941af9f1783acc2f94a15e7521dd1dcd5c2be1b2f3b06c59e325
+SHA512: ed977df3199ec1501ef706fd4d0e0e2516a59e02ab391d356c8c45fc5df75726d17180c343298d24245cfe10857074765d3877e5efecbfb94baa55281f3238e7
 Description: Widget for Xen HTML
-Name: Analog Clock Weather XSM
+Name: Analog Clock Weather Max
 Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AnalogClockWeatherXSM
-SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AnalogClockWeatherXSM
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AnalogClockWeatherMax
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AnalogClockWeatherMax
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.AnalogClockWeather
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Widget động
-Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AnalogClockWeather_1.0.0_iphoneos-arm.deb
-Size: 300736
-MD5sum: 574ad300420e288c03a3a83a1a0377fa
-SHA1: 0c6fc25dfaf3daa56fa72d3ad3b63ae2a35d0e4e
-SHA256: e45bc276389d95c692dc4f7ecfa2b8cb63e415536be49556a38235d92cefaf80
-SHA512: 400f9ea46492896c769251b5f72d8b38af3c2185b8346af80ba74bee54e703a8c5c76c40cc9516c61ad193d140015ca0f039576982ca4e8ec70ff1c7f34adc6f
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Size: 300672
+MD5sum: 2688cebc5fcf6367d4ed85570f27f223
+SHA1: 22bb9dcdb6f03f9ab00b27858e823b20b9c26c2d
+SHA256: 0b0efaf889c96c9a14dfea2b7b223407e88a0a4ff7e04b6aeb63a3ed77fcad23
+SHA512: ac440c89ffdeda489d999cba16a1d32f93ab47a2fea374f639aa55b52fa8284464f5f600644b8be4c6e600f80464c84e17f4fd8140b6807652aba224f53c83bc
 Description: Widget for Xen Html
 Name: Analog Clock Weather
 Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AnalogClockWeather
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AnalogClockWeather
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AnalogClockWeather
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Ando
 Architecture: iphoneos-arm
 Version: 1.0.1
 Section: Widget tĩnh
-Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Ando_1.0.1_iphoneos-arm.deb
-Size: 11853874
-MD5sum: f4fba1bc82ff6121dad4d8fb70528744
-SHA1: 4dbab0351f6924b08d37bcbff9d5a39858c691cd
-SHA256: b289067667f8405cc981a262509beb2e461ae3955fa8f639a5e8572c09402f47
-SHA512: c8e35090c4d805f4efef925136bf6feb57535653a8adf9255711ab3815639a5654c66901de739afb033a02941f5808b7510931aee4fc3d98c0a1b36184e1d023
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Size: 11853784
+MD5sum: 6f5631dded432f05ad0e3daa12cb98de
+SHA1: ff8c898d3959d4927d74c88e7c1cacd0655f0f32
+SHA256: d3b6136bced33d40b8d811077bc9de9a900d984e566181904df1bbca591107a9
+SHA512: e7de61782cb9b64f0df0b946bddbf6bc2b1f141567108f52acefd758f08f7a3fb283189fb77db0275dbdf2940e28b0aedfad6a919fae35808b8d3a9e977f3d68
 Description: Widget for Xen Html
 Name: Ando
 Author: JunesiPhone
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ando
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Ando
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Ando
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.AppazeVietNam
 Architecture: iphoneos-arm
 Version: 2.1.1
 Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), com.a3tweaks.flipswitch
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), com.TruongTamPhong.FlipSwitch
 Filename: ./debfiles/com.TruongTamPhong.AppazeVietNam_2.1.1_iphoneos-arm.deb
-Size: 1313764
-MD5sum: 7381f636bf0d1efd93619948b59d75f5
-SHA1: 8e0435e02cb2e8a5ccba986d38d01abf26da2ead
-SHA256: 3b93410e39e02af8326e1eddcfb08ae2232567b2e8c66a10ed50f5d0c77e65b6
-SHA512: 3435363606fdafa96bf23565f99e00e5a981dec347c1c30760907a9119c68cac35e382cfa51b2d4084e96419822807817a85a92d9b7eaac9deb6ab58b6bee9b7
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Size: 1313700
+MD5sum: 3a06b25fa322e0b2cb6289e5b4a8d6ec
+SHA1: 5ea42fc85e7bd04989a0a11ab01765874d8c46a9
+SHA256: 5633f199b2bef557a8e151c44822bf54a7afb4a3865e09a6366dfba3c51ad0f5
+SHA512: a828032bcdd703299c63c2a2521d72a234d11a5314ce1b1f08a469e0df2a032cc615a9e69da631626ad0bb25018011c7352fbcf80629caa2853e009f1ede3c2b
 Description: Set custom volume/brightness/toggles per app, directly from 3D Touch menu
 Name: Appaze Việt Nam
 Author: AnthoPak
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AppazeVietNam
-SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AppazeVietNam
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AppazeVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AppazeVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.AprilVietNam
 Architecture: iphoneos-arm
 Version: 2.0.1-1
 Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.15.1), org.thebigboss.libcolorpicker, com.peterdev.libpddokdo
 Filename: ./debfiles/com.TruongTamPhong.AprilVietNam_2.0.1-1_iphoneos-arm.deb
-Size: 111048
-MD5sum: 1e8306f05fa77879fc0fc0dd62fdc15f
-SHA1: bb6b63b6de63788028a22a2c358eaf71b5a4a256
-SHA256: 7a6c419591af27bb96c0a14c9cbaf30b6fe479eaa7c379e6e3a5b3b6d5a736d0
-SHA512: 9ecd88efd8f585fb3cc7f416835251a0184d9d3a8578a7d7cd4989d604cd1d7490512dd2fa3d7a113547f3f2e2a33ff4cf81259ff3d8b60eca8b8b1b8b0d83fc
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Làm cho màn hình khóa của bạn độc đáo.
+Size: 110988
+MD5sum: a0d6e2fa5fc4d98a6044e9eb21579f20
+SHA1: 0d5b55144b764deedea1cdba439cc4ae2344b7b0
+SHA256: 043222f9dd8182bfdffaa8cfa5d417ed145f21468ac213c58b8566fc0f6ff1ba
+SHA512: b98e5e22cc7e6492a961b2a63d3391ef440e55473f7c7b47f4e7ac0e1532df0326c166b40a894d6c4911cbfb3b71eae8aeddb0da444f7bf55f7bb279578ce78c
+Description: Làm cho màn hình khóa của bạn độc đáo hơn
 Name: April Việt Nam
 Author: Constanze
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AprilVietNam
-SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AprilVietNam
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
-Package: com.TruongTamPhong.AutoChangeWallpaper
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Widget động
-Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.AutoChangeWallpaper_1.0.0_iphoneos-arm.deb
-Size: 4483956
-MD5sum: 193413b1ff990f5b29dca43b0496498e
-SHA1: 5ccee58aff561267b350969f07b4651578b0a4c1
-SHA256: 1455530e0b4194281a5b2d7f6a071036e5794c51ccc2e30ff4935ea16ecdfd24
-SHA512: 63217f3886d20bec08c168672f0e3f50a17df589caf424ae2884950c2b3e24794d4f4ebe9696286791038e9ab402aadf41b078a0df6b4b4b9426e3626e9ba4f4
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Widget for Xen HTML
-Name: Auto Change Wallpaper
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AutoChangeWallpaper
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
-Package: com.TruongTamPhong.BadgeCustomizer
-Architecture: iphoneos-arm
-Version: 1.4.3-3
-Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.BadgeCustomizer_1.4.3-3_iphoneos-arm.deb
-Size: 69700
-MD5sum: 6d94fa69af8191cb17d4bf7255d89385
-SHA1: bca06b3e9dcb791e5ed15aa779661c3e332e5429
-SHA256: 6337b6e014e02e217c7091dad1888f22abc1fd5972ee14db67822bbe474fff04
-SHA512: f40a35630b26d728cd7ea10a9bb5ff24f8fb04e7259db679e2d5ca81997f0b771a6bbf8a9134033612e7382e08f3d28236c694dc6c01253f46ba681e26dc43eb
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Change badge color, size & position
-Name: Badge Customizer [Việt hoá]
-Author: merdok
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BadgeCustomizer
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
-Package: com.TruongTamPhong.BatteryPercentX
-Architecture: iphoneos-arm
-Version: 1.3.2-2
-Section: Tweaks
-Maintainer: Thủ Thuật Cydia Và Jailbreak
-Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debfiles/com.TruongTamPhong.BatteryPercentX_1.3.2-2_iphoneos-arm.deb
-Size: 249986
-MD5sum: 0ee7993c440d771efe97de19df40b12b
-SHA1: 4120d5447a1f28e6aa1299ab6c438db1783bb6c1
-SHA256: dcc085ac3468d9efcef7807c3b7ee00dfbc1e3eb4ef785b89b221805b44e1055
-SHA512: 76bd07a12c06ca1b2573656ac08f6843eb4526dbd4c678f27187b120b9170585d6138c4f9cc97216242850174b3889d6ccb6046f53365e5bf52a3d4f7a1f8660
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Replaces the battery icon with percentage
-Name: BatteryPercentX [Việt hoá]
-Author: Spark
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BatteryPercentX
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AprilVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AprilVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.BlurTransV1

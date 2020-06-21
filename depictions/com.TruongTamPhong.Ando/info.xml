@@ -1,0 +1,28 @@
+<package>
+	<id>com.TruongTamPhong.Ando</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tiện ích hiển thị Thời gian cùng Thời tiết 4 ngày tiếp theo</description>
+		<description>Hoạt động trên Màn hình chính và Màn hình khoá</description>
+		<description>Yêu cầu cài Xen HTML để sử dụng</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>Ando.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>
