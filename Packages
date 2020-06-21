@@ -89,19 +89,18 @@ Package: com.TruongTamPhong.AmLichVaDanhNgon
 Architecture: iphoneos-arm
 Version: 1.3-1
 Section: Widget động
-Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.3-1_iphoneos-arm.deb
-Size: 138432
-MD5sum: b553c175a4f2000c5ff7e67633c0d800
-SHA1: 8699ef40c1a40be76a90e7f9d0a470a9587cbba6
-SHA256: b56f7fc4f9112beaffe47edcf83eac612ad1f72f6048188aae83edec23120e72
-SHA512: 83823b2304cfedfa399f9e7510c985648eb2545a8d6cf80e59f2d3256490faf3a4de94265eb932af0c8e661d1bc9ac1e2abdfcefbe0dff9564d6840e4afbabe0
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Size: 138374
+MD5sum: 5df1ff594872dbea40144c0330d9d57f
+SHA1: 0970fe96d2cab0becc327d3a95c847e08775ecd0
+SHA256: 478bb55862bed177342ac0376ed8b1cce6cb2e40d28c478155a287f87142e6ac
+SHA512: 25f59cb45ba3137ea2ab30600a104bd990bb33daa7680c9852a62e058e0c5f497744f5d88ac6f7701311321f0d6e5d4878e22e19ff130de64d8d6b95cd891a87
 Description: Widget for Xen HTML
 Name: Âm Lịch & Danh Ngôn
 Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.AmLichVaDanhNgon
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AmLichVaDanhNgon
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AmLichVaDanhNgon
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.AmLich

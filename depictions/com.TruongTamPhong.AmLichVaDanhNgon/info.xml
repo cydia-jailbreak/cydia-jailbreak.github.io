@@ -1,0 +1,28 @@
+<package>
+	<id>com.TruongTamPhong.AmLichVaDanhNgon</id>
+	<name>Trương Tam Phong</name>
+	<version>1.3-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tiện ích này hiển thị Lịch ngày âm cùng các câu Danh ngôn rất hay</description>
+		<description>Hoạt động trên Màn hình chính và Màn hình khoá</description>
+		<description>Yêu cầu cài Xen HTML để sử dụng</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>AmLichVaDanhNgon.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>
