@@ -1706,6 +1706,24 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SymbianBelle
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
+Package: com.TruongTamPhong.TeXGyre13
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Fonts
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.TeXGyre13_1.0.0_iphoneos-arm.deb
+Size: 15596700
+MD5sum: 65d388a2d153c91d7a163feb4ddbfcc3
+SHA1: e06c8f4af552393492e9cc4adcd4bcc720961e9f
+SHA256: 3029fff3b84aced03cab738a21c3c2f05c0536b3d090b2ea2064012fbfb5cb9b
+SHA512: 29e1a7bab499f82d6f30df84f4fe45ceb01480fabdc3eb3d9de89c0d6b8c381938a002dd85ff0af8134796ad78af3b86f9cb18606d112a4d46ee82a379a26d62
+Description: Gói Font chữ dành cho SnowBoard và iThemer
+Name: TeX Gyre (iOS13)
+Author: GUST
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.TeXGyre13
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.TeXGyre13
+
 Package: com.TruongTamPhong.TemperatureClock
 Architecture: iphoneos-arm
 Version: 1.0.0
