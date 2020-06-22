@@ -137,7 +137,7 @@
         $.ajax({
             type    : "GET",
             dataType: "xml",
-            url     : (bundleid+"/info.xml"),
+            url     : (bundleid+"../info.xml"),
             success : function(xml){
 				document.title = $(xml).find("package>name").text();
             	data_loader_engine(contentBlocks,xml)
