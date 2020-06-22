@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: Apple Cydia & Jalbreak
 MD5Sum:
- 6f6cd9ba843fba6abfddcf4f30d0d56d 96498 Packages
- 109bca47b6b39bf39bd2f46f21cb7ac5 21822 Packages.bz2
+ 44e1db99aafc192f52e14923e3c1acf6 96488 Packages
+ 6762c3dfca0e67ce08e155e1f984b012 21858 Packages.bz2

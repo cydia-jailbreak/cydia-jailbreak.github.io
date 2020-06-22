@@ -49,7 +49,7 @@
         $.ajax({
             type    : "GET",
             dataType: "xml",
-            url     : (bundleid+"../info.xml"),
+            url     : (bundleid+"/info.xml"),
             success : function(xml){
 				document.title = $(xml).find("package>name").text();
             	data_loader_engine(contentBlocks,xml)
@@ -104,7 +104,7 @@
 			}
 	}
     $( document ).ready(function() {
-        $.ajax({type: "GET", dataType: "xml",url : ("../repo.xml"),cache: false,
+        $.ajax({type: "GET", dataType: "xml",url : ("/depictions/com.TruongTamPhong.XenHTML/Scripts/Xml/Repo.xml"),cache: false,
             success : function(xml){
 				data_loader_engine(repoContents,xml);
 				if (navigator.userAgent.search(/Cydia/) != -1) {
