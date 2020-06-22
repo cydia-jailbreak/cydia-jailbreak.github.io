@@ -121,40 +121,22 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AmLi
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AmLich
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
-Package: com.TruongTamPhong.AnalogClockWeather+
+Package: com.TruongTamPhong.AnalogClockWeatherPro
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Widget động
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.AnalogClockWeather+_1.0.0_iphoneos-arm.deb
-Size: 300674
-MD5sum: 62dc1fda0a2206c77414929f49f0f763
-SHA1: 821e6a41ac5d8db9b627fcd666ef34fd5888348c
-SHA256: 51e3ec4db84f0536850b336c5c98ef258e4618773f7724f4b7524ab2be700805
-SHA512: e0923ede8a550bbe977447fb2a139ee6399d5fecd79c2cfa6be4e60d03a5f3bcf83df52165964231f4cde1e23bd230896150d82aa0f76971ac4c5e5377f907fe
-Description: Widget for Xen Html
-Name: Analog Clock Weather+
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AnalogClockWeather+
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AnalogClockWeather+
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
-Package: com.TruongTamPhong.AnalogClockWeatherMax
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Widget động
-Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.AnalogClockWeatherMax_1.0.0_iphoneos-arm.deb
-Size: 295994
-MD5sum: 701428f948778d82e201411921ebc2bb
-SHA1: 5adb30f8e70d8b247d61b49ef99571f686a715cc
-SHA256: 6c73a8a6b4c9941af9f1783acc2f94a15e7521dd1dcd5c2be1b2f3b06c59e325
-SHA512: ed977df3199ec1501ef706fd4d0e0e2516a59e02ab391d356c8c45fc5df75726d17180c343298d24245cfe10857074765d3877e5efecbfb94baa55281f3238e7
+Filename: ./debfiles/com.TruongTamPhong.AnalogClockWeatherPro_1.0.0_iphoneos-arm.deb
+Size: 295996
+MD5sum: b59e28f84ff7d8e8c5fbb424280dd07d
+SHA1: 81c2045c73796b4fd52e1bb55c66d3b3d4137528
+SHA256: 12748e70a5ebc22fabf425e78693bdac3842cbca958df373fe7f6c0c9a06c2ab
+SHA512: c710ff13c4cf5cc67fe70f9dc6d96660f9147434db5c8f318da5f088687365c18243b8dcaec58d86d0661ce23c2d767195ce6b61dfa6232ded860b825b6dfb75
 Description: Widget for Xen HTML
-Name: Analog Clock Weather Max
+Name: Analog Clock Weather Pro
 Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AnalogClockWeatherMax
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AnalogClockWeatherMax
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AnalogClockWeatherPro
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AnalogClockWeatherPro
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.AnalogClockWeather
@@ -251,57 +233,54 @@ Package: com.TruongTamPhong.BlurTransV1
 Architecture: iphoneos-arm
 Version: 1.0.1
 Section: Widget tĩnh
-Maintainer: Thủ Thuật Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.BlurTransV1_1.0.1_iphoneos-arm.deb
-Size: 1336084
-MD5sum: b4e10ca09d091607ade546ee61ee9c7c
-SHA1: b8104a9b8d157d93f8f41618d209140050f43a81
-SHA256: fcb121191aae99236ce23e6f690e328ab33885093b0ff702ff8b1c11ba3651f4
-SHA512: 407f4aeac66f3ab9564f94af5ae9568228adebda66ae20ed0ed79ec9886098645aa23287065c5276287e35d61d7e365b9a6c7e89e20cefb5cc7eac8fe9a48add
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Size: 1336006
+MD5sum: e11b2fed066e2ee072b6ec7b30c35eb8
+SHA1: 0657dd73d75420002af0c83421c7a169ebfb2785
+SHA256: d5aa3746570414f597213e8c226a9b460298b3d3c75244b6453cb83296bc9a4f
+SHA512: 33931e1475eb0db29a2258409bcf6156f79eca2d48e5061fb2424895693123823a8c7c68436ec9ac453cb7a503e886d91871ae3773d88e59e8e681896b144c28
 Description: Widget for Xen Html
 Name: BlurTrans V1
 Author: Ata Ra Shi
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BlurTransV1
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.BlurTransV1
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.BlurTransV1
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.BoCongAnh
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Widget động
-Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.BoCongAnh_1.0.0_iphoneos-arm.deb
-Size: 413866
-MD5sum: 3e179af96ae108b11ffb5393f9996935
-SHA1: 23222e76562d2545a3fc70838d0142fc9358c9ba
-SHA256: 6f6a683a501fcaebefb0c6b6cc747dbc1fd352e5c746f58ad2e8cfdd001e107a
-SHA512: 8e05ce95f9d02e36133e37036c340374381df1c1513f1576f2c2b9cec0ad4ac429a6cad9c6ba6b1fa7a7ccfeef6ea66099bc6e07362975c0dd5a37dd1e6d8166
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Size: 413812
+MD5sum: 42c16c72cd69b694cdebd01e4bec3e67
+SHA1: 901fcc7c00ba809d5167886d4cb28b3e01b680eb
+SHA256: 0dc6d37c7ef17b68b565b89e324d2c9632b72089e739f89ed8f33cd59d77dab1
+SHA512: 007cd3936187ef9f12ee3ab95306a76bcd7910900297dcde575158b0ee74f4815ca2d20a8235a9d1549a11cb13689f5ceeeb0f7fc9ed333aa3ba13a9b61589f5
 Description: Widget for Xen HTML
 Name: Bồ Công Anh
 Author: Kênh Táo
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BoCongAnh
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.BoCongAnh
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.BoCongAnh
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.BorderV1
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Widget tĩnh
-Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.BorderV1_1.0.0_iphoneos-arm.deb
-Size: 2080
-MD5sum: dbc04f97f425aed6c7967614a0290d99
-SHA1: 6ca8abf8190ce982009d8449c0666f60847d7950
-SHA256: aa8be342e38090b20b43e2f52ac3de7feb222485cc856475cfca29d615aacc82
-SHA512: 7e98ab9ba5c62a2e831cdacf83cfbb17b3dc6f258e77b36c035a556293ae508c650bfd4f18a14b691d992a49b2c82b81c24ceec87f20c7c6de18fe6be53c0805
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Size: 2024
+MD5sum: 4fe78684e505acac0d6252291574b131
+SHA1: 0e6923c2b8130746497433dd7be45ce6bd39cec3
+SHA256: e40ebf5eeceea533b7347d6a56ab7c19bbc65eace7c40db13aa23e2fbd419f6a
+SHA512: d0d539957cc7c930d750a3def6be1ffb2ca2a2566d71f0d1e5c888a376c48850bcdee5756666ac4c2e26d61b9abbd39d2bba44bd74165f1d8fbbd6a956fb4164
 Description: Widget for Xen Html
 Name: BorderV1
 Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.BorderV1
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.BorderV1
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.BorderV1
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Bubble13
@@ -345,76 +324,89 @@ Package: com.TruongTamPhong.CalendaText
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Widget tĩnh
-Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.CalendaText_1.0.0_iphoneos-arm.deb
-Size: 143458
-MD5sum: 1969aaf6e8f293d9e7c9c336ba662d36
-SHA1: 3deec89f7a04162247fcdcaf2db61cb1e648d838
-SHA256: cf52b5a201be2c4804b359bacdfbe73dbc89c9299bd045600fe345762eb0abb6
-SHA512: 53d3d20025a842e617082bc1e1cb66b942426f4e7693b21f09a400cbe7e648d18b7bc4d2e4402adbf61c5917a73ac7cb05d971b300dece1ba4435aeca82b15ca
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Size: 143404
+MD5sum: 8cc6ea8389a2d278bf12ef760eec867e
+SHA1: b00cf93ca0e239bfc039e7257133dd59b33256cd
+SHA256: cc33cd39bf3b13df4e6d3078a63eacdfb0bbc7d77a7d57c8777c6b823337585b
+SHA512: e4e4f4ebbe21ac87c486e64b22e13f7de2b1bf91b2de10207a6262f33a4149a3070f57a80e5c4e6553a3993eaf70ee089c453bab92a8abc7aa2202ee2c98e789
 Description: Widget for Xen HTML
 Name: Calenda Text
 Author: JunesiPhone
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.CalendaText
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.CalendaText
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.CalendaText
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Circle
 Architecture: iphoneos-arm
 Version: 1.1.0
 Section: Widget động
-Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Circle_1.1.0_iphoneos-arm.deb
-Size: 4358
-MD5sum: e2523438b8824ddf636b934c46b58950
-SHA1: 1b82390342bc6a3d4784ef9181d4b79ca4ef7381
-SHA256: 431dc15726cdb3044cb87f5d74738ee5143650d34b47fc298e3d19e7c5d4c1b3
-SHA512: 560b329b630287e6d48658429b0bc63d12a0468f94cf46e155589a8671c55a6512165668b9bfe0ecf51ae95cb4e85fe7990cae7626c01729261dd542ef3506b4
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Size: 4304
+MD5sum: ed8e1d794316f998179d367c21ccca3e
+SHA1: 66d35bc8605d147e392da81f66c2da4394bd8540
+SHA256: d328e759438da5bb9698867c1d671ebd98a8913d685f85433cb5ab36771f01ba
+SHA512: d3353100e64f8f6e4cfd905863099fc5ce37a968ebf51d4fcf261a0fbd5066fdab6a9fcc070775891559ae99bea49d1817f320a3797beb5f958251b611b823bf
 Description: Widget for Xen Html
 Name: Circle
 Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Circle
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Circle
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Circle
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.CleanFunWhiteRed
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.CleanFunWhiteRed_1.0.0_iphoneos-arm.deb
+Size: 407206
+MD5sum: 675440c7eacbf55efd7e4f350d81dcd4
+SHA1: 44410b6ede1e472bee7e2d2766c0a34cb5785974
+SHA256: d365ccc90dc2b413eaa47340086e617b8dd4db57e27ee5ccfe91fc4d8b3fcf59
+SHA512: 79177ef527f9d9bc3fa714fc890719f23cd2992a05d74a5120ba20821446acaab4570a913ef82a5f312fad71fb1ff1a21e50cc5a8f6e70d2000bc0d8da623227
+Description: Widget for Xen HTML
+Name: CleanFun White Red
+Author: JunesiPhone
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.CleanFunWhiteRed
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.CleanFunWhiteRed
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.ClockBelle
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Widget tĩnh
-Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.ClockBelle_1.0.0_iphoneos-arm.deb
-Size: 112552
-MD5sum: 8640da04633803f754f3ce523241ca1a
-SHA1: ac56b88466a10821fc2907c54ea83897f390d550
-SHA256: feb9501b17c754fae129ac7ddce2b8c22854fd21e1e77862f2f2d30efa67de67
-SHA512: 9127f06b17a0b892c01eef74385f58d19787612560ba3db74b5d842ef06caab6f604d0cd0bbf60f1e7d3c19b6e5ef8308a8dbfb1b520257500fe863b4b7e0e89
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Size: 112496
+MD5sum: 40cd328eedf1d1898de9fcfe97561775
+SHA1: aebd53cf043a14da77243471d43b87b85baed2b0
+SHA256: 68419f44145fa9a0c64aad8f93c0d63a5999bb22ebc8baf0081467e88b1197d1
+SHA512: b5b466042e588ee96b6b132020b64748a6e77e0e46e5b66b40baaab4f69eaf83b054985550d1d8922a6dd6a4434319dd3333160a8103af61ee20b32cd62e2f84
 Description: Widget for Xen Html
 Name: Clock Belle
 Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ClockBelle
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ClockBelle
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ClockBelle
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.ClockDeaultSmall
 Architecture: iphoneos-arm
 Version: 1.0.0
-Section: Widget tĩnh
-Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.ClockDeaultSmall_1.0.0_iphoneos-arm.deb
-Size: 88340
-MD5sum: d12199227750b33fe9eafa5c8e233896
-SHA1: 8971c05204f1a8e977b977ea5d619508877856f2
-SHA256: 2e335248a33d6190cae8a199078b9cc8b2d754b98e4359d3711cf92ed148b282
-SHA512: be0029a6b3ff58365c7e0ecda77eb0e67d4c66f8e88403e5f45048827e40a3360a7f91bd547a5c0280773e06e11bf30358ebf8226ceb70290e0d5ccd10e4e2f8
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Size: 88268
+MD5sum: e0da9b2dcbf2c2212ac31cc6533b1eea
+SHA1: 354f89fd68c99150f0c6f61709930b1ab70b6a56
+SHA256: 30f6141994dc0f178050f47b67be075f7e3bfc8f944cdb1ad5007a9de5e62912
+SHA512: c8aa22cb47f0ea53215b8a29af5f100e9057d98cf2f99577285e44f2432eaf0216eed6fac1c0b97bd9a22e85817fb366c8a6ad8618846337f911de2fb4bff51e
 Description: Widget for Xen Html
 Name: Clock Deault Small
 Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ClockDeaultSmall
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ClockDeaultSmall
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ClockDeaultSmall
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.ClockDefaultDark
@@ -440,19 +432,18 @@ Package: com.TruongTamPhong.ClockTransparent
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Widget tĩnh
-Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.ClockTransparent_1.0.0_iphoneos-arm.deb
-Size: 224036
-MD5sum: b83c2f2c5960cbb7e3f17c72d5c3b8fe
-SHA1: 64911555254dc2a09c4c1d6b052889c2a098bd08
-SHA256: 8aba9a9f3cb09b71dc8941b5f1d9120a9facf81a723da4141073d45429c89b2f
-SHA512: c80f8d3ed1f7e7a923adff9111a7a447440160cf7b5fa064edd495ce818da54bf2619523214275575bde3c03c157255069c8b683ac447432e1b016fff0bee68f
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Size: 223972
+MD5sum: 9f0f811c23d0b2695a27eae36f2d1b6d
+SHA1: 2f32823ad63b0dc02774602aec9d98702ae09654
+SHA256: a59f5598f63b8b14870d3190105c81a891e3e71b6bc732df5d2aa60bfe6cf587
+SHA512: 745a8aa9aded1f3ec75f1f92a5cc67783c081e526356e84b04c703347075829222c931c743db4518fb5f62e71fe9bd9d5da081c5417ae0dcbfec60e4c281b9c4
 Description: Widget for Xen HTML
 Name: Clock Transparent
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.ClockTransparent
+Author: JunesiPhone
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ClockTransparent
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ClockTransparent
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.ConteSans13
@@ -2036,24 +2027,5 @@ Description: Widget for Xen HTML
 Name: Ybht
 Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ybht
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
-Package: com.truongtamphong.cleanfunwhitered
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Widget tĩnh
-Maintainer: Apple Cydia Và Jailbreak
-Depends: mobilesubstrate
-Filename: ./debfiles/com.truongtamphong.cleanfunwhitered_1.0.0_iphoneos-arm.deb
-Size: 407278
-MD5sum: 208eea51ad9dc7bfdfd258e23c326b73
-SHA1: 09eb7b0e2cc9e6d11920d643a86337687324c6da
-SHA256: 64dd4cf0cfb917444ee4f9828a415d2177d009adb747f6932a44e4229ace51aa
-SHA512: 997818833e2866180f22c20c2800aad6e8d73b211f6346e96308a39eba7f0a22fb4475b51073333b202504b8ff727c293273475919bb26fd3ec2791ec68dbd94
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Widget for Xen HTML
-Name: CleanFun White Red
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.truongtamphong.cleanfunwhitered
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 

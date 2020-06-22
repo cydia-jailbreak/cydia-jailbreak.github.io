@@ -1,0 +1,37 @@
+<package>
+	<id>com.TruongTamPhong.BorderV1</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Khung viền tạo kiểu dáng theo ý của bạn</description>
+		<description>Hoạt động trên Màn hình chính và Màn hình khoá</description>
+		<description>Yêu cầu cài Xen HTML để sử dụng</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>Border1.png</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>Border2.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+	<change>Các cài đặt của tiện ích này bao gồm</change>
+	<change>Kiểu viền: dashed (đứt đoạn) có thể thay bằng solid (liền mạch)</change>
+	<change>rgba = mã màu + số cuối, nhỏ nhất = 0 là không màu, hoặc lớn nhất = 1 là đục tối đa. (Ví dụ: rgba(255,255,255,0.5) thì 255,255,255 là mã màu trắng còn 0.5 là độ mờ đục 1 nửa) 1px = độ dày</change>
+	<change>Màu nền (giống như Màu viền trên)</change>
+	<change>Độ bo góc (Bo tròn các góc, nhỏ nhất = 0, lớn nhất = 145)</change>
+	<change>Chiều rộng và Chiều cao tất cả đều được tùy chỉnh trong cài đặt</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,30 @@
+<package>
+	<id>com.TruongTamPhong.Circle</id>
+	<name>Trương Tam Phong</name>
+	<version>1.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tiện ích hiển thị hiệu ứng của những chấm nhỏ hình tròn chạy quanh viền điện thoại</description>
+	</descriptionlist>
+		<description>Hoạt động đầy đủ trên iPhone X và Xs</description>
+	</descriptionlist>
+		<description>Yêu cầu cài Xen HTML để sử dụng</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>Circle.mp4</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+	<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>
