@@ -1050,6 +1050,24 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LgCl
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LgClockPro
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.LgClockPro
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widget tĩnh
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.LgClockPro_1.0.1_iphoneos-arm.deb
+Size: 531940
+MD5sum: 5bb5641539a50439e1785be5bca3f75d
+SHA1: 34e636b4a925e12caad0c92b0590e11134189779
+SHA256: 198aa083d445edfae7860a8f437a0524ed1e657aa0dc5993625f2118f3186358
+SHA512: dadc1ad17a91a3239805dee808e18b80a0138dafe4a7faef549533fd3a56736e6acf54d7e626a42b4713594f114f76b43f5bad99b2e654b15c7d672aecdab2a5
+Description: Widget for Xen HTML
+Name: Lg Clock Pro
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LgClockPro
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LgClockPro
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.LgClock
 Architecture: iphoneos-arm
 Version: 1.0.0
