@@ -446,6 +446,24 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Cloc
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ClockTransparent
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.Colorido
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Colorido_1.0.0_iphoneos-arm.deb
+Size: 5593320
+MD5sum: bb179e1addc6d1502c5bceb2a6191ced
+SHA1: 1946fcfbb2bb57baf376dce60c71bbfd256d908a
+SHA256: 5ec426bb5e0568c511cb09898dab7d29a588e046405949552df9a0fee7ddf398
+SHA512: 76d51bc4ebe12e7cec0022094c049eaf297a3e87d5693d1364b019b0f9213ad7c7fce1835149e94ba3d3c76309e8e860c8cf262a4da4e2d2b6eba96f422bc04b
+Description: Widget for Xen HTML
+Name: Colorido
+Author: wrussell1989
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Colorido
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Colorido
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.ConteSans13
 Architecture: iphoneos-arm
 Version: 1.1.0

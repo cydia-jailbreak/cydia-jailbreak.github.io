@@ -1,0 +1,28 @@
+<package>
+	<id>com.TruongTamPhong.Colorido</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Thời tiết động tuyệt vời với những hiệu ứng chuyển động như mây bay, sao bay, bồ công anh, đĩa bay, mặt trăng, mặt trời, và khinh khí cầu. Không gây hao pin nhiều và đặc biệt không gây nóng máy</description>
+		<description>Hoạt động trên Màn hình chính và Màn hình khoá</description>
+		<description>Yêu cầu cài Xen HTML để sử dụng</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>Colorido.mp4</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+	<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>
