@@ -1235,6 +1235,23 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.MainLed
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.MusicAndCalendar
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.MusicAndCalendar_1.0.0_iphoneos-arm.deb
+Size: 238504
+MD5sum: bd9d75bc119579f876083354d991ad88
+SHA1: d1f3e37bbc7e2ce842d7fe18ead548e2a7617d56
+SHA256: 090969fb0f554c52fbd5c359a2b7461b3cd7201d0fd49e5537e2589f856400f7
+SHA512: 97ea0c7fe6e70705eb45e87f14380c7fe425721e13acfca070fb648d7c23f15f1fad7c645fd7368ba2fa50a2f065efd788924ccfcd540a94050b0f7d8cfd659d
+Description: Widget for Xen Html
+Name: Music & Calendar
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicAndCalendar
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicAndCalendar
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.MusicAndWeatherDark
 Architecture: iphoneos-arm
 Version: 1.0.8-1

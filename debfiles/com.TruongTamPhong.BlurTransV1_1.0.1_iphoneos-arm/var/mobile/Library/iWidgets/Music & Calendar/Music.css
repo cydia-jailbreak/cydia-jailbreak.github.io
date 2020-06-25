@@ -1,0 +1,232 @@
+body{
+   margin:0;
+   padding:0;
+   font-weight:100;
+   text-shadow:1px 1px 1px rgba(100,100,100,0.4);
+   font-family:TP;
+   color:#f3f3f3;
+   letter-spacing:1;
+}
+
+#boxTwo {
+   position:absolute;
+   background-color: #222;
+   border-radius: 25px;
+   top: 420px;
+   left: 95px;
+   height: 265px;
+   width: 224px;
+   z-index: 0;
+}
+
+#Nền_Nhạc{
+   position:absolute;
+   background-color: #777;
+   top: 490px;
+   width: 224px;
+   height: 205px;
+   bottom: 120px;
+   left: 207px;
+   transform: translateX(-50%);
+   border-radius: 25px;
+   -webkit-backdrop-filter: blur(var(--bl));
+   box-shadow: inset 0px 4px 25px 0px rgba(0,0,0, 0.5),
+   inset 0px 6px 20px 0px rgba(0,0,0, 0.17), inset 6.3px 6.3px 10.6px rgba(0,0,0, 0.03), inset 0px 2px 6px 0px rgba(0,0,0, 0.5), inset 0px 0px 6px 0px rgba(0,0,0, 0.2);
+   z-index: 20;
+}
+
+#Ảnh_Bìa_Bài_Nhạc{
+   position:absolute;
+   border-radius: 25%;
+   width:80%;
+   height:80%;
+   left: 10px;
+   top: 65px;
+   -webkit-box-shadow: 0 0 8px 2px rgba(27,27,27, 0.8);
+   border: 1px solid rgba(200,200,200, 0.8);
+   transform:translate(-50%, -50%);
+   transition: right 0.5s ease-in-out;
+   opacity:1;
+}
+
+#Tỷ_Lệ_Ảnh_Bìa_Bài_Nhạc{
+   position:absolute;
+   width: 120px;
+   height: 120px;
+   right:0px;
+   transition: right 0.5s ease-in-out;
+}
+
+#Thông_Tin_Bài_Nhạc{
+   position: absolute;
+   width: calc(115% - 25px - 120px);
+   left: 28px;
+   text-align: center;
+   top: -57px;
+   font-family: TP;
+   transition: top 0.5s ease-in-out;
+}
+
+#Tên_Bài_Nhạc, #Tên_Nghệ_Sĩ{
+   width: 150%;
+   font-size: 14px;
+   color: #fff;
+   text-align: left;
+}
+
+#Tên_Bài_Nhạc{
+   position: relative;
+   white-space: nowrap;
+   height:24px;
+   color: #fff;
+   text-align: center;
+   overflow:hidden;
+}
+
+#Tên_Nghệ_Sĩ{
+   position: relative;
+   font-size: 12px;
+   top: -7px;
+   color: #bbb;
+   text-align: center;
+}
+
+#weatherIconMus{
+   position:absolute;
+   border:1px solid rgba(0,0,0,.30);
+   border-radius:25px;
+   width:30px;
+   left:10px;
+   bottom: 50px;
+   filter: opacity(.5) drop-shadow(0 0 0 rgba(255,255,255, 1));
+   display:none;
+}
+
+#Bộ_Điều_Khiển_Nhạc{
+   position:absolute;
+   width:150px;
+   height:30px;
+   left: 116px;
+   bottom: 18px;
+   transform:translateX(-50%);
+   transition: bottom 0.5s ease-in-out;
+}
+
+[class^="zeek-"]:before,[class*=" zeek-"]:before {
+   font-family: 'P' !important;
+   font-style: normal !important;
+   font-weight: normal !important;
+   font-variant: normal !important;
+   text-transform: none !important;
+   speak: none;
+   line-height: 0;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}
+.zeek-buttonnext:before {
+   content: "\61";
+}
+.zeek-buttonpause:before {
+   content: "\62";
+}
+.zeek-buttonplay:before {
+   content: "\63";
+}
+.zeek-buttonprev:before {
+   content: "\64";
+}
+
+#prev{
+   position: relative;
+   top: 0px;
+   left: 10px;
+   background: rgba(0,0,0,0);
+   width:28px;
+   height:28px;
+   padding-top: 7px;
+   padding-left: -1px;
+   font-size: 12px;
+   text-align: center;
+   color:#ddd;
+   -webkit-tap-highlight-color:rgba(0,0,0,1);
+   border-radius: 100%;
+   text-align: center;
+}
+
+#playPause{
+   position: absolute;
+   background: #bbb;
+   color: #000;
+   top: -3px;
+   left:73px;
+   width:35px;
+   height:35px;
+   padding-top: 19px;
+   padding-left: 2px;
+   font-size: 17px;
+   transform:translateX(-50%);
+   -webkit-tap-highlight-color:rgba(0,0,0, 1);
+   border-radius: 100%;
+   text-align: center;
+}
+
+#next{
+   position: relative;
+   top: -27px;
+   left: 109px;
+   background: rgba(0,0,0,0);
+   width:28px;
+   height:28px;
+   padding-top: 7px;
+   padding-left: 3px;
+   font-size: 12px;
+   text-align: center;
+   color:#ddd;
+   -webkit-tap-highlight-color:rgba(0,0,0,1);
+   border-radius: 100%;
+   text-align: center;
+}
+
+#musicArtGen{
+   position:absolute;
+   border-radius:100%;
+   width:100px;
+   right:10px;
+   top: 160px;
+   transform:translateY(-50%);
+   display:none;
+}
+
+.morph{
+   box-shadow:inset -0px -1px 3px 0px rgba(255,255,255, 1), -6.3px -6.3px 10.6px rgba(0,0,0, 0.03) inset, inset 2px 2px 5px 0px rgba(51,51,51, 0.15), 6.3px 6.3px 10.6px rgba(100,100,100, 0) inset, 0px -1px 2px 0px rgba(0,0,0, 0), 0px 2px 2px 0px rgba(0,0,0, 0.5);
+}
+
+.marquee {
+   margin: 0 auto;
+   -webkit-animation: marquee 20s linear infinite;
+}
+
+@-webkit-keyframes marquee {
+	0%{
+		text-indent: 100%;
+	}
+	40%{
+		text-indent: 0;
+	}
+	60%{
+		text-indent: 0;
+	}
+	100% {
+		text-indent: -120%;
+	}
+}
+
+@font-face{
+    font-family: 'P';
+    src:url(Scripts/Fonts/Phong.ttf);
+}
+
+@font-face{
+    font-family: TP;
+    src:url(Scripts/Fonts/TamPhong.ttf);
+}

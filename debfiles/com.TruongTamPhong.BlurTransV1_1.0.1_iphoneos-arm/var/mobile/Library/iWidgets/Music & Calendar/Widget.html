@@ -1,0 +1,68 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Calendar</title>
+<meta name="viewport" content="width=320, height=568, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" href="Music.css" type="text/css" media="screen"/>
+<script type="text/javascript" charset="utf-8" src="Scripts/Js/MusicClass.js"></script>
+</head>
+<body onload="init()">
+<img id="musicArtGen" src="Scripts/Js/Music.js" onClick="openWid()"></div>
+<div id="Nền_Nhạc" class="closed morph">
+<div id="Tỷ_Lệ_Ảnh_Bìa_Bài_Nhạc"><img id="Ảnh_Bìa_Bài_Nhạc" src="Scripts/Js/Music.js" onClick="openApp()"></div>
+<div id="Thông_Tin_Bài_Nhạc">
+<div id="Tên_Bài_Nhạc">Chưa phát</div>
+<div id="Tên_Nghệ_Sĩ">Không có nghệ sĩ</div></div>
+<table style="border:none;">
+<tr id="Bộ_Điều_Khiển_Nhạc" style="border:none;">
+<td id="prev" class="zeek zeek-buttonprev morph" onclick="prev()" ></td>
+<td id="playPause" class="zeek zeek-buttonplay morph"onclick="playPause()"></td>
+<td id="next" class="zeek zeek-buttonnext morph"onclick="next()"></td>
+</table>
+<img id="weatherIconMus" src="Scripts/Weather/Dunno.png"onClick="openWid()"></div>         
+<div id="boxTwo"></div>
+</script>
+<script>
+(function(){
+    'use strict';
+    if (window.innerWidth === 320) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=0.85, maximum-scale=0.85, user-scalable=0');
+    } else if (window.innerWidth === 414) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=1.104, maximum-scale=1.104, user-scalable=0');
+    } else if (window.innerWidth === 425) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=1.133, maximum-scale=1.133, user-scalable=0');
+    } else if (window.innerWidth === 432) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=1.152, maximum-scale=1.152, user-scalable=0');
+    }
+}());
+(function(){
+    'use strict';
+    if (window.innerHeight === 812) {
+        document.getElementById("Widget").style.top = "50px";
+    } else {
+        document.getElementById("Widget").style.top = "0px";
+    }
+}());
+</script>
+		<meta name='viewport' content='width=device-width, initial-scale=1'>
+		<link rel="stylesheet" href="Reset.css">
+		<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Roboto:400|Roboto+Condensed:400|Fjalla+One:400'>
+		<link rel="stylesheet" href="Calenda.css">
+	</head>
+	<body id="myBody">
+		<script type="text/javascript" charset="utf-8" src="config.js"></script>
+			<div id="boxOne"></div>
+		<div class="calendar-wrapper">
+			<div id="divCal"></div>
+		</div>
+		<script  src="Scripts/Js/Index.js"></script>
+		<script>
+			(function() {
+				document.getElementById("myBody").style.fontSize = CalFontSize;
+				document.body.style.color = NumberColor;
+			})();
+		</script>
+	</body>
+</html>
