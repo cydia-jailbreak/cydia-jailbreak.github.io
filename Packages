@@ -395,13 +395,13 @@ Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 Package: com.TruongTamPhong.ClockDeaultSmall
 Architecture: iphoneos-arm
 Version: 1.0.0
-Depends: mobilesubstrate
+Section: Widget tĩnh
 Filename: ./debfiles/com.TruongTamPhong.ClockDeaultSmall_1.0.0_iphoneos-arm.deb
-Size: 88268
-MD5sum: e0da9b2dcbf2c2212ac31cc6533b1eea
-SHA1: 354f89fd68c99150f0c6f61709930b1ab70b6a56
-SHA256: 30f6141994dc0f178050f47b67be075f7e3bfc8f944cdb1ad5007a9de5e62912
-SHA512: c8aa22cb47f0ea53215b8a29af5f100e9057d98cf2f99577285e44f2432eaf0216eed6fac1c0b97bd9a22e85817fb366c8a6ad8618846337f911de2fb4bff51e
+Size: 88258
+MD5sum: 343131e7e55e29340983a27aed5e09b1
+SHA1: 0b685c5d1b8fc2b1f918d42378df15f44f03cdf9
+SHA256: dde4295086b0134cfeee9f735b2cd18696a675cbbd535d309bd7ed3117315b2e
+SHA512: edf7ff92a9dfdaa44d09f3ec9ed09cae9ee192d5b8a57a787266f956609b90bbc7a6da330ff25135d075132aa3d9299f98b89ab12a1b13790045f60140569241
 Description: Widget for Xen Html
 Name: Clock Deault Small
 Author: Trương Tam Phong
