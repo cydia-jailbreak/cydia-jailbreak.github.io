@@ -1237,14 +1237,14 @@ Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.MusicAndCalendarDark
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 1.0.1
 Section: Widget tĩnh
-Filename: ./debfiles/com.TruongTamPhong.MusicAndCalendarDark_1.0.0_iphoneos-arm.deb
-Size: 267394
-MD5sum: 85603ba861018d2e36b775f16386f699
-SHA1: c315ab1262cd20db85828839efe4688a8cae86b6
-SHA256: 9ce904d03d7efdad2e6f47e10ed4d5b4e253ef1e947e242fbc6ea35badcfcea7
-SHA512: 96cc5d55c5975e197e701da71d6cc5eacb87cc645bc9e6f6953102066824c448af146311f8c4d2d56f8164a5c190e3cbf626ffbec5b6e7dc4157d1c8644d12e5
+Filename: ./debfiles/com.TruongTamPhong.MusicAndCalendarDark_1.0.1_iphoneos-arm.deb
+Size: 267410
+MD5sum: 913d0dff6ce156954306e3c6291e80d9
+SHA1: df46c5d4e392cb6324e9d1dbc479d28f166d8093
+SHA256: 0daccfb744c2d7b42c2084f43a0f58d1ff8d9adfd531bde973ac440a67234c32
+SHA512: 6ac7c93294d7c783a70d95579ce3e751a7b9fedac46194bee873fc8a3d40d404403c542b299b2bff28fabb9a021f7572bb0a92bd7df8dda24958732acd847e8c
 Description: Widget for Xen Html
 Name: Music & Calendar Dark
 Author: Trương Tam Phong
