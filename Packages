@@ -1299,6 +1299,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Musi
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicAndCalendarDark
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.MusicAndCalendarDark
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.MusicAndCalendarDark_1.0.5_iphoneos-arm.deb
+Size: 269444
+MD5sum: 1539b3f1dc6b84326739b456de24505e
+SHA1: e490d3e3c3f9ce501cd9800e4b9c88e534135bdd
+SHA256: 4ed889a9c559b3644852b79697a19a1b4d30862cff5b32024a7186a361337fa6
+SHA512: 8b7d73fc152e743a10eb78e6b009a3de8de1c38e5df791fd41c5c2454a9d6eab89bd730c3b74c809fd146a5e57f6bc3d3dd040d3df4d31c8d1e7a5d51ab659f1
+Description: Widget for Xen Html
+Name: Music & Calendar Dark
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicAndCalendarDark
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicAndCalendarDark
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.MusicAndCalendar
 Architecture: iphoneos-arm
 Version: 1.0.0

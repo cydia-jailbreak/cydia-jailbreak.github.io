@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>1.0.5</version>
+        <change>Tách riêng thanh nổi 3D cho lịch và tiêu đề bài nhạc</change>
+        <change>Tạo độ nổi cho Lịch và Pin</change>
+    </changes>
+    <changes>
         <version>1.0.4</version>
         <change>Thêm thanh nổi 3D cho lịch và tiêu đề bài nhạc</change>
         <change>Thêm đổ màu xanh đen tím cho ảnh bìa bài nhạc</change>
