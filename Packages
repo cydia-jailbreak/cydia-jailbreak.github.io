@@ -676,38 +676,34 @@ Package: com.TruongTamPhong.FullHouseGold
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Widget tĩnh
-Maintainer: Apple Cydia Và Jailbreak
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.FullHouseGold_1.0.0_iphoneos-arm.deb
-Size: 5944
-MD5sum: 335c7e66e56c82989dd0a35dae12cb36
-SHA1: 007cc5b2cee8d029ce6820c98fc866f77b2c8391
-SHA256: df60051615fdc27c696e1d45b4e2ea271d50f302dd3544cf8a6cd503e35141b2
-SHA512: e267a079f8a6db1388b573feb254f393a2942042ab0107eb767796df0a6d2bab0bcf0d3da9813bd0c6bf671a9bcb16f155b2c6d664dd05c93c3c42682c183c73
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Size: 5872
+MD5sum: da8e81c29bfb82497cf81baced2e60f8
+SHA1: 781d6bb32092873953611a416f2c325d0cd9b452
+SHA256: 994e1535b966fc95ae6578fc914d5b48f483ff3e1836d7a31cc98b228546541e
+SHA512: d1f3a75a0813cc29aac3247191c13ed82aadcf092408438bb458341b98d0e3742810c2843c80121b8c8d5ec518893439e0ad769e51529611500701d9ff7fe522
 Description: Widget for Xen Html
 Name: Full House Gold
 Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FullHouseGold
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FullHouseGold
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FullHouseGold
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.FullHouse
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Widget tĩnh
-Maintainer: Apple Cydia Và Jailbreak
-Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.FullHouse_1.0.0_iphoneos-arm.deb
-Size: 6048
-MD5sum: 2b65ef99ed5265f1a333abebb229391d
-SHA1: 7e44bbe87301fe2baacd4340908d1a7cd9c95f59
-SHA256: d2d3f37b486738fe94c30b3fdca6c4838832987d14fd8abca23ece9d642f5445
-SHA512: 8f0662f703cca4a07a676cf5e5e9cb9998804d8fe14594f74fd580bade0129d785ee51397dfd7d01adedf29eab72e45d117e78fabd146e04652e6904e82ad9b0
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Size: 5972
+MD5sum: 24b77fa8f1a1ce2a3726c266eec29716
+SHA1: a63ea75bb69f9580bc417ad7323b8292c004880d
+SHA256: 186c0cd08162682e235fa51e64fa131cdcf99e52911064cebfa538dc17cb5adf
+SHA512: 99ed4957dff8d6a92e9fc38488288706705afe7500093eda20fc2d44a1c5c1c62a8748c136957d121d033cb21c3492178564a7dd1729aeec99fb716e62d611fe
 Description: Widget for Xen Html
 Name: Full House
 Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.FullHouse
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FullHouse
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FullHouse
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Geometric12
