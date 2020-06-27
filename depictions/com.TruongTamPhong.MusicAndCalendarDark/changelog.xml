@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>1.0.3</version>
+        <change>Thêm hiển thị Pin</change>
+        <change>Thu nhỏ nền thứ cấp và khung đặt ứng dụng</change>
+    </changes>
+    <changes>
         <version>1.0.2</version>
         <change>Sửa lỗi không hiển thị ảnh Album khi phát</change>
     </changes>

@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.MusicAndCalendarDark</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -22,7 +22,8 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-	<change>Sửa lỗi không hiển thị ảnh Album khi phát</change>
+        <change>Thêm hiển thị Pin</change>
+        <change>Thu nhỏ nền thứ cấp và khung đặt ứng dụng</change>
 	</changelog>
 	<links></links>
 </package>
