@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.MusicAndCalendarDark</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.5</version>
+	<version>1.0.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -22,8 +22,8 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-        <change>Tách riêng thanh nổi 3D cho lịch và tiêu đề bài nhạc</change>
-        <change>Tạo độ nổi cho Lịch và Pin</change>
+        <change>Chỉnh lại khung đặt ứng dụng thêm rõ ràng hơn</change>
+        <change>Chỉnh lại toạ độ của một số thứ cho cân đối hơn</change>
 	</changelog>
 	<links></links>
 </package>
