@@ -482,6 +482,24 @@ Author: Evelyn
 Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ConteSans13
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ConteSans13
 
+Package: com.TruongTamPhong.CrackTool4VietNam
+Architecture: iphoneos-arm
+Version: 4.0~beta10
+Section: Tweaks
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debfiles/com.TruongTamPhong.CrackTool4VietNam_4.0~beta10_iphoneos-arm.deb
+Size: 509902
+MD5sum: 1dbf6df0ce6be7a38e72fd32970e1f02
+SHA1: 09e4adb9d459937eacfedda908f99d18c9dce2b9
+SHA256: 1300bce3c97fb2599e437ec944fe4b20fd9dfda5212983974e3f76b5a995c1b0
+SHA512: 64e77d3c00360d851bfa82af04327db1a8944d817971e2b8df284118bceb1a9c3a7afaf42e1e5caae053f6bf55fa96d9645c8ce8466d80bfbac2966f33f8603b
+Description: Crack Tweaks on one click
+Name: CrackTool4 Việt Nam
+Author: julioverne
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.CrackTool4VietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.CrackTool4VietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.DanhNgon
 Architecture: iphoneos-arm
 Version: 1.0.0
