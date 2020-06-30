@@ -175,6 +175,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Ando
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Ando
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.AndroidCarbonMini
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.AndroidCarbonMini_1.0.0_iphoneos-arm.deb
+Size: 305708
+MD5sum: 018e1fecc6b98fd8cb78fa3d92b77931
+SHA1: 34a3a51accc8077c3125fae53bdcf762b0c96229
+SHA256: 50198145e8cb5b6a5b17f34829d97a75b3d5c77aa918ab6702b9bd46e7d58399
+SHA512: 1524c9284b9007dae89eade3c84369966d9f225273471ffb711de0cf7413c653a8d545d31e5582c2168fde1f59956517efe053f13fb13467a48f36afb4d22de8
+Description: Widget for Xen HTML
+Name: Android Carbon Mini
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AndroidCarbonMini
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AndroidCarbonMini
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.AppazeVietNam
 Architecture: iphoneos-arm
 Version: 2.1.1

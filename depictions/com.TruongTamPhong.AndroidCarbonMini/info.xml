@@ -1,0 +1,32 @@
+<package>
+	<id>com.TruongTamPhong.AndroidCarbonMini</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tiện ích hiển thị Lịch và Châm ngôn tuỳ chỉnh hoạt động trên Màn hình chính</description>
+		<description>Thiết lập tuỳ ý về Màu chữ cho từng phần, và kích cỡ phông chữ theo ý của bạn tại phần cài đặt</description>
+		<description>Yêu cầu cài Xen HTML để sử dụng</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>AndroidCarbonMini1.png</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>AndroidCarbonMini2.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+	<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>
