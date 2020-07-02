@@ -649,6 +649,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Fain
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Faint
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.Faint
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.Faint_1.0.1_iphoneos-arm.deb
+Size: 140414
+MD5sum: f8b30079fec618b6f0949edff72c5497
+SHA1: 614257988a216680e26b456291f2482fb2058905
+SHA256: 3ac01c35262f289f55236a8953bcf103ab61e8ee8e43c7d395ae24fdcebf7c8f
+SHA512: 166de0c110810f4aa42e6e02225bb16e4475d1c4d92de219004cb995d5ec4e2cb6aa4ff3c78ca04e0dc900fce216d42e1d75a24a1989260166ff71cad63b2fe8
+Description: Widget for Xen HTML
+Name: Faint
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Faint
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Faint
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.FlipSwitch
 Architecture: iphoneos-arm
 Version: 1.0.16~rc3
