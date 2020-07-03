@@ -2182,44 +2182,6 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherAndTime
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
-Package: com.TruongTamPhong.WeatherNow+
-Architecture: iphoneos-arm
-Version: 1.2.0
-Section: Widget tĩnh
-Maintainer: Apple Cydia Và Jailbreak
-Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.WeatherNow+_1.2.0_iphoneos-arm.deb
-Size: 9902202
-MD5sum: 53011328a90b71ec683db75d0c4091fd
-SHA1: fa5136736c58019a8ea24881617e87890cb734bf
-SHA256: 4fc7a1737a9b96ad7d82495d7c67fb935a69dbbc7425e0418593b781e69bc507
-SHA512: 82dfd951cd347a466ea5e7202b025536a0c3e79af113406781c667a5a58384f0c1aa6e5bd7fba119ffb73836902d6d3ab6d5a86950bdf36bb8605bff765db4ef
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Widget for Xen Html
-Name: Weather Now+
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNow+
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
-Package: com.TruongTamPhong.WeatherNowDark+
-Architecture: iphoneos-arm
-Version: 1.2.0
-Section: Widget tĩnh
-Maintainer: Apple Cydia Và Jailbreak
-Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.WeatherNowDark+_1.2.0_iphoneos-arm.deb
-Size: 8999022
-MD5sum: 7776bd91808b89a21b792490111f75f9
-SHA1: 195dcbfb420d47f372e88d4fa1585b0334759869
-SHA256: 50759ba324e3566bceec0c638eb2e9ca7ecaf8a763fc2520349517b4050a8663
-SHA512: b42ea9aede284bacec8fbed56c13d5da08e5f4c3439e1bccdb83c100d531ecbc4b4c024e0026984ac183fafe992b6b982ed2d929d2a781cb2aed31f9e1ed32f2
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Widget for Xen Html
-Name: Weather Now Dark+
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.WeatherNowDark+
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
 Package: com.TruongTamPhong.WeatherNowDark
 Architecture: iphoneos-arm
 Version: 1.2.0
