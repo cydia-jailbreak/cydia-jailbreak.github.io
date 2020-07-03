@@ -1299,6 +1299,23 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.MainLed
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.MtlTop
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.MtlTop_1.0.0_iphoneos-arm.deb
+Size: 211070
+MD5sum: 58141cde71c2224f13f93a1ef79d65fc
+SHA1: c52eb689b1068e01ce3ae79639b8f1af18bd1ac7
+SHA256: ecc86caabf48d1e5267f327a3c86c8cdc893d46f0e74a343278bf45dff8fd53c
+SHA512: b689351af9185ab66cc13b610548f6fa64f974e11e47ba08c5e14407456d2fbbf6d846e73f7724aec3493642bebe1f904d07c9243cd644f9cc69d59ec63c4ff9
+Description: Widget for Xen HTML
+Name: Mtl Top
+Author: JunesiPhone
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MtlTop
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MtlTop
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.MusicAndCalendarDark
 Architecture: iphoneos-arm
 Version: 1.0.1
