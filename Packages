@@ -1494,14 +1494,14 @@ Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.MusicAndWeatherLight
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 1.0.1
 Section: Widget tĩnh
-Filename: ./debfiles/com.TruongTamPhong.MusicAndWeatherLight_1.0.0_iphoneos-arm.deb
-Size: 427716
-MD5sum: 58c83f56e8a8ec965cd73311791c4836
-SHA1: 998faa6728b472ad7208891e0b48da7ccc587e4c
-SHA256: d822a6f4fa8c76d930f3066953a4a869eb63d49fd29f2a37ee129164e8e1adee
-SHA512: 00486e517751d5b777d75d958fa015bbf9233b96adc6878723300eed945227bb2ba133cdc002da3c1c80b13f0e7fb8631d4efa440076505f4b01eac57c787fb4
+Filename: ./debfiles/com.TruongTamPhong.MusicAndWeatherLight_1.0.1_iphoneos-arm.deb
+Size: 546674
+MD5sum: 2755f24c73e817a144f33d0a928ed075
+SHA1: 645053ea1ad095f0d5307af6091b71e817e32eed
+SHA256: cf084e8f932bbc682042d03380b8a5ed09a7f14a84555aad8e2f74fbe8339b4d
+SHA512: 76dc92968b1218b2f285c2fd65ce20f8f5591f77fc71dc1eba51aaa26aa22f9fc3fa31d5941edb1e5dd798eacc5283a1286c83ac559cc88637119e0397e46475
 Description: Widget for Xen HTML
 Name: Music & Weather Light
 Author: Trương Tam Phong
