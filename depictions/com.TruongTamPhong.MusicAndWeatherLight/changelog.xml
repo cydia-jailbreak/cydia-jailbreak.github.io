@@ -1,5 +1,12 @@
 <changelog>
     <changes>
+        <version>1.0.2</version>
+	<change>Hỗ trợ từ iPhone 6 tới Pro Max</change>
+	<change>Thanh Pin 3D</change>
+	<change>Thu nhỏ và thay đổi ảnh bìa Album</change>
+	<change>Chỉnh lại màu các biểu tượng đồng bộ với màu chữ</change>
+    </changes>
+    <changes>
         <version>1.0.1</version>
         <change>Lần đầu phát hành</change>
     </changes>

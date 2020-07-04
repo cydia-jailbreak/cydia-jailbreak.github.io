@@ -1509,6 +1509,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Musi
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicAndWeatherLight
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.MusicAndWeatherLight
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.MusicAndWeatherLight_1.0.2_iphoneos-arm.deb
+Size: 582738
+MD5sum: cafd4f9f94373d8e0c3786c6f72e0a59
+SHA1: edb5e725f36862f21a018f64e949530ccd93da28
+SHA256: efbc43c51988972988bd4b3231ccadf2e6bfc9b900ec92719db72983abf61a46
+SHA512: 1d71bd9917abe3b242c67e12477543b5a1d3128e2d1d46fee4a2e0acc8c17fdf5390487cff13196221a48eb40d9906775204525d97493e25f18ca81be4c014a5
+Description: Widget for Xen HTML
+Name: Music & Weather Light
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicAndWeatherLight
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicAndWeatherLight
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.MyName
 Architecture: iphoneos-arm
 Version: 2.0.2
