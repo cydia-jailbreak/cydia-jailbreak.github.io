@@ -1514,11 +1514,11 @@ Architecture: iphoneos-arm
 Version: 1.0.2
 Section: Widget tĩnh
 Filename: ./debfiles/com.TruongTamPhong.MusicAndWeatherLight_1.0.2_iphoneos-arm.deb
-Size: 582738
-MD5sum: cafd4f9f94373d8e0c3786c6f72e0a59
-SHA1: edb5e725f36862f21a018f64e949530ccd93da28
-SHA256: efbc43c51988972988bd4b3231ccadf2e6bfc9b900ec92719db72983abf61a46
-SHA512: 1d71bd9917abe3b242c67e12477543b5a1d3128e2d1d46fee4a2e0acc8c17fdf5390487cff13196221a48eb40d9906775204525d97493e25f18ca81be4c014a5
+Size: 582726
+MD5sum: 0c80e516c61f63ed36667e10d2c6e4f0
+SHA1: a4ad5aeea4e81161d4f698176d721876d9c4ec46
+SHA256: a7f87838d5101043bf9288b097de25c5804c6fd51833421ebf2b94985b01a029
+SHA512: 961df601fb3bc3256f1029eec63d41fa70631aaad83242446e4ed44091cecf571773cd775a69d7bc34f7af878ba5b6b2b68cc7452b1290aeae6741facacfab16
 Description: Widget for Xen HTML
 Name: Music & Weather Light
 Author: Trương Tam Phong
