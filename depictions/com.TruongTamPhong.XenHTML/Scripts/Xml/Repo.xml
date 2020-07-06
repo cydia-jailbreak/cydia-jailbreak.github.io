@@ -1,6 +1,12 @@
 <repo>
 	<footerlinks>
 		<link>
+			<name>Ủng hộ tôi: Phạm Thị Hường - Agribank - 7904205089437</name>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+	</footerlinks>
+	<footerlinks>
+		<link>
 			<name>Theo dõi tôi trên Facebook</name>
 			<url>https://m.facebook.com/Truong.Tam.Phong.1988?ref=bookmarks</url>
 			<iconclass>fa fa-facebook</iconclass>
