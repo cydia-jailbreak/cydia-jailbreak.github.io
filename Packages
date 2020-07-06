@@ -1543,6 +1543,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Musi
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicAndWeatherPRO
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.MusicAndWeatherPRO
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widget động
+Filename: ./debfiles/com.TruongTamPhong.MusicAndWeatherPRO_1.0.1_iphoneos-arm.deb
+Size: 648618
+MD5sum: 0af61fca53a115098376f3cbc108cc91
+SHA1: a3161c4e4cb1f2f891a67e277580dbbaf1ffb68b
+SHA256: 4f4af39a42555ba172ae4b0f35f2c895817bd03447e243b33fd8bf04add2b56a
+SHA512: 9aaf29cc48a88760ed40d949bb44d1b502dd69a2ca5d55d587a99524600a24ed67982b17d11c5ba0528073514a72e9bbabf2cd9644acbe61026469b1fcc4f30e
+Description: Widget for Xen HTML
+Name: Music & Weather PRO
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicAndWeatherPRO
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicAndWeatherPRO
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.MyName
 Architecture: iphoneos-arm
 Version: 2.0.2
