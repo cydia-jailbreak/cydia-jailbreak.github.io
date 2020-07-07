@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.MusicAndWeatherPRO</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -18,12 +18,18 @@
 <screenshots>
         <screenshot>
             <description></description>
-            <image>MusicAndWeatherPRO.png</image>
+            <image>MusicAndWeatherPRO1.png</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>MusicAndWeatherPRO2.png</image>
         </screenshot>	
     </screenshots>
 	<changelog>
-	<change>Sửa lỗi khi nhấn bảng điều khiển nhạc</change>
-	<change>Thêm tuỳ chỉnh Chọn dòng máy và Bật tắt ảnh bìa Album</change>
+	<change>Sửa lỗi khi bắt đầu chọn widget</change>
+	<change>Bỏ hiệu ứng quay ảnh Album vì hao pin</change>
+	<change>Thêm tuỳ chỉnh Văn bản đặt theo ý muốn</change>
+	<change>Thêm chọn ảnh Avatar trực tiếp từ màn hình</change>
 	</changelog>
 	<links></links>
 </package>

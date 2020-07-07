@@ -1,5 +1,12 @@
 <changelog>
     <changes>
+        <version>1.0.2</version>
+	<change>Sửa lỗi khi bắt đầu chọn widget</change>
+	<change>Bỏ hiệu ứng quay ảnh Album vì hao pin</change>
+	<change>Thêm tuỳ chỉnh Văn bản đặt theo ý muốn</change>
+	<change>Thêm chọn ảnh Avatar trực tiếp từ màn hình</change>
+    </changes>
+    <changes>
         <version>1.0.1</version>
         	<change>Sửa lỗi khi nhấn bảng điều khiển nhạc</change>
 	<change>Thêm tuỳ chỉnh Chọn dòng máy và Bật tắt ảnh bìa Album</change>
