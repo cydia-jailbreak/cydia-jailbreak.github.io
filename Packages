@@ -1492,40 +1492,6 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Musi
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicAndWeatherDark
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
-Package: com.TruongTamPhong.MusicAndWeatherLight
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Widget tĩnh
-Filename: ./debfiles/com.TruongTamPhong.MusicAndWeatherLight_1.0.1_iphoneos-arm.deb
-Size: 546674
-MD5sum: 2755f24c73e817a144f33d0a928ed075
-SHA1: 645053ea1ad095f0d5307af6091b71e817e32eed
-SHA256: cf084e8f932bbc682042d03380b8a5ed09a7f14a84555aad8e2f74fbe8339b4d
-SHA512: 76dc92968b1218b2f285c2fd65ce20f8f5591f77fc71dc1eba51aaa26aa22f9fc3fa31d5941edb1e5dd798eacc5283a1286c83ac559cc88637119e0397e46475
-Description: Widget for Xen HTML
-Name: Music & Weather Light
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicAndWeatherLight
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicAndWeatherLight
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
-Package: com.TruongTamPhong.MusicAndWeatherLight
-Architecture: iphoneos-arm
-Version: 1.0.2
-Section: Widget tĩnh
-Filename: ./debfiles/com.TruongTamPhong.MusicAndWeatherLight_1.0.2_iphoneos-arm.deb
-Size: 582726
-MD5sum: 0c80e516c61f63ed36667e10d2c6e4f0
-SHA1: a4ad5aeea4e81161d4f698176d721876d9c4ec46
-SHA256: a7f87838d5101043bf9288b097de25c5804c6fd51833421ebf2b94985b01a029
-SHA512: 961df601fb3bc3256f1029eec63d41fa70631aaad83242446e4ed44091cecf571773cd775a69d7bc34f7af878ba5b6b2b68cc7452b1290aeae6741facacfab16
-Description: Widget for Xen HTML
-Name: Music & Weather Light
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicAndWeatherLight
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicAndWeatherLight
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
 Package: com.TruongTamPhong.MusicAndWeatherPRO
 Architecture: iphoneos-arm
 Version: 1.0.0
