@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.0.4</version>
+	<change>Chỉnh nền đồng hồ thành trong suốt</change>
+    </changes>
+    <changes>
         <version>1.0.3</version>
 	<change>Chỉnh lại một số chỗ chưa cân</change>
     </changes>

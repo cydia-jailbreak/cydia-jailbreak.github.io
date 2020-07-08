@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.LgClockPro</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -22,7 +22,7 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-	<change>Chỉnh lại một số chỗ chưa cân</change>
+	<change>Chỉnh nền đồng hồ thành trong suốt</change>
 	</changelog>
 	<links></links>
 </package>
