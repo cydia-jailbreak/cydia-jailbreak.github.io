@@ -1548,11 +1548,11 @@ Architecture: iphoneos-arm
 Version: 2.0.0
 Section: Widget động
 Filename: ./debfiles/com.TruongTamPhong.MusicAndWeatherPRO_2.0.0_iphoneos-arm.deb
-Size: 993480
-MD5sum: a81ef0b2fe655161dcd369113d810420
-SHA1: 9916c52537619d10a9fd0a0cad9ae1be5059dd37
-SHA256: 940b6b7ddd841493d88411530ad2f8fd6b146b7b23f1b4e22ea64862448a4add
-SHA512: 47e789194da7be80e24030a5d7e43ab8626f96274a283298d3d09703d2097a8155e7ab8f89b2391c729cfbb136eea30a5059b5cb8f4e8813fdfc21a450c92799
+Size: 993204
+MD5sum: 59476574232357053f0b4c11200ff237
+SHA1: 80eac6c0b16abbf662ee6e6cb20f66a1df32ae7a
+SHA256: 885d7e46e9fe6612743cd9d1385d9971c82eb4f09947e3fefc2068391736ec32
+SHA512: a080d6372f4a03763f038e5a2f093cae15ded137b5412a0894580d5f5d3b7da15edfaf51e6ada4e8cce71f567ef15c2b016d720fea06cb2e23c81d80abcbdc43
 Description: Widget for Xen HTML
 Name: Music & Weather PRO
 Author: Trương Tam Phong
