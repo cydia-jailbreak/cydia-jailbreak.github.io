@@ -15,8 +15,10 @@
 		<description>Yêu cầu cài Xen HTML để sử dụng</description>
 	</descriptionlist>
 <screenshots>
+        <screenshots>
             <description></description>
             <image>AmLich.png</image>
+        </screenshots>	
     </screenshots>
 	<changelog>
 		<change>Lần đầu phát hành</change>
