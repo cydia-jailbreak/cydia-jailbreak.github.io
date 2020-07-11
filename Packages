@@ -1655,6 +1655,25 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Nice
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.NiceBarX13VietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.NiceBarX13VietNam
+Architecture: iphoneos-arm
+Version: 1.0.2.4-1
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate, com.niceios.nicebarx13
+Filename: ./debfiles/com.TruongTamPhong.NiceBarX13VietNam_1.0.2.4-1_iphoneos-arm.deb
+Size: 19038
+MD5sum: f7adbea35a0180e0c7ff8274b0263f9d
+SHA1: 58a1c92ff4323272968eb450dc830ab13c94a81b
+SHA256: 59af764099e276b9cedb2a220b1d47f84773892c3d35b9462b36307b02bb8c77
+SHA512: 2fb59ba646dc2fe962266dd33713401778ae5a8e1847e1a5fd7481fa9d9f4c8165615cd4deba07e4b85b5c08d71cdbe14b1a5209c518ff40829c37d820683474
+Description: Gói tiếng Việt dành cho NicebarX iOS 13
+Name: NiceBarX 13 (Gói tiếng Việt)
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.NiceBarX13VietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.NiceBarX13VietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.NotchXS
 Architecture: iphoneos-arm
 Version: 1.1.0
