@@ -727,6 +727,24 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FlyJ
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FlyJBVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.FlyJBVietNam
+Architecture: iphoneos-arm
+Version: 0.2.5.6-1
+Section: Tweaks
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
+Filename: ./debfiles/com.TruongTamPhong.FlyJBVietNam_0.2.5.6-1_iphoneos-arm.deb
+Size: 626190
+MD5sum: b796f49f92a2c2ab273ae4e68a267c63
+SHA1: 700c8cc2e429994c7d3677c4d86f21114224e0df
+SHA256: 67c763718af2fd6b54d0c6cd366606e12f550abff80468bd1ecae90d1eac8ba6
+SHA512: e5fbdd988ad542de980c0694864c2bd793a759b2073b6200e39663b8b5ee12866fec95db713b539e6b19f6ec70fb91096603bb3680ed60ccf373962486a23693
+Description: Ngăn chặn ứng dụng phát hiện máy đã Jailbreak
+Name: FlyJB Việt Nam
+Author: XsF1re
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FlyJBVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FlyJBVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.FourDayForecast
 Architecture: iphoneos-arm
 Version: 1.0.2-1
