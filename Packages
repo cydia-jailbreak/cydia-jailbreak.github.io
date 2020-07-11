@@ -986,20 +986,36 @@ Package: com.TruongTamPhong.IconOmaticVietNam
 Architecture: iphoneos-arm
 Version: 2.4.8-29
 Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.IconOmaticVietNam_2.4.8-29_iphoneos-arm.deb
-Size: 39576558
-MD5sum: e64e130dc99ebd60576c3052e1496d8c
-SHA1: fc1e14426dbea1ca96bd0f70d7ae1b04293661fa
-SHA256: 79dfc6ed0fa7ba0f8e19b843e147c7574f930cc2d397fc2a2ade200205955817
-SHA512: 07950117e8a942344d01de9e7b66250d8cb8da01b9a730d5f15c418b52f8773a31f4a92b2ffb45c4a8e60c8c79c65b794b2afeef5c6c0717cb7c94b85805b88c
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Size: 39576488
+MD5sum: 93489cbb026e1f90d3058de68aa20eaf
+SHA1: 7248014388266c371aa1314fde53ef27884bba16
+SHA256: dd5a9fdf4458367cd4a250f61dc02049042c6523362da3c33ae8ee3eb9e59031
+SHA512: f2865a45d9bf9b25893a02e73528addf9a4dbd31b75957b8634bc887e3c59a33a4ae49db8fbd63552e200453e83fd255eabc71feea133ba070cbecd7983edad7
 Description: Thay đổi giao diện, chủ đề của bạn.
 Name: IconOmatic Việt Nam
 Author: FreeApple
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.IconOmaticVietNam
-SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.IconOmaticVietNam
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.IconOmaticVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.IconOmaticVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.IconOmaticVietNam
+Architecture: iphoneos-arm
+Version: 2.4.9-1
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.IconOmaticVietNam_2.4.9-1_iphoneos-arm.deb
+Size: 39460526
+MD5sum: 972c5fb8313ba81913ce4b75eff69844
+SHA1: 0a25587fe961a81e78ec4155cd76657020653c0f
+SHA256: d36cdca4ea34005d700836db4ba86c394f0fc3689bd6dc3df8290288cfe12648
+SHA512: 61eb53932a5926fcc5ffbdef88fddfae1babf7c16df3a4214b0cdfea71bb82e6addd9cc248b1e6bf28090ac895887170439d2db3c41a2fda0cff9d7c5f838eca
+Description: Thay đổi giao diện, chủ đề của bạn.
+Name: IconOmatic Việt Nam
+Author: FreeApple
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.IconOmaticVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.IconOmaticVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.Infinity

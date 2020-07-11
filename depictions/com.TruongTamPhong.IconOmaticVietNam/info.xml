@@ -1,0 +1,26 @@
+<package>
+	<id>com.TruongTamPhong.IconOmaticVietNam</id>
+	<name>Trương Tam Phong</name>
+	<version>2.4.9-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tinh chỉnh thay đổi chủ đề, âm thanh, mặt nạ, UI hệ thống, phông chữ, ... và nhiều chức năng khác</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>IconOmaticVietNam.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+	<change>Cập nhật sửa lỗi</change>
+	</changelog>
+	<links></links>
+</package>
