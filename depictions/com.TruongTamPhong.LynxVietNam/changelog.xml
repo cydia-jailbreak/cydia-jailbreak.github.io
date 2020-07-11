@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.5.4</version>
+<change>Sửa lỗi các tùy chọn 3D Touch không hoạt động</change>
+    </changes>
+    <changes>
         <version>1.5-3</version>
 <change>Thay đổi màu sắc cho Lynx UI</change>
     </changes>
