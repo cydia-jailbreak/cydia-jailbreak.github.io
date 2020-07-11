@@ -67,6 +67,31 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Acti
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ActivatorVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.ActivatorVietNam
+Architecture: iphoneos-arm
+Version: 1.9.13~rc7
+Priority: optional
+Section: Tweaks
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~rc1), com.rpetrich.rocketbootstrap (>= 1.0.9)
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Filename: ./debfiles/com.TruongTamPhong.ActivatorVietNam_1.9.13~rc7_iphoneos-arm.deb
+Size: 1216812
+MD5sum: 35812782992971a845226135e702af10
+SHA1: db1524af29abb22526d99d6189beb88866ea39c4
+SHA256: acd633b2bf667ac606b944441a95cebcc94e3db279dfd3cd79971f67552cc6a3
+SHA512: d6b942a3d68b6a50a069b6f30ad11b2de9369ab6618c41f4e5f20aeaeadad3583d935bcfbb2fceeebec3b18951f57a43a95c9f5e583559e18a6f44ec55774b15
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Cử chỉ tập trung, quản lý nút và phím tắt cho iOS
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Name: Activator Việt Nam
+Author: Ryan Petrich
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ActivatorVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ActivatorVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.AlertController
 Architecture: iphoneos-arm
 Version: 1.2.1
@@ -78,6 +103,24 @@ MD5sum: 0cf334cf4dc82e8ad32c4b7e17a9cfdd
 SHA1: 0ebe116a939ef81c1202741608772264443c8cdb
 SHA256: 277ef44719cb45db0a78a0475fe1028e68c85b9e8e99091646576c97a20c5a2b
 SHA512: aac1ecb8fb8ff5ad58b35035b828289e612ff7f7570cfbb5dfb7ddad1240ba1854f9255759d13a46c930ec92e6cd4824fbc0db87ff4f79668429f313aaf57398
+Description: Thay đổi kiểu dáng cảnh báo và nhóm bảng hiển thị
+Name: Alert Controller
+Author: Tomasz Poliszuk
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AlertController
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AlertController
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.AlertController
+Architecture: iphoneos-arm
+Version: 1.3.1
+Section: Tweaks
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.TruongTamPhong.AlertController_1.3.1_iphoneos-arm.deb
+Size: 54784
+MD5sum: e30fd0926444f6ed07e4888d3ea704dc
+SHA1: 1a1e56408f8f4f6d21157a9b04ed2b1ba1b36ab9
+SHA256: 4b77f8eadec0b27dc53c3e79a07c8fc9be42b81758653e0c3a2eff2fc03df8fd
+SHA512: 02127d1bd0e31d89338ea1e75972af38aaa22762ab1b885313c12813d91cddda5e21741060a34f74c08d9b16a81ccef90698251c503657636f458665fac97e9a
 Description: Thay đổi kiểu dáng cảnh báo và nhóm bảng hiển thị
 Name: Alert Controller
 Author: Tomasz Poliszuk
@@ -665,26 +708,6 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Faint
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Faint
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
-Package: com.TruongTamPhong.FlipSwitch
-Architecture: iphoneos-arm
-Version: 1.0.16~rc3
-Section: System
-Maintainer: Apple Cydia Và Jailbreak
-Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.FlipSwitch_1.0.16~rc3_iphoneos-arm.deb
-Size: 478124
-MD5sum: 409a3b2676ea441f0d754df1f79422cc
-SHA1: b979b9c7b64f9f6ff33b00f50bfd3e3393e89c20
-SHA256: e18ccd16af652d59cc4f1b2c16b3829df88f48c42523d008ff387b20110c48c8
-SHA512: 16bf55d00be3dfd89faf1c6b765689e39262356545157239fc7e40a9921fefc261088a5f483b588d782d22000de139ce25a43b1a68075a0260d0e12e53dffbe5
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Hệ thống chuyển đổi tập trung cho iOS
-Name: FlipSwitch
-Author: rpetrich
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FlipSwitch
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FlipSwitch
-Icon: file:///Applications/Cydia.app/Sections/System1.png
 
 Package: com.TruongTamPhong.FlyJBVietNam
 Architecture: iphoneos-arm

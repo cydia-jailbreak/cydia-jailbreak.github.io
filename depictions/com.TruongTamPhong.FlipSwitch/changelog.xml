@@ -1,8 +1,0 @@
-<changelog>
-    <changes>
-        <version>1.0.16~rc3</version>
-		<change>Sửa chế độ năng lượng đèn pin thấp trên iOS 13</change>
-        <change>Xung đột với RealCC vì nó phá vỡ mọi quyền truy cập khác vào khả năng bật / tắt Bluetooth (thay vào đó hãy sử dụng tinh chỉnh Lynx)</change>
-        <change>Hỗ trợ chuyển đổi thay thế ... lệnh shell</change>
-    </changes>
-</changelog>

@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.ActivatorVietNam</id>
 	<name>Trương Tam Phong</name>
-	<version>1.9.13~rc6</version>
+	<version>1.9.13~rc7</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -23,12 +23,7 @@ Kết quả là khi vuốt từ trên xuống ở cạnh phải màn hình, đi�
         </screenshot>	
     </screenshots>
 	<changelog>
-	<change>Khắc phục sự cố trên OS 3</change>
-        <change>Hỗ trợ tốt hơn cho chế độ tối trong nhiều phần của giao diện người dùng</change>
-		<change>Hỗ trợ gửi các hành động thông qua trình kích hoạt: 'Gửi' trong ứng dụng Phím tắt</change>
-        <change>Khắc phục sự cố tình trạng hiếm gặp trong ứng dụng cài đặt</change>
-        <change>Lọc đúng giảm âm lượng + nguồn. Không bao gồm tăng âm lượng + nguồn</change>
-        <change>Yêu cầu gỡ bỏ FlipSwitch ở nguồn khác trước khi cài đặt</change>
+	<change>Thay đổi nguồn FlipSwitch về nguồn chủ. Yêu cầu gỡ bỏ FlipSwitch tại nguồn này trước khi cài</change>
 	</changelog>
 	<links></links>
 </package>
