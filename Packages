@@ -709,42 +709,6 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Fain
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Faint
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
-Package: com.TruongTamPhong.FlyJBVietNam
-Architecture: iphoneos-arm
-Version: 0.2.5.3
-Section: Tweaks
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
-Filename: ./debfiles/com.TruongTamPhong.FlyJBVietNam_0.2.5.3_iphoneos-arm.deb
-Size: 624798
-MD5sum: c4394c590945abf7202be5207b022d38
-SHA1: af370c67e795408bc6488a99c16a95e0ae42d448
-SHA256: e70dfccd7ceddea6f9c1c07710d52c531a6ccc6a722ea3f6381324da41908ceb
-SHA512: 13ce8db2bc605c95ba6ca2951b6a667982642406088cb0c64dfc98f1ec902a48e6729420198ed9dfcdf41dd803191375afceab86558c90ee2009bcec4beefc73
-Description: Ngăn chặn ứng dụng phát hiện máy đã Jailbreak
-Name: FlyJB Việt Nam
-Author: XsF1re
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FlyJBVietNam
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FlyJBVietNam
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
-Package: com.TruongTamPhong.FlyJBVietNam
-Architecture: iphoneos-arm
-Version: 0.2.5.6-1
-Section: Tweaks
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
-Filename: ./debfiles/com.TruongTamPhong.FlyJBVietNam_0.2.5.6-1_iphoneos-arm.deb
-Size: 626190
-MD5sum: b796f49f92a2c2ab273ae4e68a267c63
-SHA1: 700c8cc2e429994c7d3677c4d86f21114224e0df
-SHA256: 67c763718af2fd6b54d0c6cd366606e12f550abff80468bd1ecae90d1eac8ba6
-SHA512: e5fbdd988ad542de980c0694864c2bd793a759b2073b6200e39663b8b5ee12866fec95db713b539e6b19f6ec70fb91096603bb3680ed60ccf373962486a23693
-Description: Ngăn chặn ứng dụng phát hiện máy đã Jailbreak
-Name: FlyJB Việt Nam
-Author: XsF1re
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FlyJBVietNam
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FlyJBVietNam
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
 Package: com.TruongTamPhong.FourDayForecast
 Architecture: iphoneos-arm
 Version: 1.0.2-1
