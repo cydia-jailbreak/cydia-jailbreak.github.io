@@ -709,6 +709,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Fain
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Faint
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.Faint
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.Faint_1.0.2_iphoneos-arm.deb
+Size: 140622
+MD5sum: cd9adf68e108a4f5af6e0d87073942e4
+SHA1: ca80486f4222f7bb60cce76923fcaca96e24b97a
+SHA256: 7b4e9024347fbb303dd1c09be9037cceefeeb1d527bf131b032626f72241bb6b
+SHA512: d6ca9ba9b59877a26475b2169efa985961ea000cae3c333a3629028d78626f4e68d1f752d91ef9e33eaa95400dc8ad8d8272fa15561be7748cad475d9fdacffa
+Description: Widget for Xen HTML
+Name: Faint
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Faint
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Faint
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.FourDayForecast
 Architecture: iphoneos-arm
 Version: 1.0.2-1
