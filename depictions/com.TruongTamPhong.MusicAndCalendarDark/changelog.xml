@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.0.7</version>
+        <change>Hỗ trợ từ iPhone 6 tới iPhone 11 Pro Max</change>
+    </changes>
+    <changes>
         <version>1.0.6</version>
         <change>Chỉnh lại khung đặt ứng dụng thêm rõ ràng hơn</change>
         <change>Chỉnh lại toạ độ của một số thứ cho cân đối hơn</change>

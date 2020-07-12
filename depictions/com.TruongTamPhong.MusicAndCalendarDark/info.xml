@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.MusicAndCalendarDark</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.6</version>
+	<version>1.0.7</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -22,8 +22,7 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-        <change>Chỉnh lại khung đặt ứng dụng thêm rõ ràng hơn</change>
-        <change>Chỉnh lại toạ độ của một số thứ cho cân đối hơn</change>
+        <change>Hỗ trợ từ iPhone 6 tới iPhone 11 Pro Max</change>
 	</changelog>
 	<links></links>
 </package>
