@@ -711,14 +711,14 @@ Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Faint
 Architecture: iphoneos-arm
-Version: 1.0.2
+Version: 1.0.2-1
 Section: Widget tĩnh
-Filename: ./debfiles/com.TruongTamPhong.Faint_1.0.2_iphoneos-arm.deb
-Size: 140622
-MD5sum: cd9adf68e108a4f5af6e0d87073942e4
-SHA1: ca80486f4222f7bb60cce76923fcaca96e24b97a
-SHA256: 7b4e9024347fbb303dd1c09be9037cceefeeb1d527bf131b032626f72241bb6b
-SHA512: d6ca9ba9b59877a26475b2169efa985961ea000cae3c333a3629028d78626f4e68d1f752d91ef9e33eaa95400dc8ad8d8272fa15561be7748cad475d9fdacffa
+Filename: ./debfiles/com.TruongTamPhong.Faint_1.0.2-1_iphoneos-arm.deb
+Size: 140630
+MD5sum: e96f846f2661eb6100334251a269319d
+SHA1: d308815a547c2ef82cebacacfc3868c3b10d1a5b
+SHA256: fd727ba5d91d536b5ed027287421765e1565579e41e8404523693e39938c633a
+SHA512: e90ee8d900a0a82489dacb6f4deee23b83c4c3b5809f478ad29d0cbbb0533163b5cf8cdb9d167c9218317ad9548e1480d493e4f83877f1b85c8b394081fdf5fd
 Description: Widget for Xen HTML
 Name: Faint
 Author: Trương Tam Phong
