@@ -289,6 +289,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Apri
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AprilVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.ArcTtp
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Filename: ./debfiles/com.TruongTamPhong.ArcTtp_1.0.0_iphoneos-arm.deb
+Size: 847244
+MD5sum: 26581912819a4f681ec28fab6065ef1c
+SHA1: 78add76638e88292642f492066475fd89a021306
+SHA256: 184a651bd62b7810248218a2625f2b8f0b1ae789102a94080aeb31ac7bd4cfa0
+SHA512: 39eb70b3449fd4abd373bb14e4d7370950499cfb747d9d8c0a632fe5dadef1dea0dd2be428d3b2c755b08dc3e30cd5779dc4dd7d0f8fc18177e90da08d717133
+Description: Widget for Xen HTML
+Name: ArcTtp
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ArcTtp
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ArcTtp
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.BlurTransV1
 Architecture: iphoneos-arm
 Version: 1.0.1
