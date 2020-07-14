@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.0.1</version>
+        <change>Tạo thêm khung 3D</change>
+    </changes>
+    <changes>
         <version>1.0.0-1</version>
         <change>Sửa đổi lại phần cài đặt</change>
     </changes>
