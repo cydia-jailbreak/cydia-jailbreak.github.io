@@ -291,6 +291,23 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.ArcTtp
 Architecture: iphoneos-arm
+Version: 1.0.0-1
+Section: Widget động
+Filename: ./debfiles/com.TruongTamPhong.ArcTtp_1.0.0-1_iphoneos-arm.deb
+Size: 847212
+MD5sum: 15afe40fbda591323862dba18abd2195
+SHA1: 72ae067f902a2138f761f72703c741aa8caf37e7
+SHA256: 9e3aeabbb5ce66b456136d3808c99cd443676c40fc6cb6511e444dc547974cf0
+SHA512: 3111fac4bbce0a46da241d8bbf2e1383fac49c1b41928cc6815ad400184da00e34a1f27b5e0e795c4cc1d0eee88c4f38442a60c4e83c87784dffd9f203d2555a
+Description: Widget for Xen HTML
+Name: ArcTtp
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ArcTtp
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ArcTtp
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.ArcTtp
+Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Widget động
 Filename: ./debfiles/com.TruongTamPhong.ArcTtp_1.0.0_iphoneos-arm.deb
