@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>2.0.0</version>
+	<change>Thêm bản nền mờ</change>
+	<change>Hỗ trợ thêm iPad</change>
+    </changes>
+    <changes>
         <version>1.0.1</version>
         <change>Tạo thêm khung 3D</change>
     </changes>
