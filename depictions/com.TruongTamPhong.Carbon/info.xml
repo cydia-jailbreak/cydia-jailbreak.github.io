@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Carbon</id>
 	<name>Trương Tam Phong</name>
-	<version>124</version>
+	<version>137</version>
 	<compatibility>
 		<firmware>
 			<miniOS>6.0</miniOS>
@@ -25,7 +25,11 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-	<change>Mod thêm và thay đổi một số biểu tượng gốc</change>
+	<change>Thêm 13 biểu tượng</change>
+	<change>Thay thế một số biểu tượng cũ</change>
+	<change>Sửa lại nền bàn phím gọi</change>
+	<change>Thêm biểu tượng thư mục</change>
+	<change>Thêm Dock</change>
 	</changelog>
 	<links></links>
 </package>

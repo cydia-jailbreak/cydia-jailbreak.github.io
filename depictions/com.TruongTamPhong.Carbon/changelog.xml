@@ -1,5 +1,13 @@
 <changelog>
     <changes>
+        <version>137</version>
+	<change>Thêm 13 biểu tượng</change>
+	<change>Thay thế một số biểu tượng cũ</change>
+	<change>Sửa lại nền bàn phím gọi</change>
+	<change>Thêm biểu tượng thư mục</change>
+	<change>Thêm Dock</change>
+    </changes>
+    <changes>
         <version>124</version>
         <change>Lần đầu phát hành</change>
     </changes>
