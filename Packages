@@ -644,6 +644,24 @@ Author: Evelyn
 Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ConteSans13
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ConteSans13
 
+Package: com.TruongTamPhong.CydownVietNam
+Architecture: iphoneos-arm
+Version: 7.1.0
+Section: Tweaks
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.TruongTamPhong.CydownVietNam_7.1.0_iphoneos-arm.deb
+Size: 4270342
+MD5sum: 1b50ee5bbc38877824d14728b6877651
+SHA1: a3870570f46ee8e433e018360b80e0cf568ce4fc
+SHA256: fc7b0c4cf9c82a672d474d1e53035687c6525f40c8e557e8a6e28af5dbb79954
+SHA512: 86695a651e253e93cb63a6b0e67cf342bbcf38842e66968e1065a1d626bea467c6fb3dcf1bb57c98ac93d23608e69fff17cbe13e656df75b840e4862b147159f
+Description: Trình quản lý tải xuống Cydia và các tính năng bổ sung!
+Name: CyDown Việt Nam
+Author: julioverne
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.CydownVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.CydownVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.DanhNgon
 Architecture: iphoneos-arm
 Version: 1.0.0

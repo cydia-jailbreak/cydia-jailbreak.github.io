@@ -1,0 +1,28 @@
+<package>
+	<id>com.TruongTamPhong.CydownVietNam</id>
+	<name>Trương Tam Phong</name>
+	<version>7.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Hack các tweak trả phí ở nhiều nguồn khác nhau</description>
+		<description>Sao lưu, khôi phục các nguồn và tinh chỉnh trực tuyến</description>
+		<description>Chặn quảng cáo và tuỳ biến thêm nhiều chức năng khác cho Cydia v.v</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>CyDown.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+	<change>Đã dịch sang tiếng Việt hoàn chỉnh</change>
+	</changelog>
+	<links></links>
+</package>
