@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Carbon</id>
 	<name>Trương Tam Phong</name>
-	<version>137</version>
+	<version>179</version>
 	<compatibility>
 		<firmware>
 			<miniOS>6.0</miniOS>
@@ -25,11 +25,10 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-	<change>Thêm 13 biểu tượng</change>
+	<change>Thêm nhiều biểu tượng</change>
 	<change>Thay thế một số biểu tượng cũ</change>
-	<change>Sửa lại nền bàn phím gọi</change>
-	<change>Thêm biểu tượng thư mục</change>
 	<change>Thêm Dock</change>
+	<change>Thêm biểu tượng vào cài đặt cho iThemer</change>
 	</changelog>
 	<links></links>
 </package>

@@ -1,5 +1,12 @@
 <changelog>
     <changes>
+        <version>179</version>
+	<change>Thêm nhiều biểu tượng</change>
+	<change>Thay thế một số biểu tượng cũ</change>
+	<change>Thêm Dock</change>
+	<change>Thêm biểu tượng vào cài đặt cho iThemer</change>
+    </changes>
+    <changes>
         <version>137</version>
 	<change>Thêm 13 biểu tượng</change>
 	<change>Thay thế một số biểu tượng cũ</change>
