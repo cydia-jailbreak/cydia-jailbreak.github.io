@@ -1,5 +1,11 @@
 <changelog>
     <changes>
+        <version>245</version>
+	<change>Thêm AE 7</change>
+	<change>Thêm 50 biểu tượng</change>
+	<change>Sửa đổi một số biểu tượng cũ</change>
+    </changes>
+    <changes>
         <version>179</version>
 	<change>Thêm nhiều biểu tượng</change>
 	<change>Thay thế một số biểu tượng cũ</change>
