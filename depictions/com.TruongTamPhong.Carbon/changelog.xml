@@ -1,5 +1,11 @@
 <changelog>
     <changes>
+        <version>268</version>
+	<change>Thêm Thư mục mới</change>
+	<change>Thêm 23 biểu tượng</change>
+	<change>Giảm độ trắng và thay thế một số biểu tượng cũ</change>
+    </changes>
+    <changes>
         <version>245</version>
 	<change>Thêm AE 7</change>
 	<change>Thêm 50 biểu tượng</change>

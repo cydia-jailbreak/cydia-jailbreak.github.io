@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Carbon</id>
 	<name>Trương Tam Phong</name>
-	<version>245</version>
+	<version>268</version>
 	<compatibility>
 		<firmware>
 			<miniOS>6.0</miniOS>
@@ -25,9 +25,9 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-	<change>Thêm AE 7</change>
-	<change>Thêm 50 biểu tượng</change>
-	<change>Sửa đổi một số biểu tượng cũ</change>
+	<change>Thêm Thư mục mới</change>
+	<change>Thêm 23 biểu tượng</change>
+	<change>Giảm độ trắng và thay thế một số biểu tượng cũ</change>
 	</changelog>
 	<links></links>
 </package>
