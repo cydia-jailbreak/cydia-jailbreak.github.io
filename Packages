@@ -1323,6 +1323,24 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Laet
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LaetusVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.LaetusVietNam
+Architecture: iphoneos-arm
+Version: 3.0.1
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker (>= 1.0.1)
+Filename: ./debfiles/com.TruongTamPhong.LaetusVietNam_3.0.1_iphoneos-arm.deb
+Size: 876844
+MD5sum: 2c1b5a3a6e768adfbd21a446c1780601
+SHA1: fed84ee4db2d5fecafba8de51edbd23fa4000308
+SHA256: 85838dd0b6111d9dbec07bc475cfdbee4be810deecc3c4de5734ba229a6f0a2a
+SHA512: 11da3566df36de68db2c5e03bdec4553ca2e7ebe4603e059bccabb250e3041a8df9fe312234fdb048c3863cf2007abf398d4bc26beec4a818eeda048713ec08f
+Description: Tùy chỉnh bàn phím vô song
+Name: Laetus Việt Nam
+Author: Spark
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LaetusVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LaetusVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.LgClockPro
 Architecture: iphoneos-arm
 Version: 1.0.0

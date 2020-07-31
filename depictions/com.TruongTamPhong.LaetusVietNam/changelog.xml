@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>3.0.1</version>
+        <change>Hỗ trợ iOS 13</change>
+    </changes>
+    <changes>
         <version>0.0.7</version>
         <change>Khắc phục một số lỗi</change>
     </changes>

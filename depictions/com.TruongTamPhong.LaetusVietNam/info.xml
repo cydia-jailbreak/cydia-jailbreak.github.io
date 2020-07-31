@@ -1,17 +1,17 @@
 <package>
 	<id>com.TruongTamPhong.LaetusVietNam</id>
 	<name>Trương Tam Phong</name>
-	<version>0.0.7</version>
+	<version>3.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
-                         <maxiOS>12.4</maxiOS>
+                         <maxiOS>13.9</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Thay đổi màu nền và màu chữ cho bàn phím của bạn</description>
+		<description>Thay đổi màu nền,màu chữ, chèn ảnh, v.v cho bàn phím của bạn</description>
 	</descriptionlist>
 <screenshots>
         <screenshot>
@@ -24,7 +24,7 @@
         </screenshot>
     </screenshots>
 	<changelog>
-		<change>Khắc phục một số lỗi</change>
+		<change>Hỗ trợ iOS 13</change>
 	</changelog>
 	<links></links>
 </package>
