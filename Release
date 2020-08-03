@@ -1,0 +1,11 @@
+Origin: Apple Cydia & Jalbreak
+Label: Apple Cydia & Jailbreak
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Apple Cydia & Jalbreak
+MD5Sum:
+ bd92919f2cfb499bda760c43e2b4e2fd 128050 Packages
+ f3fb6cbb6ca88cef337ee1862b9ffcd9 27886 Packages.bz2
