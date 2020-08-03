@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>287</version>
+	<change>Thêm nhiều biểu tượng mới</change>
+	<change>Sửa và thay thế 1 số biểu tượng cũ</change>
+    </changes>
+    <changes>
         <version>268</version>
 	<change>Thêm thư mục mới</change>
 	<change>Thêm 23 biểu tượng</change>

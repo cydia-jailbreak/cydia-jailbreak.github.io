@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Carbon</id>
 	<name>Trương Tam Phong</name>
-	<version>268</version>
+	<version>287</version>
 	<compatibility>
 		<firmware>
 			<miniOS>6.0</miniOS>
@@ -25,9 +25,8 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-	<change>Thêm thư mục mới</change>
-	<change>Thêm 23 biểu tượng</change>
-	<change>Giảm độ trắng và thay thế một số biểu tượng cũ</change>
+	<change>Thêm nhiều biểu tượng mới</change>
+	<change>Sửa và thay thế 1 số biểu tượng cũ</change>
 	</changelog>
 	<links></links>
 </package>
