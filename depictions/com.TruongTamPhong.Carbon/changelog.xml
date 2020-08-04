@@ -4,35 +4,4 @@
 	<change>Thêm nhiều biểu tượng mới</change>
 	<change>Sửa và thay thế 1 số biểu tượng cũ</change>
     </changes>
-    <changes>
-        <version>268</version>
-	<change>Thêm thư mục mới</change>
-	<change>Thêm 23 biểu tượng</change>
-	<change>Giảm độ trắng và thay thế một số biểu tượng cũ</change>
-    </changes>
-    <changes>
-        <version>245</version>
-	<change>Thêm AE 7</change>
-	<change>Thêm 50 biểu tượng</change>
-	<change>Sửa đổi một số biểu tượng cũ</change>
-    </changes>
-    <changes>
-        <version>179</version>
-	<change>Thêm nhiều biểu tượng</change>
-	<change>Thay thế một số biểu tượng cũ</change>
-	<change>Thêm Dock</change>
-	<change>Thêm biểu tượng vào cài đặt cho iThemer</change>
-    </changes>
-    <changes>
-        <version>137</version>
-	<change>Thêm 13 biểu tượng</change>
-	<change>Thay thế một số biểu tượng cũ</change>
-	<change>Sửa lại nền bàn phím gọi</change>
-	<change>Thêm biểu tượng thư mục</change>
-	<change>Thêm Dock</change>
-    </changes>
-    <changes>
-        <version>124</version>
-        <change>Lần đầu phát hành</change>
-    </changes>
 </changelog>
