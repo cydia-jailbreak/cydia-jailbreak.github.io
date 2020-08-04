@@ -19,56 +19,6 @@ Icon: file:///Applications/Cydia.app/Sections/System1.png
 
 Package: com.TruongTamPhong.ActivatorVietNam
 Architecture: iphoneos-arm
-Version: 1.9.13~rc5
-Priority: optional
-Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak
-Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.TruongTamPhong.FlipSwitch (>= 1.0.16~rc1), com.rpetrich.rocketbootstrap (>= 1.0.9)
-Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
-Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
-Filename: ./debfiles/com.TruongTamPhong.ActivatorVietNam_1.9.13~rc5_iphoneos-arm.deb
-Size: 1209966
-MD5sum: 8ab354b41c8fc5151e90e37e02a3df66
-SHA1: 86741d62b6e1037c64d559d764e6d0b2ca662e97
-SHA256: 72cde9991bf42421064af5d527d4cc671471f014234cddc0aaa425bf4a92c3d7
-SHA512: 34e734a73421cc527814a75ed039d8b18f024375261820ff003d8eb0746546819dbb7000b949e74e22062dd97640c549faf0c3fd541c82912511ecf8ebaf83d8
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Cử chỉ tập trung, quản lý nút và phím tắt cho iOS
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
-Name: Activator Việt Nam
-Author: Ryan Petrich
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ActivatorVietNam
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ActivatorVietNam
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
-Package: com.TruongTamPhong.ActivatorVietNam
-Architecture: iphoneos-arm
-Version: 1.9.13~rc6
-Priority: optional
-Section: Tweaks
-Maintainer: Apple Cydia Và Jailbreak
-Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.TruongTamPhong.FlipSwitch (>= 1.0.16~rc1), com.rpetrich.rocketbootstrap (>= 1.0.9)
-Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
-Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
-Filename: ./debfiles/com.TruongTamPhong.ActivatorVietNam_1.9.13~rc6_iphoneos-arm.deb
-Size: 1216788
-MD5sum: 5646534289ecddabc133231414243836
-SHA1: c10ec5af9816f83c6941376928e7c41106bdabdb
-SHA256: dc64a9acdae764013dbe4c4ac79a5c09242c93c9595dc2ee57402bb6af2fa74a
-SHA512: a15744fbdf86ae49d0c2faf1c9fcba5e67a63af6a7a456ff4182157d146e25dec40c91786562db63476a8a2a4a2103dc751a841c8576ce1e0144a46edb3d4a71
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Cử chỉ tập trung, quản lý nút và phím tắt cho iOS
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
-Name: Activator Việt Nam
-Author: Ryan Petrich
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ActivatorVietNam
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ActivatorVietNam
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
-Package: com.TruongTamPhong.ActivatorVietNam
-Architecture: iphoneos-arm
 Version: 1.9.13~rc7
 Priority: optional
 Section: Tweaks
@@ -90,24 +40,6 @@ Name: Activator Việt Nam
 Author: Ryan Petrich
 Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ActivatorVietNam
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ActivatorVietNam
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
-Package: com.TruongTamPhong.AlertController
-Architecture: iphoneos-arm
-Version: 1.2.1
-Section: Tweaks
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.TruongTamPhong.AlertController_1.2.1_iphoneos-arm.deb
-Size: 33958
-MD5sum: 0cf334cf4dc82e8ad32c4b7e17a9cfdd
-SHA1: 0ebe116a939ef81c1202741608772264443c8cdb
-SHA256: 277ef44719cb45db0a78a0475fe1028e68c85b9e8e99091646576c97a20c5a2b
-SHA512: aac1ecb8fb8ff5ad58b35035b828289e612ff7f7570cfbb5dfb7ddad1240ba1854f9255759d13a46c930ec92e6cd4824fbc0db87ff4f79668429f313aaf57398
-Description: Thay đổi kiểu dáng cảnh báo và nhóm bảng hiển thị
-Name: Alert Controller
-Author: Tomasz Poliszuk
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AlertController
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AlertController
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.AlertController
@@ -234,42 +166,6 @@ Author: AussieAppz
 Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AndroidCarbonMini
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AndroidCarbonMini
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
-Package: com.TruongTamPhong.AppazeVietNam
-Architecture: iphoneos-arm
-Version: 2.1.1
-Section: Tweaks
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), com.TruongTamPhong.FlipSwitch
-Filename: ./debfiles/com.TruongTamPhong.AppazeVietNam_2.1.1_iphoneos-arm.deb
-Size: 1313700
-MD5sum: 3a06b25fa322e0b2cb6289e5b4a8d6ec
-SHA1: 5ea42fc85e7bd04989a0a11ab01765874d8c46a9
-SHA256: 5633f199b2bef557a8e151c44822bf54a7afb4a3865e09a6366dfba3c51ad0f5
-SHA512: a828032bcdd703299c63c2a2521d72a234d11a5314ce1b1f08a469e0df2a032cc615a9e69da631626ad0bb25018011c7352fbcf80629caa2853e009f1ede3c2b
-Description: Set custom volume/brightness/toggles per app, directly from 3D Touch menu
-Name: Appaze Việt Nam
-Author: AnthoPak
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AppazeVietNam
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AppazeVietNam
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
-Package: com.TruongTamPhong.AprilVietNam
-Architecture: iphoneos-arm
-Version: 2.0.1-1
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.15.1), org.thebigboss.libcolorpicker, com.peterdev.libpddokdo
-Filename: ./debfiles/com.TruongTamPhong.AprilVietNam_2.0.1-1_iphoneos-arm.deb
-Size: 110988
-MD5sum: a0d6e2fa5fc4d98a6044e9eb21579f20
-SHA1: 0d5b55144b764deedea1cdba439cc4ae2344b7b0
-SHA256: 043222f9dd8182bfdffaa8cfa5d417ed145f21468ac213c58b8566fc0f6ff1ba
-SHA512: b98e5e22cc7e6492a961b2a63d3391ef440e55473f7c7b47f4e7ac0e1532df0326c166b40a894d6c4911cbfb3b71eae8aeddb0da444f7bf55f7bb279578ce78c
-Description: Làm cho màn hình khóa của bạn độc đáo hơn
-Name: April Việt Nam
-Author: Constanze
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AprilVietNam
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AprilVietNam
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.AprilVietNam
 Architecture: iphoneos-arm
