@@ -379,6 +379,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carb
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carbon
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
+Package: com.TruongTamPhong.Carbon
+Architecture: iphoneos-arm
+Version: 300
+Section: Themes
+Filename: ./debfiles/com.TruongTamPhong.Carbon_300_iphoneos-arm.deb
+Size: 25012916
+MD5sum: 1c1f8a53caa81dd4ee080157939e3280
+SHA1: fad43c8f36ba51a816f50fb16d55948a05b9de34
+SHA256: f82a0e79875f14a3cc2c6a90080d6a2c88f2ec6792764367f68b82304b482ee9
+SHA512: d65379e1aa805c4fc8e5448d7591eaf23355187398b97d3e26e27f15ed6af4e86c3a3188cc4485f437c851acba7e38fade2a67fb78cee6c9f51a0f493bbb1a85
+Description: Chủ đề xám tuyệt vời dành cho bạn!
+Name: Carbon
+Author: TTP + Nyk0n
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carbon
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carbon
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
 Package: com.TruongTamPhong.Circle
 Architecture: iphoneos-arm
 Version: 1.1.0
