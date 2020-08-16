@@ -398,14 +398,14 @@ Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
 Package: com.TruongTamPhong.Carbon
 Architecture: iphoneos-arm
-Version: 338
+Version: 367
 Section: Themes
-Filename: ./debfiles/com.TruongTamPhong.Carbon_338_iphoneos-arm.deb
-Size: 26434140
-MD5sum: c2a2b0202af4e2ccc78149d06e373386
-SHA1: ff47e1fe67d29503451ee1bd5578223eaf61454d
-SHA256: 040ea13244ce97e019cb9c7e68d2dfb025392cc397d0bffb826d883593673e85
-SHA512: 4f561a87543d50f8035a329f6b3023fac7e1f1276fa05b14c7974c30117a43a5fa64c8bcad51ca634c7c9a37e3e8b6d5f258ba8bf0b949386942a47fc1d01b03
+Filename: ./debfiles/com.TruongTamPhong.Carbon_367_iphoneos-arm.deb
+Size: 27932944
+MD5sum: 02d66de91855c746ce37d827c1f92e3a
+SHA1: 2f29da9c1452d40d64e1460b5aaeb2168e4f5dd8
+SHA256: 70ee6f277acb6f73ed34d744d54dc8749787cd20f9235e5278e4632701a81410
+SHA512: 270343dd2e966e43e9ca32e95a03bba7507e4d74777f6db5712582b4b88bb29d3272d3d324daa144500458912f1e442f6b277012dbc4065ac3b7944b581862a0
 Description: Chủ đề xám tuyệt vời dành cho bạn!
 Name: Carbon
 Author: TTP + Nyk0n
