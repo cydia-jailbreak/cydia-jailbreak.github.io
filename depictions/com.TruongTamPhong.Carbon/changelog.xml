@@ -2,6 +2,10 @@
     <changes>
         <version>367</version>
 	<change>Thêm 29 biểu tượng mới</change>
+<<<<<<< HEAD
 	<change>Sửa đổi nhiều biểu tượng cũ</change>
+=======
+	<change>Sửa đổi 1 số biểu tượng cũ</change>
+>>>>>>> 15d3b209afa518c69d640522b9ea205d8531caee
     </changes>
 </changelog>
