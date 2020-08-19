@@ -1,5 +1,12 @@
 <changelog>
     <changes>
+        <version>1.3.8~beta3</version>
+        <change>Khắc phục một số lỗi</change>
+        <change>Cải thiện hình ảnh động biểu tượng thư mục với ảnh mặt nạ
+bao gồm độ trong suốt</change>
+        <change>Thêm cài đặt Huy hiệu tỉ lệ cùng biểu tượng</change>
+    </changes>
+    <changes>
         <version>1.3.3~beta4</version>
         <change>Sửa lỗi UI thanh trạng thái không hoạt động</change>
 	<change>Cải tiến hiệu suất</change>
