@@ -1,14 +1,9 @@
 <changelog>
     <changes>
-        <version>448</version>
-	<change>Thêm 81 biểu tượng mới</change>
-	<change>Thêm 5 AE</change>
+        <version>Final</version>
+	<change>Thêm 24 biểu tượng mới</change>
+	<change>Thêm Sóng, Pin,...</change>
 	<change>Thêm nhiều biểu tượng vào cài đặt</change>
-	<change>Sửa lại nhiều biểu tượng cũ</change>
-    </changes>
-    <changes>
-        <version>367</version>
-	<change>Thêm 29 biểu tượng mới</change>
-	<change>Sửa lại nhiều biểu tượng cũ</change>
+	<change>Sửa lại và thay thế nhiều biểu tượng khác</change>
     </changes>
 </changelog>
