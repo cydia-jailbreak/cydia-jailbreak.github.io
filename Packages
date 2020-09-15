@@ -367,11 +367,29 @@ Architecture: iphoneos-arm
 Version: 473
 Section: Themes
 Filename: ./debfiles/com.TruongTamPhong.Carbon_473_iphoneos-arm.deb
-Size: 38251380
-MD5sum: ae7dcd2673ecc2571d1a87a767c3f494
-SHA1: 7beb8f5fbc408b63d23f918c7ef8c9eb140eefe8
-SHA256: 91b3d2a788a09d854ff48e12883e06135c3f02b0aa62e0efdfedeb53f8dd5cae
-SHA512: 46111eae77be234c2b747405aaa612ba9d0b4645a49451480cfc880647a7df46af61cea570008ef7352bce082839550e093793b069baecd25359d3cca54d4249
+Size: 39214184
+MD5sum: 90f020b3d8ec0bf3eaf6d2033439f7eb
+SHA1: ec311ba1f4e2361bb6cdc68d4f611ccb105ec232
+SHA256: c1e601c2649c49ff9c77e9ba86670de8b6fff6f7be781edad99240890042f37d
+SHA512: 0558f43105963efd80d98b81ff93c5c7467537f1e94684147dbcd4326cf79507cf94275915fbeaae6b1e6de50cf3fb1a0546b869abff5b16f610d1975467250a
+Description: Chủ đề xám tuyệt vời dành cho bạn!
+Name: Carbon
+Author: TTP + Nyk0n
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carbon
+Sileodepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carbon
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
+Package: com.TruongTamPhong.Carbon
+Architecture: iphoneos-arm
+Version: 475
+Section: Themes
+Depends: com.TruongTamPhong.NextCarbon
+Filename: ./debfiles/com.TruongTamPhong.Carbon_475_iphoneos-arm.deb
+Size: 43552102
+MD5sum: d668cc2d16b2d3b17ce4bb6d18344e2c
+SHA1: 580b8a161d7b6d501c04c75296a08aba09e73649
+SHA256: 7fe72787a137f2cc9e7a27156cf57145aeb85531c9e16f1629bdf48b303c8f60
+SHA512: ac1cf2426ae391fa3b9431347cfc8ea666c2a72ea7268f3e1a237c0dc888754fb098368e732ded7b5c50c4bc90c6b22ae20f1f31b4d060188a6d780bfbcf1e59
 Description: Chủ đề xám tuyệt vời dành cho bạn!
 Name: Carbon
 Author: TTP + Nyk0n
@@ -1708,6 +1726,22 @@ Name: Nema
 Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Nema
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.NextCarbon
+Architecture: iphoneos-arm
+Version: 475
+Section: Themes
+Depends: com.TruongTamPhong.Carbon
+Filename: ./debfiles/com.TruongTamPhong.NextCarbon_475_iphoneos-arm.deb
+Size: 44209682
+MD5sum: de46646c79fac1186e271610e0d15e4c
+SHA1: 5806091228853c0591c90a0a1ab229affd444f78
+SHA256: c6ecd8c676d04bc0cf6a4f4b8f09b196d94723a7a625c75183f0b5b03c4e2a6a
+SHA512: 8adc4a74f281bd426927641639015ce82b433f2a0e816a65298fdc9c4b855a99d6de826f2375f1132090d4377ef9b7bc14e9f552ff55acb234aaa12198b3132a
+Description: Nối tiếp chủ đề Carbon
+Name: NextCarbon
+Author: TTP + Nyk0n
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
 Package: com.TruongTamPhong.NiceBarX13VietNam
 Architecture: iphoneos-arm

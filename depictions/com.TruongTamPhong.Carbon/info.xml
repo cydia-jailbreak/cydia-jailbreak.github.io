@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Carbon</id>
 	<name>Trương Tam Phong</name>
-	<version>473</version>
+	<version>475</version>
 	<compatibility>
 		<firmware>
 			<miniOS>6.0</miniOS>
@@ -25,10 +25,8 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-	<change>Thêm 24 biểu tượng mới</change>
-	<change>Thêm Sóng, Pin,...</change>
-	<change>Thêm nhiều biểu tượng vào cài đặt</change>
-	<change>Sửa lại và thay thế nhiều biểu tượng khác</change>
+	<change>Nâng cao độ nét cho toàn bộ gần 500 biểu tượng</change>
+	<change>Sửa lại và thay thế nhiều biểu tượng cũ</change>
 	</changelog>
 	<links></links>
 </package>
