@@ -397,6 +397,24 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carb
 Sileodepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carbon
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
+Package: com.TruongTamPhong.Carbon
+Architecture: iphoneos-arm
+Version: 478
+Section: Themes
+Depends: com.TruongTamPhong.NextCarbon
+Filename: ./debfiles/com.TruongTamPhong.Carbon_478_iphoneos-arm.deb
+Size: 38994410
+MD5sum: 56d5f0c5268f9dc41756757206004644
+SHA1: 38f5d9bd80b0cfcaef4ec3b95bc45c8d7a496ae8
+SHA256: c9fd5b10dc109675e6e5f0bcd2c9a7c0861a742761eafc41d34b71c52ff93e95
+SHA512: 537e7b439ae3910d7f0e6682c092b42853880517ce975971d429d6181a648ddc6ccbac07a9286886b06858ea26cc03933df1577b143a7cf50ffd81d3a1a0fdc7
+Description: Chủ đề xám tuyệt vời dành cho bạn!
+Name: Carbon
+Author: TTP + Nyk0n
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carbon
+Sileodepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carbon
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
 Package: com.TruongTamPhong.Circle
 Architecture: iphoneos-arm
 Version: 1.1.0
@@ -1738,6 +1756,22 @@ MD5sum: de46646c79fac1186e271610e0d15e4c
 SHA1: 5806091228853c0591c90a0a1ab229affd444f78
 SHA256: c6ecd8c676d04bc0cf6a4f4b8f09b196d94723a7a625c75183f0b5b03c4e2a6a
 SHA512: 8adc4a74f281bd426927641639015ce82b433f2a0e816a65298fdc9c4b855a99d6de826f2375f1132090d4377ef9b7bc14e9f552ff55acb234aaa12198b3132a
+Description: Nối tiếp chủ đề Carbon
+Name: NextCarbon
+Author: TTP + Nyk0n
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
+Package: com.TruongTamPhong.NextCarbon
+Architecture: iphoneos-arm
+Version: 478
+Section: Themes
+Depends: com.TruongTamPhong.Carbon
+Filename: ./debfiles/com.TruongTamPhong.NextCarbon_478_iphoneos-arm.deb
+Size: 50002218
+MD5sum: 2ec5a941fb9577e9d78235d829b70b49
+SHA1: b1c2ca7b2af8ded532cbb48a602826966b58a72a
+SHA256: a41c16819080c79a29b641b3774f755e4343a7d83306b81f631a253ee964ef59
+SHA512: 1be0703099bea14c87718024c86f48bd50c917a39519c593874e6dc4af764287e344a3c8a953119d494723ea23cf6d49eeef25ce00613810b41eee3e2895c9fc
 Description: Nối tiếp chủ đề Carbon
 Name: NextCarbon
 Author: TTP + Nyk0n

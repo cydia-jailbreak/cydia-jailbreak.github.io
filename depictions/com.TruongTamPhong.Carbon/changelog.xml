@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>478</version>
+	<change>Thêm vài biểu tượng mới</change>
+	<change>Sửa lại và thay thế một số biểu tượng cũ</change>
+    </changes>
+    <changes>
         <version>475</version>
 	<change>Nâng cao độ nét cho toàn bộ gần 500 biểu tượng</change>
 	<change>Sửa lại và thay thế nhiều biểu tượng cũ</change>
