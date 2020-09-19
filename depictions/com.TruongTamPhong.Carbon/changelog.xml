@@ -1,5 +1,11 @@
 <changelog>
     <changes>
+        <version>500</version>
+	<change>Thêm 22 biểu tượng mới</change>
+	<change>Thay thế nền cho thư mục</change>
+	<change>Sửa lại và thay thế một số biểu tượng cũ</change>
+    </changes>
+    <changes>
         <version>478</version>
 	<change>Thêm vài biểu tượng mới</change>
 	<change>Sửa lại và thay thế một số biểu tượng cũ</change>

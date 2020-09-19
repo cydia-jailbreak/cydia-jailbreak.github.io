@@ -415,6 +415,24 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carb
 Sileodepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carbon
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
+Package: com.TruongTamPhong.Carbon
+Architecture: iphoneos-arm
+Version: 500
+Section: Themes
+Depends: com.TruongTamPhong.NextCarbon
+Filename: ./debfiles/com.TruongTamPhong.Carbon_500_iphoneos-arm.deb
+Size: 44382684
+MD5sum: 30afab650f741253e603789783b349df
+SHA1: 9e020f7ea0490310349b545e734459191d23a604
+SHA256: b472457f6cb0859108c1fb81da52e11fe64b1c1a7be455bf813c24327caa8b59
+SHA512: 9faff87345d3bffdb2e70fb565b695eea32358254b9ce341ac0333a4471914a8a55aee5dacae112ecf5ec8bc91f0bb1f9d6f8d67defd4b93e5fed3f13af28f69
+Description: Chủ đề xám tuyệt vời dành cho bạn!
+Name: Carbon
+Author: TTP + Nyk0n
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carbon
+Sileodepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carbon
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
 Package: com.TruongTamPhong.Circle
 Architecture: iphoneos-arm
 Version: 1.1.0
@@ -1726,6 +1744,24 @@ Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPho
 SileoDepiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.MyName
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.NanoBanners13VietNam
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.NanoBanners13VietNam_1.1.1_iphoneos-arm.deb
+Size: 161424
+MD5sum: 1af6f083a36aba86f3f760edab10f754
+SHA1: be994ae772be4168b3bbc1cc7ae8f7a750003e24
+SHA256: bff0bb9fec3b2aa1a7e6c135fa61a0d7e9def35ab07cccb337c5704166060fce
+SHA512: c3382764caf2bf453f7333601cc5a82f904bed06822fbd8025588e6a1d9d0734d8d864a22ede0a7ef2daf0b57c24811719e082e535c1750be774f1741342ecb2
+Description: Thông báo siêu nhỏ
+Name: NanoBanners13 Việt Nam
+Author: Nepeta
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.NanoBanners13VietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.NanoBanners13VietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.Nema
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -1772,6 +1808,22 @@ MD5sum: 2ec5a941fb9577e9d78235d829b70b49
 SHA1: b1c2ca7b2af8ded532cbb48a602826966b58a72a
 SHA256: a41c16819080c79a29b641b3774f755e4343a7d83306b81f631a253ee964ef59
 SHA512: 1be0703099bea14c87718024c86f48bd50c917a39519c593874e6dc4af764287e344a3c8a953119d494723ea23cf6d49eeef25ce00613810b41eee3e2895c9fc
+Description: Nối tiếp chủ đề Carbon
+Name: NextCarbon
+Author: TTP + Nyk0n
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
+Package: com.TruongTamPhong.NextCarbon
+Architecture: iphoneos-arm
+Version: 500
+Section: Themes
+Depends: com.TruongTamPhong.Carbon
+Filename: ./debfiles/com.TruongTamPhong.NextCarbon_500_iphoneos-arm.deb
+Size: 49958570
+MD5sum: acda8bd920fa7ccbedad5d2a4046863d
+SHA1: a4429b05454f83c3a5c60127e39ec8cd30573c61
+SHA256: 79033b45b7e4bc66cf3ec077c0499d01548f5dfd7858c937a6f5cdda030df964
+SHA512: 2465403f8632fd13a23f64339011def64106c30644dceee40f088ff2855df717b82d561a88f50dbef55ca6998aae4546eb6327ae6e41fa66c830c0a0bea56459
 Description: Nối tiếp chủ đề Carbon
 Name: NextCarbon
 Author: TTP + Nyk0n

@@ -1,0 +1,30 @@
+<package>
+	<id>com.TruongTamPhong.NanoBanners13VietNam</id>
+	<name>Trương Tam Phong</name>
+	<version>1.1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tinh chỉnh giúp thu nhỏ thông báo xuất hiện trên thanh trạng thái</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>NanoBanners1.jpg</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>NanoBanners2.jpg</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+	<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>
