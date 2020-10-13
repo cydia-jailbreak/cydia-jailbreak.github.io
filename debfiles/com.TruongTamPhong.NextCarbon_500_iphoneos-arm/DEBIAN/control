@@ -1,9 +1,0 @@
-Package: com.TruongTamPhong.NextCarbon
-Name: NextCarbon
-Author: TTP + Nyk0n
-Version: 500
-Architecture: iphoneos-arm
-Depends: com.TruongTamPhong.Carbon
-Description: Nối tiếp chủ đề Carbon
-Section: Themes
-Icon: file:///Applications/Cydia.app/Sections/Themes1.png
