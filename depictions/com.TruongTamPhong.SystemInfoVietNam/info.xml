@@ -1,0 +1,28 @@
+<package>
+<id>com.TruongTamPhong.SystemInfoVietNam</id>
+	<name>Trương Tam Phong</name>
+	<version>2.7.2-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tiện ích hiển thị thêm thông tin hệ thống trong ứng dụng Cài đặt> Chung> Giới thiệu và các phần khác. Đặt boot-nonce, lưu SHSH, thông tin pin, v.v.</description>
+		<description>Yêu cầu cài tinh chỉnh Xen HTML để sử dụng</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>SystemInfoVietNam1.jpg</image>
+            <image>SystemInfoVietNam2.jpg</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+		<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>

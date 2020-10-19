@@ -2347,6 +2347,24 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SymbianBelle
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
+Package: com.TruongTamPhong.SystemInfoVietNam
+Architecture: iphoneos-arm
+Version: 2.7.2-2
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.SystemInfoVietNam_2.7.2-2_iphoneos-arm.deb
+Size: 427782
+MD5sum: 94447b2d445b268fcae385cc63cba39d
+SHA1: 96532e1ebee228c950d0b261de19f8f7544e5c1c
+SHA256: 3becb7e0fd6d7870f1b782b62bd75050d87e1ab24de1b0737a8db0d7e14dafaf
+SHA512: d638173cb9c9eb142c440051dac4c60928b3a44b295408132dff275187f952789662730f72f68000da6ade9505f68f39adb08b2461533303a5779d5c0e96594f
+Description: Thông tin hệ thống trong ứng dụng Cài đặt> Chung> Giới thiệu và các phần khác. Đặt boot-nonce, lưu SHSH, thông tin pin, v.v.
+Name: System Info Việt Nam
+Author: ARX8x
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.SystemInfoVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.SystemInfoVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.TeXGyre13
 Architecture: iphoneos-arm
 Version: 1.0.0
