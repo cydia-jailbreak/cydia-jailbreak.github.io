@@ -12,14 +12,14 @@
 	<dependencies></dependencies>
 	<descriptionlist>
 		<description>Tiện ích hiển thị thêm thông tin hệ thống trong ứng dụng Cài đặt> Chung> Giới thiệu và các phần khác. Đặt boot-nonce, lưu SHSH, thông tin pin, v.v.</description>
-		<description>Yêu cầu cài tinh chỉnh Xen HTML để sử dụng</description>
 	</descriptionlist>
 <screenshots>
         <screenshot>
             <description></description>
             <image>SystemInfoVietNam1.jpg</image>
-            <image>SystemInfoVietNam2.jpg</image>
         </screenshot>	
+        <screenshot>
+            <image>SystemInfoVietNam2.jpg</image>
     </screenshots>
 	<changelog>
 		<change>Lần đầu phát hành</change>
