@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Infinity</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -16,8 +16,7 @@
 		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
 	</descriptionlist>
 	<changelog>
-<change>Sửa lỗi nhảy chữ xuống hàng phần lịch Dương</change>
-<change>Thêm định dạng thời gian 12h và 24h cùng 16 gói biểu tượng thời tiết (thay đổi trong cài đặt tiện ích)</change>
+<change>Chỉnh lại bóng đổ</change>
 	</changelog>
 <screenshots>
         <screenshot>
