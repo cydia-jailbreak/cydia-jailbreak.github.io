@@ -433,6 +433,24 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carb
 Sileodepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carbon
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
+Package: com.TruongTamPhong.Carbon
+Architecture: iphoneos-arm
+Version: 513
+Section: Themes
+Depends: com.TruongTamPhong.NextCarbon
+Filename: ./debfiles/com.TruongTamPhong.Carbon_513_iphoneos-arm.deb
+Size: 47825818
+MD5sum: 5f6c9bf9ef8fe08d07c79695441b05c0
+SHA1: 54091e1f40a9c268b562d67ebcbadd6e7d434486
+SHA256: f1ec24731aea1d7f4108a71d1ab26354b8235c9f003292525bea7f271c2b6019
+SHA512: 9c5ad236cbe23c27b1558a2cd37569c8011f895705281b161a0bff428c1faa59f88f532654546920b700c92663d65f91ecf1578f073dc738d1d167c8cf6ce297
+Description: Chủ đề xám tuyệt vời dành cho bạn!
+Name: Carbon
+Author: TTP + Nyk0n
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carbon
+Sileodepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carbon
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
 Package: com.TruongTamPhong.Circle
 Architecture: iphoneos-arm
 Version: 1.1.0
@@ -1120,6 +1138,26 @@ MD5sum: 0fda6a316a2baa12c9b315f1dd306ac5
 SHA1: 0ef9cad90bd0eccad69841d08320ea5bed2a2e7b
 SHA256: 9c128a85c764fcccc8c806a5befd99f6481c70bbb42bb2c39dbc7490e1018db5
 SHA512: 878fa9e031cd2781b977a10b623c88c5bcc6c4380ee5c4142edde506bef66995aae60ee2f7b4424cf2502a7a0bcc5ffffb7b80498853d94d30710e87b8758044
+Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
+Description: Widget for Xen HTML
+Name: Infinity
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Infinity
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Infinity
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.Infinity
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Widget tĩnh
+Maintainer: Apple Cydia Và Jailbreak
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.Infinity_1.0.4_iphoneos-arm.deb
+Size: 25309272
+MD5sum: 52d0d5dd14c807b241631ceed0a5daa6
+SHA1: b603e9ae5d59f43c18e28c7aa07a27445d985ce2
+SHA256: b0b9f1eec7ab216a7dcb0fc925d240ca9f5d2b00f94e2b29b8b8410397b30f85
+SHA512: 01cc2b3cafd08cfca228bff74a676514f297f8d7346b80e0a9fd22a0cf98fb011220c17723f5dcd80df7077bff025f3b72be1a46b90e8d62e2737092ce736ed9
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Infinity

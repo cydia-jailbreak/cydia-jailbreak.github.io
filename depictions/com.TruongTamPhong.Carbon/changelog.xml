@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>513</version>
+	<change>Thêm 13 biểu tượng mới</change>
+	<change>Sửa lỗi không hiển thị một số biểu tượng trong Cài đặt</change>
+    </changes>
+    <changes>
         <version>500</version>
 	<change>Thêm 22 biểu tượng mới</change>
 	<change>Thay thế nền cho thư mục</change>

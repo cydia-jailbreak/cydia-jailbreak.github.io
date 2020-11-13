@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Carbon</id>
 	<name>Trương Tam Phong</name>
-	<version>500</version>
+	<version>513</version>
 	<compatibility>
 		<firmware>
 			<miniOS>6.0</miniOS>
@@ -25,9 +25,8 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-	<change>Thêm 22 biểu tượng mới</change>
-	<change>Thay thế nền cho thư mục</change>
-	<change>Sửa lại và thay thế một số biểu tượng cũ</change>
+	<change>Thêm 13 biểu tượng mới</change>
+	<change>Sửa lỗi không hiển thị một số biểu tượng trong Cài đặt</change>
 	</changelog>
 	<links></links>
 </package>
