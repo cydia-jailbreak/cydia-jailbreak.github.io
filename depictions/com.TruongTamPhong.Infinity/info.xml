@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Infinity</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.3</version>
+	<version>1.0.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -16,7 +16,7 @@
 		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
 	</descriptionlist>
 	<changelog>
-<change>Chỉnh lại bóng đổ</change>
+<change>Sửa lỗi nền mờ 2 bên</change>
 	</changelog>
 <screenshots>
         <screenshot>

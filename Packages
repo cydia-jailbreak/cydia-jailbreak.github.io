@@ -1153,11 +1153,11 @@ Section: Widget tĩnh
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
 Filename: ./debfiles/com.TruongTamPhong.Infinity_1.0.4_iphoneos-arm.deb
-Size: 25309272
-MD5sum: 52d0d5dd14c807b241631ceed0a5daa6
-SHA1: b603e9ae5d59f43c18e28c7aa07a27445d985ce2
-SHA256: b0b9f1eec7ab216a7dcb0fc925d240ca9f5d2b00f94e2b29b8b8410397b30f85
-SHA512: 01cc2b3cafd08cfca228bff74a676514f297f8d7346b80e0a9fd22a0cf98fb011220c17723f5dcd80df7077bff025f3b72be1a46b90e8d62e2737092ce736ed9
+Size: 25309206
+MD5sum: ba285b6bc6d884dcefa970aefdcd65ff
+SHA1: 877c5fa778d686291c6486b1175baa45118b464b
+SHA256: 80b0673d7e2038e78bfb1e1f30a61ee31ac235a0402625475260b75978a0b6a2
+SHA512: 30ea8acb1a773cc6f9431c490e24c0510d990f9c3c55e0044b2221ba27ceeee8fd1b9627aaa0935d52420c98484837596c4a2b90cd1a62526226939a1d5663e0
 Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
 Description: Widget for Xen HTML
 Name: Infinity
