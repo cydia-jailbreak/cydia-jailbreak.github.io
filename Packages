@@ -1505,6 +1505,24 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.LynxVietNam
 Architecture: iphoneos-arm
+Version: 1.9.1-1
+Section: Tweaks
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Filename: ./debfiles/com.TruongTamPhong.LynxVietNam_1.9.1-1_iphoneos-arm.deb
+Size: 1308960
+MD5sum: 952bfa7aaab004f72b39e5a00d55d030
+SHA1: 31808c9d11a223366a585dab9f2341f56c36cb04
+SHA256: e56157269a31869a7f1f66b8ee90863e4527b05e3bfe57b6eab40c0fe1ef5ff9
+SHA512: c9aee854add70ca62af1f6cf2555c3a611ce8f07cbfeae8ff8247cdf9a48f760a6fb488c77249ee082642b962da98ddaa0ee49f5ee7bf129883555f8ac501a7f
+Description: Tùy biến ẩn các loại cho hệ thống
+Name: Lynx Việt Nam
+Author: MTAC
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LynxVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LynxVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.LynxVietNam
+Architecture: iphoneos-arm
 Version: 1.9.1
 Section: Tweaks
 Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
