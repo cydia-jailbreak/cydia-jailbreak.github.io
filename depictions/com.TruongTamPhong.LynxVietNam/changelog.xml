@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.9.1-1</version>
+<change>Việt hoá phần ngoài còn thiếu cho iOS 13</change>
+    </changes>
+    <changes>
         <version>1.9.1</version>
 <change>Hỗ trợ iOS 12</change>
 <change>Nâng cấp thêm một số chức năng</change>
@@ -12,6 +16,7 @@
         <version>1.5-3</version>
 <change>Thay đổi màu sắc cho Lynx UI</change>
     </changes>
+    <changes>
         <version>1.5-2</version>
         <change>Thêm Định dạng thời gian ngày tháng cho Màn hình khoá, thanh trạng thái và tin nhắn </change>
 <change>Thêm Vô hiệu hoá xoay ngang tại màn hình chính trong mục Toàn hệ thống</change>
