@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.4.2~Beta4</version>
+        <change>Sửa một số lỗi nhỏ</change>
+    </changes>
+    <changes>
         <version>1.4.0~Beta4</version>
         <change>Hỗ trợ iOS 14</change>
         <change>Thay đổi cách tải các chủ đề và tiện ích mở rộng thành phương pháp 'lười biếng'.  Điều này sẽ cung cấp một số cải tiến hiệu suất tốt.</change>
