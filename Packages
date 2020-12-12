@@ -1915,13 +1915,12 @@ Package: com.TruongTamPhong.NextCGP
 Architecture: iphoneos-arm
 Version: 448
 Section: Themes
-Depends: com.TruongTamPhong.CGP
 Filename: ./debfiles/com.TruongTamPhong.NextCGP_448_iphoneos-arm.deb
-Size: 49888818
-MD5sum: 7b6c26a277592c7773827464716880dd
-SHA1: 7f7bd22a13f86702d8d2dc684e0756a507ecf697
-SHA256: acc8606cd9591ad643bc2b232949db7cf8318c5e6c807fe7b729baba3f7bf43e
-SHA512: 81522b1f36ca3aa2fe76a98a8c8a42dd143564b37356ec6edbee2f15845195e3b6b141e30a3b834afc18795090f383663c8a02ed8f3d49565cafea17355ede64
+Size: 49888790
+MD5sum: 48720a32c498557ec358468d9f5570aa
+SHA1: e7fcd6d90f2499738430a567b822a3625acea34b
+SHA256: 554567548c7e274f6dc3e68c1064c3ee433a1cc7240541a836d58dcc1e8a6826
+SHA512: 6604e94f073dd8893c6b704b792591568f036249614016a75cefed4378af13e6c687bec70ae590493105249b4238ab7a2c10532acd3fc6d8c90260400bda7ccd
 Description: Phiên bản nối tiếp chủ đề CGP
 Name: NextCGP
 Author: Trương Tam Phong
