@@ -1,0 +1,36 @@
+<package>
+	<id>com.TruongTamPhong.CGP</id>
+	<name>Trương Tam Phong</name>
+	<version>448</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.0</miniOS>
+                         <maxiOS>14.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Một chủ đề màu Gold tuyệt vời dành cho bạn</description>
+		<description>Sử dụng Snowboard, iThemer, iConOmatic hoặc Anemone 3 để kích hoạt</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>CGP1.png</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>CGP2.png</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>CGP3.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+	<change>Tổng 448 biểu tượng</change>
+	<change>Cùng với 19 tiện ích</change>
+	</changelog>
+	<links></links>
+</package>

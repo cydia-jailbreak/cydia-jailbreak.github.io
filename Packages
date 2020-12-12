@@ -325,6 +325,24 @@ Author: Alex
 Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Bubble13
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Bubble13
 
+Package: com.TruongTamPhong.CGP
+Architecture: iphoneos-arm
+Version: 448
+Section: Themes
+Depends: com.TruongTamPhong.NextCGP
+Filename: ./debfiles/com.TruongTamPhong.CGP_448_iphoneos-arm.deb
+Size: 44065638
+MD5sum: 0eb1cf669153aa661427a7dc4738f3fe
+SHA1: 2f7435b81677e70b44e732a11dad44804db826f7
+SHA256: 3a24dda7c0719aa60acf9cd2683f8042d06ae735188c53fbdc4e4639ef9791ff
+SHA512: b912c06bb91faff45b3d10cdba5effc1a3b8d49c33a55e30661458e1e78284dba337fb7fad81bde78edbbf036cbd1a3150d43b0260e223534d910300cebf0df1
+Description: Chủ đề màu Gold dành cho bạn
+Name: CGP
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.CGP
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.CGP
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
 Package: com.TruongTamPhong.CPUToolVietNam
 Architecture: iphoneos-arm
 Version: 1.8
@@ -1892,6 +1910,22 @@ Name: Nema
 Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Nema
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.NextCGP
+Architecture: iphoneos-arm
+Version: 448
+Section: Themes
+Depends: com.TruongTamPhong.CGP
+Filename: ./debfiles/com.TruongTamPhong.NextCGP_448_iphoneos-arm.deb
+Size: 49888818
+MD5sum: 7b6c26a277592c7773827464716880dd
+SHA1: 7f7bd22a13f86702d8d2dc684e0756a507ecf697
+SHA256: acc8606cd9591ad643bc2b232949db7cf8318c5e6c807fe7b729baba3f7bf43e
+SHA512: 81522b1f36ca3aa2fe76a98a8c8a42dd143564b37356ec6edbee2f15845195e3b6b141e30a3b834afc18795090f383663c8a02ed8f3d49565cafea17355ede64
+Description: Phiên bản nối tiếp chủ đề CGP
+Name: NextCGP
+Author: Trương Tam Phong
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
 Package: com.TruongTamPhong.NextCarbon
 Architecture: iphoneos-arm
