@@ -1,5 +1,24 @@
 <changelog>
     <changes>
+        <version>1.4.2</version>
+		<change>- Hỗ trợ thêm iOS 12 và iOS 14</change>
+              <change>- Cập nhật thêm cài đặt tinh chỉnh</change>
+		<change>- Đã sửa lỗi có thể gây ra sự cố do các giá trị (hiện không được sử dụng) từ cài đặt tinh chỉnh cũ.</change>
+		<change>- Chia kiểu giao diện người dùng để kiểm soát riêng sự xuất hiện của Bảng thông báo và Hành động</change>
+		<change>- Đã thêm khả năng thay đổi kiểu Cảnh báo thành Trang tính hành động</change>
+		<change>- Thêm khả năng kiểm soát kích thước phông chữ tiêu đề (riêng cho Bảng thông báo và Hành động)
+</change>
+		<change>- Thêm khả năng kiểm soát kích thước phông chữ tin nhắn (riêng cho Bảng thông báo và Hành động)</change>
+		<change>- Thêm khả năng kiểm soát khả năng hiển thị của dấu phân cách trong Bảng hành động</change>
+		<change>- Thêm khả năng chọn kích thước nút (nhỏ / lớn riêng biệt cho Bảng thông báo và Hành động)</change>
+		<change>- Thêm khả năng hợp nhất nút hủy với phần còn lại của danh sách trong Bảng hành động</change>
+		<change>- Thêm khả năng đặt lại cài đặt</change>
+		<change>- Đã thêm hỗ trợ cho iOS 12 (hiện không có tùy chọn "ẩn dấu phân cách" và "kiểu giao diện người dùng")</change>
+		<change>- Đã xác nhận hỗ trợ cho iOS 14</change>
+		<change>- Liên kết các vấn đề đã thay đổi, nó hiện hướng người dùng đến danh sách các vấn đề thay vì tạo vấn đề mới</change>
+		<change>- Mã được sắp xếp lại và định dạng lại, loại bỏ mã không sử dụng</change>
+    </changes>
+    <changes>
         <version>1.3.1</version>
 		<change>Đã sửa lỗi tinh chỉnh không hoạt động với một số ứng dụng</change>
                 <change>Sửa lỗi khi chỉnh sửa bị vô hiệu hóa và Kiểu UI được đặt thành Màu văn bản tối trong Cảnh báo vẫn được đặt thành màu trắng</change>
