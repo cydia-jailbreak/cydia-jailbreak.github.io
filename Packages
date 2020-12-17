@@ -2566,6 +2566,23 @@ Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Temperature Clock
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.TetrominoVN
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Filename: ./debfiles/com.TruongTamPhong.TetrominoVN_1.0.0_iphoneos-arm.deb
+Size: 147250
+MD5sum: ab0dd6ecdcd69d5884d77c4c83368bb5
+SHA1: ddfe3fb0b5c94a17327b1f9f6cf3d34ffa38ca4c
+SHA256: 6abe68e3a2a2c5c8244ba536cf5f54eec3cfec174bb4cd19b6de41cdaed379b1
+SHA512: f050981fec6623e010bd4fd374cf50457941f25a3e85962ba3c8e9235e86d8da6ce83a5867ca049a73e1c0baae9cdd6fd45c673700b4a1b5569d00a4e573bb53
+Description: Widget for Xen HTML
+Name: Tetromino Việt Nam
+Author: CodeOne88
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.TetrominoVN
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.TetrominoVN
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.TextDate
 Architecture: iphoneos-arm
 Version: 1.2.0

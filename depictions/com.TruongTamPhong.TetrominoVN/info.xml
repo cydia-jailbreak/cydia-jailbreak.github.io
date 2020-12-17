@@ -1,0 +1,27 @@
+<package>
+<id>com.TruongTamPhong.TetrominoVN</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+                         <maxiOS>14.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Game xếp hình chạy trên nền Xen HTML</description>
+		<description>Yêu cầu cài Xen HTML để sử dụng</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>TetrominoVN.jpg</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>
