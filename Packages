@@ -44,6 +44,24 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.AlertControllerVN
 Architecture: iphoneos-arm
+Version: 1.3.1
+Section: Tweaks
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.TruongTamPhong.AlertControllerVN_1.3.1_iphoneos-arm.deb
+Size: 54800
+MD5sum: 360db2aa90cd7fa1e76cb76fdcd2e9fb
+SHA1: c74a7c2c8fb5cb0530c0a4f622b1a03bb37ff98f
+SHA256: edf0bd01219f455f8a5136ae65be3f747d0df4958fabad4b91fecdc696fb1003
+SHA512: 3ca3e36a6087c76a5974efd7ff4b012749e3b71d3583ddc5a0123af9187782840ee97af8a614e22529d7e4a5840f9ace34a7442e05c78401c58a967921d63497
+Description: Thay đổi kiểu dáng cảnh báo và nhóm bảng hiển thị
+Name: Alert Controller Việt Nam
+Author: Tomasz Poliszuk
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AlertController
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AlertController
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.TruongTamPhong.AlertControllerVN
+Architecture: iphoneos-arm
 Version: 1.4.2
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
@@ -55,24 +73,6 @@ SHA256: cd16a7c43aa2a892dda4b1d0348bdb6c927f92f86b7170f20d98f574a32441c2
 SHA512: 5f1813937221a9f34180c7c2a34684df47484462cbf248b1fbe714c59b44d72de5f0535cf2c3e2443b2650d9746d6f4c0d6c95d6e3e1b223b6294767e101c9ef
 Description: Thay đổi kiểu dáng cảnh báo và nhóm bảng hiển thị
 Name: Alert Controller Việt Nam
-Author: Tomasz Poliszuk
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AlertController
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AlertController
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
-Package: com.TruongTamPhong.AlertController
-Architecture: iphoneos-arm
-Version: 1.3.1
-Section: Tweaks
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.TruongTamPhong.AlertController_1.3.1_iphoneos-arm.deb
-Size: 54784
-MD5sum: e30fd0926444f6ed07e4888d3ea704dc
-SHA1: 1a1e56408f8f4f6d21157a9b04ed2b1ba1b36ab9
-SHA256: 4b77f8eadec0b27dc53c3e79a07c8fc9be42b81758653e0c3a2eff2fc03df8fd
-SHA512: 02127d1bd0e31d89338ea1e75972af38aaa22762ab1b885313c12813d91cddda5e21741060a34f74c08d9b16a81ccef90698251c503657636f458665fac97e9a
-Description: Thay đổi kiểu dáng cảnh báo và nhóm bảng hiển thị
-Name: Alert Controller
 Author: Tomasz Poliszuk
 Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AlertController
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AlertController
