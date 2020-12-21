@@ -1,0 +1,27 @@
+<package>
+	<id>com.TruongTamPhong.Futura</id>
+	<name>Trương Tam Phong</name>
+	<version>1.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+                         <maxiOS>13.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Phông chữ kích hoạt qua SnowBoard hoặc iThemer</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>Futura.png</image>
+        </screenshot>	
+    </screenshots>
+	<changelog>
+	<change>Hoạt động trên iOS 11 - 12 - 13</change>
+        <change>Đậm nhạt rõ ràng</change>
+        <change>Cỡ chữ 100</change>
+	</changelog>
+</package>

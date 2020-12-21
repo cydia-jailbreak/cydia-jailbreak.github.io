@@ -923,6 +923,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Full
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FullHouse
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.Futura
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Fonts
+Filename: ./debfiles/com.TruongTamPhong.Futura_1.0.0_iphoneos-arm.deb
+Size: 16093958
+MD5sum: bff27873eb9907368b639d0ab805f8e9
+SHA1: 4b4c4a0f68cfe169e0d638b98b4358d36847ebd9
+SHA256: ed1a01208987a60617d566117282ec9e70b46b8548cde2b822b08961e339f793
+SHA512: 5f377c09e7fcc0987ea3239cec815560df98c7d1f083d9076a8dd14dff54ac9d243f3ed1da445e349004a8231466cd8484343c6beff38ebbd98fddbe1b5ea76e
+Description: Gói Font chữ dành cho Snowboard và iThemer
+Name: Futura
+Author: Renner
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Futura
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Futura
+Icon: file:///Applications/Cydia.app/Sections/Fonts1.png
+
 Package: com.TruongTamPhong.Geometric12
 Architecture: iphoneos-arm
 Version: 1.1
