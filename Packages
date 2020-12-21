@@ -2030,16 +2030,16 @@ Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
 Package: com.TruongTamPhong.NiceBarXVietNam
 Architecture: iphoneos-arm
-Version: 1.0.2.5-36
+Version: 1.0.2.5-37
 Section: Tweaks
 Maintainer: Apple Cydia Và Jailbreak
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.NiceBarXVietNam_1.0.2.5-36_iphoneos-arm.deb
+Filename: ./debfiles/com.TruongTamPhong.NiceBarXVietNam_1.0.2.5-37_iphoneos-arm.deb
 Size: 20492
-MD5sum: afebb49cf3f4c38b45c2c1659894e713
-SHA1: 652b50876834d5a7d733f7ba49e3163671658d28
-SHA256: c5f0f2be3fb42e8488917770bd293d77d349665676ab523462d283c3a96a8389
-SHA512: fb81a60bab23a37569e73b447a0fbf96db5ebe173ad733eded91276804528ffc3358be8bf0ac4e3c24af1b90d01195de989a0552da638713b2dfcf31c808953e
+MD5sum: 73f29e35b33d54685d158a63696e16a4
+SHA1: 4ee84323bdf184a4e159383bb38cf06c4c3f2ac3
+SHA256: af7710e804eff2e1026546e15bf736e2a9f809105886b2f5f47a1c08e8647272
+SHA512: 2945971df7d498397d5ee6d8e9d679e2d4eb315bd582ded23653d2ce883170fa0c740104a8861aef190dcd1eec15de98b83746ccf58bb97f64f98bd3ba4d1ecb
 Description: Gói tiếng Việt dành cho NicebarX iOS 12 & 13
 Name: NiceBarX (Gói tiếng Việt)
 Author: Trương Tam Phong
