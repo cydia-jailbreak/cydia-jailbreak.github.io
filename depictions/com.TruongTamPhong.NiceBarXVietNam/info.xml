@@ -4,7 +4,7 @@
 	<version>1.0.2.5-36</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13.0</miniOS>
+			<miniOS>12.0</miniOS>
                          <maxiOS>13.9</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
@@ -16,11 +16,11 @@
 <screenshots>
         <screenshot>
             <description></description>
-            <image>NiceBarX13VietNam.png</image>
+            <image>NiceBarXVietNam.png</image>
         </screenshot>	
     </screenshots>
 	<changelog>
-		<change>Biên dịch lại cho phiên bản 1.0.2.5-36</change>
+		<change>Dịch cho iOS 12 & 13</change>
 	</changelog>
 	<links></links>
 </package>
