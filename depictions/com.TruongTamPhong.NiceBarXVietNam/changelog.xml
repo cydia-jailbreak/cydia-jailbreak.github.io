@@ -1,18 +1,6 @@
 <changelog>
     <changes>
-        <version>1.0.2.5-36</version>
-		<change>Biên dịch lại cho phiên bản 1.0.2.5-36</change>
-    </changes>
-    <changes>
-        <version>1.0.2.4-1</version>
-		<change>Biên dịch lại cho phiên bản 1.0.2.4-1</change>
-    </changes>
-    <changes>
-        <version>1.0.2.3-162</version>
-		<change>Biên dịch lại cho phiên bản 1.0.2.3-162</change>
-    </changes>
-    <changes>
-        <version>1.0.2.2-294</version>
-		<change>Đã dịch lại vài chỗ đọc không hiểu</change>
+        <version>1.0.2.5-37</version>
+		<change>Dịch lại một số chỗ còn thiếu</change>
     </changes>
 </changelog>

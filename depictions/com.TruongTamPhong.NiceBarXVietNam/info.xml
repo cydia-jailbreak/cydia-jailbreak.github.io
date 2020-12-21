@@ -1,7 +1,7 @@
 <package>
-	<id>com.TruongTamPhong.NiceBarX13VietNam</id>
+	<id>com.TruongTamPhong.NiceBarXVietNam</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.2.5-36</version>
+	<version>1.0.2.5-37</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -20,7 +20,7 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-		<change>Dịch cho iOS 12 & 13</change>
+		<change>Dịch lại một số chỗ còn thiếu</change>
 	</changelog>
 	<links></links>
 </package>
