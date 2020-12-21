@@ -928,13 +928,13 @@ Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Fonts
 Filename: ./debfiles/com.TruongTamPhong.Futura_1.0.0_iphoneos-arm.deb
-Size: 16093958
-MD5sum: bff27873eb9907368b639d0ab805f8e9
-SHA1: 4b4c4a0f68cfe169e0d638b98b4358d36847ebd9
-SHA256: ed1a01208987a60617d566117282ec9e70b46b8548cde2b822b08961e339f793
-SHA512: 5f377c09e7fcc0987ea3239cec815560df98c7d1f083d9076a8dd14dff54ac9d243f3ed1da445e349004a8231466cd8484343c6beff38ebbd98fddbe1b5ea76e
+Size: 16093862
+MD5sum: 46fabbd657d22f6f80c218484311529a
+SHA1: 6a7577b181554b352b11d8ec4ab668d2ab5361d1
+SHA256: 46f0fdf742ebe03fd4cd5c6b564737cdc42754db7c27a8fbd65e9dbc27ba3246
+SHA512: 6fbe56c3f3299641d73d4bb254ab61bfaae5379e951238101047cf5ea5034cdc77ce43aa93db6af73f4a03975cfd57752202144d5c31ab880dadcff286bfe75b
 Description: Gói Font chữ dành cho Snowboard và iThemer
-Name: Futura
+Name: Futura (iOS 11-13)
 Author: Renner
 Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Futura
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Futura

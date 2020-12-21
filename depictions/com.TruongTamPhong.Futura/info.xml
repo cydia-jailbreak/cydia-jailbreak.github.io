@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Futura</id>
 	<name>Trương Tam Phong</name>
-	<version>1.1.0</version>
+	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -20,7 +20,7 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-	<change>Hoạt động trên iOS 11 - 12 - 13</change>
+	<change>Hoạt động trên iOS 11, iOS 12 và iOS 13</change>
         <change>Đậm nhạt rõ ràng</change>
         <change>Cỡ chữ 100</change>
 	</changelog>
