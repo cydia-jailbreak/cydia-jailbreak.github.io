@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.XenHTML</id>
 	<name>Trương Tam Phong</name>
-	<version>2.0~beta4</version>
+	<version>2.0~beta5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -22,8 +22,10 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-		<change>Cải thiện tính ổn định của widgetinfod</change>
-        <change>Dịch một số Widget có sẵn theo Xen HTML sang tiếng Việt</change>
+		<change>Hỗ trợ cho iOS 14</change>
+              <change>[iOS 14] Việc thêm tiện ích trực tiếp vào Màn hình chính hiện được thực hiện thông qua nút "+" của Apple khi chỉnh sửa biểu tượng</change>
+		<change>[iOS 14] Đã vô hiệu hóa hoàn toàn Xenlnfo Bạn không nên cài đặt Xenlnfo trên iOS 14</change>
+		<change>[iOS 9 - 14] Đã khắc phục sự cố trong đó các tiện ích có thể 'biến mất' trên iPad khi xoay</change>
 	</changelog>
 	<links></links>
 </package>
