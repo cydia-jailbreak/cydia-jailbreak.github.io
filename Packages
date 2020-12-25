@@ -2912,13 +2912,13 @@ Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0), com.spark.libsparkcolourpicker
 Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock
 Filename: ./debfiles/com.TruongTamPhong.YouTubeReborn_1.0.6.2_iphoneos-arm.deb
-Size: 64200
-MD5sum: 56bbb21781fcd8db873239dd87bff07e
-SHA1: 4ae7a901b7abfc3a83e337387e7d4922972f5ac3
-SHA256: 6c4e444ebd186d208124ced65b0872bf4cd9db7367200c00c2894205883d7fa7
-SHA512: 7c3a0cab38b7016289f46c8d73d5a5ac33b5b4c5f04fc1b7cdeab643b247c993b30a50fbeca6b46533630e644b8512dc6e8be383fc8c86e79198dfd84c587797
+Size: 64210
+MD5sum: fd637babe9b1147af7f8cbf1e61ca7f5
+SHA1: ab332a96bc5be7fe4b079bddad4351d82d715107
+SHA256: bfe918f0d8fbbf799dab4026584eaf451785c3e6f0941504361336b04fb5f1bf
+SHA512: 2f988f8971a8936d69dc495f460a8caa4326236fe54eea0d658c21fc69cb727ca69e3ca987ba9154849ff1b7446f22cdfbd31904e408b9c1311954a624ecf34b
 Description: Tuỳ chỉnh YouTube của bạn.
-Name: YouTube Reborn
+Name: YouTube Reborn Việt Nam
 Author: SarahH12099
 Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.YouTubeReborn
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.YouTubeReborn
