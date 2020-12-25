@@ -1,0 +1,26 @@
+<package>
+<id>com.TruongTamPhong.YouTubeReborn</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.6.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+                         <maxiOS>14.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tiện ích tuỳ chỉnh những thành phần trong ứng dụng YouTube như tuỳ chọn cho Video, tuỳ chọn lớp phủ, tuỳ chọn thanh Tab, v.v.</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>YouTubeReborn.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>
