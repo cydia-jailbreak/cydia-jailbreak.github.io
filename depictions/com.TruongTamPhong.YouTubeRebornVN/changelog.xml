@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>1.0.7.0</version>
+        <change>Đã thêm khả năng phát video Youtube trong Infuse hoặc Vlc.</change>
+        <change>Đã thêm cửa sổ bật lên vào cử chỉ để chọn 3 hành động.</change>
+    </changes>
+    <changes>
         <version>1.0.6.5</version>
         <change>Đã thêm Picture-In-Picture (iOS 14+, Chạm và giữ vào video trong khoảng 4 giây rồi thả ra)</change>
     </changes>

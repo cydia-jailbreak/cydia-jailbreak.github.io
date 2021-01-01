@@ -2960,3 +2960,22 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.YouT
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.YouTubeRebornVN
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.YouTubeRebornVN
+Architecture: iphoneos-arm
+Version: 1.0.7.0
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0), com.spark.libsparkcolourpicker
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock
+Filename: ./debfiles/com.TruongTamPhong.YouTubeRebornVN_1.0.7.0_iphoneos-arm.deb
+Size: 290134
+MD5sum: 27dd076dd9a4cfe6bf7d0ea42602d429
+SHA1: 083a37736dedf5aec50a0f9d8e2c4800042882e9
+SHA256: b4212eef4ca05f44eeb00a82f8b54773393635e594bbdf48ecd8a9ad57cf9369
+SHA512: 08ee705b422d28c9dc4cd9dab325715178e6fc90e18268926497d1cf335550b968ff353bf31938da090cfda8bec05bd08b74fed79a3a977cb79064978e51870f
+Description: Tuỳ chỉnh YouTube của bạn.
+Name: YouTube Reborn Việt Nam
+Author: SarahH12099
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.YouTubeRebornVN
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.YouTubeRebornVN
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
