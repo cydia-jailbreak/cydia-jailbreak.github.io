@@ -1,7 +1,7 @@
 <package>
 <id>com.TruongTamPhong.YouTubeRebornVN</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.7.0</version>
+	<version>1.0.7.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -20,8 +20,9 @@
         </screenshot>
     </screenshots>
 	<changelog>
-        <change>Đã thêm khả năng phát video Youtube trong Infuse hoặc Vlc.</change>
-        <change>Đã thêm cửa sổ bật lên vào cử chỉ để chọn 3 hành động.</change>
+        <change>Đã sửa lỗi Picture-In-Picture trên iPadOS 14</change>
+        <change>Các cải tiến nhỏ được thực hiện cho Play In Infuse/VLC</change>
+        <change>Các lỗi nhỏ đã được sửa</change>
 	</changelog>
 	<links></links>
 </package>
