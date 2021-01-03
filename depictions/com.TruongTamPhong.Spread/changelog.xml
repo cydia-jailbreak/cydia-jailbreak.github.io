@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.4.0</version>
+		<change>Thêm bản màu đen cho các dòng máy</change>
+    </changes>
+    <changes>
         <version>1.3.3</version>
 		<change>Sửa lỗi khung ứng dụng bị lệch độ mờ trên iOS 13</change>
 		<change>Thêm đổ bóng cho văn bản</change>
