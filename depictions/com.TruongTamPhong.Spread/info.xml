@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Spread</id>
 	<name>Trương Tam Phong</name>
-	<version>1.3.0</version>
+	<version>1.3.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -34,10 +34,10 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-		<change>Sửa lại nền mờ không hiển thị trên iOS 13</change>
-		<change>Thêm đổ bóng vào bộ điều khiển âm nhạc</change>
-		<change>Tăng chiều rộng cho thanh cuộn tiêu đề bài nhạc</change>
-		<change>Thay đổi phông chữ văn bản sang phông Gineso cho đủ tiếng Việt</change>
+		<change>Sửa lỗi khung ứng dụng bị lệch độ mờ trên iOS 13</change>
+		<change>Thêm đổ bóng cho văn bản</change>
+		<change>Biểu tượng thời tiết đã tự động thay đổi màu</change>
+		<change>Thu gọn khung cho các dòng máy có độ phân giải của iPhone X</change>
 	</changelog>
 	<links></links>
 </package>

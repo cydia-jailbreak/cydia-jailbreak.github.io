@@ -2426,6 +2426,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Spre
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Spread
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.Spread
+Architecture: iphoneos-arm
+Version: 1.3.3
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.Spread_1.3.3_iphoneos-arm.deb
+Size: 1486116
+MD5sum: 2936a293207620829c6a56f236f258f8
+SHA1: 90f33599ceeb35a612da07c3d3444f5e3b122f35
+SHA256: 78b0842c24d698e76176f1ce4eac8c44e0cf5405545c5cdd48f9d0d0617384ea
+SHA512: d2da5f3efdeb763d8d99755655967a906b41639c440062dba554c15307b7a71c4c63bfd024232cfa8f9a994d1c256a01fc8d629361725a1111186f052dbbdc71
+Description: Widget for Xen HTML
+Name: Spread
+Author: Trương Tam Phong & Ats
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Spread
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Spread
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.StarDock
 Architecture: iphoneos-arm
 Version: 1.0.1
