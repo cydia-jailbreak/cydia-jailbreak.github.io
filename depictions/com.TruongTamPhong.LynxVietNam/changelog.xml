@@ -1,5 +1,14 @@
 <changelog>
     <changes>
+        <version>1.9.5-1</version>
+<change>Cố định âm thanh sạc</change>
+<change>Đã thêm tùy chọn để đổi tên các biểu tượng màn hình chính (iOS 13)</change>
+<change>Đã thêm tùy chọn để khóa khi đặt úp</change>
+<change>Đã thêm tùy chọn để tắt rung khi được kết nối với nguồn (iOS 13)</change>
+<change>Đã sửa các lỗi khác nhau trên iOS 12</change>
+<change>Cố định đồng hồ không bị ẩn khi cắm sạc vào máy</change>
+    </changes>
+    <changes>
         <version>1.9.1-1</version>
 <change>Việt hoá phần ngoài còn thiếu cho iOS 13</change>
     </changes>

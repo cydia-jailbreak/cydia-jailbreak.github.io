@@ -1645,6 +1645,24 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Lynx
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LynxVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.LynxVietNam
+Architecture: iphoneos-arm
+Version: 1.9.5-1
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Filename: ./debfiles/com.TruongTamPhong.LynxVietNam_1.9.5-1_iphoneos-arm.deb
+Size: 1382392
+MD5sum: bce9d1683298b7df80748ef5e41addc7
+SHA1: 1ef8326b49f997eb2deefc3fbe6629e4d47c8394
+SHA256: 3dad40f9d4090de0def393a4b61981f84610d49b4517b75811b168ef5d6fb4d3
+SHA512: c5b48ee3cd2a34ccd31e8d1dc5c8d6f8522768ae0490918a478dc0a158c96ee862b4a154d7351846505df15fea1ca885ccd4f6d8cd0567f4c717a817548a6028
+Description: Tùy biến ẩn các loại cho hệ thống
+Name: Lynx Việt Nam
+Author: MTAC
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LynxVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LynxVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.MainLed
 Architecture: iphoneos-arm
 Version: 1.0.0
