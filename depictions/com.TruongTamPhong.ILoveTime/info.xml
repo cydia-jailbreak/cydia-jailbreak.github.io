@@ -1,11 +1,11 @@
 <package>
 	<id>com.TruongTamPhong.ILoveTime</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.0</version>
+	<version>1.1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
-                         <maxiOS>13.9</maxiOS>
+                         <maxiOS>14.9</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
@@ -18,11 +18,17 @@
 <screenshots>
         <screenshot>
             <description></description>
-            <image>ILoveTime.png</image>
+            <image>ILoveTime1.png</image>
+        </screenshot>	
+        <screenshot>
+            <description></description>
+            <image>ILoveTime2.png</image>
         </screenshot>	
     </screenshots>
 	<changelog>
-	<change>Lần đầu phát hành</change>
+	<change>Thay đổi Font chữ</change>
+	<change>Thêm Tiếng Việt và Tỉ lệ vào cài đặt</change>
+	<change>Sửa đổi một số lỗi</change>
 	</changelog>
 	<links></links>
 </package>
