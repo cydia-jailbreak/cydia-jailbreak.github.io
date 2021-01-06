@@ -1994,6 +1994,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Musi
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicPro
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.MusicPro
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.MusicPro_1.0.2_iphoneos-arm.deb
+Size: 758498
+MD5sum: 1bd81d666112d4ea257bd751040da0c1
+SHA1: 6eda490a81bc8de964403e4eecdb285f038a5c1a
+SHA256: 783112065c3990645082bebc6559beea2ea0cd579be0b3809798058825fa2c4f
+SHA512: dac2dd92b4cce4b4a56eb488af0af2efe5f95e6229011f2a2890b5a8e48d25481ce692c042598d01e28e7809ed0f179db65a290e186b26830ee0614dc1714d45
+Description: Widget for Xen HTML
+Name: MusicPro
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicPro
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MusicPro
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.MyName
 Architecture: iphoneos-arm
 Version: 2.0.2
