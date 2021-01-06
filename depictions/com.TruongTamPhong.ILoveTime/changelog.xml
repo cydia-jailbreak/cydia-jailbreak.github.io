@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>1.1.5</version>
+	<change>Thêm thay đổi màu sắc các thành phần. Tuỳ chỉnh trong cài đặt của nó</change>
+	<change>Thêm đổ bóng cho văn bản</change>
+    </changes>
+    <changes>
         <version>1.1.0</version>
 	<change>Thay đổi Font chữ</change>
 	<change>Thêm Tiếng Việt và Tỉ lệ vào cài đặt</change>
