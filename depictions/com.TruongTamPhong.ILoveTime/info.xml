@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.ILoveTime</id>
 	<name>Trương Tam Phong</name>
-	<version>1.1.5</version>
+	<version>1.1.7</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -26,8 +26,8 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-	<change>Thêm thay đổi màu sắc các thành phần. Tuỳ chỉnh trong cài đặt của nó</change>
-	<change>Thêm đổ bóng cho văn bản</change>
+	<change>Thêm đổi màu cho bóng đổ</change>
+	<change>Sửa lỗi đồng hồ không hoạt động ở màn hình chính</change>
 	</changelog>
 	<links></links>
 </package>

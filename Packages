@@ -1193,6 +1193,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ILov
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ILoveTime
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.ILoveTime
+Architecture: iphoneos-arm
+Version: 1.1.7
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.ILoveTime_1.1.7_iphoneos-arm.deb
+Size: 44458
+MD5sum: 762597943e8b3174505c9dc8373f26e4
+SHA1: 2b4e53ac55ed17d381fc2c6e3345e8998b482678
+SHA256: dbfe819b1f21d1ae1897df876d1bc4007fcb8a8613f473e4beb2f6e5286b56df
+SHA512: dcaf6e04d5476646f5ee053d4972841b6a39dd746c57d34fedefb8ba1732dcb5c21298d2d889455d5fb4c630ff321faa1f351d8a16640581de96815292e1c130
+Description: Widget for Xen HTML
+Name: I Love Time
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ILoveTime
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ILoveTime
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.IconOmaticVietNam
 Architecture: iphoneos-arm
 Version: 2.4.8-29
