@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.1.8</version>
+	<change>Sửa lỗi bộ đổi màu không hoạt động</change>
+    </changes>
+    <changes>
         <version>1.1.7</version>
 	<change>Thêm đổi màu cho bóng đổ</change>
 	<change>Sửa lỗi đồng hồ không hoạt động ở màn hình chính</change>
