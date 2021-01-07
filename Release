@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: Apple Phong
 MD5Sum:
- 142c25beab1505f9a19a8c028f1a206f 153481 Packages
- 69e6607f805ba2006dd5a03b763a01c3 33237 Packages.bz2
+ df28b19efca9765653950137d9892f77 154408 Packages
+ d7145e7a2aaa6199190e9d9e29ce7920 33416 Packages.bz2
