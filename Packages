@@ -129,6 +129,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Aere
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Aerelys
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.Aerelys
+Architecture: iphoneos-arm
+Version: 1.1.8
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.Aerelys_1.1.8_iphoneos-arm.deb
+Size: 1167482
+MD5sum: d9260adb8b17ec956d5b8d3c9d995e2a
+SHA1: c7e72af9a230c850fa89b30828dce9141932d8c0
+SHA256: 42414ef0063644e93725f00ac20f040fcad423444bb132edc9b008a5636b2e9f
+SHA512: c93489fa33cdb2c7b5678ca712ef6a85d935ed9e5fadc7ee775d28a218f846e3c474c77ced4410a8070e62432f46ce5abd42b4d9ad0b116400bb1f64886737d3
+Description: Widget for Xen HTML
+Name: Aerelys Việt Nam
+Author: TTP + CodeOne88
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Aerelys
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Aerelys
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.AlertControllerVN
 Architecture: iphoneos-arm
 Version: 1.3.1
