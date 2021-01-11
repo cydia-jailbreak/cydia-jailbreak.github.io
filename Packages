@@ -1463,6 +1463,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.JanT
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.JanTTP
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.JanTTP
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.JanTTP_1.0.3_iphoneos-arm.deb
+Size: 136670
+MD5sum: 6a231cbb347733df3f84b57d7bad645d
+SHA1: 23633e6e9599c74143cc7841710eb082959c8be8
+SHA256: 9e4abaf1b7e62ff45cb42ef990a56780bedfbd1461f79caa423b788ba676fefa
+SHA512: a629c0d2b9530ae89e510c161ce30594de35a010d767fe93a67134343ab663357d1486708e9fa6c16213219642e69e8a40fe30f468b69c526c079be622456e6d
+Description: Widget for Xen HTML
+Name: Jan TTP
+Author: TTP + CodeOne88
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.JanTTP
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.JanTTP
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.Juno
 Architecture: iphoneos-arm
 Version: 4.2.2
