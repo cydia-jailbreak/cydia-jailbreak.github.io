@@ -1427,25 +1427,6 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.InformationColumn
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
-Package: com.TruongTamPhong.IwMuneNeonEdition
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Widget tĩnh
-Maintainer: Apple Cydia Và Jailbreak
-Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.IwMuneNeonEdition_1.0.0_iphoneos-arm.deb
-Size: 12027258
-MD5sum: 898bd794b86ea4416d4fdb62f1aa130b
-SHA1: 2b723607ac8faa89c0ba3548f13df067b433b7f0
-SHA256: b875f857a82e3956f42161b223fa3310f96b28d7f951ad46a5ced6004e249b9b
-SHA512: 3c74a96c10c12d573a9eb12d27c5c084026be923d4e483ee3f7da89b7edc98b92e314524d6cfca8e493ef6b2724073bf6cedb13c83b24d13d4aaea80912ead0f
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Widget for Xen Html
-Name: Iw Mune - Neon Edition
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.IwMuneNeonEdition
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
 Package: com.TruongTamPhong.JanTTP
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -1919,6 +1900,23 @@ Name: Mtl Top
 Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MtlTop
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MtlTop
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.Mune
+Architecture: iphoneos-arm
+Version: 1.3.3
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.Mune_1.3.3_iphoneos-arm.deb
+Size: 221962
+MD5sum: 36cb4162c306c2776981915b21b36956
+SHA1: b0836b0305442ef6d820e65dce2c7f33dff418a9
+SHA256: 5665992971ba8aed5fb4697baf79dcd6cf69c381e27b430f5d64c9138a374ccc
+SHA512: 7457adffd94e4b0d4b3d20a0583d7f80adeeb3c5f3975a1467c9d059a55716d33e1d9959925393f064d7ec093f65640b66a6c1310f798a6c0b6202b1ceedbb6e
+Description: Widget for Xen Html
+Name: Mune
+Author: Meshal
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Mune
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Mune
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.MusicAndCalendarDark
