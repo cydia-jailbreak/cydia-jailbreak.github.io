@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.JanTTP</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.3</version>
+	<version>1.0.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -16,7 +16,9 @@
 		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
 	</descriptionlist>
 	<changelog>
-<change>Sửa chữa một số lỗi</change>
+<change>Sửa lỗi phần màu sắc nền. Đã có thể tách riêng. Chuyển sang mã màu RGB để tạo độ trong suốt và đục theo ý muốn </change>
+<change>Chỉnh lại tiêu đề khi thu nhỏ thanh phát nhạc vào trong lúc không phát</change>
+<change>Chỉnh lại một số trong cài đặt mặc định</change>
 	</changelog>
 <screenshots>
         <screenshot>

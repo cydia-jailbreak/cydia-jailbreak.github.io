@@ -1,5 +1,11 @@
 <changelog>
     <changes>
+        <version>1.0.5</version>
+<change>Sửa lỗi phần màu sắc nền. Đã có thể tách riêng. Chuyển sang mã màu RGB để tạo độ trong suốt và đục theo ý muốn </change>
+<change>Chỉnh lại tiêu đề khi thu nhỏ thanh phát nhạc vào trong lúc không phát</change>
+<change>Chỉnh lại một số trong cài đặt mặc định</change>
+    </changes>
+    <changes>
         <version>1.0.3</version>
 <change>Sửa chữa một số lỗi</change>
     </changes>
