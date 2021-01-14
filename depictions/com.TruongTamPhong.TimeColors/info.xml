@@ -1,0 +1,28 @@
+<package>
+	<id>com.TruongTamPhong.TimeColors</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+                         <maxiOS>14.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tiện ích hiển thị thời gian nhiều màu sắc dành cho bạn</description>
+		<description>Hoạt động trên Màn hình chính và Màn hình khoá</description>
+		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>TimeColors.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Thêm các tuỳ chỉnh vào mục cài đặt</change>
+	</changelog>
+	<links></links>
+</package>

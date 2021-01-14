@@ -3080,6 +3080,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ThuP
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ThuPhap
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.TimeColors
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.TimeColors_1.0.2_iphoneos-arm.deb
+Size: 101006
+MD5sum: 2733bea626e99c9e1bf34e16c9131b50
+SHA1: 48ef7bf1aa416b7730dd5f510a5dac7c2843c762
+SHA256: fbdb5d6c171013afcd21a5471b088ff708cd5f507653b472b94e67855dd082dc
+SHA512: c43ac37454cee7007c73fb27a5cbfc2333cfd443322d28d25f904636c1f15594ad3f73e516ae13308a77fdce41aca610f6f8a7b99bd8c0259ad23b9c605aa55d
+Description: Widget for Xen Html
+Name: TimeColors
+Author: TTP + imo7and
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.TimeColors
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.TimeColors
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.TuyetRoi
 Architecture: iphoneos-arm
 Version: 1.0.0
