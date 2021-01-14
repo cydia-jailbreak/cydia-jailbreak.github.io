@@ -591,6 +591,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carb
 Sileodepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carbon
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
+Package: com.TruongTamPhong.Chaotic
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.Chaotic_1.0.0_iphoneos-arm.deb
+Size: 1172594
+MD5sum: 853385b79bb7a13a0084664b32977925
+SHA1: 4e01c3682ff03dd71861bf761d06e7e4c2a81b8f
+SHA256: 3f99037a4a897f815f3962f21fb06bd62888712b4e9733115872191e62b23490
+SHA512: eadb2a4ef6df3e25bbf8a6491a523be27fb768899f66fcff7ed3fb7c424af09088aa70772a7337db5e21030df37ecd6a76960cf94fb4b310911efd6f0006ae92
+Description: Widget for Xen Html
+Name: Chaotic
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Chaotic
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Chaotic
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.Circle
 Architecture: iphoneos-arm
 Version: 1.1.0
