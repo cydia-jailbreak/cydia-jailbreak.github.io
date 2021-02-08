@@ -1,5 +1,11 @@
 <changelog>
     <changes>
+        <version>2.0~beta6</version>
+		<change>[iOS 14.3] Dữ liệu thời tiết hiện hoạt động trên phiên bản này</change>
+              <change>[iOS 14] Đã thêm hỗ trợ cho arm64e ABI mới</change>
+		<change>[iOS 10 - 14] Đã thêm API hệ thống tệp mới</change>
+    </changes>
+    <changes>
         <version>2.0~beta5</version>
 		<change>Hỗ trợ cho iOS 14</change>
               <change>[iOS 14] Việc thêm tiện ích trực tiếp vào Màn hình chính hiện được thực hiện thông qua nút "+" của Apple khi chỉnh sửa biểu tượng</change>
