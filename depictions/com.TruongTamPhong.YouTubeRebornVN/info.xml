@@ -1,11 +1,11 @@
 <package>
 <id>com.TruongTamPhong.YouTubeRebornVN</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.7.3</version>
+	<version>1.1.0.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
-                         <maxiOS>14.2</maxiOS>
+                         <maxiOS>12.9</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
@@ -20,9 +20,8 @@
         </screenshot>
     </screenshots>
 	<changelog>
-        <change>Đã sửa lỗi Picture-In-Picture trên iPadOS 14</change>
-        <change>Các cải tiến nhỏ được thực hiện cho Play In Infuse/VLC</change>
-        <change>Các lỗi nhỏ đã được sửa</change>
+        <change>Bản cuối cùng hỗ trợ tới iOS 12</change>
+        <change>Sửa lại một số lỗi</change>
 	</changelog>
 	<links></links>
 </package>
