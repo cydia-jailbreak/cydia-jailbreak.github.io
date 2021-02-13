@@ -254,6 +254,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Anal
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AnalogClockWeather
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.AnalogClockWeather
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Widget động
+Filename: ./debfiles/com.TruongTamPhong.AnalogClockWeather_1.1.0_iphoneos-arm.deb
+Size: 25362862
+MD5sum: 0d49add9e5ced1f0668233f1675bfa6d
+SHA1: c02d72721ce7dd921e26d5597162fc8a798a3723
+SHA256: ff06cbb89965d423a773ea3674da59ce804e835fe2b45ea18ba7233d21b6a9f0
+SHA512: 75f8f05575108c3831d923aaa4e36bece9bb31250b5d0a6a188650e51259e995d1719e9d6092828c715fa393d7f84bf3a7a7a4b49af450e524bb4589be203280
+Description: Widget for Xen HTML
+Name: Analog Clock Weather
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AnalogClockWeather
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AnalogClockWeather
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.Ando
 Architecture: iphoneos-arm
 Version: 1.0.1
