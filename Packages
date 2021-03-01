@@ -2693,18 +2693,18 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.SnowBoardVietNam
 Architecture: iphoneos-arm
-Version: 1.4.9~Beta4
+Version: 1.4.7~Beta4
 Section: Tweaks
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.4.9~Beta4_iphoneos-arm.deb
-Size: 4795890
-MD5sum: 5c63ba7f259b470885ac9f146291ec43
-SHA1: 592e1106943d9efa90aa5f927af15f3c42e8b774
-SHA256: 4c0e4a9c96d73a6001e2bc7db127c1f336179bf37a7243cf3d6604ed79eedcf8
-SHA512: 9016d678a0f59fba096431df4d61a63c4a10c5109d56b04cf38a6279c5428f770deed5f43b3566ad56a3559f9c1e36cd91820dfb3fa6ec271a5eabe1aaa90d0b
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.4.7~Beta4_iphoneos-arm.deb
+Size: 4929564
+MD5sum: 66e54939fb7d69fd5ef3a1b001370f60
+SHA1: a0867f7d3b5cd88bc9bfba7aed828d12ffa34e2e
+SHA256: a11c69c50c1ae1116821ea85a0439df654aa602ddd2f11f592affdec8e312357
+SHA512: 734d956ce1436b7783fc5b6b10475fa876b84e81bfaa5ba03ae70ed532f974e6ac9a4815f17bdb3059e30900f70e0ecac5ef5b0d3aca5c53f008ef4cf52afad7
 Description: Động cơ trượt tuyết theo chủ đề. Đủ các gói kết hợp dành cho bạn.
 Name: SnowBoard Việt Nam
 Author: Spark & Dennis D. Bednarz
