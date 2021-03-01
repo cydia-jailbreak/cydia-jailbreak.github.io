@@ -1,6 +1,10 @@
 <changelog>
     <changes>
         <version>1.4.2~Beta4</version>
+        <change>Cải tiến cho đồng hồ tương thích trên iOS 14</change>
+    </changes>
+    <changes>
+        <version>1.4.2~Beta4</version>
         <change>Sửa một số lỗi nhỏ</change>
     </changes>
     <changes>

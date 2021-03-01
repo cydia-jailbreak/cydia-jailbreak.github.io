@@ -1,11 +1,11 @@
 <package>
 	<id>com.TruongTamPhong.SnowBoardVietNam</id>
 	<name>Trương Tam Phong</name>
-	<version>1.4.2~Beta4</version>
+	<version>1.4.9~Beta4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
-                         <maxiOS>14.9</maxiOS>
+                         <maxiOS>14.3</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
@@ -26,7 +26,7 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-        <change>Sửa một số lỗi nhỏ</change>
+        <change>Cải tiến cho đồng hồ tương thích trên iOS 14</change>
 	</changelog>
 	<links></links>
 </package>
