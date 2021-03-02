@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.4.9~Beta4</version>
+        <change>Sửa lỗi đồng hồ trên iOS 14</change>
+    </changes>
+    <changes>
         <version>1.4.7~Beta4</version>
         <change>Tăng độ tương thích trên iOS 14</change>
     </changes>
