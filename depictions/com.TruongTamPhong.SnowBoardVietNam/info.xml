@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.SnowBoardVietNam</id>
 	<name>Trương Tam Phong</name>
-	<version>1.4.9~Beta4</version>
+	<version>1.4.12~Beta4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -26,7 +26,12 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-        <change>Sửa lỗi đồng hồ trên iOS 14</change>
+        <change>Thêm ứng dụng SnowBoard lên màn hình chính</change>
+        <change>Sửa lỗi safe mode trên iOS 12.x</change>
+        <change>Sửa các biểu tượng Glyph trong bảng chia sẻ</change>
+        <change>Sửa lỗi thư mục trên iPad</change>
+        <change>Sửa các góc của các widget là hình vuông khi đóng</change>
+        <change>Các sửa chữa nhỏ khác</change>
 	</changelog>
 	<links></links>
 </package>
