@@ -1,11 +1,11 @@
 <package>
 	<id>com.TruongTamPhong.XenHTML</id>
 	<name>Trương Tam Phong</name>
-	<version>2.0~beta6</version>
+	<version>2.0~beta81</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
-                         <maxiOS>14.9</maxiOS>
+                         <maxiOS>14.4</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
@@ -22,9 +22,11 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-		<change>[iOS 14.3] Dữ liệu thời tiết hiện hoạt động trên phiên bản này</change>
-              <change>[iOS 14] Đã thêm hỗ trợ cho arm64e ABI mới</change>
-		<change>[iOS 10 - 14] Đã thêm API hệ thống tệp mới</change>
+		<change>[iOS 10 - 14.4] Phát triển tiện ích hiển thị cài đặt cho người dùng. Việc này được thực hiện thông qua một tệp mới là config.json.</change>
+              <change>[iOS 10 - 14.4] Đã xóa phần libpackageinfo. Điều này được thực hiện do số lượng sự cố mà nó đã gây ra. Nếu bạn đã từng cố gắng mở Ul để chọn một widget và nó bị lỗi, thì đây là nguyên nhân. Thật không may, điều này làm mất khả năng tự động chọn tên tác giả trên các widget. Các nhà phát triển tiện ích con được khuyến khích sử dụng config.json mới bao gồm một cách để làm cho nó hoạt động trở lại.</change>
+		<change>[iOS 10 - 14.4] Đã thêm khôi phục cài đặt tiện ích. Đối với các tiện ích sử dụng config.json mới, tính năng này đảm bảo Xen HTML 'ghi nhớ' các cài đặt từ lần cuối bạn sử dụng tiện ích và đề xuất khôi phục cấu hình đó.</change>
+		<change>[iOS 14.0 - 14.4] Đã khắc phục sự cố trong đó các tiện ích sẽ "bật vào" sau một khoảng thời gian trễ khi đóng ứng dụng.</change>
+		<change>[iOS 14.0 - 14.4] Đã khắc phục sự cố không thể thả các biểu tượng vào Dock trong chế độ chỉnh sửa biểu tượng.</change>
 	</changelog>
 	<links></links>
 </package>
