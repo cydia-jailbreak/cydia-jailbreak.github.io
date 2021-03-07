@@ -3473,15 +3473,15 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm
-Version: 2.0~beta81
+Version: 2.0~beta8.1
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.XenHTML_2.0~beta81_iphoneos-arm.deb
-Size: 8395940
-MD5sum: 456dc6264de2c5f7010c37d0c3f0472b
-SHA1: 018727a89cf241fcdbf8ec0d56ccec65095625cb
-SHA256: 5dd2ed7d7295732a237982ba57518afb7a16543d6a13c965ecb3b35a0bc50355
-SHA512: 4e4bc4abab73d2cfb184667e7afc11ff307513afb164b84399b263c28000527773c0cf068b94b55617e9d9446335e1e6e2f553d71718be9c3324d4e2e05a176e
+Filename: ./debfiles/com.TruongTamPhong.XenHTML_2.0~beta8.1_iphoneos-arm.deb
+Size: 8395928
+MD5sum: 926cb95a831e2790da5ad5b54760cbb1
+SHA1: 3ff3e280546f28b6bfbc5df983bb7ea1b5cd8cc8
+SHA256: bd9ff77538e00ed80fec8477e3a14bc38d39562a2a552c442df27ef041980796
+SHA512: c84bb11db337d074738eac46cb92c5a211a40c2ab891f28b357d39ef07166d054372bb2b67931b0542fe27ac48c702bad0ec675fb717b4263100ead0b1cd95be
 Description: Hiển thị Widget lên màn hình chính và màn hình khoá
 Name: Xen HTML Việt Nam
 Author: Matt Clarke
