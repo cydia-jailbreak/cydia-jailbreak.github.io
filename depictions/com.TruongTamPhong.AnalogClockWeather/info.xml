@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.AnalogClockWeather</id>
 	<name>Trương Tam Phong</name>
-	<version>1.1.1</version>
+	<version>1.1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -22,7 +22,7 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-		<change>Thêm tuỳ chỉnh vào cài đặt</change>
+		<change>Cập nhật tương thích cho iPhone 12</change>
 	</changelog>
 	<links></links>
 </package>

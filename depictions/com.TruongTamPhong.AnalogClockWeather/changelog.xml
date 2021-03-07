@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.1.2</version>
+        <change>Cập nhật tương thích cho iPhone 12</change>
+    </changes>
+    <changes>
         <version>1.1.1</version>
         <change>Thêm tuỳ chỉnh vào cài đặt</change>
     </changes>

@@ -270,6 +270,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Anal
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AnalogClockWeather
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.AnalogClockWeather
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Widget động
+Filename: ./debfiles/com.TruongTamPhong.AnalogClockWeather_1.1.2_iphoneos-arm.deb
+Size: 25362588
+MD5sum: 32e57be3dc4644bb766741d8d8c92a33
+SHA1: ec8bb622eda2620a50bbe39cc1322065915f50b2
+SHA256: 10478b2698b4ba66dfefce24667196f26c6d40ecc3595cc33a0c3162847a0efb
+SHA512: 2fd601aeb727e147d24d6de6d58ae9d1ebb748b88cde5d1a47c74d05ee44704ac0e70eaeb7b22d8cf70423346b6c950dd1722a80f8f3109fb81e4b6bff544c07
+Description: Widget for Xen HTML
+Name: Analog Clock Weather
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AnalogClockWeather
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AnalogClockWeather
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.Ando
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -2969,6 +2986,23 @@ Description: Widget for Xen HTML
 Name: StatusBarNotch
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.StatusBarNotch
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.StatusBarWeather
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.StatusBarWeather_1.0.0_iphoneos-arm.deb
+Size: 46929936
+MD5sum: de518ebd608a7fb31d2e3919546f31da
+SHA1: 0ac41eb3080ec87871c8e25aef7f209423cc4e48
+SHA256: 9b23deb4de68bc827f5a8cedc6631ac051b3b396f452e7042f331fd59d13fdf3
+SHA512: 0ef043313bbfd1651174d8f1db3da7ee7d2ff63d50559584aa4e841a15d833bc172e7bf661dc0591486f2cac36b3fd951913e7b82fe8addb3e786db8a7462671
+Description: Widget for Xen HTML
+Name: StatusBar Weather
+Author: TTP & daddykool666
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.StatusBarWeather
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.StatusBarWeather
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Stt3NotchXS++
