@@ -1,10 +1,10 @@
 <package>
 	<id>com.TruongTamPhong.StatusBarWeather</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
+			<miniOS>10.0</miniOS>
                          <maxiOS>14.9</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
@@ -22,7 +22,8 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-		<change>Lần đầu phát hành</change>
+        <change>Bỏ Năm và thêm nhiệt độ hiện tại</change>
+        <change>Đổi phông hệ thống sang phông TeX Gyre</change>
 	</changelog>
 	<links></links>
 </package>

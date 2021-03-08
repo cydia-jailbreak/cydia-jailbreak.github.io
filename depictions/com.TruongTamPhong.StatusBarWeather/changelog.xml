@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>1.0.1</version>
+        <change>Bỏ Năm và thêm nhiệt độ hiện tại</change>
+        <change>Đổi phông hệ thống sang phông TeX Gyre</change>
+    </changes>
+    <changes>
         <version>1.0.0</version>
         <change>Lần đầu phát hành</change>
     </changes>
