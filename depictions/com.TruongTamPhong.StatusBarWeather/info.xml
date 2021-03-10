@@ -1,10 +1,10 @@
 <package>
 	<id>com.TruongTamPhong.StatusBarWeather</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.1</version>
+	<version>1.0.5</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
+			<miniOS>9.0</miniOS>
                          <maxiOS>14.9</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
@@ -22,8 +22,10 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-        <change>Bỏ Năm và thêm nhiệt độ hiện tại</change>
-        <change>Đổi phông hệ thống sang phông TeX Gyre</change>
+        <version>1.0.5</version>
+        <change>Thêm tuỳ chỉnh phiên bản Đầy đủ hoặc Rút gọn</change>
+        <change>Thêm Âm lịch và nhiệt độ cao nhất, thấp nhất trong ngày ở phiên bản đầy đủ</change>
+        <change>Thêm bóng đổ vào biểu tượng thời tiết 5 ngày ở phiên bản đầy đủ</change>
 	</changelog>
 	<links></links>
 </package>
