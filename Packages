@@ -3525,6 +3525,24 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm
+Version: 2.0~beta9.1
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.XenHTML_2.0~beta9.1_iphoneos-arm.deb
+Size: 8416904
+MD5sum: b4dbe9bc030b17c2a204f538e2d535db
+SHA1: 4f07b812dbe32870415ba1459774cf86c9d51eac
+SHA256: bcfa270e3a242dd5022eb81234c1d5b980dbdb0b9bab32751f89751104d91c6d
+SHA512: 1d13cc1e11f285f78908141cae183a137d173c0d2719a5d481ea384662f5712e99df0e62478cb9ac00a6823bb4670c026ee7230a7f40f8b9724282c99635178e
+Description: Thêm tiện ích lên màn hình chính và màn hình khoá
+Name: Xen HTML Việt Nam
+Author: Matt Clarke
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.XenHTML
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.XenHTML
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.matchstic.xenhtml
+Architecture: iphoneos-arm
 Version: 2.0~beta3.3
 Priority: optional
 Section: Tweaks
@@ -3657,23 +3675,5 @@ Name: YouTube Reborn Việt Nam
 Author: SarahH12099
 Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.YouTubeRebornVN
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.YouTubeRebornVN
-Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
-Package: com.matchstic.xenhtml
-Architecture: iphoneos-arm
-Version: 2.0~beta9.1
-Section: Tweaks
-Depends: mobilesubstrate
-Filename: ./debfiles/com.matchstic.xenhtml_2.0~beta9.1_iphoneos-arm.deb
-Size: 8416904
-MD5sum: b4dbe9bc030b17c2a204f538e2d535db
-SHA1: 4f07b812dbe32870415ba1459774cf86c9d51eac
-SHA256: bcfa270e3a242dd5022eb81234c1d5b980dbdb0b9bab32751f89751104d91c6d
-SHA512: 1d13cc1e11f285f78908141cae183a137d173c0d2719a5d481ea384662f5712e99df0e62478cb9ac00a6823bb4670c026ee7230a7f40f8b9724282c99635178e
-Description: Thêm tiện ích lên màn hình chính và màn hình khoá
-Name: Xen HTML Việt Nam
-Author: Matt Clarke
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.XenHTML
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.XenHTML
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
