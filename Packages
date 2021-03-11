@@ -3039,6 +3039,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Stat
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.StatusBarWeather
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.StatusBarWeather
+Architecture: iphoneos-arm
+Version: 1.0.7
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.StatusBarWeather_1.0.7_iphoneos-arm.deb
+Size: 47102552
+MD5sum: d15055a63daa321f38d774a21a2dd5ed
+SHA1: 61e65060372f79059f874d70129ac50c3a7384ad
+SHA256: 39a703971b0100e14bb9126a12f7536c2beaac1706c289d93ac017ae8ab90f0f
+SHA512: de864ca69bfb345df508bd52a63786fd4375eb6b56d4141474efb1ba0dffb727e55e3187e108500e4a791d45540969aacf775dbc3e4161719e159f382bf50ac4
+Description: Widget for Xen HTML
+Name: StatusBar Weather
+Author: TTP & daddykool666
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.StatusBarWeather
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.StatusBarWeather
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.Stt3NotchXS++
 Architecture: iphoneos-arm
 Version: 1.2.1

@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>1.0.7</version>
+        <change>Thêm tuỳ chỉnh kích cỡ phông chữ cho các thành phần văn bản</change>
+        <change>Thêm tuỳ chỉnh kích cỡ và vị trí cho biểu tưởng thời tiết</change>
+    </changes>
+    <changes>
         <version>1.0.5</version>
         <change>Thêm tuỳ chỉnh phiên bản Đầy đủ hoặc Rút gọn</change>
         <change>Thêm Âm lịch và nhiệt độ cao nhất, thấp nhất trong ngày ở phiên bản đầy đủ</change>
