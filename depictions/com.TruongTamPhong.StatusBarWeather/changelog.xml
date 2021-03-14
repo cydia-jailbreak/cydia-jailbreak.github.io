@@ -1,5 +1,12 @@
 <changelog>
     <changes>
+        <version>1.1.1</version>
+        <change>Thêm tuỳ chỉnh chữ in hoa, in nghiêng, gạch chân cho các thành phần văn bản.</change>
+        <change>Thêm tuỳ chỉnh vách ngăn cho lịch âm, lịch dương và nhiệt độ cao thấp trong ngày.</change>
+        <change>Sửa lỗi lịch dương không tự động chuyển khi ngày mới bắt đầu.</change>
+        <change>Sửa lỗi không hiện Full tiếng anh ở phiên bản đầy đủ.</change>
+    </changes>
+    <changes>
         <version>1.0.7</version>
         <change>Thêm tuỳ chỉnh kích cỡ phông chữ cho các thành phần văn bản</change>
         <change>Thêm tuỳ chỉnh kích cỡ và vị trí cho biểu tưởng thời tiết</change>
