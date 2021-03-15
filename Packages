@@ -3634,6 +3634,23 @@ Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.Ybht
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.Ybht
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.Ybht_1.0.2_iphoneos-arm.deb
+Size: 144460
+MD5sum: 066af6e5cc8f30d40a941c658f615b2b
+SHA1: 80a1068109bf292d2519fae14170cbb820477979
+SHA256: 37019db37414bd3658c78cab78f958cc7f46e53c01d3e7109edf277233410456
+SHA512: 24de4e190d97cfd2a969a5a5d830b9a5c58956df29a1da9544914a54714ed8941b5cbf54470967dc702a2dadf99c0958c1d476ce524a6ff064fba3618dad85b9
+Description: Widget for Xen HTML
+Name: Ybht
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Ybht
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Ybht
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.YouTubeRebornVN
 Architecture: iphoneos-arm
 Version: 1.0.6.2

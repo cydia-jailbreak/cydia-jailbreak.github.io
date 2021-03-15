@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
-                         <maxiOS>12.9</maxiOS>
+                         <maxiOS>14.9</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
@@ -20,7 +20,7 @@
         </screenshot>
     </screenshots>
 	<changelog>
-        <change>Bản cuối cùng hỗ trợ tới iOS 12</change>
+        <change>Bản cuối cùng hỗ trợ Youtube v15.xx trở lại</change>
         <change>Sửa lại một số lỗi</change>
 	</changelog>
 	<links></links>

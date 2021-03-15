@@ -1,7 +1,7 @@
 <package>
-	<id>com.TruongTamPhong.Circle</id>
+	<id>com.TruongTamPhong.Ybht</id>
 	<name>Trương Tam Phong</name>
-	<version>1.1.0</version>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -11,18 +11,19 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Tiện ích hiển thị hiệu ứng của những chấm nhỏ hình tròn chạy quanh viền điện thoại</description>
-		<description>Hoạt động đầy đủ trên iPhone X, iPhone Xs và iPhone 11</description>
+		<description>Tiện ích hiển thị lịch, thời gian, pin và thời tiết</description>
+		<description>Hoạt động trên Màn hình chính và Màn hình khoá</description>
 		<description>Yêu cầu cài Xen HTML để sử dụng</description>
 	</descriptionlist>
 <screenshots>
         <screenshot>
             <description></description>
-            <image>Circle.mp4</image>
-        </screenshot>	
+            <image>Ybht.png</image>
+        </screenshot>
     </screenshots>
 	<changelog>
-	<change>Lần đầu phát hành</change>
+	<change>Thêm thành phố</change>
+	<change>Thêm tuỳ chỉnh chọn ngôn ngữ cùng màu sắc cho pin, giờ và thành phố</change>
 	</changelog>
 	<links></links>
 </package>
