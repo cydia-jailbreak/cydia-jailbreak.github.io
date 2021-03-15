@@ -2553,6 +2553,24 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SaoBay
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.SemiRestore
+Architecture: iphoneos-arm
+Version: 1.1.3
+Section: Utilities
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.SemiRestore_1.1.3_iphoneos-arm.deb
+Size: 54398
+MD5sum: 6d36fb419e3fffd39938e443a3266fdd
+SHA1: b9342ed905974240fc9a0790c98c2beedc967d34
+SHA256: 25de594aea54bed3ae2db3870853d71a1fa6fd17037fd8b8845738f79441f4e7
+SHA512: 888301ad037237d0dde9925fd95c4fa45293ecd4ed91aa9e16d9062259c3d1ab6d6637042a40534b0d05c26d2d0751a3520d57bfa4f19a8e854b835ada47b0dc
+Description: Công cụ gỡ jailbreak sạch 100% cho iOS 11.3 đến 13.7
+Name: SemiRestore 11-13
+Author: Pwn20wnd
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.SemiRestore
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.SemiRestore
+Icon: file:///Applications/Cydia.app/Sections/Utilities1.png
+
 Package: com.TruongTamPhong.ShWidgetGold
 Architecture: iphoneos-arm
 Version: 1.2.2
