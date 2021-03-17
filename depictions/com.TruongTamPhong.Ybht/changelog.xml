@@ -1,5 +1,11 @@
 <changelog>
     <changes>
+        <version>1.0.4</version>
+	<change>Thêm Âm lịch.</change>
+	<change>Thêm tuỳ chỉnh "Vị trí thời gian (lên xuống)" vào cài đặt. Ví dụ trong trường hợp đồng hồ bị lệch lên trên thì bạn thay đổi giá trị 71 thành 73 là OK.</change>
+	<change>Thay đổi định dạng thời gian sang 24h.</change>
+    </changes>
+    <changes>
         <version>1.0.2</version>
 	<change>Thêm thành phố</change>
 	<change>Thêm tuỳ chỉnh chọn ngôn ngữ cùng màu sắc cho pin, giờ và thành phố</change>
