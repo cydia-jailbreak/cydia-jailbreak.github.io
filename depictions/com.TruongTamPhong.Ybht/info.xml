@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Ybht</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.4</version>
+	<version>1.0.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -22,9 +22,8 @@
         </screenshot>
     </screenshots>
 	<changelog>
-	<change>Thêm Âm lịch.</change>
-	<change>Thêm tuỳ chỉnh "Vị trí thời gian (lên xuống)" vào cài đặt. Ví dụ trong trường hợp đồng hồ bị lệch lên trên thì bạn thay đổi giá trị 71 thành 73 là OK.</change>
-	<change>Thay đổi định dạng thời gian sang 24h.</change>
+	<change>Thêm tuỳ chỉnh "Vách ngăn cho Lịch dương".</change>
+	<change>Thêm tuỳ chỉnh "Độ bo góc khung thời gian".</change>
 	</changelog>
 	<links></links>
 </package>

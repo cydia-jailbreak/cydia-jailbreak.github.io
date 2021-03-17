@@ -3668,6 +3668,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Ybht
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Ybht
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.Ybht
+Architecture: iphoneos-arm
+Version: 1.0.6
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.Ybht_1.0.6_iphoneos-arm.deb
+Size: 146640
+MD5sum: 4d3bca391d8f7d984becef4ba9b431a9
+SHA1: a940043bc71662e29729a0c33570d2ac258c7d7d
+SHA256: 8aeb2f72b7cdf2e9a8d8d1859d1d80e69ad5acf5d41e98125c058786f3077351
+SHA512: ed7f5bc3c8314f36ed5a0505716a249671ab78e809905137b3c197836af170d941a82832d46821331eebfc8cd745e02b0b6d2b763910956b86f3dd9be3813750
+Description: Widget for Xen HTML
+Name: Ybht
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Ybht
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Ybht
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.YouTubeRebornVN
 Architecture: iphoneos-arm
 Version: 1.0.6.2
