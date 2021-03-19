@@ -1,0 +1,26 @@
+<package>
+	<id>com.TruongTamPhong.T9DialerVN</id>
+	<name>Trương Tam Phong</name>
+	<version>1.14</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+                         <maxiOS>14.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tiện ích hiển thị tìm kiếm theo tên hoặc số điện thoại trong ứng dụng Điện thoại</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>T9DialerVN.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+	<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>

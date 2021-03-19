@@ -3185,6 +3185,24 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Syst
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.SystemInfoVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.T9DialerVN
+Architecture: iphoneos-arm
+Version: 1.14
+Section: Tweaks
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, firmware(>= 11.0)
+Filename: ./debfiles/com.TruongTamPhong.T9DialerVN_1.14_iphoneos-arm.deb
+Size: 68014
+MD5sum: 0d624f91246c5b682edf0be82d6676b9
+SHA1: 7dd05e6bd7fd70aa40ae63831b3526a44176944a
+SHA256: 93ee0e34e1eb19803e4def5d7b9f11d6a3ece1dfaca2eb312143141394d19f23
+SHA512: f7171bf9654b946f43aa590eb31e9761698bf07df27a860278ed2a28ef94e2071f7d3acaa7618c44ea7e0dd42227c6b2449b3d364f59737a543bcec597ff2bd9
+Description: Hiển thị tìm kiếm theo tên hoặc số điện thoại.
+Name: T9Dialer Việt Nam
+Author: Jordan Koch
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.T9DialerVN
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.T9DialerVN
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.TeXGyre13
 Architecture: iphoneos-arm
 Version: 1.0.0
