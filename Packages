@@ -408,6 +408,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ArcT
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.ArcTtp
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.Big
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.Big_1.0.0_iphoneos-arm.deb
+Size: 47158712
+MD5sum: 79f4c5b3901ec9b1e76b33fbbfe9ba5e
+SHA1: 004a575b91b7578acee4c0d9398cf2d87ad6e537
+SHA256: 6615c3e15fd047b6e2666ffd5b46ae71e51ef1e61d088fae88c8c3909996ccd4
+SHA512: b2a2bbfd2997bba6d1c770edc24b95f8459fdf8a56d932306658449623a3929b757c9b90a02d2b4772eb60d790b96dab05d9c84f4486f52c68f4ad8f519d7209
+Description: Widget for Xen HTML
+Name: Big
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Big
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Big
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.BlurTransV1
 Architecture: iphoneos-arm
 Version: 1.0.1
