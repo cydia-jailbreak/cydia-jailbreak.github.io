@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.XenHTML</id>
 	<name>Trương Tam Phong</name>
-	<version>2.0~beta9.1</version>
+	<version>2.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -22,11 +22,12 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-		<change>[iOS 14 + uncOver] Đã khắc phục sự cố trong đó có thể thiết bị sẽ bị đóng băng sau khi không gian người dùng khởi động lại ở một số cấu hình nhất định. Sự cố này sẽ xảy ra khi các chỉnh sửa khác vô tình được tải vào các quy trình mà chúng không nên, trong khi các Widget đang cố khởi động.</change>
-              <change>[iOS 13 -  14.4] Đã khắc phục sự cố trong đó các Widget trên Màn hình chính có thể biến mất khi thay đổi hình nền.</change>
-		<change>[iOS 10 - 14.4] Tùy chọn 'Khôi phục cài đặt tiện ích?'  hộp thoại giờ đây ít gây phiền nhiễu hơn nhiều và sẽ không nhắc bạn mỗi khi bạn chỉnh sửa thiết lập của tiện ích hiện có.</change>
-		<change>[1OS 10 - 14.4] AirPods, Apple Watch, v.v. hiện đã được trả lại từ phần Bluetooth của API Truyền thông mới.</change>
-		<change>[iOS 10 -  14.4] Chế độ Nguồn điện thấp hiện sẽ cập nhật chính xác trong Widget</change>
+		<change>[iOS 13.4 đến 14.4] Đã hỗ trợ đầy đủ cho các phiên bản iOS này.</change>
+              <change>[iOS 10 đến 14.4] Đã xây dựng một API hoàn toàn mới cho các tiện ích con để truy cập vào dữ liệu hệ thống. Nó cung cấp đầy đủ chức năng của XenInfo, InfoStats 2 và WidgetWeather nên bạn không cần cài đặt những tinh chỉnh này nữa.</change>
+		<change>[iOS 10 đến 14.4] Đã thêm một số tiện ích con mặc định tận dụng API mới.</change>
+		<change>[iOS 9 đến 14.4] Đã thêm bảng cấu hình nâng cao. Điều chỉnh quản lý pin tiện ích con, áp dụng các tùy chọn dành cho nhà phát triển, v.v.</change>
+		<change>[iOS 9 đến 14.4] Nhiều cải tiến ổn định hệ thống, sửa lỗi và cập nhật chất lượng hơn.</change>
+              <change>Lưu ý! phiên bản 2.0 phần lớn chưa được kiểm tra trên iOS 9. Nếu bạn gặp sự cố hãy hạ về phiên bản v1.1.5 để sử dụng.</change>
 	</changelog>
 	<links></links>
 </package>

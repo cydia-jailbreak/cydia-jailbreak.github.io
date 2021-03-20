@@ -3540,6 +3540,24 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.XenHTML_2.0_iphoneos-arm.deb
+Size: 8417238
+MD5sum: 6deac0a2cc8b829d7bb3550790fb18a1
+SHA1: 26277b1b5a21933240e7c134bee810db5ce2de53
+SHA256: ba7519eab6387c215fc4c4c67a9c5091d7e04deaafbb4a5860ac4ebec83835e8
+SHA512: 823d65db3e5f12b83b0fb48b937a4d7a1ff130ffcae55b1b156bffd873a9230fd2643f721efe558dba6642f0b6aaef4e29f9376913c85845dede9e36f435da8f
+Description: Thêm tiện ích lên màn hình chính và màn hình khoá
+Name: Xen HTML Việt Nam
+Author: Matt Clarke
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.XenHTML
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.XenHTML
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
+Package: com.matchstic.xenhtml
+Architecture: iphoneos-arm
 Version: 2.0~beta4
 Section: Tweaks
 Depends: mobilesubstrate
