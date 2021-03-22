@@ -1056,6 +1056,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Fain
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Faint
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.Fight
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Filename: ./debfiles/com.TruongTamPhong.Fight_1.0.0_iphoneos-arm.deb
+Size: 1540740
+MD5sum: 69a29056048e628a950fd6ceefeb181d
+SHA1: 154caaaeae9599841b8e3c8747dda0a01568e567
+SHA256: 3b2a03fe476b5ee9529eaf7405a7add8726ceef7992d50d92a571ddebaf309b0
+SHA512: b3c2880472681df51f9903ce9a001621566e633d33d222e380c4840d8313a124185ade1bcd2283e6d046534b19a90da64b4dc9f680aaba19df9786144b50b184
+Description: Widget for Xen HTML
+Name: Fight
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Fight
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Fight
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.FourDayForecast
 Architecture: iphoneos-arm
 Version: 1.0.2-1
