@@ -1,5 +1,11 @@
 <changelog>
     <changes>
+        <version>1.1.3</version>
+        <change>Thêm tuỳ chỉnh chọn phông chữ.</change>
+        <change>Chỉnh lại mục cài đặt mặc định</change>
+        <change>Sửa lại một số lỗi</change>
+    </changes>
+    <changes>
         <version>1.1.1</version>
         <change>Thêm tuỳ chỉnh chữ in hoa, in nghiêng, gạch chân cho các thành phần văn bản.</change>
         <change>Thêm tuỳ chỉnh vách ngăn cho lịch âm, lịch dương và nhiệt độ cao thấp trong ngày.</change>
