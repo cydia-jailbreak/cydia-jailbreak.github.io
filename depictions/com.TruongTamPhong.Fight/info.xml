@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Fight</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.3</version>
+	<version>1.0.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -22,8 +22,8 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-        <change>Thêm tuỳ chỉnh Kiểu dáng</change>
-        <change>Thêm tuỳ chỉnh Lên xuống ảnh động</change>
+        <change>Thêm lịch</change>
+        <change>Thêm công tắc bật tắt, thêm phông chữ và thay đổi khung ở kiểu dáng đứng cho đồng hồ</change>
 	</changelog>
 	<links></links>
 </package>
