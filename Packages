@@ -1005,6 +1005,23 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DockXS
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.EdwartPro
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.EdwartPro_1.0.0_iphoneos-arm.deb
+Size: 47801110
+MD5sum: 0b414393b7cf4cf97db0582f2a0b59ef
+SHA1: b5ee773b4cde744248035553210ecb3d7255d83b
+SHA256: 24d90416fe8a6667cc9836909656f360888723132e6767a1bb3acb06f4a68446
+SHA512: b45f0b2b9dc7fb1c0cca159f9b6ca55ff1bcf15d54cb8349dd5fd64262e2923c7b7f2d73e3a122130b116043d27a837fc5e6a8c93fb253cc930b3f997a0d140d
+Description: Widget for Xen HTML
+Name: Edwart Pro
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.EdwartPro
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.EdwartPro
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.Faint
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -2733,23 +2750,6 @@ Name: Six (LS) Việt Nam
 Author: Skitty
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.SixlsVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
-
-Package: com.TruongTamPhong.Skull
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Widget tĩnh
-Filename: ./debfiles/com.TruongTamPhong.Skull_1.0.0_iphoneos-arm.deb
-Size: 47798306
-MD5sum: 878d3d03f9fed612c928daa22bea4353
-SHA1: 87759977c2325663210b6939ceca210afd230e70
-SHA256: 3763cfd5210cdec41550a2e4d575b778d785d2b5a3b1c978dcbd4dc5cd7a261b
-SHA512: 1d146d1000f59337e3aad8ef0696bf8d139788e9816cd96d2c044858b1116e87bdd045dc44d8de0b327478559a3c4e5f2cbe6405c8f7f915a19eb952124c1d34
-Description: Widget for Xen HTML
-Name: Skull
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Skull
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Skull
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.SnowBoardVietNam
 Architecture: iphoneos-arm
