@@ -2088,6 +2088,23 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.MainLed
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.MajesticWeather
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.MajesticWeather_1.1.2_iphoneos-arm.deb
+Size: 55116380
+MD5sum: d892db35366b7c254702f6292cea752a
+SHA1: 461fe3be9a1e2d38d9c061f5fd10af1fc3d26f0d
+SHA256: 89af239d39daed5a009dc38f8bef704271bec5219ff2f343519575c3135046ef
+SHA512: a7a18c9b8a69d2afd57a573bb4f913ddf93f8095ea88285c74e5a0de893bf08487bd34e9c21eb8292d8ecb8d6f61090b40b1afaee59020b85bb23934ce5e1e13
+Description: Widget for Xen HTML
+Name: MajesticWeather
+Author: JannikCrack
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MajesticWeather
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MajesticWeather
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.MtlTop
 Architecture: iphoneos-arm
 Version: 1.0.0
