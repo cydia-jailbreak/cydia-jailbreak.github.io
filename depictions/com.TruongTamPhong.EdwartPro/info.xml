@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.EdwartPro</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -22,7 +22,9 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-        <change>Thu gọn và làm đẹp lại</change>
+        <change>Sửa lỗi hiển thị pin không chính xác và bỏ bóng đổ biểu tượng thời tiết bị nhảy bóng</change>
+        <change>Đổ bóng tên cao hơn</change>
+        <change>Hạ thấp độ cao</change>
 	</changelog>
 	<links></links>
 </package>

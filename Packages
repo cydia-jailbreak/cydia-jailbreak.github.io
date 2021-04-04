@@ -1039,6 +1039,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Edwa
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.EdwartPro
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.EdwartPro
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.EdwartPro_1.0.2_iphoneos-arm.deb
+Size: 47800820
+MD5sum: d3fa02119de5ba0967ace50ffb30518b
+SHA1: 0cf4d1428730b8f11db2c687203a797a1ce396e9
+SHA256: f36d33abb44c25606f04731e5a491e976e0423bd6ee30933aa282b67aba7e256
+SHA512: 306ff5ce5229d1458efbafd6f8c6faaff7d6678cbe77903134034c393b226cdee318b41ca8727a75846763016bb26506ec6ffe4571270a11b3c4e73c3e8b95f6
+Description: Widget for Xen HTML
+Name: Edwart Pro
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.EdwartPro
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.EdwartPro
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.Faint
 Architecture: iphoneos-arm
 Version: 1.0.0

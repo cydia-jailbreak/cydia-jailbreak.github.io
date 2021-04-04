@@ -1,5 +1,11 @@
 <changelog>
     <changes>
+        <version>1.0.2</version>
+        <change>Sửa lỗi hiển thị pin không chính xác và bỏ bóng đổ biểu tượng thời tiết bị nhảy bóng</change>
+        <change>Đổ bóng tên cao hơn</change>
+        <change>Hạ thấp độ cao</change>
+    </changes>
+    <changes>
         <version>1.0.1</version>
         <change>Thu gọn và làm đẹp lại</change>
     </changes>
