@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.4.12~beta5</version>
+        <change>Sửa lỗi không thêm được cấu hình</change>
+    </changes>
+    <changes>
         <version>1.4.12~Beta4</version>
         <change>Thêm ứng dụng SnowBoard lên màn hình chính</change>
         <change>Sửa lỗi safe mode trên iOS 12.x</change>
