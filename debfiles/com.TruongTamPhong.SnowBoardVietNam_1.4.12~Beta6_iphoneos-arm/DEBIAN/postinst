@@ -1,6 +1,0 @@
-#!/bin/bash
-mkdir -p /Library/Themes
-chmod 775 /Library/Themes
-killall -9 sharingd || true
-mkdir -p /Library/SnowBoard/Presets
-chmod 777 /Library/SnowBoard/Presets
