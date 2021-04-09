@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>label</key>
+		<string>CÀI ĐẶT CHUNG</string>
+		<key>name</key>
+		<string>blank</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>Tiếng Việt</string>
+		<key>label</key>
+		<string>Chọn ngôn ngữ</string>
+		<key>name</key>
+		<string>lang</string>
+		<key>options</key>
+		<dict>
+			<key>Tiếng Việt</key>
+			<string>vi</string>
+			<key>Tiếng Anh</key>
+			<string>en</string>
+		</dict>
+		<key>type</key>
+		<string>select</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>85</string>
+		<key>label</key>
+		<string>Thu phóng (%)</string>
+		<key>name</key>
+		<string>ZoomLevel</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>TeX Gyre</string>
+		<key>label</key>
+		<string>Chọn phông</string>
+		<key>name</key>
+		<string>Font</string>
+		<key>options</key>
+		<dict>
+			<key>Futura</key>
+			<string>Futura</string>
+			<key>Bubble</key>
+			<string>Bubble</string>
+			<key>Gineso</key>
+			<string>Gineso</string>
+			<key>Roboto</key>
+			<string>Roboto</string>
+			<key>Samsung</key>
+			<string>Samsung</string>
+			<key>Sanfran</key>
+			<string>Sanfran</string>
+			<key>TeX Gyre</key>
+			<string>TeXGyre</string>
+		</dict>
+		<key>type</key>
+		<string>select</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>Josch</string>
+		<key>label</key>
+		<string>Chọn gói biểu tượng thời tiết</string>
+		<key>name</key>
+		<string>IconSet</string>
+		<key>options</key>
+		<dict>
+			<key>Azaleea</key>
+			<string>Azaleea</string>
+			<key>Faded</key>
+			<string>Faded</string>
+			<key>Fun</key>
+			<string>Fun</string>
+			<key>HTC</key>
+			<string>HTC</string>
+			<key>Josch</key>
+			<string>Josch</string>
+			<key>Klear</key>
+			<string>Klear</string>
+			<key>Mauri</key>
+			<string>Mauri</string>
+			<key>MauriPink</key>
+			<string>MauriPink</string>
+			<key>Noctum</key>
+			<string>Noctum</string>
+			<key>Planets</key>
+			<string>Planets</string>
+			<key>Platinum</key>
+			<string>Platinum</string>
+			<key>Real</key>
+			<string>Real</string>
+			<key>Sk37cH</key>
+			<string>Sk37cH</string>
+			<key>Stardock</key>
+			<string>Stardock</string>
+			<key>Tik</key>
+			<string>Tik</string>
+			<key>Yahoo</key>
+			<string>Yahoo</string>
+			<key>Zoo</key>
+			<string>Zoo</string>
+		</dict>
+		<key>type</key>
+		<string>select</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>blank</string>
+	</dict>
+	<dict>
+		<key>label</key>
+		<string>CÀI ĐẶT NỀN</string>
+		<key>name</key>
+		<string>blank</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>sh</string>
+		<key>label</key>
+		<string>Chọn kiểu dáng</string>
+		<key>type</key>
+		<string>select</string>
+		<key>default</key>
+		<string>Lồi lên</string>
+		<key>options</key>
+		<dict>
+			<key>Lồi lên</key>
+			<string>ou</string>
+			<key>Lõm xuống</key>
+			<string>in</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>50</string>
+		<key>label</key>
+		<string>Độ bo góc</string>
+		<key>name</key>
+		<string>br</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>8</string>
+		<key>label</key>
+		<string>Độ mờ đục</string>
+		<key>name</key>
+		<string>bl</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>#bbb</string>
+		<key>label</key>
+		<string>Màu đường viền</string>
+		<key>name</key>
+		<string>bor</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>blank</string>
+	</dict>
+	<dict>
+		<key>label</key>
+		<string>CÀI ĐẶT MÀU</string>
+		<key>name</key>
+		<string>blank</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>#ddd</string>
+		<key>label</key>
+		<string>Màu bên trên</string>
+		<key>name</key>
+		<string>PrimaryColor</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>#777</string>
+		<key>label</key>
+		<string>Màu bên dưới</string>
+		<key>name</key>
+		<string>SecondaryColor</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<string>#f6941d</string>
+		<key>label</key>
+		<string>Màu chỉ báo pin</string>
+		<key>name</key>
+		<string>batCl</string>
+		<key>type</key>
+		<string>edit</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>blank</string>
+	</dict>
+	<dict>
+		<key>label</key>
+		<string>Tác giả: Trương Tam Phong</string>
+		<key>name</key>
+		<string>blank</string>
+	</dict>
+</array>
+</plist>

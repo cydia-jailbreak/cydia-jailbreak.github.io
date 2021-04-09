@@ -1,0 +1,44 @@
+<html><head>
+<title>Author Trương Tam Phong</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="Scripts/Css/Style.css" type="text/css" media="screen"/>
+<script type="text/javascript" charset="utf-8" src="Scripts/Js/Clock.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/Js/Lang.js"></script>
+</head>
+<body onLoad="TTP()">
+<div id="Container">
+<div id="Border" class="shadow-in">
+<img id="Weather" src="Scripts/Weather/Blank.png"/></img>
+<div id="Clock">
+<a id="Hour"></a>:<a id="Minute"></a><a id="Ampm"></a></div>
+<div id="Calendar">
+<a id="Weekday"></a>: <a id="Date"></a>/<a id="Month"></a></div>
+<div id= "City">Đang tìm...</div>
+<div id= "Condition">Đang tải...</div>
+<div id="Battery">
+<a id="Percent"></a> <a id="Charging"></a></div>
+<div id="Amlich"></div>
+<script type="text/javascript">
+clock({twentyfour : false, padzero : false, refresh : 5000, success: function(clock){
+document.getElementById('Hour').innerHTML = clock.hour();
+document.getElementById('Minute').innerHTML = clock.minute();
+document.getElementById('Ampm').innerHTML = clock.am();
+document.getElementById('Month').innerHTML = months[clock.month()].substring(0,8);
+document.getElementById('Date').innerHTML = clock.datepadded(); 
+document.getElementById('Weekday').innerHTML = days[clock.day()].substring(0,8);}});
+</script>
+<script type="text/javascript" charset="utf-8" src="Scripts/Js/Tools.js"></script>
+<script type="text/javascript">
+!function(){var n=VaExist("Font", "Futura");
+switch(FontSelector(["Futura", "Gineso", "Bubble", "Samsung", "Sanfran", "TeXGyre", "Roboto"],
+n,"Scripts/Fonts/"), 
+n){} new DynamicData({Str:[[]] ,});u}()
+</script>
+<script type="text/javascript">
+document.getElementById('Container').style.zoom = ZoomLevel / 100;
+</script>
+<script type="text/javascript" charset="utf-8" src="Scripts/Js/Jquery.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/Js/Main.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/Js/Style.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/Js/Ttp.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/Js/Xen.js"></script></body></html>
