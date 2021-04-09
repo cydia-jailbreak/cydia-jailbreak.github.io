@@ -322,6 +322,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Andr
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AndroidCarbonMini
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.AprilTTP
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.AprilTTP_1.0.0_iphoneos-arm.deb
+Size: 47866542
+MD5sum: 1651311dffeec4ad9ee9984faf933fd3
+SHA1: 9a77cc55559ec7c43d8c7b03547ac58ea99813ce
+SHA256: 5e94c7e03eb648af9cdb5a305f7108092d3be243133237ef6f1e0a236d550a6b
+SHA512: 2a97365fad1d32b7c95a26f808a8d7446697d40af24144a62124181d56a6dcc7642520bee27df46ec76c0c103be449b9af831c65bd3c2b70dbf08eecf2d4a267
+Description: Widget for Xen HTML
+Name: April TTP
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AprilTTP
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AprilTTP
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.AprilVietNam
 Architecture: iphoneos-arm
 Version: 2.0.4
