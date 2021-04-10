@@ -1645,6 +1645,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Infi
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Infinity
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.Infinity
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.Infinity_2.0.1_iphoneos-arm.deb
+Size: 47866776
+MD5sum: 352264d1cd300e83824ad1da3dbe1978
+SHA1: ca47981682fcbfb61b84166d6a99bd19064b2a3e
+SHA256: f052433583ab029e3744ec7e468cc281f046a37556eb513f6798c6b8f334469c
+SHA512: 294d0c0a68cfd811199ea7d5a7f11f2f4c3be3b9943fc2c9194b5a57e5acbfa75f4711e7714d0651d2566699a56d4a8d30c588c3b277ad93dfa4ece538e8391b
+Description: Widget for Xen HTML
+Name: Infinity
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Infinity
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Infinity
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.InformationColumn
 Architecture: iphoneos-arm
 Version: 1.0.0

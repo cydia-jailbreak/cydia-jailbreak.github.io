@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>2.0.1</version>
+<change>Thay đổi màu thanh pin đẹp hơn</change>
+    </changes>
+    <changes>
         <version>2.0.0</version>
 <change>Thêm tuỳ chọn ngôn ngữ</change>
 <change>Thêm tuỳ chọn phông</change>
