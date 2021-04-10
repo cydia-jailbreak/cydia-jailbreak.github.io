@@ -1,5 +1,14 @@
 <changelog>
     <changes>
+        <version>2.0.0</version>
+<change>Thêm tuỳ chọn ngôn ngữ</change>
+<change>Thêm tuỳ chọn phông</change>
+<change>Thêm tuỳ chọn gói biểu tượng thời tiết</change>
+<change>Thêm tuỳ chọn kiểu dáng</change>
+<change>Thêm tuỳ chỉnh độ mờ đục</change>
+<change>Thêm tuỳ chỉnh cài đặt màu sắc các thành phần</change>
+    </changes>
+    <changes>
         <version>1.0.4</version>
 <change>Sửa lỗi nền mờ 2 bên</change>
     </changes>
