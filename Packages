@@ -2022,6 +2022,24 @@ Name: LibSkittyColor
 Author: Skitty
 Icon: file:///Applications/Cydia.app/Sections/System1.png
 
+Package: com.TruongTamPhong.LightroomCrack
+Architecture: iphoneos-arm
+Version: 5.4.2
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.LightroomCrack_5.4.2_iphoneos-arm.deb
+Size: 2418370
+MD5sum: 52699dfb3c72fa16fa4ca567597d82e8
+SHA1: 4a899513262eb2066694fcad947ebdf4cff62d95
+SHA256: 79bbe48dc2813f630450cfb44e15ecda4d000baf79f45bbf3f124a4fe478fd9f
+SHA512: 4c99782c9c0bfaa5eaa64db52f68f49076367746b132ce8701c80ce43e931a9bb492b40e431830a0ebbfe6cd8109e1d60d0dcc3143f42da2e36b1b53a7b94092
+Description: Crack cho ứng dụng Adobe Lightroom
+Name: Lightroom Crack
+Author: Laxus
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LightroomCrack
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LightroomCrack
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.LynxVietNam
 Architecture: iphoneos-arm
 Version: 1.5-2
