@@ -1664,6 +1664,23 @@ Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Infinity
 Architecture: iphoneos-arm
+Version: 2.0.2-1
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.Infinity_2.0.2-1_iphoneos-arm.deb
+Size: 47866778
+MD5sum: 6a8b623772bf6a012270667754b1769d
+SHA1: 7de6e18ff4e6ca7da6bb3f357e30261449d1a9d0
+SHA256: d0d78d860d9f1cb147f072177de433b0387d4d2f1590a16bab95cd4b4b1ef8be
+SHA512: c66df1e235d1232c2c9c21e65f42265faef0d1205f2aa07b240dfebbbfeb827e095356ad8a84a4c2dd15170616d08579824331b975e261266fab7fd1b8294036
+Description: Widget for Xen HTML
+Name: Infinity
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Infinity
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Infinity
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.Infinity
+Architecture: iphoneos-arm
 Version: 2.0.2
 Section: Widget tĩnh
 Filename: ./debfiles/com.TruongTamPhong.Infinity_2.0.2_iphoneos-arm.deb

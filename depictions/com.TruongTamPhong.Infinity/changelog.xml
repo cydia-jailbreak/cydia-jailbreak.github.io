@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>2.0.2-1</version>
+<change>Sửa lỗi khi chọn widget không tự động lên màu văn bản</change>
+    </changes>
+    <changes>
         <version>2.0.2</version>
 <change>Thay đổi bóng đổ cho kiểu dáng nền đậm hơn</change>
     </changes>
