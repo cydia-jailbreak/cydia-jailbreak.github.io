@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Cover</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.0</version>
+	<version>1.2.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -11,7 +11,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Tiện ích hiển thị pin, lịch âm dương và thời tiết</description>
+		<description>Tiện ích hiển thị pin, lịch và thời tiết</description>
 		<description>Hoạt động trên Màn hình chính</description>
 		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
 	</descriptionlist>
@@ -22,7 +22,19 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-        <change>Lần đầu phát hành</change>
+        <change>Tạo hiệu ứng 3d vào khung chứa hình nền</change>
+        <change>Thay đổi phong cách hiện đại hơn</change>
+        <change>Sửa lỗi nhiều chỗ còn sót lại</change>
+        <change>Thêm nhiều lựa chọn ngôn ngữ</change>
+        <change>Thêm bìa thời tiết có thể bật tắt tuỳ ý</change>
+        <change>Thêm AE cho icon thời tiết hôm nay</change>
+        <change>Sắp xếp lại vị trí các mục sao cho phù hợp và tinh tế hơn</change>
+        <change>Bảng cài đặt thêm ngôn ngữ tiếng Anh cho các bạn nước ngoài sử dụng</change>
+        <change>Thay đổi vị trí nút chọn hình nền vào biểu tượng thời tiết lớn</change>
+        <change>Mở rộng khung chứa ứng dụng lên cao và rộng nhất có thể</change>
+        <change>Thay đổi lại màu sắc thanh pin cho hợp lý hơn</change>
+        <change>Xoá bỏ âm lịch do không còn khoảng trống sử dụng</change>
+        <change>Loại bớt phông chữ và biểu tượng thời tiết không đẹp ra khỏi widget</change>
 	</changelog>
 	<links></links>
 </package>
