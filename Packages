@@ -887,6 +887,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Cove
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Cover
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.Cover
+Architecture: iphoneos-arm
+Version: 1.2.7
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.Cover_1.2.7_iphoneos-arm.deb
+Size: 39996036
+MD5sum: 065fe0c0d51a87a44f7e625ce60d9edf
+SHA1: c300677c067c2f8a3f062a34131791fae7644641
+SHA256: c210ed8318dbc33a906bdce8f5f9269f2f33e0d2676b50c398fa610d12318f4c
+SHA512: fa26938a526e1f54d075737ffdf63502ecd38336de6e5943da0df1aa43bade4b677d8de8a01ab1befcd01242cb3a49b950bb819a338fc686c7326e023ac6a5cd
+Description: Widget for Xen HTML
+Name: Cover
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Cover
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Cover
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.CydownVietNam
 Architecture: iphoneos-arm
 Version: 7.1.0
