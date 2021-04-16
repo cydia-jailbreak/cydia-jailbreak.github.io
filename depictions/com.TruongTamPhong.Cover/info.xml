@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Cover</id>
 	<name>Trương Tam Phong</name>
-	<version>1.2.8</version>
+	<version>1.3.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -11,7 +11,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Tiện ích hiển thị pin, lịch và thời tiết</description>
+		<description>Tiện ích hiển thị pin, lịch âm, lịch dương, tên văn bản, hình nền, nhạc và thời tiết</description>
 		<description>Hoạt động trên Màn hình chính</description>
 		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
 	</descriptionlist>
@@ -22,9 +22,9 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-        <change>Thêm công tắc bật hoặc tắt tất cả các thành phần</change>
-        <change>Thêm tên lên stt3</change>
-        <change>Thêm âm lịch</change>
+        <change>Thêm âm nhạc</change>
+        <change>Thêm kiểu dáng chữ</change>
+        <change>Thêm vạch trang trí</change>
         <change>Sửa chữa một số lỗi</change>
 	</changelog>
 	<links></links>
