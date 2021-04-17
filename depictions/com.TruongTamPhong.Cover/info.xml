@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Cover</id>
 	<name>Trương Tam Phong</name>
-	<version>1.3.1</version>
+	<version>1.3.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -22,10 +22,13 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-        <change>Thêm âm nhạc</change>
-        <change>Thêm kiểu dáng chữ</change>
-        <change>Thêm vạch trang trí</change>
-        <change>Sửa chữa một số lỗi</change>
+        <change>Thêm bóng đổ vào thời tiết 4 ngày sau và nút điều khiển nhạc</change>
+        <change>Thêm kiểu dáng cho thanh Dock</change>
+        <change>Thêm mục ẩn hiện bóng chữ khi đổi chữ sang màu tối nên sử dụng chức năng này</change>
+        <change>Thay đổi hiệu ứng khi nhấn vào nút điều khiển nhạc</change>
+        <change>Thay thế viền dưới nền khung hình nền</change>
+        <change>Sửa lại đường cắt trang trí</change>
+        <change>Sửa lỗi viền trắng ở thời tiết khi tắt âm nhạc</change>
 	</changelog>
 	<links></links>
 </package>
