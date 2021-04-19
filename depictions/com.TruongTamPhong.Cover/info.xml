@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Cover</id>
 	<name>Trương Tam Phong</name>
-	<version>1.3.7</version>
+	<version>1.3.8</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -22,10 +22,11 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-        <change>Thêm tuỳ chỉnh độ bo góc hình nền. Thông số tối thiểu là 7. Tối đa là 25.</change>
-        <change>Chỉnh lại vị trí tên thành phố cho cân bằng với lịch âm và lịch dương</change>
-        <change>Sửa lỗi Độ mờ đục hình nền</change>
-        <change>Sửa lỗi thanh pin nằm đè lên biểu tượng thời tiết cho dòng iPhone nút Home</change>
+        <change>Thay đổi vị thông tin bài nhạc xuống đáy màn hình</change>
+        <change>Thay đổi nền Độ ẩm và Gió</change>
+        <change>Thay thế vòng tròn biểu tượng thời tiết</change>
+        <change>Thêm đổi màu cho nền thanh pin</change>
+        <change>Sửa lỗi và căn chỉnh lại một số thành phần</change>
 	</changelog>
 	<links></links>
 </package>
