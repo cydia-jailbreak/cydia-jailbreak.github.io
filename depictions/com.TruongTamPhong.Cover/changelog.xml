@@ -1,5 +1,11 @@
 <changelog>
     <changes>
+        <version>1.4.2</version>
+        <change>Thêm viền Dock</change>
+        <change>Thêm điều chỉnh vị trí cho nhiều thành phần khác nhau</change>
+        <change>Sửa lỗi vòng tròn thời tiết</change>
+    </changes>
+    <changes>
         <version>1.3.9</version>
         <change>Thay đổi vị thông tin bài nhạc xuống đáy màn hình</change>
         <change>Thay đổi nền Độ ẩm và Gió</change>
