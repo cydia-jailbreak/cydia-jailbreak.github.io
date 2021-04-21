@@ -1,5 +1,15 @@
 <changelog>
     <changes>
+        <version>1.4.8</version>
+        <change>Thêm hiệu hứng nền khi phát nhạc</change>
+        <change>Thay đổi viền tròn cho biểu tượng thời tiết lớn sang 3D</change>
+        <change>Thay đổi lại kiểu nền Độ ẩm và Gió. Có thể bật tắt để ẩn hiện</change>
+        <change>Đã có thể ẩn hiện biểu tượng thời tiết lớn</change>
+        <change>Vị trí lịch âm, dương, thành phố và nút điều khiển nhạc đã có thể di chuyển vào giữa màn hình</change>
+        <change>Thay đổi vị trí nhiệt độ lên đứng cùng với tình trạng thời tiết</change>
+        <change>Sửa lỗi chạm hai lần vào bên phải màn hình bị nhảy widget</change>
+    </changes>
+    <changes>
         <version>1.4.2</version>
         <change>Thêm viền Dock</change>
         <change>Thêm điều chỉnh vị trí cho nhiều thành phần khác nhau</change>
