@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>2.0.2-2</version>
+<change>Sửa lỗi lệch nhiệt độ trên iOS 13 và iOS 14</change>
+    </changes>
+    <changes>
         <version>2.0.2-1</version>
 <change>Sửa lỗi khi chọn widget không tự động lên màu văn bản</change>
     </changes>
