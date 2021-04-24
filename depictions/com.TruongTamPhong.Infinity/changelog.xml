@@ -1,7 +1,7 @@
 <changelog>
     <changes>
-        <version>2.0.2-2</version>
-<change>Sửa lỗi lệch nhiệt độ trên iOS 13 và iOS 14</change>
+        <version>2.0.3</version>
+<change>Thêm chỉnh vị trí cho nhiệt độ hiện tại cho một số dòng máy bị lệch lên trên</change>
     </changes>
     <changes>
         <version>2.0.2-1</version>

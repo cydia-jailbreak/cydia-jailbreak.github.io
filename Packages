@@ -1851,14 +1851,14 @@ Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Infinity
 Architecture: iphoneos-arm
-Version: 2.0.2-2
+Version: 2.0.2
 Section: Widget tĩnh
-Filename: ./debfiles/com.TruongTamPhong.Infinity_2.0.2-2_iphoneos-arm.deb
-Size: 47866780
-MD5sum: fb9b3a8c943b1b8157bad112e9dc29ab
-SHA1: 4b56c87882b10337085c2bfb225b79bcab248bf4
-SHA256: ac55c818c6af8d1f7eee0392bc8faa3178da600c153818dc01bd0047658aba69
-SHA512: 8150849c08f6d6dc22b74ab6bdc548d6d49fab27f7fb7d74b9dabf97282f5c2615b8ce935fbc1891bc756f903085b998c134fb2ed795302267fba1f37d9397b2
+Filename: ./debfiles/com.TruongTamPhong.Infinity_2.0.2_iphoneos-arm.deb
+Size: 47866752
+MD5sum: 6abf99fe48e60aa94b71acdf13618ef8
+SHA1: a28dc8b7909b76962616cb0eb2507817c2e7edee
+SHA256: d2388365bd6b5a3c1b53f2cac869583ff08fa18c31a2d39f8ca35b25071e774c
+SHA512: b5ff69bb57432de330765b4dfe5d969f9fe2c918f13a54a009a65b04ad94deaae550adb9eb044adea38396384a5e51a0f334d5019b58f729c5b0fc3d81b0ffdf
 Description: Widget for Xen HTML
 Name: Infinity
 Author: Trương Tam Phong
@@ -1868,14 +1868,14 @@ Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Infinity
 Architecture: iphoneos-arm
-Version: 2.0.2
+Version: 2.0.3
 Section: Widget tĩnh
-Filename: ./debfiles/com.TruongTamPhong.Infinity_2.0.2_iphoneos-arm.deb
-Size: 47866752
-MD5sum: 6abf99fe48e60aa94b71acdf13618ef8
-SHA1: a28dc8b7909b76962616cb0eb2507817c2e7edee
-SHA256: d2388365bd6b5a3c1b53f2cac869583ff08fa18c31a2d39f8ca35b25071e774c
-SHA512: b5ff69bb57432de330765b4dfe5d969f9fe2c918f13a54a009a65b04ad94deaae550adb9eb044adea38396384a5e51a0f334d5019b58f729c5b0fc3d81b0ffdf
+Filename: ./debfiles/com.TruongTamPhong.Infinity_2.0.3_iphoneos-arm.deb
+Size: 47866814
+MD5sum: 735c9b4f3e39b11f93476fe04e1b83e8
+SHA1: 28e575d39f53f23a69265a5e589da6df8648d24b
+SHA256: b116a93ec2bafc9cc56e9e549cbbfed72bdec5b674935c9cf5f3b04b45f832e2
+SHA512: f839b9a130bfa4f7b57e08bec6acf8cd2ad9f1a5eca4178e771212ee3769ccac1ed83892116868a16fc626676177a76efc33f5a5e4cbc08057c9be172f29d683
 Description: Widget for Xen HTML
 Name: Infinity
 Author: Trương Tam Phong
