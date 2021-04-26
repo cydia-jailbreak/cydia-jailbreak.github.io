@@ -200,6 +200,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AmLi
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AmLichVaDanhNgon
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.AmLichVaDanhNgon
+Architecture: iphoneos-arm
+Version: 1.8.8
+Section: Widget động
+Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.8.8_iphoneos-arm.deb
+Size: 654448
+MD5sum: 6af4947d7f6f25acc778050e178bbf7b
+SHA1: 86d3f6fc3049b1f5bc7aac555754f038c42ea933
+SHA256: 996989aaa7131753c0f70a1e7041645acc17de992223740c3d0e04861f416289
+SHA512: 66e3ebe1bed1ae6c5a4e9c20ea0f112cb536f5a2838f599ac795ac83c24627d0bc2e6012e33092dcdb24ba20632ba6dd89c2df76b08378d5f5d9449e8b5df2ab
+Description: Widget for Xen HTML
+Name: Âm Lịch & Danh Ngôn
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AmLichVaDanhNgon
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AmLichVaDanhNgon
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.AmLich
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -2936,6 +2953,24 @@ Name: Rectangle Clock
 Author: JunesiPhone
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.RectangleClock
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.Rescale2
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debfiles/com.TruongTamPhong.Rescale2_1.0.1_iphoneos-arm.deb
+Size: 129424
+MD5sum: 16f3b59d45453bde1b07b28cf0e1a442
+SHA1: 6d096c5349ba573669abc69cf84e28b0ba41c246
+SHA256: 96e6898a5dd6ab1b83dea53f97ddb0a1d2ae5800d4fe12e116c5d3423edae62f
+SHA512: 9a508d6bc6e7d1e4c2a4a79e0e8e837da72e89eeb152b30b9ffda0d037ffaee047a11118b6511b68fc827ec36799ff916de37129faa9d33e30bb9133ee39d1da
+Description: Thay đổi độ phân giải hiển thị
+Name: Re:Scale 2
+Author: Sniper_GER
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Rescale2
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Rescale2
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.RingWrapperV2
 Architecture: iphoneos-arm
