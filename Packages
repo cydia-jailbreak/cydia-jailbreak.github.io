@@ -217,24 +217,6 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AmLi
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AmLichVaDanhNgon
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
-Package: com.TruongTamPhong.AmLich
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Widget tĩnh
-Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.AmLich_1.0.0_iphoneos-arm.deb
-Size: 127222
-MD5sum: 235492d98c37edd0f76255e7023bcb53
-SHA1: 512a706b667331b6fc6f60383aadf12e8a0e1e90
-SHA256: d5cf044bb462b58cdc624cd833c922da31e14164242125476a123409d324fbf7
-SHA512: 28fe5f54b04d56e03fb6f48a7ac60c75905935fe9ad9b1aa49165ad727a0ac81244cb982a1a4d8f39d40ea8c281d474b05807702a0f18a419310e6a3177e8453
-Description: Widget for Xen HTML
-Name: Âm Lịch
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AmLich
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AmLich
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
 Package: com.TruongTamPhong.AnalogClockWeather
 Architecture: iphoneos-arm
 Version: 1.0.0
