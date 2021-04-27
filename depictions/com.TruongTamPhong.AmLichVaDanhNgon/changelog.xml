@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.8.8-1</version>
+        <change>Sửa lỗi tắt thanh pin không hiển thị danh ngôn</change>
+    </changes>
+    <changes>
         <version>1.8.8</version>
         <change>Thêm tuỳ chỉnh màu sắc, kiểu dáng chữ, cỡ phông, phóng to, ... vào cài đặt</change>
         <change>Thêm danh ngôn về tình yêu</change>

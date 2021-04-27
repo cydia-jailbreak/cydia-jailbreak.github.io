@@ -202,6 +202,23 @@ Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.AmLichVaDanhNgon
 Architecture: iphoneos-arm
+Version: 1.8.8-1
+Section: Widget động
+Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.8.8-1_iphoneos-arm.deb
+Size: 654452
+MD5sum: 279a6e9bc7efa151973ff681e8d6d78a
+SHA1: 8340cb0a9bf03c82d2407f18470ae4cb12d8b48f
+SHA256: 3a1901c05701be7c431a2baee9e41f11bc0e238616bf132747f9487cbfb3f673
+SHA512: ae23884f1dcfaad3f20d0f3204b1b4543fdbb5118a5a397f3bdcfeb09180e7daf95b8b76dd912d3d3aa60aaf145b30372adbbeba5cb1626e6032138d5bec7d0d
+Description: Widget for Xen HTML
+Name: Âm Lịch & Danh Ngôn
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AmLichVaDanhNgon
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.AmLichVaDanhNgon
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.AmLichVaDanhNgon
+Architecture: iphoneos-arm
 Version: 1.8.8
 Section: Widget động
 Filename: ./debfiles/com.TruongTamPhong.AmLichVaDanhNgon_1.8.8_iphoneos-arm.deb
