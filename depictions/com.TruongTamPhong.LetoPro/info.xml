@@ -1,0 +1,28 @@
+<package>
+	<id>com.TruongTamPhong.LetoPro</id>
+	<name>Trương Tam Phong</name>
+	<version>422</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.0</miniOS>
+                         <maxiOS>14.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Một chủ đề với những màu sắc êm dịu dành cho bạn</description>
+		<description>Sử dụng Snowboard, iThemer, iConOmatic hoặc Anemone 3 để kích hoạt</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>LetoPro.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+	<change>Tổng 422 biểu tượng</change>
+	<change>Cùng với 6 tiện ích</change>
+	</changelog>
+	<links></links>
+</package>

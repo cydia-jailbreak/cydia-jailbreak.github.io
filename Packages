@@ -2115,6 +2115,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Laet
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LaetusVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.LetoPro
+Architecture: iphoneos-arm
+Version: 422
+Section: Themes
+Filename: ./debfiles/com.TruongTamPhong.LetoPro_422_iphoneos-arm.deb
+Size: 48021666
+MD5sum: 61b64515bb5ca8c8948a4f5f50abdac1
+SHA1: 9ef28fa5ae0bd0615cb93f8ece9deef53f098606
+SHA256: 8a1dd8f3382ce85edf8fea7bc2f8037e05fe2128da898f09224e624697918bf3
+SHA512: d263790139a6e9e258b6110ae9d8d2776d940a7ab1a890d6a5b930d77b39cb97d8b82cec4e11c3bb7f944263d3f034afa404d83049ce33eade5645a5a681749f
+Description: Giao diện với những màu sắc dịu nhẹ dành cho bạn
+Name: LetoPro
+Author: MtK
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LetoPro
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LetoPro
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
 Package: com.TruongTamPhong.LgClockPro
 Architecture: iphoneos-arm
 Version: 1.0.0
