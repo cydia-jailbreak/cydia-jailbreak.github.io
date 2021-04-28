@@ -17,10 +17,7 @@ Kết quả là khi vuốt từ trên xuống ở cạnh phải màn hình, đi�
 		<description>Mọi hành động khác có thể thiết lập tuỳ ý trong cài đặt</description>
 	</descriptionlist>
 <screenshots>
-        <screenshot>
-            <description></description>
             <image>Activator.png</image>
-        </screenshot>	
     </screenshots>
 	<changelog>
 	<change>Thay đổi nguồn FlipSwitch về nguồn chủ. Yêu cầu gỡ bỏ FlipSwitch tại nguồn này trước khi cài</change>
