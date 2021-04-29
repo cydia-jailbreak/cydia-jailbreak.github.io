@@ -1109,25 +1109,6 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Cydo
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.CydownVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
-Package: com.TruongTamPhong.DanhNgon
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Widget động
-Maintainer: Apple Cydia Và Jailbreak
-Depends: mobilesubstrate
-Filename: ./debfiles/com.TruongTamPhong.DanhNgon_1.0.0_iphoneos-arm.deb
-Size: 137670
-MD5sum: 0bca1d2dcb3d3b0b66ed597ba833194f
-SHA1: a10f3096300696222b602c62f969860bd921efd9
-SHA256: 811ae2a6e58afef1a3514175ad8d4b04e953438731a78396410b71e65a006f92
-SHA512: 43860e5d88d088179fd10a096a973f7325cf7e5eb8d2b4f796811bef196745a2a92533204ef6ffbe51327a133b238ab214973b51a038c7a4c1807a64f8eb83d8
-Homepage: https://www.facebook.com/Truong.Tam.Phong.1988
-Description: Widget for Xen HTML
-Name: Danh Ngôn
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.DanhNgon
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
 Package: com.TruongTamPhong.DiamondGold
 Architecture: iphoneos-arm
 Version: 1.0.0
