@@ -1061,11 +1061,11 @@ Architecture: iphoneos-arm
 Version: 1.5.5
 Section: Widget tĩnh
 Filename: ./debfiles/com.TruongTamPhong.Cover_1.5.5_iphoneos-arm.deb
-Size: 40012344
-MD5sum: d3f629a2bf19ec82666e925156f80658
-SHA1: 3a42c72f4c7d7431e14557f6602d79488a578be4
-SHA256: 5e86859d5d5047123453a6ad9be29a24c3df729bc0ecb6d5eff30feb0f06aef5
-SHA512: 4e1bd8c6aa6ef4425bb5ea16fb79c97741c92c57931aaef5a8b990c0187549f1a6aa33d47c8698517d2142545cc16e88cbe5466761ac8e0d2fe50fc8106b047d
+Size: 40012406
+MD5sum: cc010e6e48e1726e7a13820d2a80ea3a
+SHA1: 7ab2870a7bd0a3cfbf049fd57a2b5fd5ad22c14c
+SHA256: 86c935c806732050373df0ea659e62aac50d5cfa0c4b120fc90f0c5cdb95933c
+SHA512: 56eb3620d8605363151243157f8cb9f0e4c8fa3aede1dee21be4033ea9821e45a3caa541a9e56de9ef01f59f1c0e14b05a46418cb32f020acd4154138a2592ec
 Description: Widget for Xen HTML
 Name: Cover
 Author: Trương Tam Phong
@@ -1391,6 +1391,23 @@ Name: Fight
 Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Fight
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Fight
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
+Package: com.TruongTamPhong.FlyingBirds
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Filename: ./debfiles/com.TruongTamPhong.FlyingBirds_1.0.0_iphoneos-arm.deb
+Size: 104558
+MD5sum: f141ffba6193e9583056b8b217895dbb
+SHA1: 739b30710479ffaed5999a9fdbd89f7accd6764c
+SHA256: 6ed18479b4bab10cca5cf909bce809f8ea07eaea72fa48146cc00c90c9538dfe
+SHA512: 9a10f5e03df184fad0b1fd88be80b819d3272f3039394463497800ee1f722a9a94781f75d16400d1b5ad1f2e747f8a0a5e9c48a34765d835ba54a1ddd2544b51
+Description: Widget for Xen HTML
+Name: Flying Birds
+Author: Quốc Huy
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FlyingBirds
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FlyingBirds
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.FourDayForecast
