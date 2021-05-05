@@ -1092,14 +1092,14 @@ Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.Cover
 Architecture: iphoneos-arm
-Version: 1.6.3~beta4
+Version: 1.6.3~beta5
 Section: Widget tĩnh
-Filename: ./debfiles/com.TruongTamPhong.Cover_1.6.3~beta4_iphoneos-arm.deb
-Size: 40044296
-MD5sum: 2cd73c41cd82065e6b41ea34fdb8db0e
-SHA1: dc6d61c79bbd29e9ecb153ee3ea9cf5c2c170273
-SHA256: 4b8900b3a0a166b6c71a0499173e30a22b2bcf9a2ae8f5b09c6058c2e63adea9
-SHA512: 51133bb8d7723368a6748bc2feb204690f4cd2006507a45a2e07db4167b34cd54d53eb61e50a987be56b00a12c997bef66b11fce8824946d93c87f08b49395dd
+Filename: ./debfiles/com.TruongTamPhong.Cover_1.6.3~beta5_iphoneos-arm.deb
+Size: 40044280
+MD5sum: e59843b088a698adb2e230d28c95ccb1
+SHA1: b792660ca4c5e8f11ec88dca60aefceaf04a9525
+SHA256: 2add1e6da27fc93eb1adec0abc5b53fb807d8afcc3784e733ea60197957c4f3e
+SHA512: 52268b585087644f37966335b87868c07e21b1d39b230e95c1682c0cacd4986cf8dea4a6377545effcfd2c592d92bca72037a70293e3ebf646aa8656adc27fe1
 Description: Widget for Xen HTML
 Name: Cover
 Author: Trương Tam Phong

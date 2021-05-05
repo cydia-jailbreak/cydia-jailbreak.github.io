@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Cover</id>
 	<name>Trương Tam Phong</name>
-	<version>1.6.3~beta4</version>
+	<version>1.6.3~beta5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
