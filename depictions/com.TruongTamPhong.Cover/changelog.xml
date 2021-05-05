@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.6.4</version>
+        <change>Phiên bản cuối cùng sửa lỗi và hoàn thiện lại mọi chi tiết</change>
+    </changes>
+    <changes>
         <version>1.6.3~beta5</version>
         <change>Thêm lại Kiểu dáng cổ điển</change>
         <change>Thêm độ mờ đục cho khung nền và độ mờ đục cho ảnh Dock</change>
