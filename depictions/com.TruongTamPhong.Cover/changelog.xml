@@ -1,5 +1,13 @@
 <changelog>
     <changes>
+        <version>1.6.3~beta4</version>
+        <change>Thêm lại Kiểu dáng cổ điển</change>
+        <change>Thêm độ mờ đục cho khung nền và độ mờ đục cho ảnh Dock</change>
+        <change>Thêm điều chỉnh vị trí lên xuống cho tên của bạn</change>
+        <change>Loại bỏ chim bay và ảnh bìa Album chính giữa màn hình vì lý do hao pin nóng máy</change>
+        <change>Sửa lại một số lỗi</change>
+    </changes>
+    <changes>
         <version>1.6.0</version>
         <change>Thêm chim bay</change>
         <change>Thêm ảnh nền vào Dock</change>
