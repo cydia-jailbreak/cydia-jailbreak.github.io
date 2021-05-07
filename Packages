@@ -1463,6 +1463,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Four
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FourDayForecast
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.FridayTTP
+Architecture: iphoneos-arm
+Version: 1.1.2~beta2
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.FridayTTP_1.1.2~beta2_iphoneos-arm.deb
+Size: 655944
+MD5sum: 94bffb851f7d72154fc831638851be54
+SHA1: dfd65505329507bb7dcaa54c1d296e5c5b67e372
+SHA256: 05bc1c0c1e4108bd243da083d225b41eeff73cf96bc6ed42f3163cb701546e64
+SHA512: 475ba2052140b23f1f9b95f69c77422d98acba031b731a0c6d104df9620697c8ff34ece1b3438aac1062910116e3857db64a5576012305af7fb8235e950186ae
+Description: Widget for Xen HTML
+Name: Friday TTP
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FridayTTP
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.FridayTTP
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.FullHouseGold
 Architecture: iphoneos-arm
 Version: 1.0.0
