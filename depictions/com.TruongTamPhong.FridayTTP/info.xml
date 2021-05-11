@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.FridayTTP</id>
 	<name>Trương Tam Phong</name>
-	<version>1.1.3</version>
+	<version>1.2.6~beta5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -23,9 +23,9 @@
     </screenshots>
 	<changelog>
 		<change>Thay đổi sắp xếp vị trí các thành phần</change>
-		<change>Thêm tuỳ chọn đổi màu chữ</change>
+		<change>Tạo độ nổi 3D cho các nền</change>
 	</changelog>
-		<change>Thêm công tắc bật tắt vào cài đặt</change>
-		<change>Thay đổi phông chữ cho Thứ đẹp hơn và có dấu</change>
+		<change>Thêm thời tiết, âm lịch</change>
+		<change>Thêm nhiều tuỳ chỉnh vào cài đặt</change>
 	<links></links>
 </package>
