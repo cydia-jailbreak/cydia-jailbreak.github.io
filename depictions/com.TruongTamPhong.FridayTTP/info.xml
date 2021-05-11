@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.FridayTTP</id>
 	<name>Trương Tam Phong</name>
-	<version>1.2.6~beta5</version>
+	<version>1.2.6~beta6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -22,10 +22,6 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-		<change>Thay đổi sắp xếp vị trí các thành phần</change>
-		<change>Tạo độ nổi 3D cho các nền</change>
-	</changelog>
-		<change>Thêm thời tiết, âm lịch</change>
-		<change>Thêm nhiều tuỳ chỉnh vào cài đặt</change>
+		<change>Sửa lỗi hiển thị khi chọn widget</change>
 	<links></links>
 </package>

@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.2.6~beta6</version>
+        <change>Sửa lỗi hiển thị khi chọn widget</change>
+    </changes>
+    <changes>
         <version>1.2.6~beta5</version>
 		<change>Thay đổi sắp xếp vị trí các thành phần</change>
 		<change>Tạo độ nổi 3D cho các nền</change>
