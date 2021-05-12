@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.2.7~beta6</version>
+        <change>Tối ưu hoá tuỳ chọn màu sắc các thành phần thay vì điền mã, thì giờ đây chúng ta có thể chọn màu có sẵn trong tuỳ chỉnh</change>
+    </changes>
+    <changes>
         <version>1.2.6~beta6</version>
         <change>Sửa lỗi hiển thị khi chọn widget</change>
     </changes>
