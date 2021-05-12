@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.FridayTTP</id>
 	<name>Trương Tam Phong</name>
-	<version>1.2.7~beta6</version>
+	<version>1.2.7~beta8</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -22,6 +22,7 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-		<change>Tối ưu hoá tuỳ chọn màu sắc các thành phần thay vì điền mã, thì giờ đây chúng ta có thể chọn màu có sẵn trong tuỳ chỉnh</change>
+		<change>Sửa lại một số màu, vị trí Thứ</change>
+		<change>Tăng độ cao cho kiểu nhỏ và vừa cho các dòng iPhone dưới X không bị chạm sát vào nhau</change>
 	<links></links>
 </package>
