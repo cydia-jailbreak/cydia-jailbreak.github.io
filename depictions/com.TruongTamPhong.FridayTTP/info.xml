@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.FridayTTP</id>
 	<name>Trương Tam Phong</name>
-	<version>1.2.7~beta8</version>
+	<version>1.2.8~beta9</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -22,7 +22,12 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-		<change>Sửa lại một số màu, vị trí Thứ</change>
-		<change>Tăng độ cao cho kiểu nhỏ và vừa cho các dòng iPhone dưới X không bị chạm sát vào nhau</change>
+		<change>Thêm vài màu nền</change>
+		<change>Thêm biểu tượng thời tiết cho kích cỡ Vừa và Lớn</change>
+		<change>Thêm hình nền vào khung ảnh thời tiết. Để thay đổi hình nền cần chạm vào nền Ngày</change>
+		<change>Thêm tuỳ chọn đổ bóng sang phải</change>
+		<change>Thêm tuỳ chỉnh độ bo góc cho các nền</change>
+		<change>Thêm công tắc ẩn hiện các thành phần</change>
+	</changelog>
 	<links></links>
 </package>
