@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.FridayTTP</id>
 	<name>Trương Tam Phong</name>
-	<version>1.2.8~beta9</version>
+	<version>1.2.9</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -11,7 +11,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Tiện ích hiển thị thông tin lịch, nhạc, thời gian, tìm kiếm và sóng</description>
+		<description>Tiện ích hiển thị thông tin lịch, nhạc, thời gian, thời tiết, tìm kiếm và sóng</description>
 		<description>Hoạt động trên Màn hình chính</description>
 		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
 	</descriptionlist>
@@ -22,13 +22,9 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-		<change>Thêm phản chiếu ánh sáng</change>
-		<change>Thêm vài màu nền</change>
-		<change>Thêm biểu tượng thời tiết cho kích cỡ Vừa và Lớn</change>
-		<change>Thêm hình nền vào khung ảnh thời tiết. Để thay đổi hình nền cần chạm vào nền Ngày</change>
-		<change>Thêm tuỳ chọn đổ bóng sang phải</change>
-		<change>Thêm tuỳ chỉnh độ bo góc cho các nền</change>
-		<change>Thêm công tắc ẩn hiện các thành phần</change>
+		<change>Thêm đổi màu nền cho đồng hồ và nền nút Play</change>
+		<change>Chia đôi khung ảnh và thêm ảnh bìa Album bài hát</change>
+		<change>Chỉnh sửa lại một số màu</change>
 	</changelog>
 	<links></links>
 </package>
