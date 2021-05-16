@@ -4132,6 +4132,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Time
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.TimeColors
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.TransWeather
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.TransWeather_1.0.2_iphoneos-arm.deb
+Size: 14339204
+MD5sum: 624626313edaea73426d1eab3302057f
+SHA1: 7d284234ac5e157dc9cfce3dcdc25a136726e672
+SHA256: 86b9b504e2118d2c598a033f9d81c179c5e45acbce181338d505997a9a6378c4
+SHA512: b72878083e89f28b7eba8bad73f3e65ab0f41503f6bb3255bd4ed541707a5c68ece182726bd20503b7394e84eb6f152b6211dd7d39b2c09764a288369ea58305
+Description: Widget for Xen HTML
+Name: TransWeather
+Author: daddykool666
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.TransWeather
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.TransWeather
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.TuyetRoi
 Architecture: iphoneos-arm
 Version: 1.0.0
