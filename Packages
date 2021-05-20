@@ -3253,6 +3253,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Peta
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Petal
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.Petal
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.Petal_1.0.2_iphoneos-arm.deb
+Size: 651496
+MD5sum: 20efbe8e9cd71c42fafdbc500a3ce632
+SHA1: e84db00318779a8d3e4226545d271799debb7763
+SHA256: 32d84b31393cff46e19aca64369dbc0acb4207cc248f2b691e51c785118915fe
+SHA512: f10b34b7a0650e9ae3eaadb76311e970bf1f83a6abbcb48254f2c9aea3b252e63cd00baeb1ad02625a9308b21a1ab69331e4f52ce03b7b98330770bb97e8c5b9
+Description: Widget for Xen HTML
+Name: Petal
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Petal
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Petal
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.PicoBanners2
 Architecture: iphoneos-arm
 Version: 0.0.1b2-7
