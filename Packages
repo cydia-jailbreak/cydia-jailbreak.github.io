@@ -3236,6 +3236,23 @@ Author: Trương Tam Phong
 Depiction: http://cydia-jailbreak.github.io/description.html?id=com.TruongTamPhong.NotchXS
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.Petal
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.Petal_1.0.0_iphoneos-arm.deb
+Size: 655348
+MD5sum: b98fbb18022c6a56a2ab82ef6a1ac1c7
+SHA1: 18b99734a6b01cd1899d03e7431855c5efb570c7
+SHA256: 07d738949d9a1da209169ed3891843355da44448b7b92087718bc3b59cd3c13e
+SHA512: 48c2ec7cadd94e4b87505455f9a4e803ad860b1455c94f2dc46bc68b7a52a082c21bbcd5e5db2c85d30c38ca3ac75aaed92003f38cd1554481eacb7d8c742e41
+Description: Widget for Xen HTML
+Name: Petal
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Petal
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Petal
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.PicoBanners2
 Architecture: iphoneos-arm
 Version: 0.0.1b2-7
