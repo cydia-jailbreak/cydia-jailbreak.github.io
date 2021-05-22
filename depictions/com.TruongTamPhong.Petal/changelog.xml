@@ -1,5 +1,13 @@
 <changelog>
     <changes>
+        <version>1.1.1</version>
+        <change>Thêm nền trên dưới</change>
+        <change>Thêm kiểu dáng cho nền nhạc, nền nút Camera và nền nút đèn pin nổi lên trên hoặc chìm xuống dưới</change>
+        <change>Thêm pin</change>
+        <change>Thêm bóng sáng cho nút kéo trượt thời gian bài hát</change>
+        <change>Căn chỉnh lại một số chỗ</change>
+    </changes>
+    <changes>
         <version>1.0.7</version>
         <change>Thêm nền Đèn pin và Camera (cho dòng iPhone X trở lên)</change>
         <change>Thêm chọn màu sắc cho thanh nền Music và chỉnh màu chữ tuỳ ý</change>

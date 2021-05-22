@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Petal</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.7</version>
+	<version>1.1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -22,11 +22,11 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-        <change>Thêm nền Đèn pin và Camera (cho dòng iPhone X trở lên)</change>
-        <change>Thêm chọn màu sắc cho thanh nền Music và chỉnh màu chữ tuỳ ý</change>
-        <change>Thêm công tắc bật tắt các thành phần</change>
-        <change>Thêm tuỳ chỉnh độ mờ đục thanh nền Music</change>
-        <change>Thêm lật trang và đĩa nhạc vào ảnh bìa Album</change>
+        <change>Thêm nền trên dưới</change>
+        <change>Thêm kiểu dáng cho nền nhạc, nền nút Camera và nền nút đèn pin nổi lên trên hoặc chìm xuống dưới</change>
+        <change>Thêm pin</change>
+        <change>Thêm bóng sáng cho nút kéo trượt thời gian bài hát</change>
+        <change>Căn chỉnh lại một số chỗ</change>
 	</changelog>
 	<links></links>
 </package>
