@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Anime</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.4</version>
+	<version>1.0.7</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -16,11 +16,13 @@
 		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
 	</descriptionlist>
 	<changelog>
-<change>Thêm 2 màu nền Hồng nhạt và Ô liu</change>
-<change>Thêm công tắc bật tắt cho Music và Khung ứng dụng</change>
-<change>Thêm tuỳ chỉnh vị trí lên xuống cho Music</change>
-<change>Thêm 2 ảnh vào mục Anime</change>
-<change>Sửa lại Thứ đầy đủ hơn</change>
+<change>Thêm màu nền</change>
+<change>Thêm công tắc bật tắt cho thời tiết, đồng và ngày tháng năm</change>
+<change>Nâng khung ứng dụng lên cao tránh chạm vào các biểu tượng ứng dụng tại Dock</change>
+<change>Thay lại toàn bộ nền chính sắc nét hơn</change>
+<change>Cắt chỉnh lại toàn bộ ảnh Anime</change>
+<change>Loại bỏ kiểu dáng kéo xuống</change>
+<change>Căn chỉnh lại vị trí vạch Wifi và % pin trên thanh trạng thái</change>
 	</changelog>
 <screenshots>
         <screenshot>
