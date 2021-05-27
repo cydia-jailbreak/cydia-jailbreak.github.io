@@ -1,9 +1,0 @@
-{
-    "FULLSCREEN_NOTIFICATIONS" = "Chuy\U1ec3n c\U00e1c th\U00f4ng b\U00e1o l\U00ean tr\U00ean \U0111\U1ea7u";
-    "HIDE_FOREGROUND_NOTIF" = "K\U00edch ho\U1ea1t";
-    "HIDE_FOREGROUND_NOTIF_FOOTER" = "Thi\U1ebft l\U1eadp cho c\U00e1c th\U00f4ng b\U00e1o ngo\U00e0i m\U00e0n h\U00ecnh kho\U00e1.";
-    "HIDE_FOREGROUND_NOTIF_HEADER" = "\U1ea8n Widget tr\U01b0\U1edbc n\U1ec1n khi c\U00f3 th\U00f4ng b\U00e1o: ";
-    "OTHER_FOOTER" = "Th\U00f4ng b\U00e1o c\U00f3 th\U1ec3 \U0111\U01b0\U1ee3c hi\U1ec3n th\U1ecb tr\U00ean to\U00e0n b\U1ed9 chi\U1ec1u cao c\U1ee7a m\U00e0n h\U00ecnh.";
-    "OTHER_HEADER" = "C\U00e0i \U0111\U1eb7t th\U00eam:";
-    TITLE = "C\U00e0i \U0111\U1eb7t";
-}
