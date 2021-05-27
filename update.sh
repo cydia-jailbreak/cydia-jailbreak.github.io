@@ -55,7 +55,7 @@ apt-ftparchive packages ./debfiles > ./Packages;
 bzip2 -c9k ./Packages > ./Packages.bz2;
 echo "------------------"
 echo "Building Release...."
-printf "Origin: --- TRƯƠNG TAM PHONG ---\nLabel: Cydia And Jailbreak\nSuite: stable\nVersion: 1.0\nCodename: ios\nArchitecture: iphoneos-arm\nComponents: main\nDescription: Trương Tam Phong\nMD5Sum:\n "$(cat ./Packages | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages --printf="%s")" Packages\n "$(cat ./Packages.bz2 | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages.bz2 --printf="%s")" Packages.bz2\n" >Release;
+printf "Origin: 0 --- TRƯƠNG TAM PHONG --- 0\nLabel: Cydia And Jailbreak\nSuite: stable\nVersion: 1.0\nCodename: ios\nArchitecture: iphoneos-arm\nComponents: main\nDescription: Trương Tam Phong\nMD5Sum:\n "$(cat ./Packages | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages --printf="%s")" Packages\n "$(cat ./Packages.bz2 | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages.bz2 --printf="%s")" Packages.bz2\n" >Release;
 
 echo "------------------"
 echo "Done!"
