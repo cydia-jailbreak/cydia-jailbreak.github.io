@@ -1,0 +1,10 @@
+{
+    BTC = "Bitcoin (BTC)";
+    "BTC_FOOTER" = "Nh\U1ea5n \U0111\U1ec3 sao ch\U00e9p \U0111\U1ecba ch\U1ec9 Bitcoin (h\U1ed7 tr\U1ee3 SegWit)";
+    ETH = "Ethereum (ETH)";
+    "ETH_FOOTER" = "Nh\U1ea5n \U0111\U1ec3 sao ch\U00e9p \U0111\U1ecba ch\U1ec9 Ethereum";
+    "INFO_FOOTER" = "N\U1ebfu b\U1ea1n th\U00edch s\U1eed d\U1ee5ng Xen HTML, vui l\U00f2ng xem x\U00e9t \U0111\U00f3ng g\U00f3p!";
+    PAYPAL = PayPal;
+    "PAYPAL_FOOTER" = "Nh\U1ea5n \U0111\U1ec3 sao ch\U00e9p \U0111\U1ecba ch\U1ec9 PayPal";
+    TITLE = "\U0110\U00f3ng g\U00f3p cho t\U00e1c gi\U1ea3";
+}

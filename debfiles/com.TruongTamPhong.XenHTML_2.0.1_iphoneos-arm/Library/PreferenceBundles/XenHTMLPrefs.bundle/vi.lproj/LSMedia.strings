@@ -1,0 +1,9 @@
+{
+    "HIDE_ARTWORK" = "\U1ea8n \U1ea3nh b\U00eca Album";
+    "HIDE_FOREGROUND_ARTWORK" = "\U1ea2nh b\U00eca Album";
+    "HIDE_FOREGROUND_CONTROLS" = "Ki\U1ec3m so\U00e1t c\U00e1c n\U00fat \U1ea5n";
+    "HIDE_FOREGROUND_FOOTER" = "Cho ph\U00e9p ho\U1eb7c v\U00f4 hi\U1ec7u ho\U00e1 c\U00e1c Widgets c\U00f3 c\U00e1c n\U00fat ch\U1ec9nh Media";
+    "HIDE_FOREGROUND_HEADER" = "Tr\U00ecnh \U0111i\U1ec1u khi\U1ec3n Nh\U1ea1c:";
+    "MISC_HEADER" = "C\U00e0i \U0111\U1eb7t kh\U00e1c:";
+    TITLE = "C\U00e0i \U0111\U1eb7t";
+}

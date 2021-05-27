@@ -1,0 +1,10 @@
+{
+    "BUGS_FEATURES" = "B\U00e1o c\U00e1o l\U1ed7i v\U00e0 th\U00eam t\U00ednh n\U0103ng y\U00eau c\U1ea7u";
+    "MESSAGE_FOOTER" = "C\U00f3 th\U1ec3 m\U1ea5t \U0111\U1ebfn v\U00e0i ng\U00e0y tr\U01b0\U1edbc khi b\U1ea1n nh\U1eadn \U0111\U01b0\U1ee3c tr\U1ea3 l\U1eddi.";
+    "MESSAGE_HEADER" = "G\U1eedi tin t\U1edbi:";
+    "MESSAGE_MAIL" = Mail;
+    "MESSAGE_TWITTER" = Twitter;
+    "RESET_FOOTER" = "\U0110i\U1ec1u n\U00e0y s\U1ebd x\U00f3a t\U1ea5t c\U1ea3 c\U00e1c thi\U1ebft l\U1eadp c\U00e0i \U0111\U1eb7t trong Xen HTML.";
+    "RESET_SETTINGS" = "\U0110\U1eb7t l\U1ea1i t\U1ea5t c\U1ea3 c\U00e1c thi\U1ebft l\U1eadp";
+    TITLE = "H\U1ed7 tr\U1ee3";
+}

@@ -1,0 +1,18 @@
+{
+    "D22_CONTROL_CENTRE" = "\U1ea8n thanh HomeBar d\U01b0\U1edbi Tr.t\U00e2m \U0111.khi\U1ec3n";
+    "D22_FACEID_PADLOCK" = "\U1ea8n bi\U1ec3u t\U01b0\U1ee3ng \U1ed5 kho\U00e1 Face ID";
+    "D22_HEADER" = "D\U00e0nh cho iPhone X:";
+    "D22_HOMEBAR" = "\U1ea8n thanh HomeBar";
+    "D22_TORCH_CAMERA" = "\U1ea8n n\U00fat \U0110\U00e8n pin v\U00e0 Camera";
+    "GRABBERS_CAMERA" = "\U1ea8n trang Camera";
+    "GRABBERS_CAMERA_DISABLE" = "V\U00f4 hi\U1ec7u ho\U00e1 trang Camera";
+    "GRABBERS_CONTROL_CENTRE" = "\U1ea8n trang trung t\U00e2m \U0111i\U1ec1u khi\U1ec3n";
+    "GRABBERS_HANDOFF" = "\U1ea8n Handoff Grabber";
+    "GRABBERS_HEADER" = Grabbers;
+    "GRABBERS_NOTIFICATION_CENTRE" = "\U1ea8n trang trung t\U00e2m th\U00f4ng b\U00e1o";
+    "MISC_CLOCK_STATUS_BAR" = "Hi\U1ec7n \U0111\U1ed3ng h\U1ed3 tr\U00ean thanh tr\U1ea1ng th\U00e1i";
+    "MISC_HEADER" = "C\U00e0i \U0111\U1eb7t kh\U00e1c:";
+    "MISC_LS_STATUS_BAR" = "\U1ea8n thanh tr\U1ea1ng th\U00e1i";
+    "MISC_PAGE_DOTS" = "\U1ea8n d\U1ea5u ch\U1ea5m trang";
+    TITLE = "C\U00e0i \U0111\U1eb7t";
+}
