@@ -2615,6 +2615,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Line
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LineColor
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.LineColor
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.LineColor_1.0.1_iphoneos-arm.deb
+Size: 24263434
+MD5sum: acdeb332a23d2de07ee992bf4cff892e
+SHA1: 7d0fea10d5e950d67fef426bb4c87a692590435b
+SHA256: e296aeecebed4484ae379d4cdb9ab3ece83f279ffaa1aa96a81ea79cc540b159
+SHA512: 6f2eb470115f0e0c4d96730194e6cb8fdcab85944b9b2a822fee1007203678db0197480366408408be5eefd171a51c611520a08f636bd3e9349cf56f43e35d7b
+Description: Widget for Xen HTML
+Name: Line Color
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LineColor
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.LineColor
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.LynxVietNam
 Architecture: iphoneos-arm
 Version: 1.5-2
