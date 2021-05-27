@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>2.0.1</version>
+        <change>Sửa lỗi và biên dịch lại một số chỗ.</change>
+    </changes>
+    <changes>
         <version>2.0</version>
 		<change>[iOS 13.4 đến 14.4] Đã hỗ trợ đầy đủ cho các phiên bản iOS này.</change>
               <change>[iOS 10 đến 14.4] Đã xây dựng một API hoàn toàn mới cho các tiện ích con để truy cập vào dữ liệu hệ thống. Nó cung cấp đầy đủ chức năng của XenInfo, InfoStats 2 và WidgetWeather nên bạn không cần cài đặt những tinh chỉnh này nữa.</change>
