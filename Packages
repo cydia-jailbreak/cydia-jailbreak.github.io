@@ -389,6 +389,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Anim
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Anime
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.Anime
+Architecture: iphoneos-arm
+Version: 1.0.8
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.Anime_1.0.8_iphoneos-arm.deb
+Size: 49491452
+MD5sum: c62e02b905e6c869dbd1f229c4fbfb1f
+SHA1: 60c0dc30b351cc45e9c0d883cc1ef6ae511b410d
+SHA256: 91cf707ca0e95327f443012f4a1d04f5b335eb46fe9829760f110b44a0d460cb
+SHA512: 72dd7f8f456dd29dea69f2f7388c0bcba1589f11837e50649cd45018d104534d9b540412c6f8ddf3a60ab11d9eaa12969263305086728eac3dd96ac503ed3c2e
+Description: Widget for Xen HTML
+Name: Anime
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Anime
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Anime
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.AprilTTP
 Architecture: iphoneos-arm
 Version: 1.0.0
