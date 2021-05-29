@@ -4191,6 +4191,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.T9Di
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.T9DialerVN
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.TTP1508
+Architecture: iphoneos-arm
+Version: 1.0.1.2
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.TTP1508_1.0.1.2_iphoneos-arm.deb
+Size: 956780
+MD5sum: f6a9b61bb844295ced3d3e80b3f5e98c
+SHA1: 782c208b32aed8f5b5dea87adc18804d970beb43
+SHA256: 6a4541e241c955e83640acdb21acdab8f456e93e74d9912049cbccd6423ab353
+SHA512: 356632eb1e1e3f0e31f0aa9019f5332c2916e2888056678e1ee7a2c960551c5070a3cbf61df2dbf7a61f4a31903446390e07aea5504d146f93ca22499d76dc9b
+Description: Widget for Xen HTML
+Name: TTP 1508
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.TTP1508
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.TTP1508
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.TeXGyre13
 Architecture: iphoneos-arm
 Version: 1.0.0
