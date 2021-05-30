@@ -1,0 +1,10 @@
+Package: com.TruongTamPhong.TTP1508
+Name: TTP 1508
+Author: Trương Tam Phong
+Version: 1.0.1.4
+Architecture: iphoneos-arm
+Description: Widget for Xen HTML
+Section: Widget tĩnh
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.TTP1508
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.TTP1508
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
