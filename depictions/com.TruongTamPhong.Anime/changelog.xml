@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.0.9</version>
+<change>Thêm tuỳ chỉnh màu văn bản chính, văn bản thời gian: đồng hồ, ngày tháng và năm</change>
+    </changes>
+    <changes>
         <version>1.0.8</version>
 <change>Chuyển sang cài đặt kiểu mới</change>
     </changes>
