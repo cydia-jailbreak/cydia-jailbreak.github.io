@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.6.6</version>
+        <change>Thêm nhiều màu cho khung nền</change>
+    </changes>
+    <changes>
         <version>1.6.5</version>
         <change>Chuyển sang dạng cài đặt mới</change>
         <change>Thay đổi và loại bỏ nhiều chức năng nhằm tối ưu hoá cho tiện ích. Giờ đây những dòng máy từ iPhone 6 tới iPhone X sẽ không còn giật lag và nóng máy như mọi phiên bản trước nữa.</change>
