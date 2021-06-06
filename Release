@@ -1,0 +1,11 @@
+Origin: Apple Cydia & Jailbreak
+Label: Cydia And Jailbreak
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Trương Tam Phong
+MD5Sum:
+ ab060747f83aa23fa1f105a62953d8b2 235698 Packages
+ 05e88df8f52988403ad41aac4e0b6c09 49348 Packages.bz2
