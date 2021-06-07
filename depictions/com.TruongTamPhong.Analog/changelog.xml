@@ -1,5 +1,15 @@
 <changelog>
     <changes>
+        <version>1.0.15</version>
+<change>Thêm chèn ảnh vào khung nền</change>
+<change>Thêm chỉnh màu nền dưới</change>
+<change>Thêm tuỳ chỉnh bật tắt các thành phần</change>
+<change>Thêm độ bo góc ảnh nền Album, nút điều khiển nhạc và nền biểu tượng thời tiết 4 ngày sau</change>
+<change>Thay thế độ che phủ khung nền bằng độ nhoà</change>
+<change>Thêm tuỳ chỉnh bóng đổ vào trong khung nền</change>
+<change>Căn chỉnh lại vị trí một số thành phần</change>
+    </changes>
+    <changes>
         <version>1.0.0</version>
 <change>Lần đầu phát hành</change>
     </changes>

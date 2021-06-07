@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Analog</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.0</version>
+	<version>1.0.15</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -16,7 +16,13 @@
 		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
 	</descriptionlist>
 	<changelog>
-<change>Lần đầu phát hành</change>
+<change>Thêm chèn ảnh vào khung nền</change>
+<change>Thêm chỉnh màu nền dưới</change>
+<change>Thêm tuỳ chỉnh bật tắt các thành phần</change>
+<change>Thêm độ bo góc ảnh nền Album, nút điều khiển nhạc và nền biểu tượng thời tiết 4 ngày sau</change>
+<change>Thay thế độ che phủ khung nền bằng độ nhoà</change>
+<change>Thêm tuỳ chỉnh bóng đổ vào trong khung nền</change>
+<change>Căn chỉnh lại vị trí một số thành phần</change>
 	</changelog>
 <screenshots>
         <screenshot>
