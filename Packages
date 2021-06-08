@@ -337,6 +337,23 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Anal
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Analog
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.Analog
+Architecture: iphoneos-arm
+Version: 1.0.16
+Section: Widget tĩnh
+Filename: ./debfiles/com.TruongTamPhong.Analog_1.0.16_iphoneos-arm.deb
+Size: 1765172
+MD5sum: e5f13ba4d077ee4de67e5d65657746c9
+SHA1: 7729a150df32d4dbd1a7e29d76701a33ae309425
+SHA256: d2ed5935815947d97359dc58728c018f9a9d19591c396daa55e70781378c641a
+SHA512: 0e714a111bf7fa68a9ff135fda098a474ae9b7673f9214020e4898676692235c0abe432c8bd188021ceb837638a2990bb9417ce42379385367b57d1b2a231d0e
+Description: Widget for Xen HTML
+Name: Analog
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Analog
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Analog
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.Ando
 Architecture: iphoneos-arm
 Version: 1.0.1

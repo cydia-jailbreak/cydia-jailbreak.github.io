@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.0.16</version>
+<change>Sửa lỗi đồng hồ và thời tiết bị lệch trên một số dòng máy</change>
+    </changes>
+    <changes>
         <version>1.0.15</version>
 <change>Thêm chèn ảnh vào khung nền</change>
 <change>Thêm chỉnh màu nền dưới</change>
