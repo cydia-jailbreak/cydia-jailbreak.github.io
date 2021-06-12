@@ -5,7 +5,7 @@ Version: 1.0
 Codename: ios
 Architecture: iphoneos-arm
 Components: main
-Description: Repo Trương Tam Phong
+Description: Trương Tam Phong
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 Packages
- 4059d198768f9f8dc9372dc1c54bc3c3 14 Packages.bz2
+ 8da221d75d551c0056f438099c79dfb9 239413 Packages
+ 5016961dc56921af34a1363046d62131 50178 Packages.bz2
