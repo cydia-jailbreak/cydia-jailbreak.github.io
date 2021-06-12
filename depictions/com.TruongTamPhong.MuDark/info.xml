@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.MuDark</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -16,7 +16,8 @@
 		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
 	</descriptionlist>
 	<changelog>
-<change>Lần đầu phát hành</change>
+<change>Thêm bật tắt cho nền thanh trạng thái và khung ứng dụng</change>
+<change>Chỉnh lại kích cỡ một số khung cho hợp lý</change>
 	</changelog>
 <screenshots>
         <screenshot>

@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>1.0.1</version>
+<change>Thêm bật tắt cho nền thanh trạng thái và khung ứng dụng</change>
+<change>Chỉnh lại kích cỡ một số khung cho hợp lý</change>
+    </changes>
+    <changes>
         <version>1.0.0</version>
 <change>Lần đầu phát hành</change>
     </changes>
