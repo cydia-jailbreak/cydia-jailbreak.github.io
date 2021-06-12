@@ -1,5 +1,12 @@
 <changelog>
     <changes>
+        <version>1.0.22</version>
+<change>Thêm tuỳ chỉnh chiều cao cho thời tiết, nhạc và khung hình nền</change>
+	</changelog>
+<change>Thêm di chuyển vị trí lên xuống cho đồng hồ</change>
+<change>Tất cả các thông số chiều cao và lên xuống đã được giới hạn dành cho các dòng máy khác nhau</change>
+    </changes>
+    <changes>
         <version>1.0.16</version>
 <change>Sửa lỗi đồng hồ và thời tiết bị lệch trên một số dòng máy</change>
     </changes>
