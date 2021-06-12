@@ -3000,18 +3000,19 @@ Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 Package: com.TruongTamPhong.MuDark
 Architecture: iphoneos-arm
 Version: 1.0.1
-Section: Widget động
+Section: Widget tĩnh
 Maintainer: Trương Tam Phong
 Filename: ./debfiles/com.TruongTamPhong.MuDark_1.0.1_iphoneos-arm.deb
-Size: 15199380
-MD5sum: f83bf5d36dbf0576b54aa0730ffb2923
-SHA1: 268147786afe2f3470dbdd8916884d8ccd52d8d8
-SHA256: f35fc99deedcd4a93a3de6c9464631d4551e6947ad3f83d9cd31c0bccd767929
-SHA512: 10b7d45ca87c5290e3f0ffdbf1b3b2826b25310b756554824bb8f5fed318ba03eac7666546dc9645b21208d615fe4f0b4bdf0e331de361a32f4ee7eaf20291c7
+Size: 15199472
+MD5sum: 538708dd03ba9596ab1f021e3cea1ccb
+SHA1: 82ce21072b08b9e73f064fe1893a12f34ae7120f
+SHA256: 39bd663aee2f08c2541776118673ecc24d3b478b14ca42e4b55d8a5b86b09172
+SHA512: 5923308a217497756bc3f5d893c9948131a882f7dd80306afef606e7b611296f2d55cc4a1ccc53d2e3ed73ef85f3bdc82cfcd223c7818ee017aa2534ed20a91d
 Description: Tiện ích cho Xen Html.
  - Hoạt động trên Màn hình chính
  - Hỗ trợ từ iPhone X trở lên
  - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Bản cập nhật gồm: Thêm bật tắt nền thanh trạng thái và khung ứng dụng. Chỉnh lại kích cỡ một số khung cho hợp lý.
  + Ủng hộ tôi để phát triển mạnh hơn 👌
 Name: MuDark
 Author: Trương Tam Phong
