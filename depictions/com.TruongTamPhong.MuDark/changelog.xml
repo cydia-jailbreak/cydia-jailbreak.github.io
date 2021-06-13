@@ -1,5 +1,12 @@
 <changelog>
     <changes>
+        <version>1.0.4</version>
+<change>Thêm tuỳ chỉnh độ nhoà các nền.</change>
+<change>Thay đổi sắp xếp lại vị trí các thành phần.</change>
+<change>Sửa lỗi một số chỗ.</change>
+<change>Hoàn thiện lại những gì chưa chuẩn.</change>
+    </changes>
+    <changes>
         <version>1.0.3</version>
 <change>Thêm bật tắt tất cả thành phần.</change>
 <change>Thêm màu nền cho lịch.</change>
