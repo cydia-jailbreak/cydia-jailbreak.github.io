@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.MuDark</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.1</version>
+	<version>1.0.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -16,8 +16,11 @@
 		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
 	</descriptionlist>
 	<changelog>
-<change>Thêm bật tắt cho nền thanh trạng thái và khung ứng dụng</change>
-<change>Chỉnh lại kích cỡ một số khung cho hợp lý</change>
+<change>Thêm bật tắt tất cả thành phần.</change>
+<change>Thêm màu nền cho lịch.</change>
+<change>Thêm tuỳ chọn kiểu dáng nền.</change>
+<change>Thêm tuỳ chỉnh bo góc các nền.</change>
+<change>Chỉnh cân lại cho các dòng iPhone 6 7 8.</change>
 	</changelog>
 <screenshots>
         <screenshot>
