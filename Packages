@@ -3066,6 +3066,29 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MuDa
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MuDark
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.MuDark
+Architecture: iphoneos-arm
+Version: 1.0.55
+Section: Widget tĩnh
+Maintainer: Trương Tam Phong
+Filename: ./debfiles/com.TruongTamPhong.MuDark_1.0.55_iphoneos-arm.deb
+Size: 15198966
+MD5sum: f866eaafd9daafaeabb6d30ee73bc931
+SHA1: 00a09d4f51704f2e620cc5f3aea73e761186125a
+SHA256: 548c7f2d79c53d493a2daf6076b384f95418994b12b2eaffa563414f402af996
+SHA512: c3c2f39fab32ff0d769fdde4da1a0ba6cb9eec869a39e37cdaaa7e1e1253ecf2ca14373d1606e8c5ccc04cc98e0f06965a12ab3e11be91234d9efffc1b29de08
+Description: Tiện ích cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Hỗ trợ từ iPhone X trở lên
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Bản cập nhật gồm: Sửa lỗi không tự động chuyển ngày. Sửa lỗi nền pin bị lệch trên 1 số máy. Thêm hiệu ứng khi mở nhạc...
+ + Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: MuDark
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MuDark
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MuDark
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.TruongTamPhong.Mune
 Architecture: iphoneos-arm
 Version: 1.3.3

@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.MuDark</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.4</version>
+	<version>1.0.55</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -16,10 +16,9 @@
 		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
 	</descriptionlist>
 	<changelog>
-<change>Thêm tuỳ chỉnh độ nhoà các nền.</change>
-<change>Thay đổi sắp xếp lại vị trí các thành phần.</change>
-<change>Sửa lỗi một số chỗ.</change>
-<change>Hoàn thiện lại những gì chưa chuẩn.</change>
+<change>Thêm hiệu ứng khi mở nhạc.</change>
+<change>Sửa lỗi không tự động chuyển ngày.</change>
+<change>Sửa lỗi nền pin bị lệch trên 1 số máy.</change>
 	</changelog>
 <screenshots>
         <screenshot>
