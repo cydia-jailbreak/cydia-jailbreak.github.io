@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.0.56</version>
+<change>Nâng cấp hiệu ứng Nhạc</change>
+    </changes>
+    <changes>
         <version>1.0.55</version>
 <change>Thêm hiệu ứng khi mở nhạc.</change>
 <change>Sửa lỗi không tự động chuyển ngày.</change>
