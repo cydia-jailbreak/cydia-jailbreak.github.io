@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.TPEffects</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.08</version>
+	<version>1.0.09</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -16,7 +16,7 @@
 		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
 	</descriptionlist>
 	<changelog>
-<change>Lần đầu phát hành</change>
+<change>Sửa lỗi kích đúp vào phía dưới màn hình bị nhảy lên trên</change>
 	</changelog>
 <screenshots>
         <screenshot>
