@@ -1410,29 +1410,6 @@ Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.MuDark
 Architecture: iphoneos-arm
-Version: 1.0.56
-Section: Widget tĩnh
-Maintainer: Trương Tam Phong
-Filename: ./debfiles/com.TruongTamPhong.MuDark_1.0.56_iphoneos-arm.deb
-Size: 15198926
-MD5sum: 8f1f9d522fd5abb21f21fe0a9379b06a
-SHA1: 1777ecec1f6dcf51d640064b4df6b28097d75940
-SHA256: e3925142179eb50c6c6d6a17941861c0b1fb1f8736115f494655676131e1d426
-SHA512: 2b6060964851f0f019961efb74701c84362c243cd52e541585dd5e923844c02d5f34f315893f933fea0fc7e29684766498a600b9e3427409f1c3f68ddc98f711
-Description: Tiện ích cho Xen Html.
- - Hoạt động trên Màn hình chính
- - Hỗ trợ từ iPhone X trở lên
- - Các thiết lập tuỳ chỉnh trong cài đặt của nó
- - Bản cập nhật gồm: Sửa lại hiệu ứng...
- + Ủng hộ tôi để phát triển mạnh hơn 👌
-Name: MuDark
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MuDark
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.MuDark
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
-Package: com.TruongTamPhong.MuDark
-Architecture: iphoneos-arm
 Version: 1.0.57
 Section: Widget tĩnh
 Maintainer: Trương Tam Phong
@@ -2179,20 +2156,20 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.TPEffects
 Architecture: iphoneos-arm
-Version: 1.0.09
+Version: 1.0.11
 Section: Widget động
 Maintainer: Trương Tam Phong
-Filename: ./debfiles/com.TruongTamPhong.TPEffects_1.0.09_iphoneos-arm.deb
-Size: 13867916
-MD5sum: a286bfacbccbf0528213a67d0b301c9a
-SHA1: 2fe7521e15812eb001b77df5640f61562db7bcfe
-SHA256: 502d915e879c0f545a81db13a0347b7b2ef4985f3fa8b2f7b251aad79d2a27bb
-SHA512: 76deb3e8d86eaaa3c106434b635bb6662c17136ea62c441d4466390d427356c85582bcd62164520fcefb0a5286f63b419cdd21f9ed3dd6601c377d3fef1b851b
+Filename: ./debfiles/com.TruongTamPhong.TPEffects_1.0.11_iphoneos-arm.deb
+Size: 13707008
+MD5sum: 7a54d4f116a81c792e5106dcdbc9c312
+SHA1: 692873e1c073c9d3c097b1d53269de6182fbd1bf
+SHA256: 7a1aca76d71cb84c7bd3f94c92f95c7031373a3123d155c4302757a208858ff0
+SHA512: f1bc5e7878c85d457262f14785d26e80e9636f1144ce92b8d75268ec765ec6e48758288ee958c106c72856d2fc9cf0ea1acef97ad50dd94c7ab34abff6740b11
 Description: Tiện ích cho Xen Html.
  - Hoạt động trên Màn hình chính
  - Hỗ trợ từ iPhone X trở lên
  - Các thiết lập tuỳ chỉnh trong cài đặt của nó
- - Bản cập nhật sửa lỗi kích đúp vào phía dưới màn hình bị nhảy lên trên
+ - Bản cập nhật thêm tuỳ chọn tắt nền khung ứng dụng và sửa đổi căn chỉnh vài chỗ chưa cân đối
  + Ủng hộ tôi để phát triển mạnh hơn 👌
 Name: TP Effects
 Author: Trương Tam Phong

@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.0.11</version>
+<change>Thêm tuỳ chọn tắt nền khung ứng dụng và sửa đổi căn chỉnh vài chỗ chưa cân đối</change>
+    </changes>
+    <changes>
         <version>1.0.09</version>
 <change>Sửa lỗi kích đúp vào phía dưới màn hình bị nhảy lên trên</change>
     </changes>
