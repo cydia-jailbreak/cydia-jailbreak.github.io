@@ -2156,20 +2156,20 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.TPEffects
 Architecture: iphoneos-arm
-Version: 1.0.11
+Version: 1.0.13
 Section: Widget động
 Maintainer: Trương Tam Phong
-Filename: ./debfiles/com.TruongTamPhong.TPEffects_1.0.11_iphoneos-arm.deb
-Size: 13707008
-MD5sum: 7a54d4f116a81c792e5106dcdbc9c312
-SHA1: 692873e1c073c9d3c097b1d53269de6182fbd1bf
-SHA256: 7a1aca76d71cb84c7bd3f94c92f95c7031373a3123d155c4302757a208858ff0
-SHA512: f1bc5e7878c85d457262f14785d26e80e9636f1144ce92b8d75268ec765ec6e48758288ee958c106c72856d2fc9cf0ea1acef97ad50dd94c7ab34abff6740b11
+Filename: ./debfiles/com.TruongTamPhong.TPEffects_1.0.13_iphoneos-arm.deb
+Size: 13707054
+MD5sum: 0cbd4e5cd33c7170cb569264d5013953
+SHA1: 1e9981632f1503e7823fb5eb6eef176f0390c1b3
+SHA256: 4b44ef004e123182d8fe50bfed5b7f1a8fb6e0f29c6cdf021a7d6afa47e079b1
+SHA512: 7295e6b998a1032fc5d07c59c84651168a59967e9e84b452331b6772c7e101cfddb3fb58476a3bdc3b00cd052434803a1df112ae74bab7de756724fcc0b5c3ce
 Description: Tiện ích cho Xen Html.
  - Hoạt động trên Màn hình chính
  - Hỗ trợ từ iPhone X trở lên
  - Các thiết lập tuỳ chỉnh trong cài đặt của nó
- - Bản cập nhật thêm tuỳ chọn tắt nền khung ứng dụng và sửa đổi căn chỉnh vài chỗ chưa cân đối
+ - Bản cập nhật thêm tuỳ chọn đổi màu bóng đèn và màu ngày hôm nay
  + Ủng hộ tôi để phát triển mạnh hơn 👌
 Name: TP Effects
 Author: Trương Tam Phong
