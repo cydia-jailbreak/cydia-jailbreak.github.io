@@ -239,20 +239,21 @@ Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.TruongTamPhong.BigAnalog
 Architecture: iphoneos-arm
-Version: 1.5.6
+Version: 1.5.7
 Section: Widget động
 Maintainer: Trương Tam Phong
-Filename: ./debfiles/com.TruongTamPhong.BigAnalog_1.5.6_iphoneos-arm.deb
-Size: 5146468
-MD5sum: 87844061e5766f0c656053c37ba78583
-SHA1: eabffbc4a2a2b0c707357051efe47f6a99176074
-SHA256: 3439d191f4aabdff409c898827727ce631c956483cc6b3b6376637ec983396ea
-SHA512: ca52bd46bcdaf17e74b81714c8533634833bb416f3f74a36f9e1bc426a9c82c3129b73a3acf8336cfb70e6576ef97ea0abce207b01d2fcd8ab581221a1c11125
+Filename: ./debfiles/com.TruongTamPhong.BigAnalog_1.5.7_iphoneos-arm.deb
+Size: 5146532
+MD5sum: 01f36db7dfbf4bd42889352db2810512
+SHA1: 2b5911d19d1e237f67b8ebf37eb6f32904723b88
+SHA256: d5f54f92992918f60884bfde815de7e72a76a7c1e7a1f78cd7d211070a906f03
+SHA512: a9b1fea732d83e511c1ccef55ee40b6e5886ede1ba7b6a79161356eaee17267d544775ac919ff8764dbf72394e8e3c526d6e71a4080fbd88943fa14f3fc2c08c
 Description: Tiện ích cho Xen Html.
  - Hoạt động trên Màn hình chính & Màn hình khoá
  - Hỗ trợ từ iPhone 4 trở lên
  - Các thiết lập tuỳ chỉnh trong cài đặt của nó
- + Ủng hộ tôi để phát triển mạnh hơn 👌
+ + Bản cập nhật thêm tuỳ chỉnh kích cỡ đồng hồ
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
 Name: Big Analog
 Author: Trương Tam Phong & D-Shin
 Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.BigAnalog
