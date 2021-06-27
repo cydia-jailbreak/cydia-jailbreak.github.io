@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.BigAnalog</id>
 	<name>Trương Tam Phong</name>
-	<version>1.5.7</version>
+	<version>1.6.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -16,7 +16,9 @@
 		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
 	</descriptionlist>
 	<changelog>
-<change>Thêm tuỳ chỉnh kích cỡ đồng hồ</change>
+<change>Thêm tuỳ chỉnh kích cỡ phông chữ</change>
+<change>Thêm bóng cho đồng hồ và bóng đổ cho giá đỡ ứng dụng</change>
+<change>Sửa lỗi lệch chữ khi ở chế độ phóng to</change>
 	</changelog>
 <screenshots>
         <screenshot>

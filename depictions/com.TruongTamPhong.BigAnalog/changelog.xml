@@ -1,5 +1,11 @@
 <changelog>
     <changes>
+        <version>1.6.0</version>
+<change>Thêm tuỳ chỉnh kích cỡ phông chữ</change>
+<change>Thêm bóng cho đồng hồ và bóng đổ cho giá đỡ ứng dụng</change>
+<change>Sửa lỗi lệch chữ khi ở chế độ phóng to</change>
+    </changes>
+    <changes>
         <version>1.5.7</version>
 <change>Thêm tuỳ chỉnh kích cỡ đồng hồ</change>
     </changes>
