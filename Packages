@@ -1916,6 +1916,28 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Snow
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.SnowBoardVietNam
 Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
+Package: com.TruongTamPhong.SnowBoardVietNam
+Architecture: iphoneos-arm
+Version: 1.4.20~Beta4
+Section: Tweaks
+Maintainer: Spark
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debfiles/com.TruongTamPhong.SnowBoardVietNam_1.4.20~Beta4_iphoneos-arm.deb
+Size: 5783504
+MD5sum: f661f731e7f1a11856a0352251440135
+SHA1: 4a928e8defb9cdd0119ecb19ad42662d721bec71
+SHA256: 8dedabe06ecef08beea374683604d55fe37066ea40adf82275a9d50c21643e85
+SHA512: f8f9b2e5710c5748a7af13f2dbecc06c06d7e1c1e090ca26e5aaf6a37c38234714d3673d0681a7491a1a98f963bff653b67be85a076113471355f7a7427a5686
+Description: Tinh chỉnh này dùng thay đổi chủ đề.
+Name: SnowBoard Việt Nam
+Author: Spark & Dennis D. Bednarz
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.SnowBoardVietNam
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.SnowBoardVietNam
+Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
+
 Package: com.TruongTamPhong.SpaceXSPro
 Architecture: iphoneos-arm
 Version: 1.0.6

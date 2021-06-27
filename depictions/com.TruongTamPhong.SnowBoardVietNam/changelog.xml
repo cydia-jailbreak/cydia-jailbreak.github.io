@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+        <version>1.4.20~beta4</version>
+        <change>Thêm cảnh báo kích cỡ biểu tượng quá lớn</change>
+        <change>Nâng cấp tương thích hơn cho iOS 14</change>
+    </changes>
+    <changes>
         <version>1.4.12~beta6</version>
         <change>Sửa lỗi không thêm được cấu hình</change>
     </changes>

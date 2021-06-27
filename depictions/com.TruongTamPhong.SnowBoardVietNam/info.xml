@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.SnowBoardVietNam</id>
 	<name>Trương Tam Phong</name>
-	<version>1.4.12~Beta6</version>
+	<version>1.4.20~Beta4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -26,7 +26,8 @@
         </screenshot>	
     </screenshots>
 	<changelog>
-        <change>Sửa lỗi không thêm được cấu hình</change>
+        <change>Thêm cảnh báo kích cỡ biểu tượng quá lớn</change>
+        <change>Nâng cấp tương thích hơn cho iOS 14</change>
 	</changelog>
 	<links></links>
 </package>
