@@ -2561,36 +2561,15 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.Win10Clock
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 1.0.22
 Section: Widget tĩnh
 Maintainer: Trương Tam Phong
-Filename: ./debfiles/com.TruongTamPhong.Win10Clock_1.0.0_iphoneos-arm.deb
-Size: 22311466
-MD5sum: b5ed1b48f5fdf05ceb85c06a251603ef
-SHA1: cf7a71f45d736755caf3bdd3dc8b160eb54e27c9
-SHA256: 0d109812a03449f3e9c7114dfcead7c58ab90c403f1976596a39e64e481943d3
-SHA512: 90292e917e592e71f58517abe539713fd46f21ccc4ac1070fb1d185d495fe79b4b8b1fd5841b67d1e6d5e063c67750b0860c2ae93d48ba504136ec943d901dff
-Description: Tiện ích cho Xen Html.
- - Hoạt động trên Màn hình khoá
- - Các thiết lập tuỳ chỉnh trong cài đặt của nó
- - Ủng hộ tôi để phát triển mạnh hơn 👌
-Name: Win 10 Clock
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Win10Clock
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Win10Clock
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
-Package: com.TruongTamPhong.Win10Clock
-Architecture: iphoneos-arm
-Version: 1.0.21
-Section: Widget tĩnh
-Maintainer: Trương Tam Phong
-Filename: ./debfiles/com.TruongTamPhong.Win10Clock_1.0.21_iphoneos-arm.deb
-Size: 22406410
-MD5sum: 427270780445d5925c52b1978efec2ef
-SHA1: 6ac2056d9f45ceeb571c2085b37e6c79022d5ec0
-SHA256: 2d9ccdd0bc12b9f0c64be52748f9cd697c2ded29f499dba6c3678e0a24976122
-SHA512: 1cd7f479874c18d0ca9397d2421998dca8b85a41827c718d76b8e435c5860b51940f87d3f129154e456492b86c8a93c48a791e988f3e425e98b37c4fef84f5a0
+Filename: ./debfiles/com.TruongTamPhong.Win10Clock_1.0.22_iphoneos-arm.deb
+Size: 22406438
+MD5sum: d45988c39301023d19cff1f094433b0f
+SHA1: 109d607529587304a55026cb0d4af9fa5561d029
+SHA256: 8593049d41a612ff1e309a6bdf99a93894f9249df945dfd75b40755b21ddc049
+SHA512: 072a133348239b6295f2ea45d4ba1ce23bc62ecf03fa967f240c6091e0e2a65e20f0d39cd5a4b2af10162124d3d2c33e6cf5acf4fdba55ab5f8ec5770cb79cc0
 Description: Tiện ích cho Xen Html.
  - Hoạt động trên Màn hình khoá
  - Các thiết lập tuỳ chỉnh trong cài đặt của nó
