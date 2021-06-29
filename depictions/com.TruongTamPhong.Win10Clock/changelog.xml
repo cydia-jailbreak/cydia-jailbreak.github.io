@@ -1,5 +1,12 @@
 <changelog>
     <changes>
+        <version>1.0.21</version>
+<change>Sửa lỗi một số chỗ</change>
+<change>Hỗ trợ từ iPhone 4 tới iPhone 12 Pro Max</change>
+<change>Thêm hiệu ứng trượt lên xuống cho Music</change>
+<change>Thêm thanh trượt thời gian</change>
+    </changes>
+    <changes>
         <version>1.0.0</version>
 <change>Lần đầu phát hành</change>
     </changes>

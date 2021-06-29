@@ -2580,6 +2580,28 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Win1
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Win10Clock
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.TruongTamPhong.Win10Clock
+Architecture: iphoneos-arm
+Version: 1.0.21
+Section: Widget tĩnh
+Maintainer: Trương Tam Phong
+Filename: ./debfiles/com.TruongTamPhong.Win10Clock_1.0.21_iphoneos-arm.deb
+Size: 22406410
+MD5sum: 427270780445d5925c52b1978efec2ef
+SHA1: 6ac2056d9f45ceeb571c2085b37e6c79022d5ec0
+SHA256: 2d9ccdd0bc12b9f0c64be52748f9cd697c2ded29f499dba6c3678e0a24976122
+SHA512: 1cd7f479874c18d0ca9397d2421998dca8b85a41827c718d76b8e435c5860b51940f87d3f129154e456492b86c8a93c48a791e988f3e425e98b37c4fef84f5a0
+Description: Tiện ích cho Xen Html.
+ - Hoạt động trên Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật sửa lỗi. Thêm hiệu ứng trượt cho ảnh bìa Album. Thêm thanh trượt thời gian. Hỗ trợ thêm cho các dòng máy thấp...
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Win 10 Clock
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Win10Clock
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Win10Clock
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
 Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm
 Version: 2.0.1
