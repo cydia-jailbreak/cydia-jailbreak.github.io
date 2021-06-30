@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Win10Clock</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.22</version>
+	<version>1.0.29</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -16,10 +16,13 @@
 		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
 	</descriptionlist>
 	<changelog>
-<change>Sửa lỗi một số chỗ</change>
-<change>Hỗ trợ từ iPhone 4 tới iPhone 12 Pro Max</change>
-<change>Thêm hiệu ứng trượt lên xuống cho Music</change>
-<change>Thêm thanh trượt thời gian</change>
+<change>Thêm hiệu ứng chuyển bài.</change>
+<change>Thêm chọn thay đổi ảnh bìa Album.</change>
+<change>Tăng tốc độ hiệu ứng.</change>
+<change>Thêm ảnh nền thời tiết.</change>
+<change>Thêm đổi phông chữ.</change>
+<change>Thêm bật tắt các thành phần.</change>
+<change>Thêm đổ bóng dock.</change>
 	</changelog>
 <screenshots>
         <screenshot>

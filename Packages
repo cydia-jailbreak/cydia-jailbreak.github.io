@@ -2561,19 +2561,19 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.Win10Clock
 Architecture: iphoneos-arm
-Version: 1.0.22
+Version: 1.0.29
 Section: Widget tĩnh
 Maintainer: Trương Tam Phong
-Filename: ./debfiles/com.TruongTamPhong.Win10Clock_1.0.22_iphoneos-arm.deb
-Size: 22406438
-MD5sum: d45988c39301023d19cff1f094433b0f
-SHA1: 109d607529587304a55026cb0d4af9fa5561d029
-SHA256: 8593049d41a612ff1e309a6bdf99a93894f9249df945dfd75b40755b21ddc049
-SHA512: 072a133348239b6295f2ea45d4ba1ce23bc62ecf03fa967f240c6091e0e2a65e20f0d39cd5a4b2af10162124d3d2c33e6cf5acf4fdba55ab5f8ec5770cb79cc0
+Filename: ./debfiles/com.TruongTamPhong.Win10Clock_1.0.29_iphoneos-arm.deb
+Size: 40356088
+MD5sum: 5e7bee87df4342c640fa7de882a796b4
+SHA1: ff13379edf946fac30647d77a0c559ee0cc0d420
+SHA256: ebc587758397c76661b7ccfb2bf663353b8e031f4aaaf692aec25531deb87866
+SHA512: 06f67b7b2983f8c9712b31e8c56fc1c008a0c4a5bc496dbb2e5f5c5c1935c147142105d02b79cc3abfc07c0c17cbe3ca2ee2642c77aafd2463c7669854d0f703
 Description: Tiện ích cho Xen Html.
  - Hoạt động trên Màn hình khoá
  - Các thiết lập tuỳ chỉnh trong cài đặt của nó
- + Cập nhật sửa lỗi. Thêm hiệu ứng trượt cho ảnh bìa Album. Thêm thanh trượt thời gian. Hỗ trợ thêm cho các dòng máy thấp...
+ + Cập nhật thêm hiệu ứng chuyển bài. Thêm đổ bóng dock. Thêm đổi phông chữ. Thêm chọn thay đổi ảnh bìa Album. Thêm bật tắt các thành phần. Thêm ảnh nền thời tiết. Tăng tốc độ hiệu ứng....
  - Ủng hộ tôi để phát triển mạnh hơn 👌
 Name: Win 10 Clock
 Author: Trương Tam Phong

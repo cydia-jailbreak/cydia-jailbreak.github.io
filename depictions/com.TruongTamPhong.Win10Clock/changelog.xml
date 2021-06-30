@@ -1,5 +1,15 @@
 <changelog>
     <changes>
+        <version>1.0.29</version>
+<change>Thêm hiệu ứng chuyển bài.</change>
+<change>Thêm chọn thay đổi ảnh bìa Album.</change>
+<change>Tăng tốc độ hiệu ứng.</change>
+<change>Thêm ảnh nền thời tiết.</change>
+<change>Thêm đổi phông chữ.</change>
+<change>Thêm bật tắt các thành phần.</change>
+<change>Thêm đổ bóng dock.</change>
+    </changes>
+    <changes>
         <version>1.0.22</version>
 <change>Sửa lỗi một số chỗ</change>
 <change>Hỗ trợ từ iPhone 4 tới iPhone 12 Pro Max</change>
