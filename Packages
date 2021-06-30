@@ -2561,15 +2561,15 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.Win10Clock
 Architecture: iphoneos-arm
-Version: 1.0.29
+Version: 1.0.30
 Section: Widget tĩnh
 Maintainer: Trương Tam Phong
-Filename: ./debfiles/com.TruongTamPhong.Win10Clock_1.0.29_iphoneos-arm.deb
-Size: 40356088
-MD5sum: 5e7bee87df4342c640fa7de882a796b4
-SHA1: ff13379edf946fac30647d77a0c559ee0cc0d420
-SHA256: ebc587758397c76661b7ccfb2bf663353b8e031f4aaaf692aec25531deb87866
-SHA512: 06f67b7b2983f8c9712b31e8c56fc1c008a0c4a5bc496dbb2e5f5c5c1935c147142105d02b79cc3abfc07c0c17cbe3ca2ee2642c77aafd2463c7669854d0f703
+Filename: ./debfiles/com.TruongTamPhong.Win10Clock_1.0.30_iphoneos-arm.deb
+Size: 40356098
+MD5sum: 9444903ccbdd6cbb977133864e594cb2
+SHA1: a961e692097aeda06567cbd46a5d9721944e2110
+SHA256: 107f6758562251a0763ed6214168fa685e1d4f6858dd489bfcc4f2ecd1e9ca04
+SHA512: c89f985f2e6bca8cc15cf161291b84a32eccd27037e0089aae5dee2d0e8f1a6ac12bb3ee9ee9d7cd2f2c644df22be0584aa35419d668a3d834ecfc4b75b37473
 Description: Tiện ích cho Xen Html.
  - Hoạt động trên Màn hình khoá
  - Các thiết lập tuỳ chỉnh trong cài đặt của nó
