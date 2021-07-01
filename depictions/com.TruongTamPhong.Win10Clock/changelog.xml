@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>1.0.33</version>
+<change>Sửa lỗi và thay đổi kiểu pin sóng</change>
+    </changes>
+    <changes>
         <version>1.0.30</version>
 <change>Thêm hiệu ứng chuyển bài.</change>
 <change>Thêm chọn thay đổi ảnh bìa Album.</change>

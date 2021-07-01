@@ -1,7 +1,7 @@
 <package>
 	<id>com.TruongTamPhong.Win10Clock</id>
 	<name>Trương Tam Phong</name>
-	<version>1.0.30</version>
+	<version>1.0.33</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -16,13 +16,7 @@
 		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
 	</descriptionlist>
 	<changelog>
-<change>Thêm hiệu ứng chuyển bài.</change>
-<change>Thêm chọn thay đổi ảnh bìa Album.</change>
-<change>Tăng tốc độ hiệu ứng.</change>
-<change>Thêm ảnh nền thời tiết.</change>
-<change>Thêm đổi phông chữ.</change>
-<change>Thêm bật tắt các thành phần.</change>
-<change>Thêm đổ bóng dock.</change>
+<change>Sửa lỗi và thay đổi kiểu pin sóng.</change>
 	</changelog>
 <screenshots>
         <screenshot>
