@@ -1840,6 +1840,24 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Semi
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.SemiRestore
 Icon: file:///Applications/Cydia.app/Sections/Utilities1.png
 
+Package: com.TruongTamPhong.SemiRestore
+Architecture: iphoneos-arm
+Version: 1.1.6
+Section: Utilities
+Depends: mobilesubstrate
+Filename: ./debfiles/com.TruongTamPhong.SemiRestore_1.1.6_iphoneos-arm.deb
+Size: 54394
+MD5sum: c92865e595574d3dfb4fd1600dca83d4
+SHA1: 6e303c9e0af0ebb68ee45e75978701fecd70408b
+SHA256: 5bf2ab8d02c9b45ae664822b55a5a13f7935f1f7ba803f65a64262f4a011ddda
+SHA512: 31854ecf5f441779eacd7550b3f77aaf89471b4f8069bc7163f7dc4dac7b32283833357f8c85cd2289a6301237093afbb928b0c60486a2b0349a23eead370ecb
+Description: Công cụ gỡ jailbreak sạch 100% cho iOS 11.3 đến 14.7
+Name: SemiRestore 11-14
+Author: Pwn20wnd
+Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.SemiRestore
+SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.SemiRestore
+Icon: file:///Applications/Cydia.app/Sections/Utilities1.png
+
 Package: com.TruongTamPhong.ShWidgetGold
 Architecture: iphoneos-arm
 Version: 1.2.2
