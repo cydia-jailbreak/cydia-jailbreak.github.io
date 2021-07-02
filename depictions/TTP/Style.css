@@ -1,12 +1,13 @@
 body {
-  background-color: #000!important;
+  background-color: #444!important;
   text-align: center;
   width: inital!important;
   min-height: 100%;
+  text-shadow: 0 1px 1px rgba(0,0,0, 0.3);
 }
 
 body main {
-  background-color: #000;
+  background-color: #444;
   overflow: inherit;
   padding-left: 20px;
   padding-right: 20px;
@@ -16,8 +17,18 @@ body main {
   justify-items: flex-start;
   -webkit-box-align: start;
   align-items: flex-start;
+  border-radius: 20px;
+  box-shadow:
+  -2.3px -2.3px 3.8px rgba(255,255,255, 0.01),
+  -6.3px -6.3px 8.6px rgba(255,255,255, 0.03),
+  -15.1px -15.1px 20.6px rgba(255,255,255, 0.04),
+  -25px -25px 40px rgba(255,255,255, 0.01),
+  2.3px 2.3px 3.8px rgba(0, 0, 0, 0.1),
+  6.3px 6.3px 10.6px rgba(0, 0, 0, 0.2),
+  15.1px 15.1px 25.6px rgba(0, 0, 0, 0.3),
+  50px 50px 85px rgba(0, 0, 0, 0.05);
   align-content: baseline;
-  width: 100%;
+  width: 93%;
 }
 
 body main,body panel panel-header {
@@ -43,8 +54,8 @@ body panel panel-header label {
 }
 
 body panel panel-body {
-  color: #fff;
-  background: #000;
+  color: #ddd;
+  background: #444;
   box-shadow: none;
   border-radius: 0;
   width: auto;
@@ -58,7 +69,7 @@ body panel panel-body>table>tbody tr {
 }
 
 body panel panel-body>ul.review-list {
-  color: #fff;
+  color: #ddd;
   margin-top: 3px;
   padding-right: 0;
   margin-right: 0!important;
@@ -119,7 +130,7 @@ body panel.modern {
 
 .information>tbody>tr>td:first-child {
   font-size: 11px;
-  color: #fff;
+  color: #ddd;
   font-weight: 600;
   text-transform: uppercase;
   margin: 0;
@@ -128,7 +139,7 @@ body panel.modern {
 .information>tbody>tr>td:nth-child(2) {
   text-align: left;
   font-size: 16px;
-  color: #fff;
+  color: #ddd;
   font-weight: 600;
   padding-top: 0;
   padding-bottom: 0;
@@ -148,7 +159,7 @@ header {
 
 header #btn-login {
   padding: .325rem .75rem;
-  border: 1px solid #000;
+  border: 1px solid #fff;
   border-radius: 1rem;
   -webkit-filter: brightness(5000%);
   filter: brightness(5000%);
@@ -176,7 +187,7 @@ header>div {
 }
 
 header .nav-label {
-  color: #000;
+  color: #fff;
 }
 
 .navbar-brand img {
