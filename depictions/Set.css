@@ -1,0 +1,230 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: 0 0;
+  background-color: none!important;
+  text-align: center;
+  min-height: 100%;
+  text-shadow: 0 1px 1px rgba(0,0,0, 0.3);
+  width: 100%;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility!important;
+  -webkit-font-smoothing: antialiased!important;
+  -webkit-text-size-adjust: none;
+  -webkit-touch-callout: none;
+  -webkit-user-select: text;
+  -webkit-tap-highlight-color: transparent;
+  text-align: center;
+  font-family: system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,BlinkMacSystemFont,-apple-system-font,Helvetica Neue;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+body panel panel-header {
+  display: block;
+  text-align: left;
+  font-size: 24px;
+  font-display: auto;
+  margin: 12px 12px 13px;
+  padding: 8px 16px 0 14px;
+  color: #fff;
+}
+
+body panel panel-body {
+  margin-left: 14px;
+  margin-right: 14px;
+  background-color: #383838;
+  text-align: left;
+  border-radius: 15px;
+  overflow: hidden;
+  display: block;
+  padding: 15px 20px;
+  box-shadow: 2px 2px 40px -12px #999;
+  font-size: 15px;
+  color: #fff;
+}
+
+ol,ul {
+  padding: 8px 18px;
+}
+
+body,main {
+  background-color: #383838;
+}
+
+body main {
+  background-color: #383838;
+  overflow: inherit;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  margin: auto;
+  flex-wrap: wrap;
+  justify-items: flex-start;
+  -webkit-box-align: start;
+  align-items: flex-start;
+  align-content: baseline;
+  //width: 93%;
+}
+
+body panel panel-header {
+  font-size: 22px;
+  padding-left: 8;
+  padding-right: 0;
+  -webkit-box-align: end;
+  align-items: flex-end;
+  margin: 1;
+}
+
+body panel panel-body {
+  color: #ddd;
+  background: #383838;
+  border-radius: 50;
+  width: auto;
+  margin: 0;
+  display: inline-block;
+  padding-top: 20px;
+  box-shadow:
+  2.3px 2.3px 3.8px rgba(0, 0, 0, 0.1),
+  6.3px 6.3px 10.6px rgba(0, 0, 0, 0.2),
+  15.1px 15.1px 25.6px rgba(0, 0, 0, 0.3),
+  50px 50px 85px rgba(0, 0, 0, 0.05),
+  -2.3px -2.3px 3.8px rgba(255,255,255, 0.01),
+  -6.3px -6.3px 8.6px rgba(255,255,255, 0.03),
+  -15.1px -15.1px 20.6px rgba(255,255,255, 0.04),
+  -25px -25px 40px rgba(255,255,255, 0.01);
+}
+
+body panel.modern {
+  background: 0 0;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-direction: column;
+  margin-bottom: 12px;
+  width: 100%;
+}
+
+.information>tbody {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: end;
+  justify-content: end;
+  -webkit-box-orient: unset;
+  -webkit-box-direction: unset;
+  flex-direction: unset;
+  flex-wrap: wrap;
+  -webkit-box-align: baseline;
+  align-items: baseline;
+}
+
+.information>tbody>tr {
+  width: 45%;
+  max-width: 50%;
+  display: inline-block;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-direction: column;
+  -webkit-box-pack: end;
+  justify-content: end;
+  border: none;
+  padding: 5px;
+  text-align: center;
+  height: 100%;
+  -webkit-box-align: start;
+  align-items: flex-start;
+  flex-shrink: 2;
+  flex-basis: fill;
+}
+
+.information>tbody>tr>td:first-child {
+  font-size: 11px;
+  color: #999;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.information>tbody>tr>td:nth-child(2) {
+  text-align: left;
+  font-size: 16px;
+  color: #ddd;
+  font-weight: 600;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin: .425rem 0 .625rem;
+}
+
+.screenshot-viewer a {
+  display: block;
+  width: auto;
+  height: 275px;
+}
+
+.screenshot-viewer img {
+  height: 100%;
+  width: auto;
+  border-radius: 5px;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.screenshot-viewer {
+  overflow-y: hidden;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-brand div {
+  color: #282828!important;
+  font-size: 1rem;
+}
+
+.cydia-body main {
+  padding-top: .75rem!important;
+}
+
+.cydia-body .cydia-hide,.cydia-body header {
+  display: none!important;
+}
+
+.package-description .sileo-show,.sileo-show {
+  display: none;
+}
+
+.sileo-body main {
+  padding-top: .75rem!important;
+}
+
+.sileo-body .sileo-hide,.sileo-body header {
+  display: none!important;
+}
+
+.sileo-body .sileo-show {
+  display: inherit;
+}
+
+.changes-panel ul li {
+  margin-bottom: .35rem;
+  line-height: 1.15;
+  font-weight: 500;
+  padding-left: .25rem;
+}
+
+.changes-panel ul li:last-child {
+  margin-bottom: 0;
+}
+
+.changes-panel ul li .change-content {
+  font-weight: 500;
+  line-height: 1.35;
+  padding-left: .125rem;
+}
