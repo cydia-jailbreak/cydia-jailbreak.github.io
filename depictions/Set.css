@@ -19,7 +19,7 @@ body {
   -webkit-user-select: text;
   -webkit-tap-highlight-color: transparent;
   text-align: center;
-  font-family: system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,BlinkMacSystemFont,-apple-system-font,Helvetica Neue;
+  font-family: Futura;
   font-weight: 500;
   font-size: 15px;
 }
@@ -68,7 +68,7 @@ body main {
   -webkit-box-align: start;
   align-items: flex-start;
   align-content: baseline;
-  //width: 93%;
+  width: 93%;
 }
 
 body panel panel-header {
@@ -227,4 +227,9 @@ body panel.modern {
   font-weight: 500;
   line-height: 1.35;
   padding-left: .125rem;
+}
+
+@font-face{
+  font-family: 'Futura';
+  src: url(Futura.ttf);
 }
