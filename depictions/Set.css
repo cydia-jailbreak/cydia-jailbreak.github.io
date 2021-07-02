@@ -171,9 +171,9 @@ body panel.modern {
 .screenshot-viewer img {
   height: 100%;
   width: auto;
-  border-radius: 5px;
   overflow: hidden;
   display: inline-block;
+  border-radius: 15px;
 }
 
 .screenshot-viewer {
@@ -183,50 +183,44 @@ body panel.modern {
   padding: 0;
 }
 
-.navbar-brand div {
-  color: #282828!important;
-  font-size: 1rem;
+.screenshot-viewer {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  width: auto;
+  min-width: 100%;
+  white-space: nowrap;
+  margin-left: -6px;
+  margin-right: -6px;
+  padding-left: 6px;
+  padding-right: 6px;
+  list-style: none;
+  margin-top: 15px;
+  -ms-overflow-style: none;
 }
 
-.cydia-body main {
-  padding-top: .75rem!important;
+.screenshot-viewer>li {
+  padding: 0;
+  display: inline-block;
+  vertical-align: bottom;
+  font-size: 13px;
+  margin: 0 6px;
 }
 
-.cydia-body .cydia-hide,.cydia-body header {
-  display: none!important;
+.screenshot-viewer>li:first-child {
+  margin-left: 0;
 }
 
-.package-description .sileo-show,.sileo-show {
-  display: none;
+.screenshot-viewer>li:last-child {
+  margin-right: 0;
 }
 
-.sileo-body main {
-  padding-top: .75rem!important;
-}
-
-.sileo-body .sileo-hide,.sileo-body header {
-  display: none!important;
-}
-
-.sileo-body .sileo-show {
-  display: inherit;
-}
-
-.changes-panel ul li {
-  margin-bottom: .35rem;
-  line-height: 1.15;
-  font-weight: 500;
-  padding-left: .25rem;
-}
-
-.changes-panel ul li:last-child {
-  margin-bottom: 0;
-}
-
-.changes-panel ul li .change-content {
-  font-weight: 500;
-  line-height: 1.35;
-  padding-left: .125rem;
+.screenshot-viewer>li img {
+  margin: 0;
+  position: relative;
+  z-index: 1;
+  width: auto;
+  border-radius: 6px!important;
+  overflow: hidden;
 }
 
 @font-face{
