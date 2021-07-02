@@ -5,18 +5,6 @@ html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:1
 
 .alert-danger{
   color:#fff;
-  background-color:#525360;
-  right: -7%;
-  box-shadow:
-  -2.3px -2.3px 3.8px rgba(255,255,255, 0.01),
-  -6.3px -6.3px 8.6px rgba(255,255,255, 0.03),
-  -15.1px -15.1px 20.6px rgba(255,255,255, 0.04),
-  -25px -25px 40px rgba(255,255,255, 0.01),
-  2.3px 2.3px 3.8px rgba(0, 0, 0, 0.1),
-  6.3px 6.3px 10.6px rgba(0, 0, 0, 0.2),
-  15.1px 15.1px 25.6px rgba(0, 0, 0, 0.3),
-  50px 50px 85px rgba(0, 0, 0, 0.05);
-  border-color: none;
 }
 
 

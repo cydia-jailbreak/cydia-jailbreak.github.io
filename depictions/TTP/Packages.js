@@ -99,7 +99,7 @@ $(document).ready(function () {
             if (supported) {
                 result += "Phiên bản hiện tại <tp>(" + currentVersion + ") <strong>đã tương thích</strong> &#x1F60D;";
                 // $(".version-check").css("color", "#ff00ff");
-                $(".panel-body.version-check").css("background-color", "#009999");
+                $(".panel-body.version-check").css("background-color", "#383838");
             } else{
                 result += "Phiên bản hiện tại <strong>không hỗ trợ</strong>&#x2620;";
                 result += (typeof currentVersion != 'undefined') ? " <ttp>(" + currentVersion + ")" : "";

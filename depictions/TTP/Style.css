@@ -1,5 +1,5 @@
 body {
-  background-color: #444!important;
+  background-color: #383838!important;
   text-align: center;
   width: inital!important;
   min-height: 100%;
@@ -7,7 +7,7 @@ body {
 }
 
 body main {
-  background-color: #444;
+  background-color: #383838;
   overflow: inherit;
   padding-left: 20px;
   padding-right: 20px;
@@ -54,7 +54,7 @@ body panel panel-header label {
 
 body panel panel-body {
   color: #ddd;
-  background: #444;
+  background: #383838;
   box-shadow: none;
   border-radius: 0;
   width: auto;
