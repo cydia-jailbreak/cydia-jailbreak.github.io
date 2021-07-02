@@ -1,0 +1,27 @@
+<changelog>
+    <changes>
+        <version>1.0.34</version>
+<change>Sửa lỗi và thay đổi kiểu pin sóng</change>
+    </changes>
+    <changes>
+        <version>1.0.30</version>
+<change>Thêm hiệu ứng chuyển bài.</change>
+<change>Thêm chọn thay đổi ảnh bìa Album.</change>
+<change>Tăng tốc độ hiệu ứng.</change>
+<change>Thêm ảnh nền thời tiết.</change>
+<change>Thêm đổi phông chữ.</change>
+<change>Thêm bật tắt các thành phần.</change>
+<change>Thêm đổ bóng dock.</change>
+    </changes>
+    <changes>
+        <version>1.0.22</version>
+<change>Sửa lỗi một số chỗ</change>
+<change>Hỗ trợ từ iPhone 4 tới iPhone 12 Pro Max</change>
+<change>Thêm hiệu ứng trượt lên xuống cho Music</change>
+<change>Thêm thanh trượt thời gian</change>
+    </changes>
+    <changes>
+        <version>1.0.0</version>
+<change>Lần đầu phát hành</change>
+    </changes>
+</changelog>

@@ -2579,37 +2579,15 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks1.png
 
 Package: com.TruongTamPhong.Win10Clock
 Architecture: iphoneos-arm
-Version: 1.0.30
+Version: 1.0.35
 Section: Widget tĩnh
 Maintainer: Trương Tam Phong
-Filename: ./debfiles/com.TruongTamPhong.Win10Clock_1.0.30_iphoneos-arm.deb
-Size: 40356098
-MD5sum: 9444903ccbdd6cbb977133864e594cb2
-SHA1: a961e692097aeda06567cbd46a5d9721944e2110
-SHA256: 107f6758562251a0763ed6214168fa685e1d4f6858dd489bfcc4f2ecd1e9ca04
-SHA512: c89f985f2e6bca8cc15cf161291b84a32eccd27037e0089aae5dee2d0e8f1a6ac12bb3ee9ee9d7cd2f2c644df22be0584aa35419d668a3d834ecfc4b75b37473
-Description: Tiện ích cho Xen Html.
- - Hoạt động trên Màn hình khoá
- - Các thiết lập tuỳ chỉnh trong cài đặt của nó
- + Cập nhật thêm hiệu ứng chuyển bài. Thêm đổ bóng dock. Thêm đổi phông chữ. Thêm chọn thay đổi ảnh bìa Album. Thêm bật tắt các thành phần. Thêm ảnh nền thời tiết. Tăng tốc độ hiệu ứng....
- - Ủng hộ tôi để phát triển mạnh hơn 👌
-Name: Win 10 Clock
-Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Win10Clock
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Win10Clock
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
-
-Package: com.TruongTamPhong.Win10Clock
-Architecture: iphoneos-arm
-Version: 1.0.34
-Section: Widget tĩnh
-Maintainer: Trương Tam Phong
-Filename: ./debfiles/com.TruongTamPhong.Win10Clock_1.0.34_iphoneos-arm.deb
-Size: 39092488
-MD5sum: b050d75b300bf9f84695414581125bd8
-SHA1: 2aed72236f9f8eab047c33a8a5057367fb7da5ad
-SHA256: d9ed34a3e96a76714a96a4f6180851e21a91e4897a322eacbf9343a3319c03fc
-SHA512: b06cb648c9236db0856b824f741bad4a3f8af0213976802a14c5f6373b7a6ea60aa6ee644ee5310d403a7b43831b28ec3f8098989a6122daeb800d0ec5e68404
+Filename: ./debfiles/com.TruongTamPhong.Win10Clock_1.0.35_iphoneos-arm.deb
+Size: 39430630
+MD5sum: 8554e519bcb9b17759c08cd76290942b
+SHA1: 8761f37ac01de245ae2689cf629f7446f9fbd25f
+SHA256: c618b9e3eaf7ef8af4dd9fb231b336c2bcf0c430a20283d8c9a2f65806f0f894
+SHA512: f58c4508766842f2a54ead5fc20441f0bd11ece118ef9d181bf60586762b8856c95749f02da029cb9930ccce0209d17964bb94edbdda3af2cce66ab0a927d71e
 Description: Tiện ích cho Xen Html.
  - Hoạt động trên Màn hình khoá
  - Các thiết lập tuỳ chỉnh trong cài đặt của nó
@@ -2617,8 +2595,8 @@ Description: Tiện ích cho Xen Html.
  - Ủng hộ tôi để phát triển mạnh hơn 👌
 Name: Win 10 Clock
 Author: Trương Tam Phong
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Win10Clock
-SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Win10Clock
+Depiction: http://cydia-jailbreak.github.io/depictions/Win10Clock/?p=info
+SileoDepiction: http://cydia-jailbreak.github.io/depictions/Win10Clock/?p=info
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.matchstic.xenhtml

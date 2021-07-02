@@ -1,0 +1,28 @@
+<package>
+	<id>com.TruongTamPhong.Win10Clock</id>
+	<name>Trương Tam Phong</name>
+	<version>1.0.34</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+                         <maxiOS>15</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Tiện ích hiển thị nhạc, đồng hồ, pin, sóng di động, sóng wifi, lịch, và thời tiết</description>
+		<description>Hoạt động trên Màn hình Khoá</description>
+		<description>Yêu cầu cài Xen HTML để sử dụng tiện ích này</description>
+	</descriptionlist>
+	<changelog>
+<change>Sửa lỗi và thay đổi kiểu pin sóng.</change>
+	</changelog>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>Win10Clock.png</image>
+        </screenshot>	
+    </screenshots>
+	<links></links>
+</package>
