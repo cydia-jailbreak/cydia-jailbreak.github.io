@@ -49,13 +49,17 @@ in{
 
 body panel panel-body{
   color: white;
-  display: block;
+  display: inline-block;
   text-align: left;
   font-size: 15px;
   overflow: hidden;
   margin-left: 14px;
   margin-right: 14px;
-  padding: 15px 20px;
+  padding: 5px 0;
+  box-shadow: none;
+  border-radius: 0;
+  width: auto;
+  margin: 0;
 }
 
 ol, ul{
