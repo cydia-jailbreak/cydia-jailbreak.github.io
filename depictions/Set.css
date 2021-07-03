@@ -34,15 +34,11 @@ body panel panel-body{
   margin-right: 14px;
   padding: 15px 20px;
   border-radius: 10px;
-  background-color: #fff;
+  //background-color: #fff;
 }
 
 ol, ul{
   padding: 8px 18px;
-}
-
-body, main{
-  background-color: #fff;
 }
 
 body main{
@@ -67,15 +63,15 @@ body panel panel-body{
   width: auto;
   color: #000;
   padding-top: 20px;
-  background: #fff;
-  box-shadow: inset 0 0 7px rgba(0,0,0, 0), 0 0px 2px rgba(0,0,0, 0.5);
+  //background: #fff;
+  //box-shadow: inset 0 0 7px rgba(0,0,0, 0), 0 0px 2px rgba(0,0,0, 0.5);
 }
 
 body panel.modern{
   display: flex;
   border-radius: 10px;
   margin-bottom: 0px;
-  //flex-direction: column;
+  flex-direction: column;
   background: #0099CC;
   Abox-shadow:
   2.3px 2.3px 3.8px rgba(0, 0, 0, 0.1),
