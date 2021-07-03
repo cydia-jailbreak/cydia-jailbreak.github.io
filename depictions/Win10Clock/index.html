@@ -1,60 +1,44 @@
-<html><head>
-<title>Author Trương Tam Phong</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0"/>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<link rel="stylesheet" href="Scripts/Css/Style.css" type="text/css" media="screen"/>
-<script type="text/javascript" charset="utf-8" src="Scripts/Js/Clock.js"></script>
-<script type="text/javascript" charset="utf-8" src="Scripts/Js/Lang.js"></script>
-</head>
-<body onload="TP(); TTP();">
-<div id="Bar">
-<ul class="RightSection">
-<li id="WifiSignal" style="display: block;">
-<span class="ItemText RightText Semibold" id="WifiSSID"></span>
-<div id="ItemIcon">
-<div class="WifiIcon"></div></div></li>
-<li id="CellularSignal" style="display: none;">
-<span class="ItemText RightText Semibold" id="CellularType">5G</span>
-<div id="ItemIcon">
-<div class="CellularIcon"></div></div></li>
-<li><span class="ItemText Semibold" id="Percent">100%</span>
-<div id="ItemIcon">
-<div class="BatteryIcon"></div></div></li></ul></div>
+<html><meta charset="utf-8"><meta content='width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=0' name='viewport'/><main class="flex-grow flex-no-shrink"><link rel="stylesheet" href="../Set.css"><panel class="modern"><panel-body style="font-size: 14px; font-style: none;"><div class="package-header"><div style="justify-items: stretch;"><div class="labels cydia-hide sileo-hide"></div></div><div class="package-description"><panel class="modern"><panel-body><div style="font-size: 18px; color: #fff; font-style: italic; text-decoration: underline;" class="name">Mô tả & Giới thiệu</div><div class="identifier">Đọc kĩ trước khi cài</div><br>
+<li><span style="background-color:#bb0000">
+Tiện ích này dành cho Xen HTML
+<br><br><li><span style="background-color:#0055dd">
+Yêu cầu cài Xen HTML để sử dụng
+<br><br> <li>
+Hoạt động trên Màn hình khoá
+<br><br><li>
+Nội dung hiển thị bao gồm: Đồng hồ. Lịch. Thời tiết. Trình phát nhạc. Pin và sóng.
+</span></li></p></div>
+<ul class="screenshot-viewer" style="margin-top:1.25rem;"><li>
 
-<div id="Bg"></div>
-<img id="WeatherCover" src="Scripts/Js/Blank.js"/></img>
-<div id="MuOverlay"></div>
-<img id="WeatherIcon" src="Scripts/Js/Blank.js"/></img>
-<div id="AlCont">
-<img id="AlBg" src="Scripts/Js/Blank.js"/></img>
-<img id="Album" src="Scripts/Js/Blank.js"></div></div>
-<div id="InfoBg"></div>
-<div id="InfoCont">
-<div class="Scrobble-section"><progress id="Playback-time"></progress>
-<div class="Scrobble-times"><p id="Elapsed"></p><p id="Length"></p></div>
-<div class="Slider-wrapper scrobble-slider-container">
-<input type="range" min="0" id="Scrobble-slider" oninput="onScrobbleUIChanged(this.value)" onchange="onScrobbleChanged(this.value)"/></div></div></div>
-<input type="range" min="0" max="100" value="0" id="Volume-slider" oninput="onVolumeChanged(this.value)" onchange="onVolumeChanged(this.value)"/></div></div>
-<table style="border:none;">
-<div id="Title">♫ Music ♫</div>
-<div id="Artist" class="open" src="Scripts/Js/Mus.js"></div>
-<tr id="Controls" style="border:none;">
-<td id="Prev" class="zeek zeek-buttonprev" onclick="prev()" ></td>
-<td id="PlayPause" class="zeek zeek-buttonplay" onclick="playPause()"></td>
-<td id="Next" class="zeek zeek-buttonnext" onclick="next()"></td></tr></table></div></div></div>
-<div id="Time"></div>
-<div id="Cal"></div>
-<div id="City">Đang tìm...</div>
-<div id="Condition">Đang tìm vị trí...</div>
-<script type="text/javascript">
-clock({twentyfour : false, padzero : false, refresh : 1000, success: function(clock){
-document.getElementById('Time').innerHTML = clock.hour() + ':' + clock.minute();
-document.getElementById('Cal').innerHTML = days[clock.day()] + ', ' + ' ' + clock.datepadded() + ' ' + months[clock.month()];}});
-</script>
-<script type="text/javascript" charset="utf-8" src="Scripts/Js/Battery.js"></script>
-<script type="text/javascript" charset="utf-8" src="Scripts/Js/Jquery.js"></script>
-<script type="text/javascript" charset="utf-8" src="Scripts/Js/Main.js"></script>
-<script type="text/javascript" charset="utf-8" src="Scripts/Js/Net.js"></script>
-<script type="text/javascript" charset="utf-8" src="Scripts/Js/Set.js"></script>
-<script type="text/javascript" charset="utf-8" src="Scripts/Js/Xen.js"></script>
-</body></html>
+<a target="_blank" href="Screenshots/1.JPG?size=full">
+<img src="Screenshots/1.JPG?size=medium"/></a></li>
+
+<li><a target="_blank" href="Screenshots/2.JPG?size=full">
+<img src="Screenshots/2.JPG?size=medium" /></a></li>
+
+</ul></panel-body></panel><br><panel class="modern"><panel-header><lable>
+<div style="font-size: 18px; font-style: italic; text-decoration: underline;" class="name">Nội dung cập nhật</div>
+</lable></panel-header><panel-body style="margin-top: 6px;"><ul><li><span class="change-content">
+Sửa lỗi tên bài hát chạy trên nóc
+
+<br><br> <li>
+Thêm tuỳ chọn Pin và sóng
+
+<br><br> <li>
+Thêm phông chữ
+
+</span></li></ul>
+</panel-body></panel> <panel class="modern info-panel"><panel-header><div style="font-size: 18px; font-style: italic; text-decoration: underline;" class="name">Thông tin</div></panel-header><panel-body><table class="information"><tr><td>Phiên bản</td><td>
+1.0.35
+
+</td></tr><tr><td>Ngày tải lên</td><td>
+02/07/2021
+
+</td></tr><tr><td>Dung lượng</td><td>
+39.1MB
+
+</td></tr><tr><td>Hỗ trợ IOS</td><td>
+10.0 - 14.7
+
+</td></tr></table> </panel-body></panel>
+<p style="text-align: center;"> <img src="https://cydia-jailbreak.github.io/Icons/Avatar.png?size=small" /> </strong></p><h2><p style="text-align: center; font-size: 16px;"><strong>Copyright © 2021 by Trương Tam Phong</strong></p></body></html>
