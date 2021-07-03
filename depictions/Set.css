@@ -3,13 +3,39 @@ body{
   padding: 0;
   line-height: 1.6;
   font-family: Fu;
-  -webkit-tap-highlight-color: #0005;
   text-shadow: 0 1px 1px rgba(0,0,0, 0.5);
 }
 
 body ttp{
   font-size: 25px;
   text-decoration: underline;
+}
+
+red{
+  border-radius: 4px;
+  background: #bb0000;
+}
+
+blue{
+  border-radius: 4px;
+  background: #0055dd;
+}
+
+ava{
+  text-align: center;
+  filter: drop-shadow(0px 2px 4px #0008);
+}
+
+c{
+  text-align: center; font-size: 16px;
+}
+
+gc{
+  text-decoration: underline;
+}
+
+in{
+  font-style: italic;
 }
 
 body panel panel-body{
@@ -119,6 +145,7 @@ body panel.modern{
   overflow: hidden;
   border-radius: 15px;
   display: inline-block;
+  -webkit-box-reflect: below 0.3em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(40%, transparent), to(rgba(255,255,255, 0.5)));
 }
 
 .screenshot-viewer{
@@ -130,11 +157,12 @@ body panel.modern{
 
 .screenshot-viewer{
   width: auto;
+  height: 50%;
   list-style: none;
   overflow-x: auto;
   margin-top: 0px;
-  padding-left: 6px;
-  padding-right: 6px;
+  padding-left: 0px;
+  padding-right: 0px;
   min-width: 100%;
   margin-left: -6px;
   margin-right: -6px;
@@ -160,11 +188,11 @@ body panel.modern{
 }
 
 .screenshot-viewer>li img{
-  position: relative;
   margin: 0;
   width: auto;
   overflow: hidden;
-  border-radius: 12px!important;
+  border: 2px solid #e7ca96;
+  border-radius: 16px!important;
   box-shadow: 0px 2px 4px rgba(0,0,0, 0.6);
   z-index: 1;
 }
