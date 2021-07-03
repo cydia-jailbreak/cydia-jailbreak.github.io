@@ -12,7 +12,6 @@ body{
   background-color: none!important;
   -webkit-tap-highlight-color: #0005;
   text-rendering: optimizeLegibility!important;
-  text-shadow: rgba(0,0,0, 0.3) 0px 1px 0px;
 }
 
 body panel panel-header{
@@ -20,7 +19,6 @@ body panel panel-header{
   display: block;
   text-align: left;
   font-size: 18px;
-  font-style: italic;
   font-display: auto;
   margin: 12px 12px 13px;
   padding: 8px 16px 0 14px;
@@ -36,7 +34,7 @@ body panel panel-body{
   margin-right: 14px;
   padding: 15px 20px;
   border-radius: 10px;
-  background-color: #282828;
+  background-color: #fff;
 }
 
 ol, ul{
@@ -44,11 +42,10 @@ ol, ul{
 }
 
 body, main{
-  background-color: #bbb;
+  background-color: #fff;
 }
 
 body main{
-  width: 100%;
   margin: auto;
   flex-wrap: wrap;
   overflow: inherit;
@@ -76,12 +73,11 @@ body panel panel-body{
 
 body panel.modern{
   display: flex;
-  width: 100%;
-  background: #0099CC;
+  border-radius: 10px;
   margin-bottom: 0px;
   flex-direction: column;
-  border-radius: 15px;
-  abox-shadow:
+  background: #0099CC;
+  Abox-shadow:
   2.3px 2.3px 3.8px rgba(0, 0, 0, 0.1),
   6.3px 6.3px 10.6px rgba(0, 0, 0, 0.2),
   15.1px 15.1px 25.6px rgba(0, 0, 0, 0.3),
@@ -102,7 +98,6 @@ body panel.modern{
   -webkit-box-orient: unset;
   -webkit-box-direction: unset;
   -webkit-box-align: baseline;
-  text-shadow: rgba(255,255,255, 1) 0px 2px 0px;
 }
 
 .information>tbody>tr{
@@ -126,7 +121,7 @@ body panel.modern{
 
 .information>tbody>tr>td:first-child{
   margin: 0;
-  color: #fff;
+  color: #666;
   font-size: 11px;
   font-weight: 600;
   text-transform: uppercase;
