@@ -1,28 +1,10 @@
 body {
-
-margin: 0;
-  padding: 0;
-  
-  line-height: 1.6;
-  font-size: 15px;
-  //font-family: Fu;
-  font-weight: 500;
-  text-align: left;
-  min-height: 100%;
-  vertical-align: baseline;
-  
-  -webkit-tap-highlight-color: #0005;
-  text-rendering: optimizeLegibility!important;
-
-
-
   background-color: #0099CC!important;
-  
+  text-align: center;
   width: inital!important;
   min-height: 100%;
 }
-
-ttp{
+body ttp{
   font-size: 25px;
   text-decoration: underline;
 }
