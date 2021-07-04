@@ -642,6 +642,7 @@ a.sub-header {
   border-radius: 5px;
   overflow: hidden;
   display: inline-block;
+  -webkit-box-reflect: below 0.3em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(40%, transparent), to(rgba(255,255,255, 0.5)));
 }
 
 .screenshot-viewer {

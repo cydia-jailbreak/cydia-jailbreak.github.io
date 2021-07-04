@@ -1204,45 +1204,73 @@ panel a {
   max-width: 100%;
 }
 
-.screenshot-viewer {
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
+
+
+.screenshot-viewer a{
   width: auto;
+  height: 275px;
+  display: block;
+}
+
+.screenshot-viewer img{
+  width: auto;
+  height: 98%;
+  overflow: hidden;
+  border-radius: 15px;
+  display: inline-block;
+  -webkit-box-reflect: below 0.3em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(40%, transparent), to(rgba(255,255,255, 0.5)));
+}
+
+.screenshot-viewer{
+  margin: 0;
+  padding: 0;
+  display: block;
+  overflow-y: hidden;
+}
+
+.screenshot-viewer{
+  width: auto;
+  height: 50%;
+  list-style: none;
+  overflow-x: auto;
+  margin-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
   min-width: 100%;
-  white-space: nowrap;
   margin-left: -6px;
   margin-right: -6px;
-  padding-left: 6px;
-  padding-right: 6px;
-  list-style: none;
-  margin-top: 15px;
+  white-space: nowrap;
   -ms-overflow-style: none;
+  -webkit-overflow-scrolling: touch;
 }
 
-.screenshot-viewer>li {
+.screenshot-viewer>li{
   padding: 0;
+  margin: 0 6px;
+  font-size: 13px;
   display: inline-block;
   vertical-align: bottom;
-  font-size: 13px;
-  margin: 0 6px;
 }
 
-.screenshot-viewer>li:first-child {
+.screenshot-viewer>li:first-child{
   margin-left: 0;
 }
 
-.screenshot-viewer>li:last-child {
+.screenshot-viewer>li:last-child{
   margin-right: 0;
 }
 
-.screenshot-viewer>li img {
+.screenshot-viewer>li img{
   margin: 0;
-  position: relative;
-  z-index: 1;
   width: auto;
-  border-radius: 6px!important;
   overflow: hidden;
+  border: 2px solid #e7ca96;
+  border-radius: 16px!important;
+  box-shadow: 0px 2px 4px rgba(0,0,0, 0.6);
+  z-index: 1;
 }
+
+
 
 .changes-more {
   text-align: center;
