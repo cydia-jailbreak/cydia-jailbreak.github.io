@@ -1,12 +1,12 @@
 body {
-  background-color: #000!important;
+  background-color: #0099CC!important;
   text-align: center;
   width: inital!important;
   min-height: 100%;
 }
 
 body main {
-  background-color: #000;
+  background-color: #0099CC;
   overflow: inherit;
   padding-left: 20px;
   padding-right: 20px;
@@ -44,7 +44,7 @@ body panel panel-header label {
 
 body panel panel-body {
   color: #fff;
-  background: #000;
+  background: #0099CC;
   box-shadow: none;
   border-radius: 0;
   width: auto;
@@ -73,6 +73,7 @@ body panel.modern {
   flex-direction: column;
   margin-bottom: 12px;
   width: 100%;
+Background: #0099CC;
 }
 
 .information>tbody {
