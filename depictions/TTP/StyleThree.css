@@ -4,6 +4,38 @@ body {
   width: inital!important;
   min-height: 100%;
 }
+body ttp{
+  font-size: 25px;
+  text-decoration: underline;
+}
+
+red{
+  border-radius: 4px;
+  background: #bb0000;
+}
+
+blue{
+  border-radius: 4px;
+  background: #0055dd;
+}
+
+ava{
+  text-align: center;
+  filter: drop-shadow(0px 2px 4px #0008);
+}
+
+c{
+  text-align: center; font-size: 16px;
+}
+
+gc{
+  text-decoration: underline;
+}
+
+in{
+  font-style: italic;
+}
+
 
 body main {
   background-color: #0099CC;
