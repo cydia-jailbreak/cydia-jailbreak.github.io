@@ -1,3 +1,44 @@
+Package: TruongTamPhong.Carbon
+Architecture: iphoneos-arm
+Version: 514
+Section: Themes
+Maintainer: Trương Tam Phong
+Filename: ./debfiles/TruongTamPhong.Carbon_514_iphoneos-arm.deb
+Size: 47826022
+MD5sum: c002364037bb8dce6d231400e4582060
+SHA1: c0ef848d38ac74363e4a6d7117aad993df5674f9
+SHA256: e1d932f63ebf3fb36cc4c6b1162d7e093e64e292029aaf1550ef1b816228bf21
+SHA512: eed1c333b636fb3eb3dc792f7fe7cf29bf533b37c9e89d2b1852e40b0625e993bf73724730401de3b27f16de0fcff13b045ddce336d7c9b638e1cea4be4cb8c5
+Description: Chủ đề xám tuyệt vời dành cho bạn!
+ - Hoạt động trên SnowBoard. iThemer. Anemone. Iconomatic
+ + Cập nhật hỗ trợ cho Sileo
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Carbon
+Author: Trương Tam Phong
+Depiction: http://cydia-jailbreak.github.io/info/Carbon/?p=info
+SileoDepiction: http://cydia-jailbreak.github.io/info/Carbon/?p=info
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
+Package: TruongTamPhong.NextCarbon
+Architecture: iphoneos-arm
+Version: 501
+Section: Themes
+Maintainer: Trương Tam Phong
+Depends: TruongTamPhong.Carbon
+Filename: ./debfiles/TruongTamPhong.NextCarbon_501_iphoneos-arm.deb
+Size: 49958708
+MD5sum: 5fd8eeaa0e6b24862ab7c54d318e75aa
+SHA1: f6cd3d9b39b7a8f14ef369ab6878de348fb9f605
+SHA256: fc68286c938134b0f395ab626089b53119b90a40c1423ea4b1aafdb98b210ff2
+SHA512: a4edd919523f701ea458f65383a371470f15f2d8fbdf1dba6dcbbe7a20afb8d2c22f44eb347c52df4424e74c13fad67fa12beac1e8cc8dde6eeaaef2bf0a40f8
+Description: Gói biểu tượng Carbon
+ - Gói này là phần bổ sung biểu tượng cho theme Carbon
+ + Cập nhật hỗ trợ cho Sileo
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: NextCarbon
+Author: Trương Tam Phong
+Icon: file:///Applications/Cydia.app/Sections/Themes1.png
+
 Package: com.Apple.Cydia.Jailbreak.icon
 Architecture: iphoneos-arm
 Version: 1.0.1
