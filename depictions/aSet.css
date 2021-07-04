@@ -1,18 +1,22 @@
 html {
   box-sizing: border-box;
-  font-family: Fu;
+  font-family: sans-serif;
 }
-
 *,:after,:before {
   box-sizing: inherit;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 
 body{
   margin: 0;
   padding: 0;
   line-height: 1.6;
   font-family: Fu;
-  background: #0099CC;
   text-shadow: 0 1px 1px rgba(0,0,0, 0.5);
 }
 
@@ -36,7 +40,7 @@ ava{
   filter: drop-shadow(0px 2px 4px #0008);
 }
 
-p{
+c{
   text-align: center; font-size: 16px;
 }
 
@@ -48,9 +52,7 @@ in{
   font-style: italic;
 }
 
-panel-body{
-  margin: 0;
-  width: auto;
+body panel panel-body{
   color: white;
   display: block;
   text-align: left;
@@ -61,13 +63,11 @@ panel-body{
   padding: 15px 20px;
 }
 
-.modern{
-  display: flex;
-  margin-bottom: 0px;
-  flex-direction: column;
+ol, ul{
+  padding: 8px 18px;
 }
 
-main{
+body main{
   margin: auto;
   flex-wrap: wrap;
   overflow: inherit;
@@ -75,18 +75,26 @@ main{
   background-color: none;
 }
 
-panel-header{
+body panel panel-header{
   margin: 0;
   font-size: 22px;
   padding-left: 0;
   padding-top: 0px;
 }
 
-panel-body{
+body panel panel-body{
   margin: 0;
   width: auto;
   color: white;
   padding-top: 20px;
+}
+
+body panel.modern{
+  display: flex;
+  border-radius: 0px;
+  margin-bottom: 0px;
+  flex-direction: column;
+  background: #0099CC;
 }
 
 .information>tbody{
@@ -141,13 +149,13 @@ panel-body{
 
 .screenshot-viewer a{
   width: auto;
-  height: 400px;
+  height: 275px;
   display: block;
 }
 
 .screenshot-viewer img{
   width: auto;
-  height: 62%;
+  height: 98%;
   overflow: hidden;
   border-radius: 15px;
   display: inline-block;
