@@ -3,12 +3,13 @@ Architecture: iphoneos-arm
 Version: 514
 Section: Themes
 Maintainer: Trương Tam Phong
+Depends: TruongTamPhong.NextCarbon
 Filename: ./debfiles/TruongTamPhong.Carbon_514_iphoneos-arm.deb
-Size: 47826022
-MD5sum: c002364037bb8dce6d231400e4582060
-SHA1: c0ef848d38ac74363e4a6d7117aad993df5674f9
-SHA256: e1d932f63ebf3fb36cc4c6b1162d7e093e64e292029aaf1550ef1b816228bf21
-SHA512: eed1c333b636fb3eb3dc792f7fe7cf29bf533b37c9e89d2b1852e40b0625e993bf73724730401de3b27f16de0fcff13b045ddce336d7c9b638e1cea4be4cb8c5
+Size: 47826034
+MD5sum: 88d3b05a5d17276467f0df6287dddc58
+SHA1: cfffcee973d13e913e034b9e8543cc700cb67e2c
+SHA256: f2d3716494ee671cb3747e9776b75c3ac1026eaa0ed4722fba72d2d983dda495
+SHA512: 9b36664819454e87e38a167ba59c11a10ba087c29fd300ab737a93a886dcd197ae3829a39ef75049b710dfbc0e072bfe26100e1be2ad5b3e4bc4659ffbe2fd31
 Description: Chủ đề xám tuyệt vời dành cho bạn!
  - Hoạt động trên SnowBoard. iThemer. Anemone. Iconomatic
  + Cập nhật hỗ trợ cho Sileo
