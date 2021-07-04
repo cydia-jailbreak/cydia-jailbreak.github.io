@@ -468,24 +468,6 @@ Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Cale
 SileoDepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.CalendaText
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
-Package: com.TruongTamPhong.Carbon
-Architecture: iphoneos-arm
-Version: 513
-Section: Themes
-Depends: com.TruongTamPhong.NextCarbon
-Filename: ./debfiles/com.TruongTamPhong.Carbon_513_iphoneos-arm.deb
-Size: 47825818
-MD5sum: 5f6c9bf9ef8fe08d07c79695441b05c0
-SHA1: 54091e1f40a9c268b562d67ebcbadd6e7d434486
-SHA256: f1ec24731aea1d7f4108a71d1ab26354b8235c9f003292525bea7f271c2b6019
-SHA512: 9c5ad236cbe23c27b1558a2cd37569c8011f895705281b161a0bff428c1faa59f88f532654546920b700c92663d65f91ecf1578f073dc738d1d167c8cf6ce297
-Description: Chủ đề xám tuyệt vời dành cho bạn!
-Name: Carbon
-Author: TTP + Nyk0n
-Depiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carbon
-Sileodepiction: http://cydia-jailbreak.github.io/depictions?p=com.TruongTamPhong.Carbon
-Icon: file:///Applications/Cydia.app/Sections/Themes1.png
-
 Package: com.TruongTamPhong.Chaotic
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -1693,22 +1675,6 @@ SHA512: 6604e94f073dd8893c6b704b792591568f036249614016a75cefed4378af13e6c687bec7
 Description: Phiên bản nối tiếp chủ đề CGP
 Name: NextCGP
 Author: Trương Tam Phong
-Icon: file:///Applications/Cydia.app/Sections/Themes1.png
-
-Package: com.TruongTamPhong.NextCarbon
-Architecture: iphoneos-arm
-Version: 500
-Section: Themes
-Depends: com.TruongTamPhong.Carbon
-Filename: ./debfiles/com.TruongTamPhong.NextCarbon_500_iphoneos-arm.deb
-Size: 49958570
-MD5sum: acda8bd920fa7ccbedad5d2a4046863d
-SHA1: a4429b05454f83c3a5c60127e39ec8cd30573c61
-SHA256: 79033b45b7e4bc66cf3ec077c0499d01548f5dfd7858c937a6f5cdda030df964
-SHA512: 2465403f8632fd13a23f64339011def64106c30644dceee40f088ff2855df717b82d561a88f50dbef55ca6998aae4546eb6327ae6e41fa66c830c0a0bea56459
-Description: Nối tiếp chủ đề Carbon
-Name: NextCarbon
-Author: TTP + Nyk0n
 Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
 Package: com.TruongTamPhong.NiceBarXVietNam
