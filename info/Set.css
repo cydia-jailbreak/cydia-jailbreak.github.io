@@ -32,7 +32,12 @@ blue{
 }
 
 p{
-  text-align: center; font-size: 16px;
+  filter: drop-shadow(0px 2px 4px #0008);
+}
+
+p{
+  text-align: center;
+  font-size: 16px;
 }
 
 gc{
@@ -51,8 +56,8 @@ panel-body{
   text-align: left;
   font-size: 15px;
   overflow: hidden;
-  margin-left: 14px;
-  margin-right: 14px;
+  margin-left: 0;
+  margin-right: 0;
   padding: 15px 20px;
 }
 
@@ -117,7 +122,7 @@ panel-body{
 
 .information>tbody>tr>td:first-child{
   margin: 0;
-  color: #FFaa55;
+  color: #ddd;
   font-size: 12px;
   font-weight: bold;
   text-transform: uppercase;
@@ -134,39 +139,39 @@ panel-body{
   margin: .425rem 0 .625rem;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 .screenshot-viewer a{
   width: auto;
-  height: 400px;
+  height: 550px;
   display: block;
 }
 
 .screenshot-viewer img{
   width: auto;
-  height: 62%;
+  height: 62.5%;
   overflow: hidden;
-  border-radius: 15px;
+  border-radius: 20px;
   display: inline-block;
-  -webkit-box-reflect: below 0.3em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(40%, transparent), to(rgba(255,255,255, 0.5)));
-}
-
-.screenshot-viewer{
-  margin: 0;
-  padding: 0;
-  display: block;
-  overflow-y: hidden;
+  -webkit-box-reflect: below 0.2em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(40%, transparent), to(rgba(255,255,255, 0.5)));
 }
 
 .screenshot-viewer{
   width: auto;
   height: 50%;
+  display: block;
   list-style: none;
   overflow-x: auto;
   margin-top: 0px;
-  padding-left: 0px;
-  padding-right: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
   min-width: 100%;
-  margin-left: -6px;
-  margin-right: -6px;
+  margin-left: -20px;
+  margin-right: -20px;
+  overflow-y: hidden;
   white-space: nowrap;
   -ms-overflow-style: none;
   -webkit-overflow-scrolling: touch;
@@ -174,7 +179,7 @@ panel-body{
 
 .screenshot-viewer>li{
   padding: 0;
-  margin: 0 6px;
+  margin: 0 8px;
   font-size: 13px;
   display: inline-block;
   vertical-align: bottom;
@@ -193,7 +198,7 @@ panel-body{
   width: auto;
   overflow: hidden;
   border: 2px solid #e7ca96;
-  border-radius: 16px!important;
+  border-radius: 20px!important;
   box-shadow: 0px 2px 4px rgba(0,0,0, 0.6);
   z-index: 1;
 }
