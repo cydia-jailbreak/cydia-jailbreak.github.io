@@ -1,22 +1,18 @@
 html {
   box-sizing: border-box;
-  font-family: sans-serif;
+  font-family: Fu;
 }
+
 *,:after,:before {
   box-sizing: inherit;
 }
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-
 
 body{
   margin: 0;
   padding: 0;
   line-height: 1.6;
   font-family: Fu;
+  background: #0099CC;
   text-shadow: 0 1px 1px rgba(0,0,0, 0.5);
 }
 
@@ -40,7 +36,7 @@ ava{
   filter: drop-shadow(0px 2px 4px #0008);
 }
 
-c{
+p{
   text-align: center; font-size: 16px;
 }
 
@@ -52,7 +48,9 @@ in{
   font-style: italic;
 }
 
-body panel panel-body{
+panel-body{
+  margin: 0;
+  width: auto;
   color: white;
   display: block;
   text-align: left;
@@ -63,11 +61,13 @@ body panel panel-body{
   padding: 15px 20px;
 }
 
-ol, ul{
-  padding: 8px 18px;
+.modern{
+  display: flex;
+  margin-bottom: 0px;
+  flex-direction: column;
 }
 
-body main{
+main{
   margin: auto;
   flex-wrap: wrap;
   overflow: inherit;
@@ -75,26 +75,18 @@ body main{
   background-color: none;
 }
 
-body panel panel-header{
+panel-header{
   margin: 0;
   font-size: 22px;
   padding-left: 0;
   padding-top: 0px;
 }
 
-body panel panel-body{
+panel-body{
   margin: 0;
   width: auto;
   color: white;
   padding-top: 20px;
-}
-
-body panel.modern{
-  display: flex;
-  border-radius: 0px;
-  margin-bottom: 0px;
-  flex-direction: column;
-  background: #0099CC;
 }
 
 .information>tbody{
@@ -149,13 +141,13 @@ body panel.modern{
 
 .screenshot-viewer a{
   width: auto;
-  height: 275px;
+  height: 400px;
   display: block;
 }
 
 .screenshot-viewer img{
   width: auto;
-  height: 98%;
+  height: 62%;
   overflow: hidden;
   border-radius: 15px;
   display: inline-block;

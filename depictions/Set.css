@@ -32,7 +32,8 @@ blue{
 }
 
 ava{
-  text-align: center;
+  width: 30%;
+  text-align: 50%;
   filter: drop-shadow(0px 2px 4px #0008);
 }
 
