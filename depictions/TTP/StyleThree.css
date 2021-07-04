@@ -631,27 +631,7 @@ a.sub-header {
   flex: 0 auto;
 }
 
-.screenshot-viewer a {
-  display: block;
-  width: auto;
-  height: 275px;
-}
 
-.screenshot-viewer img {
-  height: 100%;
-  width: auto;
-  border-radius: 5px;
-  overflow: hidden;
-  display: inline-block;
-  -webkit-box-reflect: below 0.3em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(40%, transparent), to(rgba(255,255,255, 0.5)));
-}
-
-.screenshot-viewer {
-  overflow-y: hidden;
-  display: block;
-  margin: 0;
-  padding: 0;
-}
 
 header a {
   display: -webkit-box;
