@@ -22,16 +22,15 @@ Icon: file:///Applications/Cydia.app/Sections/Themes1.png
 
 Package: TruongTamPhong.NextCarbon
 Architecture: iphoneos-arm
-Version: 501
+Version: 514
 Section: Themes
 Maintainer: Trương Tam Phong
-Depends: TruongTamPhong.Carbon
-Filename: ./debfiles/TruongTamPhong.NextCarbon_501_iphoneos-arm.deb
-Size: 49958708
-MD5sum: 5fd8eeaa0e6b24862ab7c54d318e75aa
-SHA1: f6cd3d9b39b7a8f14ef369ab6878de348fb9f605
-SHA256: fc68286c938134b0f395ab626089b53119b90a40c1423ea4b1aafdb98b210ff2
-SHA512: a4edd919523f701ea458f65383a371470f15f2d8fbdf1dba6dcbbe7a20afb8d2c22f44eb347c52df4424e74c13fad67fa12beac1e8cc8dde6eeaaef2bf0a40f8
+Filename: ./debfiles/TruongTamPhong.NextCarbon_514_iphoneos-arm.deb
+Size: 49958696
+MD5sum: 3afee138e2d78b76006c25e6d7095ec0
+SHA1: 85f608ab073ca538243e2a1db6be851c06f33fee
+SHA256: dd36b98cc1613f70128521c866f2715e6f5256a79ede667ca374e0e1a3458611
+SHA512: f6229756f9182afff307ad8fd2de7d1f3a23b0adffeb90f455f0b58746c4c260369c704cfaf1bf245a0288a75b81eab74439d49e99510173316205a5a49f18af
 Description: Gói biểu tượng Carbon
  - Gói này là phần bổ sung biểu tượng cho theme Carbon
  + Cập nhật hỗ trợ cho Sileo
