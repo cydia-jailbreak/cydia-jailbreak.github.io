@@ -7,6 +7,11 @@ html {
   box-sizing: inherit;
 }
 
+@font-face{
+  font-family: 'Gineso';
+  src: url(Win10Clock/Boss/Gineso.ttf);
+}
+
 body{
   margin: 0;
   padding: 0;
@@ -23,16 +28,6 @@ ttp{
   letter-spacing: 0px;
 }
 
-red{
-  border-radius: 4px;
-  background: #bb0000;
-}
-
-blue{
-  border-radius: 4px;
-  background: #0055dd;
-}
-
 p{
   text-align: center;
 }
@@ -41,14 +36,6 @@ h2{
   font-size: 16px;
   text-align: center;
   filter: drop-shadow(0px 2px 4px #0008);
-}
-
-gc{
-  text-decoration: underline;
-}
-
-in{
-  font-style: italic;
 }
 
 panel-body{
@@ -204,9 +191,4 @@ img {
   border-radius: 16px!important;
   box-shadow: 0px 2px 4px rgba(0,0,0, 0.6);
   z-index: 1;
-}
-
-@font-face{
-  font-family: 'Gineso';
-  src: url(Win10Clock/Boss/Gineso.ttf);
 }
