@@ -126,7 +126,7 @@ panel-body{
   font-size: 12px;
   font-weight: bold;
   text-transform: uppercase;
-  text-shadow: 0 1px 1px rgba(0,0,0, 0.2);
+  text-shadow: 0 1px 1px rgba(0,0,0, 0);
 }
 
 .information>tbody>tr>td:nth-child(2){
@@ -146,17 +146,17 @@ img {
 
 .screenshot-viewer a{
   width: auto;
-  height: 550px;
+  height: 500px;
   display: block;
 }
 
 .screenshot-viewer img{
   width: auto;
-  height: 62.5%;
+  height: 82%;
   overflow: hidden;
   border-radius: 20px;
   display: inline-block;
-  -webkit-box-reflect: below 0.2em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(40%, transparent), to(rgba(255,255,255, 0.5)));
+  -webkit-box-reflect: below 0.2em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(78%, transparent), to(rgba(255,255,255, 0.5)));
 }
 
 .screenshot-viewer{
@@ -197,7 +197,7 @@ img {
   margin: 0;
   width: auto;
   overflow: hidden;
-  border: 2px solid #e7ca96;
+  border: 2px solid #666;
   border-radius: 20px!important;
   box-shadow: 0px 2px 4px rgba(0,0,0, 0.6);
   z-index: 1;
