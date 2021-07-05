@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: Fu;
+  font-family: Gineso;
 }
 
 *,:after,:before {
@@ -16,7 +16,6 @@ body{
   margin: 0;
   padding: 0;
   line-height: 1.6;
-  font-family: Gineso;
   background: #ffffff;
   text-shadow: 0 1px 1px rgba(0,0,0, 0);
 }
