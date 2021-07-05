@@ -28,6 +28,14 @@ ttp{
   letter-spacing: 0px;
 }
 
+red{
+  color: #E50000;
+}
+
+blue{
+  color: #1991D3;
+}
+
 p{
   text-align: center;
 }
