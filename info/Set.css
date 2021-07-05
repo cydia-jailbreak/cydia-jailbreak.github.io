@@ -11,14 +11,16 @@ body{
   margin: 0;
   padding: 0;
   line-height: 1.6;
-  font-family: Fu;
-  background: #000;
-  text-shadow: 0 1px 1px rgba(0,0,0, 0.5);
+  font-family: Gineso;
+  background: #ffffff;
+  text-shadow: 0 1px 1px rgba(0,0,0, 0);
 }
 
 ttp{
+  color: #000;
   font-size: 25px;
-  text-decoration: underline;
+  font-weight: 400;
+  letter-spacing: 0px;
 }
 
 red{
@@ -32,12 +34,13 @@ blue{
 }
 
 p{
-  filter: drop-shadow(0px 2px 4px #0008);
+  text-align: center;
 }
 
-p{
-  text-align: center;
+h2{
   font-size: 16px;
+  text-align: center;
+  filter: drop-shadow(0px 2px 4px #0008);
 }
 
 gc{
@@ -51,7 +54,7 @@ in{
 panel-body{
   margin: 0;
   width: auto;
-  color: white;
+  color: #ff0000;
   display: block;
   text-align: left;
   font-size: 15px;
@@ -85,7 +88,7 @@ panel-header{
 panel-body{
   margin: 0;
   width: auto;
-  color: white;
+  color: #666;
   padding-top: 20px;
 }
 
@@ -122,7 +125,7 @@ panel-body{
 
 .information>tbody>tr>td:first-child{
   margin: 0;
-  color: #ddd;
+  color: #888;
   font-size: 12px;
   font-weight: bold;
   text-transform: uppercase;
@@ -130,7 +133,7 @@ panel-body{
 }
 
 .information>tbody>tr>td:nth-child(2){
-  color: white;
+  color: #000;
   text-align: left;
   font-size: 16px;
   padding-top: 0;
@@ -146,7 +149,7 @@ img {
 
 .screenshot-viewer a{
   width: auto;
-  height: 500px;
+  height: 290px;
   display: block;
 }
 
@@ -156,7 +159,7 @@ img {
   overflow: hidden;
   border-radius: 20px;
   display: inline-block;
-  -webkit-box-reflect: below 0.2em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(78%, transparent), to(rgba(255,255,255, 0.5)));
+  -webkit-box-reflect: below 0.2em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(80%, transparent), to(rgba(0,0,0, 0.3)));
 }
 
 .screenshot-viewer{
@@ -198,12 +201,12 @@ img {
   width: auto;
   overflow: hidden;
   border: 2px solid #666;
-  border-radius: 20px!important;
+  border-radius: 16px!important;
   box-shadow: 0px 2px 4px rgba(0,0,0, 0.6);
   z-index: 1;
 }
 
 @font-face{
-  font-family: 'Fu';
-  src: url(Win10Clock/Boss/Futura.ttf);
+  font-family: 'Gineso';
+  src: url(Win10Clock/Boss/Gineso.ttf);
 }
