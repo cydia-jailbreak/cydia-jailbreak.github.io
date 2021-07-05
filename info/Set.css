@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   font-family: Gineso;
+font-family: system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,BlinkMacSystemFont,-apple-system-font,Helvetica Neue;
 }
 
 *,:after,:before {
@@ -153,7 +154,7 @@ img {
   overflow: hidden;
   border-radius: 20px;
   display: inline-block;
-  -webkit-box-reflect: below 0.2em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(80%, transparent), to(rgba(0,0,0, 0.3)));
+  -webkit-box-reflect: below 0em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(80%, transparent), to(rgba(0,0,0, 0.3)));
 }
 
 .screenshot-viewer{
@@ -194,8 +195,8 @@ img {
   margin: 0;
   width: auto;
   overflow: hidden;
-  border: 2px solid #666;
+  border: 3px solid #999;
   border-radius: 16px!important;
-  box-shadow: 0px 2px 4px rgba(0,0,0, 0.6);
+  box-shadow: 0px 2px 4px rgba(0,0,0, 0);
   z-index: 1;
 }
